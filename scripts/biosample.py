@@ -6,7 +6,7 @@ from ucscGb.gbData import ucscUtils
 import collections
 
 
-rafile = RaFile('/cluster/home/jlong/stanford/cvJan15.ra')
+rafile = RaFile('../data/cvJan15.ra')
 metaObject = 0
 expId = 0
 term = 0
