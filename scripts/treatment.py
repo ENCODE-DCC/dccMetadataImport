@@ -14,6 +14,4 @@ for key in rafile.keys():
 
 
     if thisstanza['type'] == 'treatment':
-        if 'treatment' not in thisstanza:
-            thisstanza['treatment'] = 'missing'
-        print thisstanza['treatment']
+        print thisstanza['term']
