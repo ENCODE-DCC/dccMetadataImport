@@ -1,0 +1,103 @@
+4OHTAM_100nM_30m  CHEBI:41774	tamoxifen	100nM	30m	30 minutes with 100 nM 4-hydroxytamoxifen (Crawford)
+4OHTAM_1uM_12hr	CHEBI:41774	tamoxifen	1uM	12h	12 hours with 1 uM 4-hydroxytamoxifen dissolved in ethanol (Struhl)
+4OHTAM_1uM_36hr	CHEBI:41774	tamoxifen	1uM	36h	(To replace TAM_1uM_36hr) 36 h with 1 uM 4-hydroxytamoxifen (Myers)
+4OHTAM_1uM_4hr	CHEBI:41774	tamoxifen	1uM	4h	4 hours with 1 uM 4-hydroxytamoxifen dissolved in ethanol (Struhl)
+4OHTAM_20nM_72hr	CHEBI:41774	tamoxifen	20nM	72h	72 hours with 20 nM 4-hydroxytamoxifen (Stam)
+Alpha-amanitin_50ug_9hr	CHEBI:37415	alpha-amanitin	50ug/mL	9h	9h with 50 ug/ml alpha-amanitin
+BPA_100nM	CHEBI:31133	bisphenol A	10nm	1h	1 h with 100 nM Bisphenol A (Myers)
+BPA_100nM_4hr	CHEBI:31133	bisphenol A	100nM	4h	4 h with 100 nM Bisphenol A (Myers)
+Betamethasone_100nM	CHEBI:3077	betamethasone	100nM	1h	1 h with 100 nM Betamethasone (Myers)
+DEX_100nM	CHEBI:41879	dexamethasone	100nM	1h	1 h with 100 nM Dexamethasone (Myers)
+DEX_100pM	CHEBI:41879	dexamethasone	100pM	1h	1 h with 100 pM Dexamethasone (Myers)
+DEX_1nM	CHEBI:41879	dexamethasone	1nM	1h	1 h with 1 nM Dexamethasone (Myers)
+DEX_500pM	CHEBI:41879	dexamethasone	500pM	1h	1 h with 500 pM Dexamethasone (Myers)
+DEX_50nM	CHEBI:41879	dexamethasone	50nM	1h	1 h with 50 nM Dexamethasone (Myers)
+DEX_5nM	CHEBI:41879	dexamethasone	5nM	1h	1 h with 5 nM Dexamethasone (Myers)
+DMSO_0.02pct	CHEBI:28262	dimethyl sulfoxide	0.02%	1h	1 h with 0.02% Dimethyl sufloxide (DMSO) (Myers)
+DMSO_0.02pct_24hr	CHEBI:28262	dimethyl sulfoxide	0.02%	24h	24 h with 0.02% Dimethyl sufloxide (DMSO) (Myers)
+DMSO_0.02pct_7d	CHEBI:28262	dimethyl sulfoxide	0.02%	7d	7 d with 0.02% Dimethyl sufloxide (DMSO) (Myers)
+DMSO_2.0pct	CHEBI:28262	dimethyl sulfoxide	2%	5d	5 d with 2% Dimethyl sufloxide (DMSO) (Weissman)
+DMSO_4hr	CHEBI:28262	dimethyl sulfoxide	0.02%	4hr	4 hr with 0.02% Dimethyl sufloxide (DMSO) (Myers)
+EqS_2.0pct_24hr	CHEBI:5931	insulin	 unknown	24h	24 h with 2.0% Equine Serum and Insulin (Wold)
+EqS_2.0pct_5d	CHEBI:5931	insulin	unknown	5d	5 d with 2.0% Equine Serum and Insulin (Wold)
+EqS_2.0pct_60hr	CHEBI:5931	insulin	unknown	60h	60 h with 2.0% Equine Serum and Insulin (Wold)
+EqS_2.0pct_7d	CHEBI:5931	insulin	unknown	7d	7 d with 2.0% Equine Serum and Insulin (Wold)
+Estradiol_100nM_1hr	CHEBI:23965	estradiol	100nM	1h	1 h with 100 nM Estradiol, hormone treatment (Stam)
+Estradiol_10nM	CHEBI:23965	estradiol	10nM	1h	1 h with 10 nM Estradiol (Myers)
+Estradiol_10nM_24hr	CHEBI:23965	estradiol	10nM	24h	24 hr with 10 nM Estradiol (Myers)
+Estradiol_10nM_30m	CHEBI:23965	estradiol	10nM	30m	30 min with 10nM 7b-Estradiol (Crawford)
+Estradiol_10nM_4hr	CHEBI:23965	estradiol	10nM	4h	4 h with 10 nM Estradiol (Myers)
+Estradiol_1nM	CHEBI:23965	estradiol	1nM	1h	1 h with 1 nM Estradiol (Myers)
+Estradiol_ctrl_0hr	CHEBI:Null	control	0nM	0m	No hormone control, zero timepoint, used to distinguish untreated sample in series (Stam)
+EtOH_0.01pct	CHEBI:16236	ethanol	0.01%	36h	36 h with 0.01% Ethanol (Snyder)
+EtOH_0.01pct_12hr	CHEBI:16236	ethanol	0.01%	12h	12 h with 0.01% Ethanol (Snyder)
+EtOH_0.01pct_4hr	CHEBI:16236	ethanol	0.01%	4h	4 h with 0.01% Ethanol (Snyder)
+EtOH_0.02pct	CHEBI:16236	ethanol	0.02%	1h	1 h with 0.02% Ethanol (Myers)
+Genistein_100nM	CHEBI:28088	genistein	100nM	1h	1 h with 100 nM Genistein (Myers)
+Genistein_100nM_4hr	CHEBI:28088	genistein	100nM	4h	4 h with 100 nM Genistein (Myers)
+NaBut	CHEBI:64103	sodium butyrate	0.5mM	72h	0.5 mM Sodium Butyrate for 72 hours
+OHUrea	CHEBI:44423	hydoxyurea	100uM	72h	100 uM Hydroxyurea for 72 hours
+Prednisolone_100nM	CHEBI:8378	prednisolone	100nM	1h	1 h with 100 nM Prednisolone (Myers)
+Taxol_500nM_24hr	CHEBI:45863	taxol	500nM	24h	500 nM Taxol for 24 hours, then sorted for 4n DNA content (Crawford)
+androgen	CHEBI:50113	methyltrienolone	1nM	12h	12 hrs with 1 nM Methyltrienolone (R1881) (Crawford)
+estrogen	CHEBI:50114	estrogen	100nm	45m	45 min with 100 nM Estradiol (Crawford)
+forskolin	CHEBI:42471	forskolin	1uM	6h	low-glucose DMEM with 0.5% BSA supplemented with 1uM forskolin and 1mM pyruvate for 6h. (Snyder)
+insulin	CHEBI:5931	insulin	100nM	6h	DMEM with 0.5% BSA supplemented with 100 nM insulin and 10 uM 22-hydroxycholesterol for 6 h. (Snyder)
+pravastatin	CHEBI:63618	pravastin	2uM	16h	For sterol deprivation, cells were cultured with pravastatin (2 uM, Sigma) in DMEM with 0.5% BSA for 16 h. (Snyder)
+Hypoxia_LacAcid	CHEBI:16004/CHEBI:16651	(R)-lactate	10mM	24h	Grown for 24hwith 1% p02 and 10mM Lactate, pH 6.7 (Crawford)
+Hypoxia_LacAcid_ctrl	Null	control	0.0mM	24h	Untreated cells grown along side Hypoxia LacAcid treated cells (Crawford)
+SAHA_1uM_72hr	Cayman Chemical Item Number 10009929	N1-hydroxy-N8-phenyl-octanediamide	1uM	72h	Cells grown with 1 uM suberoylanilide hydroxamic acid (SAHA) dissolved in DMSO supplementing RPMI1640 + 10% FBS media for 72 hours (SAHA vehicle volume is ~ .05% of the total media volume). SAHA was provided by Cayman Chemical, item # 10009929.
+SAHA_ctrl	Null	control	0.0%	72h	Cells grown with DMSO supplementing RPMI1640 + 10% FBS media for 72 hours (DMSO volume is ~ .05% of the total media volume). This is an untreated control.
+IFNa30	Gene:IFNA	interferon alpha	unknown	30m	30 m of Interferon alpha (Snyder)
+IFNa4h	Gene:IFNA	interferon alpha	500U/mL	4h	4 hours of 500 U/mL Interferon alpha (Crawford)
+IFNa6h	Gene:IFNA	interferon lapha	unknown	6h	Interferon alpha treatment - 6 hours (Snyder)
+IFNg30	Gene:IFNG	interferon gamma	unknown	30m	Interferon gamma treatment - 30 minutes (Snyder)
+IFNg4h	Gene:IFNG	interferon gamma	50ng/mL	4h	Interferon gamma treatment - 4 hours with 5 ng/mL (Crawford)
+IFNg6h	Gene:IFNG	interferon gamma	unknown	6h	Interferon gamma treatment - 6 hours (Snyder)
+TGFb	Gene:TGFb	transforming growth factor beta	1ng/mL	24h	transforming growth factor beta	1 ng/mL transforming growth factor beta for 24 hours (Crawford)
+TNFa	Gene:TNFA	tumor necrosis factor alpha	unknown	unknown	human recombinant TNF-alpha from eBioscience [product# 14-8329-62] (Snyder)
+UT189	unknown	unknown	unknown	1h	UT189 E.Coli treatment 1 hour, followed by 24 hour incubation
+serum_free_media	NA	NA	NA	NA	Grown with growth factors, then switched to media that contains no FBS for 36 hours (Crawford)
+serum_starved_media	NA	serum	0.05%	72h	Grown with normal serum levels (10%), then switched to media containing low level of FBS (0.05%) for 72 hours
+serum_stimulated_media	NA	serum	0%|10%	36h|3h	Grown with normal serum levels (10%), then switched to media that contains no FBS for 36h, then switched back to normal serum levels (10% FBS) for 3 hours.
+vehicle	unknown	hormones	0.0%	72h	Charcoal stripped hormone-free FBS for 72 hours (Crawford)
+G1_phase	NA	sorted G1 phase cells	NA	NA	Cells were synchronized and subjected to FACS sorting based on DNA content with the peak of the single DNA content peak taken as G1 cells. The intermediate DNA content cells between G2-M and G1 phases were excluded. Phases should now be classified in type phase, not treatment. (Crawford)
+G2-M_phase	NA	sorted G2-M phase cells	NA	NA	Cells were synchronized and subjected to FACS sorting based on DNA content with the peak of double DNA content taken as G2 and M cells. The intermediate DNA content cells between G2-M and G1 phases were excluded. Phases should now be classified in type phase, not treatment.  (Crawford)
+MNaseD	unknown	micrococcal nuclease	unknown	unknown	Fragmented using micrococcal nuclease digestion
+diffProtA_14d  Gene:BMP4	bone morphogenetic protein 4	unknown	14d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 14 days, cell sorting and specific growth factors were used, lineage: mesoderm
+diffProtA_14d	Gene:activin	activin	unknown	14d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 14 days, cell sorting and specific growth factors were used, lineage: mesoderm
+diffProtA_14d	Gene:bFGF	basic fibroblast growth factor	unknown	14d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 14 days, cell sorting and specific growth factors were used, lineage: mesoderm
+diffProtA_2d	Gene:BMP4	bone morphogenetic protein 4	unknown	2d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 2 days, lineage: mesoderm
+diffProtA_2d	Gene:activin	activin	unknown	2d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 2 days, lineage: mesoderm
+diffProtA_2d	Gene:bFGF	basic fibroblast growth factor	unknown	2d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 2 days, lineage: mesoderm
+diffProtA_5d	Gene:BMP4	bone morphogenetic protein 4	unknown	5d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 5 days, lineage: mesoderm
+diffProtA_5d	Gene:activin	activin	unknown	5d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 5 days, lineage: mesoderm
+diffProtA_5d	Gene:bFGF	basic fibroblast growth factor	unknown	5d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 5 days, lineage: mesoderm
+diffProtA_9d	Gene:BMP4	bone morphogenetic protein 4	unknown	9d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 9 days, lineage: mesoderm
+diffProtA_9d	Gene:activin	activin	unknown	9d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 9 days, lineage: mesoderm
+diffProtA_9d	Gene:bFGF	basic fibroblast growth factor	unknown	9d	H7 embryoid bodies differentiation protocol for cardiomyocyte, endothelial, smooth muscle, with markers cardiac troponin T (cTnT), CD31/PECAM1, smooth muscle alpha actin (SMA), respectively, using proteins from bone morphogenic protein 4 (BMP4), activin A and basic fibroblast growth factor (bFGF) for 9 days, lineage: mesoderm
+diffProtB_24hr	CHEBI:50845	doxycycline	100ng/ml	24h	Oct4 repression with Doxycycline in ZhBTc4 ES cell culture harvested at 24 hours. Doxycycline added to a final concentration of 100 ng/ml (Stam)
+diffProtB_6hr	CHEBI:50845	doxycycline	100ng/ml	6h	Oct4 repression with Doxycycline in ZhBTc4 ES cell culture harvested at 6 hours. Doxycycline added to a final concentration of 100 ng/ml. (Stam)
+diffProtB_72hr	CHEBI:50845	doxycycline	100ng/ml	72h	Oct4 repression with Doxycycline in ZhBTc4 ES cell culture harvested at 72 hours. Doxycycline added to a final concentration of 100 ng/ml (Stam)
+diffProtC_120hr	CHEBI:16469	17beta-estradiol	100nM	120h	120 hour differentiation time point of mG/ER cells towards red blood cells after treatment with estradiol. Estradiol 10^-7 M final concentration (Stam)
+diffProtC_24hr	CHEBI:16469	17beta-estradiol	100nM	24h	24 hour differentiation time point of mG/ER cells towards red blood cells after treatment with estradiol. Estradiol 10^-7 M final concentration (Stam)
+diffProtC_48hr	CHEBI:16469	17beta-estradiol	100nM	48h	48 hour differentiation time point of mG/ER cells towards red blood cells after treatment with estradiol. Estradiol 10^-7 M final concentration (Stam)
+diffProtD_14hr	CHEBI:16469	17beta-estradiol	10nM	14h	14 hours differentiation of G1E-ER4 cells with 10 nM beta-estradiol (Hardison)
+diffProtD_24hr	CHEBI:16469	17beta-estradiol	10nM	24h	24 hours differentiation of G1E-ER4 cells with 10 nM beta-estradiol (Hardison)
+diffProtD_30hr	CHEBI:16469	17beta-estradiol	10nM	30h	30 hours differentiation of G1E-ER4 cells with 10 nM beta-estradiol (Hardison)
+diffProtD_3hr	CHEBI:16469	17beta-estradiol	10nM	3h	3 hours differentiation of G1E-ER4 cells with 10 nM beta-estradiol (Hardison)
+diffProtD_7hr	CHEBI:16469	17beta-estradiol	10nM	7h	7 hours differentiation of G1E-ER4 cells with 10 nM beta-estradiol (Hardison)
+diffProtE_3d	unknown	unknown	unknown	3d	3 day differentiation of ES-D3 cells with conditioned medium MEDII to form neural precursor cells (Gilbert)
+diffProtE_6d	unknown	unknown	unknown	6d	6 day differentiation of ES-D3 cells with conditioned medium MEDII to form neural precursor cells (Gilbert)
+diffProtE_9d	unknown	unknown	unknown	9d	9 day differentiation of ES-D3 cells with conditioned medium MEDII to form neural precursor cells (Gilbert)
+diffProtF_6d	unknown	unknown	unknown	6d	6 day differentiation of ES-46C cells in adherent monolayer culture (Gilbert)
+diffProtF_9d	unknown	unknown	unknown	9d	9 day differentiation of ES-TT2 cells in adherent monolayer culture (Gilbert)
+diffProtG_3d	unknown	unknown	unknown	3d	3 day differentiation of ES-D3 cells with conditioned medium MEDII to form attached monolayer cells, early primitive ectoderm-like cells (EPL) (Gilbert)
+diffProtH_Sox17+	unknown	unknown	unknown	6d	Differentiation of ES-GscgfpSox17huCD25 towards endoderm cells after treatment with serum-free medium, SFO3, containing activin (10 ng/ml). After 6 days, cells were collected for Gsc+Sox17+ by fluorescence activated cell sorting (FACS). (Gilbert)
+diffProtH_Sox17-	unknown	unknown	unknown	6d	Differentiation of ES-GscgfpSox17huCD25 towards mesoderm cells after treatment with serum-free medium, SFO3, containing activin (10 ng/ml). After 6 days, cells were collected for Gsc+Sox17- by fluorescence activated cell sorting (FACS). (Gilbert)
+DIFF_4d	unknown	unknown	unknown	4d	Myocytes differentiated from myoblasts for 4 days. See specific cell protocol for treatment details. (Stam)
+DIFF_7d	unknown	unknown	unknown	7d	Myocytes differentiated from myoblasts for 7 days. See specific cell protocol for treatment details. (Wold)
+Randomized_shRNA_control  unknown	unknown	unknown	6d	Cells were transduced with a lentivirus expressing an shRNA containing a randomized DNA sequence generated by the siRNA Wizard v3.1 (http://www.sirnawizard.com/scrambled2.php) program. Lentiviral constructs also contained the puromycin resistance selectable marker and cells were treated 2 times, for three days each, to select for cells containing the retroviral construct.
+CTCF_shRNA_knockdown	unknown	unknown	unknown	6d	CTCF (CCCTC-binding factor) transcript levels were knocked down in cells using lentiviral transduction to express an shRNA targeting the CTCF gene. The lentiviral construct also contained a puromycin resistance selectable marker and cells were treated 2 times, for three days each, to select for cells containing the retroviral construct. By western blot, CTCF protein levels in the knockdown cells were <10% of cell lines transduced with a randomized shRNA lentiviral construct.
+lenti-MyoD	CHEBI:50845	doxycycline	3ug/mL	10d	GM03348 skin fibroblasts (Coriell) were transduced with an induceable lentivirus (pAK111-TRE-3xflag hMyoD-T2A-dsRed) containing get inducible MyoD. Cells were selected in 1ug per ml puro (Sigma catalog P8833) to obtain a pure cell population. Cells were induced for MYOD expression for 10 days with doxycycline and at concentration of 3ug per ml. Standard media was used (and replaced every 2 days) during induction: DMEM, 1% Pen Strep, and 10% FBS. (Crawford)
+lenti-control	CHEBI:50845	doxycycline	0ug/mL	10d	GM03348 skin fibroblasts (Coriell) were transduced with an induceable lentivirus (pAK111-TRE-3xflag hMyoD-T2A-dsRed) containing get inducible MyoD. Cells were selected in 1ug per ml puro (Sigma catalog P8833) to obtain a pure cell population. Cells were cultured for 10 days (NO DOXYCYCLINE) (Crawford)
