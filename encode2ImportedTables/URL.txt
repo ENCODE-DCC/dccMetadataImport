@@ -1,28 +1,29 @@
-Abnova   http://www.abnova.com
-Active Motif   http://www.activemotif.com
-BD Biosciences   http://www.bdbiosciences.com
-Bethyl Laboratories   http://www.bethyl.com
-Cayman Chemical   http://www.caymanchem.com
-Cell Signaling Technology   http://www.cellsignal.com
-Covance   https://store.crpinc.com
-Diagenode 	http://www.diagenode.com
-Dr. David Anderson at Protein Expression Center (pec@caltech.edu)   http://www.cns.caltech.edu/people/faculty/anderson.html
-Dr. E.H. Bresnick at UW Madison 	http://stemcells.wisc.edu/node/101
-Dr. J.D. Engel at University of Michigan 	https://www.umms.med.umich.edu/facultysearch/facultyPage.do?facUniqname=engel
-Dr. Kevin White at University of Chicago 	http://www.genes.uchicago.edu/white.html
-Dr. Lazlo Tora at Institut de G&#232n&#232tique et de Biologie Mol&#232culaire et Cellulaire 	http://www.igbmc.fr
-Dr. Paul Yaswen at UC Berkeley 	http://stemcellcenter.berkeley.edu/PIs/yaswen.html
-Dr. Peggy Farnham at USC 	http://pibbs.usc.edu/faculty/profile/?fid=205
-Dr. R. Mantovani at Universita degli Studi di Milano 	http://www.unimi.it/didattica/scienzemfn
-Dr. Robert J. White at Beatson Institute for Cancer Research 	http://www.beatson.gla.ac.uk/Regulation-of-Cancer-Cell-Proliferation-and-Growth/Robert-J-White-Gene-Transcription.html
-Dr. Stephen Smale at UCLA 	http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45693
-Dr. Yang Shi at Harvard 	http://cellbio.med.harvard.edu/faculty/shi
-Epitomics 	http://www.epitomics.com
-Millipore 	http://www.millipore.com
-Novus Biologicals   http://www.novusbio.com
-Proteintech 	http://www.ptglab.com
-R&D Systems 	http://www.rndsystems.com
-Rockland Immunochemicals 	http://rockland-inc.com
-Santa Cruz Biotechnology   http://www.scbt.com
-Sigma-Aldrich 	http://www.sigmaaldrich.com
-abcam   http://www.abcam.com
+url_name  url_type  url
+Abnova  source   http://www.abnova.com
+Active Motif  source   http://www.activemotif.com
+BD Biosciences  source  http://www.bdbiosciences.com
+Bethyl Laboratories source  http://www.bethyl.com
+Cayman Chemical source  http://www.caymanchem.com
+Cell Signaling Technology source   http://www.cellsignal.com
+Covance   source  https://store.crpinc.com
+Diagenode   source	http://www.diagenode.com
+Dr. David Anderson  source  http://www.cns.caltech.edu/people/faculty/anderson.html
+Dr. E.H. Bresnick   source 	http://stemcells.wisc.edu/node/101
+Dr. J.D. Engel  source 	https://www.umms.med.umich.edu/facultysearch/facultyPage.do?facUniqname=engel
+Dr. Kevin White source 	http://www.genes.uchicago.edu/white.html
+Dr. Lazlo Tora source 	http://www.igbmc.fr
+Dr. Paul Yaswen source 	http://stemcellcenter.berkeley.edu/PIs/yaswen.html
+Dr. Peggy Farnham source 	http://pibbs.usc.edu/faculty/profile/?fid=205
+Dr. R. Mantovani  source  http://www.unimi.it/didattica/scienzemfn
+Dr. Robert J. White source  http://www.beatson.gla.ac.uk/Regulation-of-Cancer-Cell-Proliferation-and-Growth/Robert-J-White-Gene-Transcription.html
+Dr. Stephen Smale source  http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45693
+Dr. Yang Shi  source  http://cellbio.med.harvard.edu/faculty/shi
+Epitomics source  http://www.epitomics.com
+Millipore   source  http://www.millipore.com
+Novus Biologicals   source  http://www.novusbio.com
+Proteintech   source  http://www.ptglab.com
+R&D Systems   source  http://www.rndsystems.com
+Rockland Immunochemicals  source  http://rockland-inc.com
+Santa Cruz Biotechnology  source  http://www.scbt.com
+Sigma-Aldrich   source  http://www.sigmaaldrich.com
+abcam   source  http://www.abcam.com
