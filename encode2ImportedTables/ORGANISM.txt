@@ -1,0 +1,7 @@
+organism_name genus species strain  individual  taxon_id
+human Homo  sapiens null  null  9606
+rabbit  Oryctolagus cuniculus null  null  9986
+rat Rattus  norvegicus  null  null  10116
+mouse Mus musculus  null  null  10090
+sheep Ovis  aries null  null  9940
+goat  Capra hircus  null  null  9925
