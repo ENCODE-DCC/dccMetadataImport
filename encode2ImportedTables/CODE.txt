@@ -1,0 +1,5 @@
+tab_name  col_name  code_value  description
+URL url_type  source  A url from the source table.
+
+
+Ideas from Gail: lab, reference,source,software, bug_tracker,target,antibody, dbxref
