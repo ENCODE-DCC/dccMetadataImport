@@ -15,7 +15,6 @@ Stellate 	Crawford:Stellate_Crawford_protocol.pdf
 FibroP_AG20443 	Crawford:FibroP_Crawford_protocol.pdf
 THelper-Activated 	Stam:THelper-Activated_Stam_protocol.pdf
 HeadlessEmbryo 	Stam:HeadlessEmbryo_Stam_protocol.pdf
-HFDPC 	Gingeras:HFDPC0100503.2_Gingeras_protocol.pdf Gingeras:HFDPC0102703.3_Gingeras_protocol.pdf
 HL-60 	Stam:HL-60_Stam_protocol.pdf
 H9ES-E 	Myers:BG02ES_and_H9ES_Myers_protocols.pdf
 BC_Leukocyte_UHN00204 	Myers:Myers_BioChain_protocol.pdf
@@ -32,25 +31,16 @@ NT2-D1 	ENCODE:NT2-D1_protocol.pdf
 K562 	ENCODE:K562_protocol.pdf
 HFL11W 	ENCODE:HFL11W_and_HFL24W_Myers_protocols.pdf
 HAoAF_6090101.11 	Gingeras:HAoAF6090101.11_Gingeras_protocol.pdf
-HSMMtube 	Bernstein:HSMMtube_Bernstein_protocol.pdf Crawford:HSMM_HSMMtube_Crawford_protocol.pdf
 bone_marrow_MSC 	Stam:MSC_marrow-fibroblastoid_SOP_v2.pdf
-HAoAF 	Gingeras:HAoAF6090101.11_Gingeras_protocol.pdf Gingeras:HAoAF6111301.9_Gingeras_protocol.pdf
-Thymus 	Ren:Thymus_Ren_protocol.pdf Stam:Thymus_Stam_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
-MCF-7 	Crawford:MCF-7_Crawford_protocol.pdf Farnham:MCF-7_Farnham_protocol.pdf Stam:Stam_15_protocols.pdf
 HCF 	Stam:HCF_Stam_protocol.pdf
-HCH 	Gingeras:HCH8100808.2_Gingeras_protocol.pdf Gingeras:HCH0011308.2P_Gingeras_protocol.pdf
 NHEM.f_M2_6022001 	Gingeras:NHEM.fM26022001_Gingeras_protocol.pdf
 HCM 	Stam:HCM_Stam_protocol.pdf
-HCT-116 	ENCODE:HCT-116_protocol.pdf Stam:HCT116_Stam_protocol.pdf
 HCH_8100808.2 	Gingeras:HCH8100808.2_Gingeras_protocol.pdf
 NHEM_M2_7011001.2 	Gingeras:NHEMM27011001.2_Gingeras_protocol.pdf
 GM19238 	Crawford:GM19238_Crawford_protocol.pdf
 GM19239 	Crawford:GM19239_Crawford_protocol.pdf
-PANC-1 	Myers:PANC-1_Myers_protocol.pdf Stam:PANC-1_Stam_protocol.pdf
 CD20+_RO01794 	Stam:CD20+_Stam_protocol.pdf
-HEK293 	Stam:Stam_15_protocols.pdf Snyder:HEK293b_Snyder_protocol.pdf
 PBMC 	Farnham:PBMC_Farnham_protocol.pdf
-LNCaP 	Crawford:LNCaP_Crawford_protocol.pdf Farnham:LNCaP_protocol.pdf Stam:LNCaP_Stam_protocol.pdf
 Cerebrum_frontal_OC 	Crawford:CerebrumfrontalOC_Crawford_protocol.pdf
 HUVEC 	ENCODE:HUVEC_protocol.pdf
 GM13977 	Crawford:GM13977_Crawford_protocol.pdf
@@ -65,8 +55,6 @@ HMVEC-LLy 	Stam:HMVEC-LLy_Stam_protocol.pdf
 HPC-PL_0032601.13 	Gingeras:HPCPL0032601.13_Gingeras_protocol.pdf
 Fibrobl 	Crawford:fibroblast_Crawford_protocol.pdf
 Kidney_OC 	Crawford:KidneyOC_Crawford_protocol.pdf
-Liver 	Ren:Liver_Ren_protocol.pdf Stam:Tissue_Stam_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
-SkMC 	Gingeras:SkMC9011302_Gingeras_protocol.pdf Gingeras:SkMC8121902.17_Gingeras_protocol.pdf
 SpinalCord 	Ren:Tissue_Ren_protocol.pdf
 GM06990 	Stam:Stam_15_protocols.pdf
 ES-WW6_F1KO 	Stam:ES-WW6_F1K0_Stam_protocol.pdf
@@ -76,8 +64,6 @@ ES-TT2 	missing
 GM19240 	Crawford:GM19240_Crawford_protocol.pdf
 Raji 	Farnham:Raji_Farnham_protocol.pdf
 bone_marrow_HS5 	Stam:HS5_SOP-1.V1-2.pdf
-NHEM.f_M2 	Gingeras:NHEM.fM25071302.2_Gingeras_protocol.pdf Gingeras:NHEM.fM26022001_Gingeras_protocol.pdf
-Lung 	Ren:Lung_Ren_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
 ECC-1 	Myers:ECC1_Myers_protocol.pdf
 Treg_Wb83319432 	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
 hMSC-BM_0050602.11 	Gingeras:hMSCBM0050602.11_Gingeras_protocol.pdf
@@ -93,7 +79,6 @@ Monocytes-CD14+_RO01826 	Stam:MonoCD14_Stam_protocol.pdf
 HA-h 	Stam:HAh_Stam_protocol.pdf
 ovcar-3 	Stam:Stam_15_protocols.pdf
 GM12878 	ENCODE:GM12878_protocol.pdf
-HVMF 	Stam:HVMF_Stam_protocol.pdf Gingeras:HVMF6100401.3_Gingeras_protocol.pdf Gingeras:HVMF6091203.3_Gingeras_protocol.pdf
 GM12875 	Stam:GM12875_Stam_protocol.pdf
 GM12874 	Stam:GM12874_Stam_protocol.pdf
 GM12871 	Stam:GM12871_Stam_protocol.pdf
@@ -112,7 +97,6 @@ H0287 	Stam:H0287_Stam_protocol.pdf
 TReg-Activated 	Stam:TReg-Activated_Stam_protocol.pdf
 CD4+_Naive_Wb78495824 	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
 BC_Left_Ventricle_N41 	Myers:Myers_BioChain_protocol.pdf
-hMSC-AT 	Gingeras:hMSCAT0102604.12_Gingeras_protocol.pdf Gingeras:hMSCAT9061601.12_Gingeras_protocol.pdf
 EPC_(CD117+_CD71+_TER119+) 	UW:EPC_Stam_protocol.pdf
 GM04504 	Stam:GM04504A_Stam_protocol.pdf
 GM18507 	ENCODE:GM18507_protocol.pdf
@@ -129,8 +113,6 @@ Liver_STL011 	missing
 hMNC-CB_9111701.6 	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf
 Duodenum 	Gingeras:Duodenum_Gingeras_protocol.pdf
 Lymphoblastoid_cell_line 	Stam:Stam_15_protocols.pdf
-NHEM_M2 	Gingeras:NHEMM27011001.2_Gingeras_protocol.pdf Gingeras:NHEMM27012303_Gingeras_protocol.pdf
-Jurkat 	Myers:Jurkat_protocol.pdf Stam:Jurkat_Stam_protocol.pdf
 HRE 	Stam:HRE_Stam_protocol.pdf
 AG09319 	Stam:AG09319_Stam_protocol.pdf
 SkMuscle 	Stam:SkeletalMuscle_Stam_protocol.pdf
@@ -141,7 +123,6 @@ Cord_CD4_naive 	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
 Skin 	Ren:Tissue_Ren_protocol.pdf
 GM12872 	Stam:GM12872_Stam_protocol.pdf
 HMVEC-dLy-Ad 	Stam:HMVEC-dLy-Ad_Stam_protocol.pdf
-Testis 	Ren:Testis_Ren_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
 iPS_NIHi11 	Crawford:iPS_Crawford_protocol.pdf
 AoAF 	Stam:AoAF_Stam_protocol.pdf
 3134 	Stam:3134_Stam_protocol.pdf
@@ -154,7 +135,6 @@ T-Naive 	Stam:Tissue_Stam_protocol.pdf
 Heart_OC 	Crawford:HeartOC_Crawford_protocol.pdf
 SKMC 	Stam:SkMC_Stam_protocol.pdf
 Skeletal_Muscle_BC 	Myers:Myers_BioChain_protocol.pdf
-HMEC 	Bernstein:HMEC_Bernstein_protocol.pdf Crawford:HMEC_Crawford_protocol.pdf Stam:HMEC_Stam_protocol.pdf
 RCC_7860 	Crawford:RCC7860_Crawford_protocol.pdf
 ES-neurons 	Ren:ES-neurons_Ren_protocol.pdf
 Kidney_BC 	Myers:Myers_BioChain_protocol.pdf
@@ -166,7 +146,6 @@ Patski 	Stam:Patski_Stam_protocol.pdf
 GM08714 	Farnham:GM08714_Farnham_protocol.pdf
 BC_Lung_H12817N 	Myers:Myers_BioChain_protocol.pdf
 Psoas_muscle_OC 	Crawford:PsoasmuscleOC_Crawford_protocol.pdf
-NHLF 	Bernstein:NHLF_Bernstein_protocol.pdf Stam:NHLF_Stam_protocol.pdf
 Pancreas 	Ren:Pancreas_Ren_protocol.pdf
 CLL 	Crawford:CLL_Crawford_protocol.pdf
 NHDF_7071701.2 	Gingeras:NHDF7071701.2_Gingeras_protocol.pdf
@@ -175,7 +154,6 @@ H9ES-EB 	Myers:BG02ES_and_H9ES_Myers_protocols.pdf
 GM12878-XiMat 	Myers:GM12878-XiMat_Myers_protocol.pdf
 HOB_0091301 	Gingeras:HOB0091301_Gingeras_protocol.pdf
 HSMMtube_FSHD 	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf
-Cortex 	Ren:Cortex_Ren_protocol.pdf Gingeras:Cortex_Gingeras_protocol.pdf
 SK-N-SH_RA 	Stam:Stam_15_protocols.pdf
 U87 	Myers:U-87_Myers_protocol.pdf
 Erythrobl 	Hardison:Erythroblast__Hardison_protocol.pdf
@@ -185,9 +163,7 @@ EpiSC-5 	Gilbert:EpiSC-5_Gilbert_protocol.pdf
 Colo829 	Crawford:Colo829_Crawford_protocol.pdf
 GM10266 	Crawford:GM10266_Crawford_protocol.pdf
 ForelimbBud 	Stam:ForelimbBuds_Stam_protocol.pdf
-Limb 	Ren:Limb_Ren_protocol.pdf Gingeras:Limb_Gingeras_protocol.pdf
 ZhBTc4 	Stam:ZhBTc4_Stam_protocol.pdf
-A549 	Myers:A549_protocol.pdf Crawford:A549_Crawford_protocol.pdf Stam:A549_Stam_protocol.pdf
 SAEC 	Stam:SAEC_Stam_protocol.pdf
 Monocytes-CD14+_RO01746 	Stam:MonoCD14_Stam_protocol.pdf
 Th2 	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
@@ -201,7 +177,6 @@ HRCEpiC 	Stam:HRCEpiC_Stam_protocol.pdf
 HSMM_FSHD 	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf
 GM12813 	Stam:GM12813_Stam_protocol.pdf
 GM12812 	Stam:GM12812_Stam_protocol.pdf
-NHDF-Ad 	Stam:NHDF-Ad_Stam_protocol.pdf Bernstein:NHDF-Ad_Bernstein_protocol.pdf
 416B 	Stam:416B_Stam_protocol.pdf
 HIPEpiC 	Stam:HIPEpiC_Stam_protocol.pdf
 GC_B_cell 	Crawford:GCBcell_Crawford_protocol.pdf
@@ -211,14 +186,12 @@ NHEK 	ENCODE:Keratinocyte_protocol.pdf
 GM18951 	Snyder:GM-generalized_Snyder_protocol.pdf
 HAEpiC 	Stam:HAEpiC_Stam_protocol.pdf
 GM12868 	Stam:GM12868_Stam_protocol.pdf
-HPIEpC 	Gingeras:HPIEpC9012801.2_Gingeras_protocol.pdf Gingeras:HPIEpC9041503.2_Gingeras_protocol.pdf
 M059J 	Stam:M059J_Stam_protocol.pdf
 GM12866 	Stam:GM12866_Stam_protocol.pdf
 HFL24W 	Myers:HFL11W_and_HFL24W_Myers_protocols.pdf
 GM12864 	Stam:GM12864_Stam_protocol.pdf
 GM12865 	Stam:GM12865_Stam_protocol.pdf
 HepG2 	ENCODE:HepG2_protocol.pdf
-PanIslets 	Crawford:PanIslets_Crawford_protocol.pdf Lieb:PanIslets_Lieb_protocol.pdf
 Ovary 	Gingeras:Ovary_Gingeras_protocol.pdf
 BC_Stomach_01-11002 	Myers:Myers_BioChain_protocol.pdf
 Endometrium_OC 	Crawford:EndometriumOC_Crawford_protocol.pdf
@@ -235,19 +208,16 @@ BC_Colon_01-11002 	Myers:Myers_BioChain_protocol.pdf
 Astrocy 	Crawford:Astrocytes_Crawford_protocol.pdf
 CD14+ 	Stam:MonoCD14_Stam_protocol.pdf
 BC_Prostate_Gland_H12817N 	Myers:Myers_BioChain_protocol.pdf
-HSaVEC 	Gingeras:HSaVEC9100101.15_Gingeras_protocol.pdf Gingeras:HSaVEC0022202.16_Gingeras_protocol.pdf
 Gliobla 	Crawford:D54_Crawford_protocol.pdf
 BC_Pancreas_H12817N 	Myers:Myers_BioChain_protocol.pdf
 BG02ES 	Myers:BG02ES_and_H9ES_Myers_protocols.pdf
 HMEpC 	Gingeras:HMEpC_Gingeras_protocol.pdf
 BMDM 	Ren:BMDM_Ren_protocol.pdf
-WholeBrain 	Stam:Tissue_Stam_protocol.pdf Gingeras:WholeBrain_Gingeras_protocol.pdf
 HSMM_emb 	Crawford:HSMMemb_Crawford_protocol.pdf
 HTR8svn 	Crawford:HTR8svn_Crawford_protocol.pdf
 HAc 	Stam:HAc_Stam_protocol.pdf
 HPAEC 	Stam:HPAEC_Stam_protocol.pdf
 HCH_0011308.2P 	Gingeras:HCH0011308.2P_Gingeras_protocol.pdf
-SK-N-MC 	Myers:SK-N-MC_protocol.pdf Stam:SK-N-MC_Stam_protocol.pdf
 Small_intestine_OC 	Crawford:SmallintestineOC_Crawford_protocol.pdf
 CD20+ 	Stam:CD20+_Stam_protocol.pdf
 LHSR 	Crawford:LHSR_Crawford_protocol.pdf
@@ -262,11 +232,9 @@ BC_Lung_01-11002 	Myers:Myers_BioChain_protocol.pdf
 HMVEC-dNeo 	Stam:HMVEC-dNeo_Stam_protocol.pdf
 HSaVEC_0022202.16 	Gingeras:HSaVEC0022202.16_Gingeras_protocol.pdf
 HMEpC_6022801.3 	Gingeras:HMEpC6022801.3_Gingeras_protocol.pdf
-hMSC-BM 	Gingeras:hMSCBM0050602.11_Gingeras_protocol.pdf Gingeras:hMSCBM0051105.11_Gingeras_protocol.pdf
 NHDF_0060801.3 	Gingeras:NHDF0060801.3_Gingeras_protocol.pdf
 HBMEC 	Stam:HBMEC_Stam_protocol.pdf
 RPMI-7951 	Stam:RPMI7951_Stam_protocol.pdf
-Osteobl 	Crawford:Osteoblast_Crawford_protocol.pdf Bernstein:Osteoblast_Bernstein_protocol.pdf
 Cerebellum_OC 	Crawford:CerebellumOC_Crawford_protocol.pdf
 HRGEC 	Stam:HRGEC_Stam_protocol.pdf
 Mesoderm 	Stam:Mesoderm_Stam_protocol.pdf
@@ -275,11 +243,9 @@ HT-1080 	missing
 BC_Spleen_H12817N 	Myers:Myers_BioChain_protocol.pdf
 T_cells_CD4+ 	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
 BC_Kidney_H12817N 	Myers:Myers_BioChain_protocol.pdf
-hMNC-CB 	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf
 Prostate_OC 	Crawford:ProstateOC_Crawford_protocol.pdf
 HPIEpC_9012801.2 	Gingeras:HPIEpC9012801.2_Gingeras_protocol.pdf
 AoSMC 	Crawford:AoSMC_Crawford_protocol.pdf
-Stomach 	Gingeras:Stomach_Gingeras_protocol.pdf Ren:Tissue_Ren_protocol.pdf
 EPC_(CD117+_CD71+_TER119-) 	UW:EPC_Stam_protocol.pdf
 H9ES-CM 	Myers:BG02ES_and_H9ES_Myers_protocols.pdf
 B-cell_(CD43-) 	Stam:bCellCd43_Stam_protocol.pdf
@@ -305,15 +271,12 @@ FrontalLobe 	Gingeras:FrontalLobe_Gingeras_protocol.pdf
 GM20000 	Crawford:GM20000_Crawford_protocol.pdf
 Dnd41 	Bernstein:Dnd41_Bernstein_protocol.pdf
 Stomach_BC 	Myers:Myers_BioChain_protocol.pdf
-Spleen 	Ren:Spleen_Ren_protocol.pdf Stam:Spleen_Stam_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
 NHBE 	Crawford:NHBE_Crawford_protocol.pdf
 IMR90 	Stam:IMR90_Stam_protocol.pdf
 Fibroblast 	Stam:Fibroblast_Stam_protocol.pdf
 HEK293-T-REx 	Farnham:T-REx-HEK293_Farnham_protocol.pdf
-Cerebellum 	Ren:Cerebellum_Ren_protocol.pdf Stam:Tissue_Stam_protocol.pdf Gingeras:Cerebellum_Gingeras_protocol.pdf
 HHSEC 	Stam:HHSEC_Stam_protocol.pdf
 Medullo_D341 	Crawford:MedulloD341_Crawford_protocol.pdf
-HWP_0092205 	Gingeras:HWP0092205_Gingeras_protocol.pdf Gingeras:HWP8120201.5_Gingeras_protocol.pdf
 BC_Uterus_BN0765 	Myers:Myers_BioChain_protocol.pdf
 PrEC 	Stam:PrEC_Stam_protocol.pdf
 MRT_G401 	Crawford:MRTG401.6_Crawford_protocol.pdf
@@ -339,13 +302,9 @@ NIH-3T3 	Stam:NIH-3T3_Stam_protocol.pdf
 Colon_BC 	Myers:Myers_BioChain_protocol.pdf
 PBDEFetal 	Farnham:FetalPBDE_Farnham_protocol.pdf
 hMNC-CB_8072802.6 	Gingeras:hMNCCB8072802.6_Gingeras_protocol.pdf
-Heart 	Ren:Heart_Ren_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
-NH-A 	Bernstein:NH-A_Bernstein_protocol.pdf Stam: ENCODE:NH-A_Stam_protocol.pdf
 G1E-ER4 	Hardison:G1E_ER4_E2_Hardison_protocol.pdf
 NHBE_RA 	UW_Stam:NHBERA_Stam_protocol.pdf
-LgIntestine 	Stam:LargeIntestine_Stam_protocol.pdf Gingeras:LargeIntestine_Gingeras_protocol.pdf
 HPDE6-E6E7 	Crawford:HPDE6-E6E7_Crawford_protocol.pdf
-HeLa-S3 	ENCODE:HeLa-S3_protocol.pdf Crawford:HeLa-S3_IFN_Crawford_protocol.pdf
 EPC_(CD117-_CD71+_TER119+) 	UW:EPC_Stam_protocol.pdf
 BoneMarrow 	Ren:BoneMarrow_Ren_protocol.pdf
 Pons_OC 	Crawford:PonsOC_Crawford_protocol.pdf
@@ -367,7 +326,6 @@ BC_Brain_H11058N 	Myers:Myers_BioChain_protocol.pdf
 Megakaryo 	Hardison:Megakaryocyte_Hardison_protocol.pdf
 AG10803 	Stam:AG10803_Stam_protocol.pdf
 BC_Breast_02-03015 	Myers:Myers_BioChain_protocol.pdf
-NHDF 	Gingeras:NHDF0060801.3_Gingeras_protocol.pdf Gingeras:NHDF7071701.2_Gingeras_protocol.pdf
 8988T 	Crawford:8988T_Crawford_protocol.pdf
 HMVEC-dLy-Neo 	Stam:HMVEC-dLy-Neo_Stam_protocol.pdf
 CD20+_RO01778 	Stam:CD20+_Stam_protocol.pdf
@@ -378,17 +336,13 @@ GM18526 	Snyder:GM-generalized_Snyder_protocol.pdf
 HEEpiC 	Stam:HEEpiC_Stam_protocol.pdf
 BC_Rectum_N29 	Myers:Myers_BioChain_protocol.pdf
 TBEC 	Crawford:TBEC_Crawford_protocol.pdf
-Kidney 	Stam:Tissue_Stam_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
-GenitalFatPad 	Stam:GenitalFatPad_Stam_protocol.pdf Gingeras:GenitalFatPad_Gingeras_protocol.pdf
 HWP_8120201.5 	Gingeras:HWP8120201.5_Gingeras_protocol.pdf
 hMSC-AT_9061601.12 	Gingeras:hMSCAT9061601.12_Gingeras_protocol.pdf
 MDA-MB-231 	Struhl:MDA-MB-231_Struhl_protocol.pdf
-BE2_C 	Stam:BE2-C_Stam_protocol.pdf Myers:BE2-C_Myers_protocol.pdf
 Heart_STL003 	missing
 HFF 	Stam:HFF_Stam_protocol.pdf
 CH12 	Weissman:CH12_Weissman_protocol.pdf
 SubcFatPad 	Gingeras:SubcutaneousFatPad_Gingeras_protocol.pdf
-HPC-PL 	Gingeras:HPCPL0032601.13_Gingeras_protocol.pdf Gingeras:HPCPL0101504.13_Gingeras_protocol.pdf
 ES-Bruce4 	Ren:ES-Bruce4_Ren_protocol.pdf
 BC_Small_Intestine_01-11002 	Myers:Myers_BioChain_protocol.pdf
 BC_Adrenal_Gland_H12803N 	Myers:Myers_BioChain_protocol.pdf
@@ -396,21 +350,16 @@ HPAEpiC 	Stam:HPAEpiC_Stam_protocol.pdf
 Hepatocytes 	Crawford:Hepatocytes_Crawford_protocol.pdf
 BG02ES-EBD 	Myers:BG02ES_and_H9ES_Myers_protocols.pdf
 C2C12 	Wold:C2C12_Wold_protocol.pdf
-HAoEC 	Gingeras:HAoEC7071706.1_Gingeras_protocol.pdf Gingeras:HAoEC8061102.1_Gingeras_protocol.pdf
 Mel_2183 	Crawford:Mel2183_Crawford_protocol.pdf
-NB4 	ENCODE:NB4_protocol.pdf Stam:NB4_Stam_protocol.pdf
 HBVSMC 	Stam:HBVSMC_Stam_protocol.pdf
 BC_Esophagus_01-11002 	Myers:Myers_BioChain_protocol.pdf
 B-cell_(CD19+) 	Stam:bCellCd19_Stam_protocol.pdf
 H1-hESC 	ENCODE:H1-hESC_Bernstein_protocol.pdf
 MEF 	Ren:MEF_Ren_protocol.pdf
-MEL 	Weissman:MEL_Weissman_protocol.pdf Stam:MEL_Stam_protocol.pdf
 HFDPC_0100503.2 	Gingeras:HFDPC0100503.2_Gingeras_protocol.pdf
-SmIntestine 	Ren:SmallIntestine_Ren_protocol.pdf Gingeras:SmallIntestine_Gingeras_protocol.pdf
 MEP 	Hardison:MEP_Hardison_protocol.pdf
 ES-D3 	missing
 HConF 	Stam:HConF_Stam_protocol.pdf
-H1-neurons 	Cellular_Dynamics_International_Batch_1:H1_Neurons_Round1.pdf Cellular_Dynamics_International_Batch_2:H1_Neurons_Round2.pdf
 10T1/2 	Wold:10ToneHalf_Wold_protocol.pdf
 MCF10A-Er-Src 	Struhl:MCF-10A_Struhl_protocol.pdf
 HPIEpC_9041503.2 	Gingeras:HPIEpC9041503.2_Gingeras_protocol.pdf
@@ -422,7 +371,6 @@ iPS_hFib2_iPS5 	Gilbert:IPSHFIB2IPS5_Gilbert_protocol.pdf
 iPS_hFib2_iPS4 	Gilbert:IPSHFIB2IPS4_Gilbert_protocol.pdf
 H9ES-AFP- 	Myers:BG02ES_and_H9ES_Myers_protocols.pdf
 H9ES-AFP+ 	Myers:BG02ES_and_H9ES_Myers_protocols.pdf
-hMNC-PB 	Gingeras:hMNCPB0022330.9_Gingeras_protocol.pdf Gingeras:hMNCPB0082430.9_Gingeras_protocol.pdf
 Caco-2 	Stam:Stam_15_protocols.pdf
 Myometr 	Crawford:Myometr_Crawford_protocol.pdf
 GM12869 	Stam:GM12869_Stam_protocol.pdf
@@ -430,18 +378,14 @@ BC_Jejunum_H12817N 	Myers:Myers_BioChain_protocol.pdf
 Th2_Wb54553204 	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
 Cerebrum 	Stam:Tissue_Stam_protocol.pdf
 NHEM.f_M2_5071302.2 	Gingeras:NHEM.fM25071302.2_Gingeras_protocol.pdf
-HOB 	Gingeras:HOB0090202.1_Gingeras_protocol.pdf Gingeras:HOB0091301_Gingeras_protocol.pdf
 CNS 	Gingeras:CNS_Gingeras_protocol.pdf
 HPC-PL_0101504.13 	Gingeras:HPCPL0101504.13_Gingeras_protocol.pdf
 H7-hESC 	StamAndCrawford:H7-hESC_StamAndCrawford_protocol.pdf
 HAoEC_8061102.1 	Gingeras:HAoEC8061102.1_Gingeras_protocol.pdf
-HSMM 	Bernstein:HSMM_Bernstein_protocol.pdf Crawford:HSMM_HSMMtube_Crawford_protocol.pdf Stam:HSMM_Stam_protocol.pdf
-hMSC-UC 	Gingeras:hMSCUC0081101.7_Gingeras_protocol.pdf Gingeras:hMSCUC0052501.7_Gingeras_protocol.pdf
 Th17 	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
 CD4+_Naive_Wb11970640 	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf
 LHCN-M2 	Wold:LHCNM2_Wold_protocol.pdf
 GM12867 	Stam:GM12867_Stam_protocol.pdf
-Colon 	Ren:Colon_Ren_protocol.pdf Gingeras:Tissue_Gingeras_protocol.pdf
 Olf_neurosphere 	Crawford:Olfneurosphere_Crawford_protocol.pdf
 Liver_STL004 	missing
 Esophagus_BC 	Myers:Myers_BioChain_protocol.pdf
