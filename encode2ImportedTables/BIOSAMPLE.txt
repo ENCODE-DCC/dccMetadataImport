@@ -1,3 +1,4 @@
+termId  term  tag category  organism  treatment vendorName  vendorId  lots  subcellularLoc  orderUrl  sex age protocol  karyotype tier
 11033 	UpperLegMuscle 	ULMUS 	Tissue 	mouse 	missing 	LICR lab 	Thigh Muscle 	missing 	missing 	http://bioinformatics-renlab.ucsd.edu/rentrac/ 	U 	ageUnknown 	Ren:Tissue_Ren_protocol.pdf 	missing 	missing
 15148 	ES-neurons 	ESNEURON 	primaryCells 	mouse 	missing 	LICR lab 	mESC-neurons 	missing 	missing 	http://bioinformatics-renlab.ucsd.edu/rentrac/ 	M 	E3.5 	Ren:ES-neurons_Ren_protocol.pdf 	missing 	missing
 15212 	FVLstem 	FVLS 	primaryCells 	mouse 	missing 	Paulson Lab 	FVLstem 	missing 	missing 	http://vbs.psu.edu/research/labs/paulson 	U 	ageUnknown 	Hardison:FVLstem_Hardison_protocol.pdf 	missing 	missing
