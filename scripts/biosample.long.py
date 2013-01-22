@@ -33,4 +33,4 @@ for key in rafile.keys():
             thisstanza['orderUrl'] = 'missing'
         if 'karyotype' not in thisstanza:	
             thisstanza['karyotype'] = 'missing'
-        print thisstanza['termId'],"\t",thisstanza['term'],"\t",thisstanza['tag'],"\t",thisstanza['category'],"\t",thisstanza['organism'],"\t",thisstanza['treatment'],"\t",thisstanza['vendorName'],"\t",thisstanza['vendorId'],"\t",thisstanza['lots'],"\t",thisstanza['subcellularLoc']
+        print thisstanza['termId'],"\t",thisstanza['term'],"\t",thisstanza['tag'],"\t",thisstanza['category'],"\t",thisstanza['organism'],"\t",thisstanza['treatment'],"\t",thisstanza['vendorName'],"\t",thisstanza['vendorId'],"\t",thisstanza['lots'],"\t",thisstanza['subcellularLoc'],"\t",thisstanza['orderUrl'],"\t",thisstanza['sex'],"\t",thisstanza['age'],"\t",thisstanza['protocol'],"\t",thisstanza['karyotype'],"\t",thisstanza['tier']
