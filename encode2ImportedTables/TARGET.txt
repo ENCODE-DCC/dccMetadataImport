@@ -27,9 +27,9 @@ P49716 	CEBPD 	Human 	null 	CEBPD 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q03701 	CEBPZ 	Human 	null 	CEBPZ 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q92879 	CELF1 	Human 	null 	CELF1 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 O14646 	CHD1 	Human 	null 	CHD1 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
-missing 	CHD1 	Mouse 	null 	missing 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
+P40201 	CHD1 	Mouse 	null 	Chd1 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 O14647 	CHD2 	Human 	null 	CHD2 	ChromRem 	null 	TRUE 	30-SEP-2012	ENCODE2
-missing 	CHD2 	Mouse 	null 	missing 	ChromRem 	null 	TRUE 	30-SEP-2012	ENCODE2
+missing CHD2 	Mouse 	null 	missing 	ChromRem 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q14839 	CHD4 	Human 	null 	CHD4 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q9P2D1 	CHD7 	Human 	null 	CHD7 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 P16220 	CREB1 	Human 	null 	CREB1 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
@@ -186,7 +186,7 @@ P18615 	RDBP 	Human 	null 	RDBP 	TFNS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P19426 	RDBP 	Mouse 	null 	Rdbp 	TFNS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q04206 	RELA 	Human 	null 	RELA 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q13127 	REST 	Human 	null 	REST 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
-missing 	REST 	Mouse 	null 	missing 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
+Q8VIG1	REST 	Mouse 	null 	Rest 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P48382 	RFX5 	Human 	null 	RFX5 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q99496 	RNF2 	Human 	null 	RNF2 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 O14802 	RPC155 	Human 	null 	POLR3A 	Pol3F 	null 	TRUE 	30-SEP-2012	ENCODE2
@@ -206,7 +206,7 @@ Q12824 	SMARCB1 	Human 	null 	SMARCB1 	ChromRem 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q92922 	SMARCC1 	Human 	null 	SMARCC1 	ChromRem 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q8TAQ2 	SMARCC2 	Human 	null 	SMARCC2 	ChromRem 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q9UQE7 	SMC3 	Human 	null 	SMC3 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
-missing 	SMC3 	Mouse 	null 	missing 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
+Q9CW03 	SMC3 	Mouse 	null 	Smc3 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 P08047 	SP1 	Human 	null 	SP1 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q02086 	SP2 	Human 	null 	SP2 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q02446 	SP4 	Human 	null 	SP4 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
@@ -214,7 +214,7 @@ P17947 	SPI1 	Human 	null 	SPI1 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P36956 	SREBP1 	Human 	null 	SREBF1 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q12772 	SREBP2 	Human 	null 	SREBF2 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P11831 	SRF 	Human 	null 	SRF 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
-missing 	SRF 	Mouse 	null 	missing 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
+Q9JM73 	SRF 	Mouse 	null 	Srf 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P42224 	STAT1 	Human 	null 	STAT1 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P52630 	STAT2 	Human 	null 	STAT2 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P40763 	STAT3 	Human 	null 	STAT3 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
@@ -227,7 +227,7 @@ P17542 	TAL1 	Human 	null 	TAL1 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P22091 	TAL1 	Mouse 	null 	Tal1 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q9BZK7 	TBL1XR1 	Human 	null 	TBL1XR1 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
 P20226 	TBP 	Human 	null 	TBP 	TFNS 	null 	TRUE 	30-SEP-2012	ENCODE2
-missing 	TBP 	Mouse 	null 	missing 	TFNS 	null 	TRUE 	30-SEP-2012	ENCODE2
+P29037	TBP 	Mouse 	null 	Tbp 	TFNS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q99081 	TCF12 	Human 	null 	TCF12 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 Q61286 	TCF12 	Mouse 	null 	Tcf12 	TFSS 	null 	TRUE 	30-SEP-2012	ENCODE2
 P15923 	TCF3 	Human 	null 	TCF3 	null 	null 	TRUE 	30-SEP-2012	ENCODE2
