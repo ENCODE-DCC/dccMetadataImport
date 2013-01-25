@@ -1,4 +1,4 @@
-term  childOf relationship
+biosample_no  related_biosample relationship_type
 MRT_A204 	NA 	NA
 Huh-7 	NA 	NA
 AG09309 	NA 	NA
