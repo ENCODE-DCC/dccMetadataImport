@@ -1,0 +1,17 @@
+ENCODE University of Washington Affymetrix Exon Array: Detailed methods
+
+At cell harvest, a subset of cells was stored at -20 degrees C in RNALater.
+Total RNA from 5 X 10^6 cells were purified using Ribopure (Ambion) according
+to vendor recommended protocols.  Total RNA quality was assessed on RNA 6000
+Nano Chips (Agilent) using a Bioanalyzer (Agilent).  Approximately 3ug of
+total RNA for each cell type was sent to the Center for Array Technology (CAT)
+for labeling and hybridization to Affymetrix Human Exon 1.0 ST arrays.  Briefly,
+a Whole Transcript Sense Target Labeling Assay (Affymetrix) was used by the CAT
+to reduce the rRNA, perform in vitro transcription (IVT) and create labeled
+sense strand DNA for hybridization to the arrays.  Hybridizations were carried
+out according the manufacturer's protocol.  
+
+Intensity files from the scanned exon arrays were analyzed at the exon level (Affymetrix
+ExACT 1.2.1 software) and the gene level (Affymetrix Expression Console 1.1
+software).  Samples were quantile normalized with PM-GCBG background correction
+and PLIER (Probe Logarithmic Intensity Error) summarized. 

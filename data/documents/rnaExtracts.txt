@@ -1,0 +1,39 @@
+Protocols used in RNA Extraction
+================================
+
+Long Cytoplasmic RNA A+ and A-:  Long Cytoplasmic RNA was isolated using
+Qiagens RNeasy Protocol.  Qiagens Qligotex kit was used to separate
+Poly-A(+) from Poly-A(-).
+
+Long Nuclear RNA A+ and A-: Cell were lysed with Qiagens RLN buffer and the
+nuclei were spun out, resuspended in Qiagen's RLT buffer, layered over a
+Cesium Chloride bed and spun at 24,000 rpm for a minimum of 20 hours. The
+pellet was recovered and cleaned up on Qiagens RNeasy kit. Qiagens Qligotex
+kit was used to separate Poly-A(+) from Poly-A(-).
+
+Long Polysomal RNA A+ and A-: Cyclohexamide arrested cell lysate were
+layered on a 20-60% sucrose gradient and spun at 27,000 rpm for 4 hours.
+The fractions and analyzed by UV-spectroscopy using a programmable Density
+Gradient Fractionation System Foxy Jr. (Isco).
+
+Long Nucleoplasm, Nucleoli and Chromatin: We used the protocol found in
+Bhorjee and Pederson (1973). 
+
+Small Cytoplasmic RNA: Small Cytoplasmic RNA was isolated using Qiagens
+RNA/DNA kit.
+
+Small Nuclear RNA:  Small Nuclear RNA was isolated using Qiagens RNA/DNA
+kit.
+
+
+References
+==========
+
+Bhorjee JS, Pederson T. Chromatin: its isolation from cultured mammalian
+cells with particular reference to contamination by nuclear ribnucleoprotein
+particles. Biochemistry. 1973 Jul 3;12(14):2766-73.
+
+Kapranov, P. et.al. RNA maps
+reveal new RNA classes and a possible function for pervasive transcription.
+Science. 2007 Jun 8;316(5830):1484-8.
+

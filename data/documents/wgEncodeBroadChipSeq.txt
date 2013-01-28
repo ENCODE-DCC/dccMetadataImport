@@ -1,0 +1,23 @@
+Cells were fixed in 1% formaldehyde and
+resuspended in lysis buffer. Chromatin was sheared to
+200-700bp using a Diagenode Bioruptor. Solubilized
+chromatin was immunoprecipitated with antibodies against
+each of the histone antibodies listed above.
+Antibody-chromatin complexes were pulled-down using protein
+A-sepharose (or anti-IgM-conjugated agarose for RNA polymerase II),
+washed and then eluted. After cross-link reversal and proteinase K
+treatment, immunoprecipitated DNA was extracted with
+phenol-chloroform, ethanol precipitated, treated
+with RNAse and purified. One to ten nanograms of DNA were
+end-repaired, adapter-ligated and sequenced by Illumina Genome
+Analyzers as recommended by the manufacturer.
+
+Sequence reads from each IP experiment were aligned to the human
+reference genome (hg18) using MAQ with default parameters, except
+C=10 (maximum number of alignments/read &lt;= 10).
+Fragment densities were computed by counting the number of reads
+overlapping each position in the genome (counted as 1 from the start
+of each alignment to 200 bp downstream and by 0.25 from 200 to 300 bp,
+and displayed at 25bp resolution). Discrete intervals of ChIP-seq
+fragment enrichment were identified using a scan statistics approach,
+under the assumption of uniform background signal.
