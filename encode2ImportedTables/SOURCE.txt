@@ -7,7 +7,6 @@ Cell Signaling Technology 	http://www.cellsignal.com
 Covance   https://store.crpinc.com
 Diagenode 	http://www.diagenode.com
 Dr. David Anderson at Protein Expression Center (pec@caltech.edu)   http://www.cns.caltech.edu/people/faculty/anderson.html
-Dr. E.H. Bresnick at UW Madison 	http://stemcells.wisc.edu/node/101
 Dr. J.D. Engel at University of Michigan 	https://www.umms.med.umich.edu/facultysearch/facultyPage.do?facUniqname=engel
 Dr. Kevin White at University of Chicago 	http://www.genes.uchicago.edu/white.html
 Dr. Lazlo Tora at Institut de G&#232n&#232tique et de Biologie Mol&#232culaire et Cellulaire 	http://www.igbmc.fr
@@ -26,3 +25,76 @@ Rockland Immunochemicals 	http://rockland-inc.com
 Santa Cruz Biotechnology   http://www.scbt.com
 Sigma-Aldrich 	http://www.sigmaaldrich.com
 abcam   http://www.abcam.com
+American Type Culture Collection (ATCC)  http://www.atcc.org/
+Asterand, Inc.	http://www.asterand.com/Asterand/
+BioChain	http://www.biochain.com
+BresaGen, Inc.	http://stemcells.nih.gov/research/registry/BresaGen.asp
+CDI	TBD
+Chordoma Research	http://www.chordomafoundation.org/research/
+Coriell	http://ccr.coriell.org
+DSMZ (Deutsche Sammlung von Mikroorganismen und Zellkulturen)	http://www.dsmz.de/
+Dr. Alan Mackay-Sim at Griffith University	http://www.griffith.edu.au/professional-page/professor-alan-mackay-sim
+Dr. Amy Murtha at Duke University	http://www.dukehealth.org/physicians/amy_p_murtha
+Dr. Arthur Skoultchi at Albert Einstein College of Medicine	http://www.einstein.yu.edu/departments/cell-biology/faculty/arthur-skoultchi/lab.aspx
+Dr. Austin Smith at University of Cambridge	http://www.bioc.cam.ac.uk/uto/smitha.html
+Dr. Barbara Wold at Caltech	http://woldlab.caltech.edu/
+Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	http://cceh.fhcrc.org/
+Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	http://myprofile.cos.com/torokstorb
+Dr. Bing Ren at Ludwig Institute for Cancer Research	http://bioinformatics-renlab.ucsd.edu/rentrac/
+Dr. Cal Cotton at Case Western Reserve University	https://www.case.edu/cgi-bin/directory/pb_lookup.cgi?search_text=calvin+cotton&submit.x=0&submit.y=0&submit=Search&search_method=regular&page_num=1
+Dr. Carl Mann at Service de biologie intégrative et génétique moléculaire GeM)	http://www-dsv.cea.fr/dsv/instituts/institut-de-biologie-et-de-technologies-de-saclay-ibitec-s/unites/service-de-biologie-integrative-et-genetique-moleculaire-sbigem/laboratoire-stress-oxydants-et-cancer-lsoc/equipe-mecanismes-de-stabilite-genomique-c.-mann
+Dr. Charles H. Graham at Queen's University	http://anatomy.queensu.ca/faculty/graham.cfm
+Dr. Christine Disteche at University of Washington	http://depts.washington.edu/chdd/iddrc/res_aff/disteche.html
+Dr. Darrell Bigner at Duke University Medical Center	http://www.cancer.duke.edu/btc/modules/facultystaff1/index.php?id=85
+Dr. David M. Bodine at National Human Genome Research Institute (NHGRI)	http://www.genome.gov/10000336
+Dr. David M. Gilbert at Florida State University	http://gilbertlab.bio.fsu.edu/
+Dr. David Randolph at University of Alabama	http://138.26.61.118/depts/MEB/SOMResearchFaculty/currentfacultydata.asp?ID=DRDRDR
+Dr. Emery H. Bresnick at University of Wisconsin	http://molpharm.wisc.edu/people/faculty/bresnick/bresnick.html
+Dr. Eric E. Bouhassira at Albert Einstein College of Medicine	http://www.einstein.yu.edu/departments/cell-biology/faculty/eric-bouhassira/research.aspx
+Dr. Genhong Cheng at University of California, Los Angeles	http://www.mimg.ucla.edu/faculty/cheng/genhong.html
+Dr. Greg Crawford at Duke University	http://www.genome.duke.edu/directory/faculty/crawford/
+Dr. Huntington F. Willard at Duke University	http://www.genome.duke.edu/people/faculty/willard/
+Dr. Jennifer Brown at Harvard Medical School.	http://www.dfhcc.harvard.edu/membership/profile/member/669/0/
+Dr. Jennifer Condon at Magee Women's Research Institute	http://www.mwrif.org/188/condon-jeyasuria-lab
+Dr. Jerrold M. Olefsky Lab at University of California, San Diego	http://endocrinology.ucsd.edu/Faculty/olefsky.html
+Dr. John Stamatoyannopoulos at University of Washington	http://www.gs.washington.edu/faculty/stamj.htm
+Dr. Levasseur at University of Iowa	http://molcellbio.grad.uiowa.edu/faculty/dana-levasseur
+Dr. Licia Selleri at Cornell	http://weill.cornell.edu/research/researcher/lselleri/
+Dr. Mary Ann Sens at University of North Dakota	http://pathology.med.und.nodak.edu/dept_home/MaryAnn.cfm
+Dr. Michael A. Bender at Fred Hutchinson Cancer Research Center	http://www.seattlechildrens.org/medical-staff/michael-a-bender/
+Dr. Michael Snyder	http://snyderlab.stanford.edu/
+Dr. Miguel Ramalho Santos at University of California, San Francisco	http://santoslab.ucsf.edu/lab_site/Home.html
+Dr. Ming-Sound Tsao at Ontario Cancer Institute	http://www.uhnresearch.ca/researchers/profile.php?lookup=6118
+Dr. Mitchell J. Weiss at University of Pennsylvania	http://www.med.upenn.edu/apps/faculty/index.php/g20000320/p14904
+Dr. Paul Tesar at Case Western University	http://genetics.case.edu/page.php?page_id=5&LN=Tesar&FN=Paul
+Dr. Rajinder Kaul at University of Washington	http://depts.washington.edu/medgen/faculty/Rajinder_Kaul.shtml
+Dr. Ravi Jhaveri at Duke University	http://www.dukehealth.org/physicians/ravi_r_jhaveri
+Dr. Robert Paulson at Penn State University	http://vbs.psu.edu/research/labs/paulson
+Dr. Scott A. Tenenbaum at State University of New York	http://www.albany.edu/cancergenomics/faculty/stenenbaum/index.shtml
+Dr. Shelly Heimfeld at Fred Hutchinson Cancer Research Center	http://labs.fhcrc.org/heimfeld/contact.html
+Dr. Sherman Morton Weissman at Yale	http://bbs.yale.edu/people/sherman_weissman.profile
+Dr. Steve Choi at Duke University	http://www.dukehealth.org/physicians/steve_s_choi
+Dr. Steven L. Young at University of North Carolina	http://findadoc.unchealthcare.org/directory/profile.asp?dbase=main&setsize=10&last=young&pict_id=0002115
+Dr. Struhl at Harvard	https://struhl.med.harvard.edu/
+Dr. Woodring Wright at University of Texas, Southwestern	http://www.utsouthwestern.edu/findfac/professional/0,,18156,00.html
+Dr. Yanwen Jiang at Cornell	http://melnicklaboratory.med.cornell.edu/people/yanwenjiang.php
+Dr. Yardena Samuels at National Human Genome Research Institute (NHGRI)	http://www.genome.gov/19519015
+Dr. Yoichi Shinkai at Riken	http://www.riken.go.jp/engn/r-world/research/lab/asi/cml/index.html
+Harvard Stem Cell Institute (HSCI) iPS Cell Core Facility	http://www.hsci.harvard.edu/ipscore/node/3
+Invitrogen	http://products.invitrogen.com/ivgn/product/R71007
+Kathleen Price Bryan Brain Bank	https://adrc.mc.duke.edu/index.php/research/brain-bank
+Lonza	http://www.lonza.com/
+National Cell Culture Center	http://www.nccc.com/
+National Disease Research Interchange (NDRI)	http://www.ndriresource.org/
+National Institute of Child Health and Human Development Brain and Tissue Bank (NICHD BTB)	http://medschool.umaryland.edu/btbank/tissue_requests.asp
+National Institute of Neurological Disorders and Stroke (NINDS)	http://www.ninds.nih.gov/
+North Carolina Tissue Consortium (NCTC)	http://www.ecu.edu/cs-dhs/med/NcTissueConsortium.cfm
+Progeria Research Foundation	http://www.progeriaresearch.org/
+PromoCell	http://www.promocell.com
+ScienCell	http://www.sciencellonline.com
+Sigma-Aldrich	http://www.sigmaaldrich.com
+Thermo Scientific Open Biosystems	https://www.openbiosystems.com/
+University of California, San Diego Transgenic Core and Embryonic Stem Cell	http://cancer.ucsd.edu/research-training/shared-resources/transgenic-core/Pages/default.aspx
+WiCell Research Institute	http://www.wicell.org/index.php
+William Hahn at the Dana Farber Cancer Institute, Boston, MA	http://physicians.dana-farber.org/directory/profile.asp?dbase=main&setsize=10&display=Y&nxtfmt=pc&pgt=William+C.+Hahn,+MD,+PhD&gs=r&picture_id=0000378&lookup=Y&pict_id=0000378
+Zen-Bio, Inc.	http://www.zen-bio.com/
