@@ -1,31 +1,31 @@
-Abnova   http://www.abnova.com
-Active Motif   http://www.activemotif.com
-BD Biosciences   http://www.bdbiosciences.com
-Bethyl Laboratories   http://www.bethyl.com
-Cayman Chemical   http://www.caymanchem.com
-Cell Signaling Technology 	http://www.cellsignal.com
-Covance   https://store.crpinc.com
-Diagenode 	http://www.diagenode.com
-Dr. David Anderson at Protein Expression Center (pec@caltech.edu)   http://www.cns.caltech.edu/people/faculty/anderson.html
-Dr. J.D. Engel at University of Michigan 	https://www.umms.med.umich.edu/facultysearch/facultyPage.do?facUniqname=engel
-Dr. Kevin White at University of Chicago 	http://www.genes.uchicago.edu/white.html
-Dr. Lazlo Tora at Institut de G&#232n&#232tique et de Biologie Mol&#232culaire et Cellulaire 	http://www.igbmc.fr
-Dr. Paul Yaswen at UC Berkeley 	http://stemcellcenter.berkeley.edu/PIs/yaswen.html
-Dr. Peggy Farnham at USC 	http://pibbs.usc.edu/faculty/profile/?fid=205
-Dr. R. Mantovani at Universita degli Studi di Milano 	http://www.unimi.it/didattica/scienzemfn
-Dr. Robert J. White at Beatson Institute for Cancer Research 	http://www.beatson.gla.ac.uk/Regulation-of-Cancer-Cell-Proliferation-and-Growth/Robert-J-White-Gene-Transcription.html
-Dr. Stephen Smale at UCLA 	http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45693
-Dr. Yang Shi at Harvard 	http://cellbio.med.harvard.edu/faculty/shi
-Epitomics 	http://www.epitomics.com
-Millipore 	http://www.millipore.com
-Novus Biologicals   http://www.novusbio.com
-Proteintech 	http://www.ptglab.com
-R&D Systems 	http://www.rndsystems.com
-Rockland Immunochemicals 	http://rockland-inc.com
-Santa Cruz Biotechnology   http://www.scbt.com
-Sigma-Aldrich 	http://www.sigmaaldrich.com
-abcam   http://www.abcam.com
-American Type Culture Collection (ATCC)  http://www.atcc.org/
+Abnova	http://www.abnova.com
+Active Motif	http://www.activemotif.com
+BD Biosciences	http://www.bdbiosciences.com
+Bethyl Laboratories	http://www.bethyl.com
+Cayman Chemical	http://www.caymanchem.com
+Cell Signaling Technology	http://www.cellsignal.com
+Covance	https://store.crpinc.com
+Diagenode	http://www.diagenode.com
+Dr. David Anderson at Protein Expression Center (pec@caltech.edu)	http://www.cns.caltech.edu/people/faculty/anderson.html
+Dr. James D. Engel at University of Michigan	http://www.med.umich.edu/cdb/people/engel.html
+Dr. Kevin White at University of Chicago	http://www.genes.uchicago.edu/white.html
+Dr. Laszlo Tora at Institut de G&#232n&#232tique et de Biologie Mol&#232culaire et Cellulaire	http://www.igbmc.fr/Tora/
+Dr. Paul Yaswen at University of California, Berkeley	http://stemcellcenter.berkeley.edu/PIs/yaswen.html
+Dr. Peggy Farnham at University of Southern California	http://pibbs.usc.edu/faculty/profile/?fid=205
+Dr. Roberto Mantovani at Universita degli Studi di Milano	http://www.unimi.it/chiedove/schedaPersonaXML.jsp?matricola=12736
+Dr. Robert J. White at Beatson Institute for Cancer Research	http://www.beatson.gla.ac.uk/Regulation-of-Cancer-Cell-Proliferation-and-Growth/Robert-J-White-Gene-Transcription.html
+Dr. Stephen Smale at University of California, Los Angeles	http://people.healthsciences.ucla.edu/institution/personnel?personnel_id=45693
+Dr. Yang Shi at Harvard	http://cellbio.med.harvard.edu/faculty/shi
+Epitomics	http://www.epitomics.com
+Millipore	http://www.millipore.com
+Novus Biologicals	http://www.novusbio.com
+Proteintech	http://www.ptglab.com
+R&D Systems	http://www.rndsystems.com
+Rockland Immunochemicals	http://rockland-inc.com
+Santa Cruz Biotechnology	http://www.scbt.com
+Sigma-Aldrich	http://www.sigmaaldrich.com
+abcam	http://www.abcam.com
+American Type Culture Collection (ATCC)	http://www.atcc.org/
 Asterand, Inc.	http://www.asterand.com/Asterand/
 BioChain	http://www.biochain.com
 BresaGen, Inc.	http://stemcells.nih.gov/research/registry/BresaGen.asp
