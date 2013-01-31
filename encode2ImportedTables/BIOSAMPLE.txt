@@ -1,6 +1,4 @@
-biosample_term_id	biosample_term_name	biosample_label	biosample_type
-organism_no	treatment_no	source_no	product_id	lot_id
-subcellular_location
+biosample_term_id	biosample_term_name	biosample_label	biosample_type  organism_no	treatment_no	source_no	product_id	lot_id  subcellular_location
 BTO:0002062 	MRT_A204 	MRTA204 	missing 	human 	missing 	ATCC 	HTB-82 	1 	missing
 BTO:0001950 	Huh-7 	HUH7 	missing 	human 	missing 	Dr. Ravi Jhaveri at Duke University 	Huh-7 	missing 	missing
 BTO:0001253 	AG09309 	AG09309 	missing 	human 	missing 	Coriell 	AG09309 	missing 	missing
