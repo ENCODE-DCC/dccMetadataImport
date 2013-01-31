@@ -1,3 +1,4 @@
+document_name document_type document_label  document_file_name  description reference_no  submitted_by  is_obselete is_current  date_created  created_by
 10ToneHalf_Wold_protocol.pdf 	BIOSAMPLE_DOCUMENT	10ToneHalf protocol	Future UCSD address 	Protocol for the 10ToneHalf biosample from Wold
 3134_Stam_protocol.pdf 	BIOSAMPLE_DOCUMENT	3134 protocol	Future UCSD address 	Protocol for the 3134 biosample from Stamatoyannopoulos
 416B_Stam_protocol.pdf 	BIOSAMPLE_DOCUMENT	416B protocol	Future UCSD address 	Protocol for the 416B biosample from Stamatoyannopoulos
