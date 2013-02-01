@@ -58,7 +58,7 @@ Dr. Jennifer Brown at Harvard Medical School.	http://www.dfhcc.harvard.edu/membe
 Dr. Jennifer Condon at Magee Women's Research Institute	http://www.mwrif.org/188/condon-jeyasuria-lab
 Dr. Jerrold Olefsky Lab at University of California, San Diego	http://endocrinology.ucsd.edu/Faculty/olefsky.html
 Dr. John Stamatoyannopoulos at University of Washington	http://www.gs.washington.edu/faculty/stamj.htm
-Dr. Levasseur at University of Iowa	http://molcellbio.grad.uiowa.edu/faculty/dana-levasseur
+Dr. Dana Levasseur at University of Iowa	http://molcellbio.grad.uiowa.edu/faculty/dana-levasseur
 Dr. Licia Selleri at Cornell	http://weill.cornell.edu/research/researcher/lselleri/
 Dr. Mary Sens at University of North Dakota	http://pathology.med.und.nodak.edu/dept_home/MaryAnn.cfm
 Dr. Michael Bender at Fred Hutchinson Cancer Research Center	http://www.seattlechildrens.org/medical-staff/michael-a-bender/
@@ -96,5 +96,5 @@ Sigma-Aldrich	http://www.sigmaaldrich.com
 Thermo Scientific Open Biosystems	https://www.openbiosystems.com/
 University of California, San Diego Transgenic Core and Embryonic Stem Cell	http://cancer.ucsd.edu/research-training/shared-resources/transgenic-core/Pages/default.aspx
 WiCell Research Institute	http://www.wicell.org/index.php
-William Hahn at the Dana Farber Cancer Institute, Boston, MA	http://physicians.dana-farber.org/directory/profile.asp?dbase=main&setsize=10&display=Y&nxtfmt=pc&pgt=William+C.+Hahn,+MD,+PhD&gs=r&picture_id=0000378&lookup=Y&pict_id=0000378
+Dr. William Hahn at Dana Farber Cancer Institute	http://physicians.dana-farber.org/directory/profile.asp?dbase=main&setsize=10&display=Y&nxtfmt=pc&pgt=William+C.+Hahn,+MD,+PhD&gs=r&picture_id=0000378&lookup=Y&pict_id=0000378
 Zen-Bio, Inc.	http://www.zen-bio.com/
