@@ -1,15 +1,17 @@
-tab_name  col_name  code_value  description
-URL url_type  source  A url from the source table.
-URL url_type  source  A url to the vendor from the source table.
-URL url_type  reference A url for pubmed from the reference table.
-URL url_type  lab A url to a laboratory page from the lab table.
-URL url_type  antibody  A product url from the antibody table.
-URL url_type  software  A url from the software table.
-URL url_type  dbxref  A url to a database cross-reference.
-URL url_type  bug_tracker A url to a bug-tracker for the software table.
-ANTIBODY  clonality monoclonal  Antibodies that are obtained from a cloned immune cell.
-ANTIBODY  clonality polyclonal  Antibodies that are obtained from different B cell resources.
-Should I be putting isotypes in here.  These are the ones from HAIB 
+tab_name	col_name	code_value	description
+URL url_type	source	A url from the source table.
+URL url_type	source	A url to the vendor from the source table.
+URL url_type	reference A url for pubmed from the reference table.
+URL url_type	lab	A url to a laboratory page from the lab table.
+URL url_type	antibody	A product url from the antibody table.
+URL url_type	software	A url from the software table.
+URL url_type	dbxref	A url to a database cross-reference.
+URL url_type	bug_tracker A url to a bug-tracker for the software table.
+ANTIBODY	clonality monoclonal	Antibodies that are obtained from a cloned immune cell.
+ANTIBODY	clonality polyclonal	Antibodies that are obtained from different B cell resources.
+
+Should I be putting isotypes in here.	These are the ones from HAIB 
+
 IgG
 IgG1κ
 IgG1λ
