@@ -1194,7 +1194,7 @@ BC_Pancreas_H12817N	sex	M
 BC_Pancreas_H12817N	age	missing
 BC_Pancreas_H12817N	karyotype	normal
 BC_Pancreas_H12817N	tier	3
-BG02ES	orderUrl	http://stemcells.nih.gov/research/registry/BresaGen.asp
+BG02ES	orderUrl	http://stemcells.nih.gov/staticresources/research/registry/PDFs/BresaGen.pdf
 BG02ES	sex	M
 BG02ES	age	missing
 BG02ES	karyotype	normal
@@ -1974,7 +1974,7 @@ Hepatocytes	sex	B
 Hepatocytes	age	missing
 Hepatocytes	karyotype	normal
 Hepatocytes	tier	3
-BG02ES-EBD	orderUrl	http://stemcells.nih.gov/research/registry/BresaGen.asp
+BG02ES-EBD	orderUrl	http://stemcells.nih.gov/staticresources/research/registry/PDFs/BresaGen.pdf
 BG02ES-EBD	sex	M
 BG02ES-EBD	age	missing
 BG02ES-EBD	karyotype	normal
