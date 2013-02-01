@@ -10,7 +10,7 @@ BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	missing	human	missing	BioChain; BioCha
 BTO:0003298	hMSC-UC_0052501.7	HMSCUC00525017	missing	human	missing	PromoCell	C-14091	missing	missing
 missing	ES-EM5Sox17huCD25	ESEM5S	primaryCells	mouse	missing	Gilbert lab	ES-GscgfpSox17huCD25	missing	missing
 BTO:0001255 (non-specific)	ProgFib	PROGFIB	missing	human	missing	Progeria Research Foundation	HGADFN167	missing	missing
-7040	EPC_(CD117-_CD71-_TER119+)	EPCMMP	primaryCell	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71-,TER119+	missing	missing
+7040	EPC_(CD117-_CD71-_TER119+)	EPCMMP	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71-,TER119+	missing	missing
 BTO:0002316	Stellate	STELLATE	missing	human	missing	Dr. Steve Choi at Duke University	Stellate	missing	missing
 BTO:0000452	FibroP_AG20443	FIBROPAG20443	missing	human	missing	Coriell	AG20443	missing	missing
 7060	THelper-Activated	THELPA	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	THelper-Activated	missing	missing
@@ -113,7 +113,7 @@ BTO:0002807	H0287	H0287	missing	human	missing	Dr. John Stamatoyannopoulos at UW	
 BTO:0000782	CD4+_Naive_Wb78495824	CD4NAIVEWB78495824	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing
 BTO:0001629	BC_Left_Ventricle_N41	BCLEFVENTRI	missing	human	missing	BioChain	D1234138_A705026	missing	missing
 BTO:0003298	hMSC-AT	HMSCAT	missing	human	missing	PromoCell	hMSC-AT	missing	missing
-7040	EPC_(CD117+_CD71+_TER119+)	EPCPPP	primaryCell	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119+	missing	missing
+7040	EPC_(CD117+_CD71+_TER119+)	EPCPPP	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119+	missing	missing
 BTO:0001253	GM04504	GM04504	missing	human	missing	Coriell	GM04504A	missing	missing
 BTO:0002062 (non-specific)	GM18507	GM18507	missing	human	missing	Coriell	GM18507	missing	missing
 BTO:0001253	GM04503	GM04503	missing	human	missing	Coriell	GM04503D	missing	missing
@@ -280,7 +280,7 @@ BTO:0001129	Prostate_OC	PROSTATEOC	missing	human	missing	NICHD	1669; 1540	missin
 BTO:0001975	HPIEpC_9012801.2	HPIEPC90128012	missing	human	missing	PromoCell	C-14069	missing	missing
 BTO:0001685	AoSMC	AOSMC	missing	human	missing	Lonza	CC-2571	missing	missing
 6966	Stomach	STOM	Tissue	mouse	missing	1) CSHL lab; 2) LICR lab	Stomach; Stomach	missing	missing
-7040	EPC_(CD117+_CD71+_TER119-)	EPCPPM	primaryCell	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119-	missing	missing
+7040	EPC_(CD117+_CD71+_TER119-)	EPCPPM	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119-	missing	missing
 BTO:0001086	H9ES-CM	H9ESCM	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
 7069	B-cell_(CD43-)	BCELLCD43N	primaryCells	mouse	missing	M. Bender (FHCRC)	B-cell_(CD43-)	missing	missing
 BTO:0004042	HWP	HWP	missing	human	missing	PromoCell	HWP	missing	missing
@@ -346,7 +346,7 @@ BTO:0001845	NHBE_RA	NHBERA	missing	human	missing	Lonza	CC-2540, CC3170	missing	m
 6982	LgIntestine	LGINT	Tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Large Intestine; Large Intestine	missing	missing
 BTO:0002362	HPDE6-E6E7	HPDE6E6E7	missing	human	missing	Dr. Ming-Sound Tsao, Ontario Cancer Institute	HPDE6-E6E7	missing	missing
 BTO:0000568	HeLa-S3	HELAS3	missing	human	missing	ATCC	CCL-2.2	missing	missing
-7040	EPC_(CD117-_CD71+_TER119+)	EPCMPP	primaryCell	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71+,TER119+	missing	missing
+7040	EPC_(CD117-_CD71+_TER119+)	EPCMPP	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71+,TER119+	missing	missing
 6943	BoneMarrow	BMARROW	Tissue	mouse	missing	LICR lab	BoneMarrow	missing	missing
 BTO:0001101	Pons_OC	PONSOC	missing	human	missing	NICHD	1104; 602; 1442	missing	missing
 BTO:0000763	Lung_BC	LUNGBC	missing	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114; CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing
@@ -372,7 +372,7 @@ BTO:0001521 (non-specific)	8988T	8988T	missing	human	missing	DSMZ	ACC 162	missin
 BTO:0004574	HMVEC-dLy-Neo	HMVECf	missing	human	missing	Lonza	CC-2812, CC-2812T25	missing	missing
 BTO:0000776	CD20+_RO01778	CD20RO01778	missing	human	missing	Rajinder Kaul, UW	CD20+_RO01778	missing	missing
 BTO:0002062	GM10248	GM10248	missing	human	missing	Coriell	GM10248	missing	missing
-7040	EPC_(CD117+_CD71-_TER119-)	EPCPMM	primaryCell	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71-,TER119-	missing	missing
+7040	EPC_(CD117+_CD71-_TER119-)	EPCPMM	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71-,TER119-	missing	missing
 7060	TReg	TREG	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg	missing	missing
 BTO:0002062 (non-specific)	GM18526	GM18526	missing	human	missing	Coriell	GM18526	missing	missing
 BTO:0001578	HEEpiC	HEE	missing	human	missing	ScienCell	2720	missing	missing
