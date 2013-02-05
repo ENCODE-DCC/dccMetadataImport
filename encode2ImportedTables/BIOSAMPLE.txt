@@ -4,11 +4,11 @@ AMAD:7035	3134	3134	cellLine	mouse	missing	Dr. John Stamatoyannopoulos at UW	313
 AMAD:7043	416B	416B	cellLine	mouse	missing	Dr. John Stamatoyannopoulos at UW	416B	missing	missing
 AMAD:7069	A20	A20	cellLine	mouse	missing	ATCC	TIB-208	missing	missing
 BTO:0000018	A549	A549	cellLine	human	missing	ATCC	CCL-185	58483235	missing
-BTO:0001253	AG04449	AG04449	untransformedCellLine	human	missing	Coriell	AG04449	missing	missing
-BTO:0000763	AG04450	AG04450	untransformedCellLine	human	missing	Coriell	AG04450	missing	missing
-BTO:0001253	AG09309	AG09309	untransformedCellLine	human	missing	Coriell	AG09309	missing	missing
-BTO:0004138	AG09319	AG09319	untransformedCellLine	human	missing	Coriell	AG09319	missing	missing
-BTO:0001253	AG10803	AG10803	untransformedCellLine	human	missing	Coriell	AG10803	missing	missing
+BTO:0001253	AG04449	AG04449	cellLine	human	missing	Coriell	AG04449	missing	missing
+BTO:0000763	AG04450	AG04450	cellLine	human	missing	Coriell	AG04450	missing	missing
+BTO:0001253	AG09309	AG09309	cellLine	human	missing	Coriell	AG09309	missing	missing
+BTO:0004138	AG09319	AG09319	cellLine	human	missing	Coriell	AG09319	missing	missing
+BTO:0001253	AG10803	AG10803	cellLine	human	missing	Coriell	AG10803	missing	missing
 AMAD:7097	Adrenal	ADRENAL	tissue	mouse	missing	CSHL lab	Adrenal	missing	missing
 BTO:0000782	Adult_CD4_Th0	ADULTCD4TH0	primaryCells	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Adult_CD4_Th0	missing	missing
 BTO:0000782	Adult_CD4_Th1	ADULTCD4TH1	primaryCells	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Adult_CD4_Th1	missing	missing
@@ -54,7 +54,7 @@ BTO:0001424	BC_Uterus_BN0765	BCUTERUS	tissue	human	missing	BioChain	D4234274_A81
 BTO:0001620	BE2_C	BE2C	cellLine	human	missing	ATCC	CRL-2268	missing	missing
 BTO:0001086	BG02ES	BG02ES	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
 BTO:0001086	BG02ES-EBD	BG02ESEBD	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
-BTO:0001255	BJ	BJ	untransformedCellLine	human	missing	ATCC	CRL-2522	missing	missing
+BTO:0001255	BJ	BJ	cellLine	human	missing	ATCC	CRL-2522	missing	missing
 AMAD:7058	BMDM	BMDM	primaryCells	mouse	missing	Dr. Genhong Cheng Lab at UCLA	BMDM	missing	missing
 AMAD:6961	Bladder	BLADDER	tissue	mouse	missing	CSHL lab	Bladder	missing	missing
 AMAD:6943	BoneMarrow	BMARROW	tissue	mouse	missing	LICR lab	BoneMarrow	missing	missing
