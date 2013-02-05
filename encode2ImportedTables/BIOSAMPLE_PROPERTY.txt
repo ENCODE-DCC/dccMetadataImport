@@ -1,4 +1,4 @@
-biosample_noproperty_nameproperty_value
+biosample_no	property_name	property_value
 MRT_A204	orderUrl	http://www.atcc.org/ATCCAdvancedCatalogSearch/ProductDetails/tabid/452/Default.aspx?ATCCNum=HTB-82&Template=cellBiology
 MRT_A204	sex	F
 MRT_A204	age	missing
