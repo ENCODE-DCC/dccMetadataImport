@@ -244,7 +244,7 @@ BTO:0000599	HepG2b	HEPG2b	cellLine	human	missing	ATCC	HB-8065	missing	missing
 BTO:0000575	Hepatocytes	HEPATO	missing	human	missing	zen-bio	Missing	missing	missing
 AMAD:3891	HindlimbBud	HLBUD	tissue	mouse	missing	Selleri lab, Cornell	HindlimbBud	missing	missing
 BTO:0001950	Huh-7	HUH7	cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7	missing	missing
-BTO:0001950	Huh-7.5	HUH75cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7.5	missing	missing
+BTO:0001950	Huh-7.5	HUH75	cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7.5	missing	missing
 BTO:0001229	IMR90	IMR90	cellLine	human	missing	ATCC	CCL-186	58607680	missing
 BTO:0000658	Ishikawa	ISHIKAWA	cellLine	human	missing	Sigma-Aldrich	99040201	missing	missing
 AMAD:174	J185a	J185A	cellLine	mouse	missing	Gilbert lab	J185a	missing	missing
