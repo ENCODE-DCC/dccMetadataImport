@@ -52,8 +52,8 @@ BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	tissue	human	missing	BioChain; BioChai
 BTO:0001363	BC_Testis_N30	BCTESTIS	tissue	human	missing	BioChain	D4234260_A711169	missing	missing
 BTO:0001424	BC_Uterus_BN0765	BCUTERUS	tissue	human	missing	BioChain	D4234274_A810099	missing	missing
 BTO:0001620	BE2_C	BE2C	cellLine	human	missing	ATCC	CRL-2268	missing	missing
-BTO:0001086	BG02ES	BG02ES	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
-BTO:0001086	BG02ES-EBD	BG02ESEBD	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
+BTO:0001086	BG02ES	BG02ES	embryonicStemCells	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
+BTO:0001086	BG02ES-EBD	BG02ESEBD	embryonicStemCells	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
 BTO:0001255	BJ	BJ	cellLine	human	missing	ATCC	CRL-2522	missing	missing
 AMAD:7058	BMDM	BMDM	primaryCells	mouse	missing	Dr. Genhong Cheng Lab at UCLA	BMDM	missing	missing
 AMAD:6961	Bladder	BLADDER	tissue	mouse	missing	CSHL lab	Bladder	missing	missing
@@ -244,7 +244,7 @@ BTO:0000599	HepG2b	HEPG2b	cellLine	human	missing	ATCC	HB-8065	missing	missing
 BTO:0000575	Hepatocytes	HEPATO	missing	human	missing	zen-bio	Missing	missing	missing
 AMAD:3891	HindlimbBud	HLBUD	tissue	mouse	missing	Selleri lab, Cornell	HindlimbBud	missing	missing
 BTO:0001950	Huh-7	HUH7	cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7	missing	missing
-BTO:0001950	Huh-7.5	HUH75cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7.5	missing	missing
+BTO:0001950	Huh-7.5	HUH75	cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7.5	missing	missing
 BTO:0001229	IMR90	IMR90	cellLine	human	missing	ATCC	CCL-186	58607680	missing
 BTO:0000658	Ishikawa	ISHIKAWA	cellLine	human	missing	Sigma-Aldrich	99040201	missing	missing
 AMAD:174	J185a	J185A	cellLine	mouse	missing	Gilbert lab	J185a	missing	missing
