@@ -52,8 +52,8 @@ BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	tissue	human	missing	BioChain; BioChai
 BTO:0001363	BC_Testis_N30	BCTESTIS	tissue	human	missing	BioChain	D4234260_A711169	missing	missing
 BTO:0001424	BC_Uterus_BN0765	BCUTERUS	tissue	human	missing	BioChain	D4234274_A810099	missing	missing
 BTO:0001620	BE2_C	BE2C	cellLine	human	missing	ATCC	CRL-2268	missing	missing
-BTO:0001086	BG02ES	BG02ES	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
-BTO:0001086	BG02ES-EBD	BG02ESEBD	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
+BTO:0001086	BG02ES	BG02ES	embryonicStemCells	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
+BTO:0001086	BG02ES-EBD	BG02ESEBD	embryonicStemCells	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
 BTO:0001255	BJ	BJ	cellLine	human	missing	ATCC	CRL-2522	missing	missing
 AMAD:7058	BMDM	BMDM	primaryCells	mouse	missing	Dr. Genhong Cheng Lab at UCLA	BMDM	missing	missing
 AMAD:6961	Bladder	BLADDER	tissue	mouse	missing	CSHL lab	Bladder	missing	missing
