@@ -19,38 +19,38 @@ BTO:0000099	Astrocy	ASTRO	primaryCells	human	missing	Lonza	CC-2565	missing	missi
 AMAD:7069	B-cell_(CD19+)	BCELLCD19P	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	B-cell_(CD19+)	missing	missing
 AMAD:7069	B-cell_(CD43-)	BCELLCD43N	primaryCells	mouse	missing	M. Bender (FHCRC)	B-cell_(CD43-)	missing	missing
 AMAD:7188	BAT	BAT	tissue	mouse	missing	Dr. Jerrold M. Olefsky Lab at UCSD	missing	missing	missing
-BTO:0001487	BC_Adipose_UHN00001	BCADIPOSE	primaryCells	human	missing	BioChain	D4234003_A701166	missing	missing
-BTO:0000047	BC_Adrenal_Gland_H12803N	BCADRENAL	primaryCells	human	missing	BioChain	D1234004_B103117	missing	missing
-BTO:0001418	BC_Bladder_01-11002	BCBLADDER	primaryCells	human	missing	BioChain	CP-S12-D1234010-05_B402059	missing	missing
-BTO:0000142	BC_Brain_H11058N	BCBRAIN	primaryCells	human	missing	BioChain	D4234035_A810101	missing	missing
-BTO:0000149	BC_Breast_02-03015	BCBREAST	primaryCells	human	missing	BioChain	D4234086_A710031	missing	missing
-BTO:0000269	BC_Colon_01-11002	BCCOLON	primaryCells	human	missing	BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074	missing	missing
-BTO:0000269	BC_Colon_H12817N	BCCOLONb	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing
-BTO:0000959	BC_Esophagus_01-11002	BCESOPHAGUS	primaryCells	human	missing	BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075	missing	missing
-BTO:0000959	BC_Esophagus_H12817N	BCESOPHAGUSb	primaryCells	human	missing	BioChain	CP-S13-D1234106-05_B302113	missing	missing
-BTO:0000657	BC_Jejunum_H12817N	BCJEJUNUM	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234230-05_B402068; CP-S10-R1234230-20_A911037	missing	missing
-BTO:0000671	BC_Kidney_01-11002	BCKIDNEY	primaryCells	human	missing	BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055	missing	missing
-BTO:0000671	BC_Kidney_H12817N	BCKIDNEYb	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing
-BTO:0001629	BC_Left_Ventricle_N41	BCLEFVENTRI	primaryCells	human	missing	BioChain	D1234138_A705026	missing	missing
-BTO:0001025	BC_Leukocyte_UHN00204	BCLEUKOCYTE	primaryCells	human	missing	BioChain	D4234148_A612197	missing	missing
-BTO:0000759	BC_Liver_01-11002	BCLIVER	primaryCells	human	missing	BioChain; BioChain	CP-S12-D1234149-05_B209118; CP-S10-R1234149-20_B304045	missing	missing
-BTO:0000763	BC_Lung_01-11002	BCLUNG	primaryCells	human	missing	BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114	missing	missing
-BTO:0000763	BC_Lung_H12817N	BCLUNGb	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing
-BTO:0000988	BC_Pancreas_H12817N	BCPANCREAS	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234188-05_B402063; CP-S10-R1234188-20_B402076	missing	missing
-BTO:0000405	BC_Penis_H12817N	BCPENIS	primaryCells	human	missing	BioChain	CP-S13-D1234194-05_B402064	missing	missing
-BTO:0000717	BC_Pericardium_H12529N	BCPERICARDIUM	primaryCells	human	missing	BioChain	D1234133_A712271	missing	missing
-BTO:0001078	BC_Placenta_UHN00189	BCPLACENTA	primaryCells	human	missing	BioChain	D4234200_A603104	missing	missing
-BTO:0001129	BC_Prostate_Gland_H12817N	BCPROSTATE	primaryCells	human	missing	BioChain	CP-D1234201-05_B101058	missing	missing
-BTO:0001158	BC_Rectum_N29	BCRECTUM	primaryCells	human	missing	BioChain	D4234206_A712205	missing	missing
-BTO:0001103	BC_Skeletal_Muscle_01-11002	BCSKEL	primaryCells	human	missing	BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148	missing	missing
-BTO:0001103	BC_Skeletal_Muscle_H12817N	BCSKELb	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing
-BTO:0001253	BC_Skin_01-11002	BCSKIN	primaryCells	human	missing	BioChain	CP-S12-D1234218-05_B402066	missing	missing
-BTO:0000651	BC_Small_Intestine_01-11002	BCSMINTESTINE	primaryCells	human	missing	BioChain; BioChain	CP-S12-D1234226-05_B402067; CP-S10-R1234226-20_A612138	missing	missing
-BTO:0001281	BC_Spleen_H12817N	BCSPLEENb	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234246-05_B402069; CP-S10-R1234246-20_B304070	missing	missing
-BTO:0001307	BC_Stomach_01-11002	BCSTOMACH	primaryCells	human	missing	BioChain	CP-S12-D1234248-05_A808008	missing	missing
-BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	primaryCells	human	missing	BioChain; BioChain	CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing
-BTO:0001363	BC_Testis_N30	BCTESTIS	primaryCells	human	missing	BioChain	D4234260_A711169	missing	missing
-BTO:0001424	BC_Uterus_BN0765	BCUTERUS	primaryCells	human	missing	BioChain	D4234274_A810099	missing	missing
+BTO:0001487	BC_Adipose_UHN00001	BCADIPOSE	tissue	human	missing	BioChain	D4234003_A701166	missing	missing
+BTO:0000047	BC_Adrenal_Gland_H12803N	BCADRENAL	tissue	human	missing	BioChain	D1234004_B103117	missing	missing
+BTO:0001418	BC_Bladder_01-11002	BCBLADDER	tissue	human	missing	BioChain	CP-S12-D1234010-05_B402059	missing	missing
+BTO:0000142	BC_Brain_H11058N	BCBRAIN	tissue	human	missing	BioChain	D4234035_A810101	missing	missing
+BTO:0000149	BC_Breast_02-03015	BCBREAST	tissue	human	missing	BioChain	D4234086_A710031	missing	missing
+BTO:0000269	BC_Colon_01-11002	BCCOLON	tissue	human	missing	BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074	missing	missing
+BTO:0000269	BC_Colon_H12817N	BCCOLONb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing
+BTO:0000959	BC_Esophagus_01-11002	BCESOPHAGUS	tissue	human	missing	BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075	missing	missing
+BTO:0000959	BC_Esophagus_H12817N	BCESOPHAGUSb	tissue	human	missing	BioChain	CP-S13-D1234106-05_B302113	missing	missing
+BTO:0000657	BC_Jejunum_H12817N	BCJEJUNUM	tissue	human	missing	BioChain; BioChain	CP-S13-D1234230-05_B402068; CP-S10-R1234230-20_A911037	missing	missing
+BTO:0000671	BC_Kidney_01-11002	BCKIDNEY	tissue	human	missing	BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055	missing	missing
+BTO:0000671	BC_Kidney_H12817N	BCKIDNEYb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing
+BTO:0001629	BC_Left_Ventricle_N41	BCLEFVENTRI	tissue	human	missing	BioChain	D1234138_A705026	missing	missing
+BTO:0001025	BC_Leukocyte_UHN00204	BCLEUKOCYTE	tissue	human	missing	BioChain	D4234148_A612197	missing	missing
+BTO:0000759	BC_Liver_01-11002	BCLIVER	tissue	human	missing	BioChain; BioChain	CP-S12-D1234149-05_B209118; CP-S10-R1234149-20_B304045	missing	missing
+BTO:0000763	BC_Lung_01-11002	BCLUNG	tissue	human	missing	BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114	missing	missing
+BTO:0000763	BC_Lung_H12817N	BCLUNGb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing
+BTO:0000988	BC_Pancreas_H12817N	BCPANCREAS	tissue	human	missing	BioChain; BioChain	CP-S13-D1234188-05_B402063; CP-S10-R1234188-20_B402076	missing	missing
+BTO:0000405	BC_Penis_H12817N	BCPENIS	tissue	human	missing	BioChain	CP-S13-D1234194-05_B402064	missing	missing
+BTO:0000717	BC_Pericardium_H12529N	BCPERICARDIUM	tissue	human	missing	BioChain	D1234133_A712271	missing	missing
+BTO:0001078	BC_Placenta_UHN00189	BCPLACENTA	tissue	human	missing	BioChain	D4234200_A603104	missing	missing
+BTO:0001129	BC_Prostate_Gland_H12817N	BCPROSTATE	tissue	human	missing	BioChain	CP-D1234201-05_B101058	missing	missing
+BTO:0001158	BC_Rectum_N29	BCRECTUM	tissue	human	missing	BioChain	D4234206_A712205	missing	missing
+BTO:0001103	BC_Skeletal_Muscle_01-11002	BCSKEL	tissue	human	missing	BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148	missing	missing
+BTO:0001103	BC_Skeletal_Muscle_H12817N	BCSKELb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing
+BTO:0001253	BC_Skin_01-11002	BCSKIN	tissue	human	missing	BioChain	CP-S12-D1234218-05_B402066	missing	missing
+BTO:0000651	BC_Small_Intestine_01-11002	BCSMINTESTINE	tissue	human	missing	BioChain; BioChain	CP-S12-D1234226-05_B402067; CP-S10-R1234226-20_A612138	missing	missing
+BTO:0001281	BC_Spleen_H12817N	BCSPLEENb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234246-05_B402069; CP-S10-R1234246-20_B304070	missing	missing
+BTO:0001307	BC_Stomach_01-11002	BCSTOMACH	tissue	human	missing	BioChain	CP-S12-D1234248-05_A808008	missing	missing
+BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing
+BTO:0001363	BC_Testis_N30	BCTESTIS	tissue	human	missing	BioChain	D4234260_A711169	missing	missing
+BTO:0001424	BC_Uterus_BN0765	BCUTERUS	tissue	human	missing	BioChain	D4234274_A810099	missing	missing
 BTO:0001620	BE2_C	BE2C	cellLine	human	missing	ATCC	CRL-2268	missing	missing
 BTO:0001086	BG02ES	BG02ES	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
 BTO:0001086	BG02ES-EBD	BG02ESEBD	embryonicStemCell	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing
@@ -60,389 +60,389 @@ AMAD:6961	Bladder	BLADDER	tissue	mouse	missing	CSHL lab	Bladder	missing	missing
 AMAD:6943	BoneMarrow	BMARROW	tissue	mouse	missing	LICR lab	BoneMarrow	missing	missing
 BTO:0000149	Breast_OC	BREASTOC	missing	human	missing	NCTC	11-0068A; 11-0067A	missing	missing
 AMAD:7125	C2C12	C2C12	cellLine	mouse	missing	Dr. Barbara Wold at Caltech	C2C12	missing	missing
-BTO:0000876	CD14+	CD14	primaryCells	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+	missing	missing
-BTO:0000776	CD20+	CD20	primaryCells	human	missing	Dr. Heimfeld Lab at FHCRC	CD20+	missing	missing
-BTO:0000776	CD20+_RO01778	CD20RO01778	primaryCells	human	missing	Rajinder Kaul, UW	CD20+_RO01778	missing	missing
-BTO:0000776	CD20+_RO01794	CD20RO01794	primaryCells	human	missing	Rajinder Kaul, UW	CD20+_RO01794	missing	missing
-BTO:0000725	CD34+_Mobilized	CD34MOBILIZED	primaryCells	human	missing	Dr. Heimfeld Lab at FHCRC	FHCRC	missing	missing
-BTO:0000782	CD4+_Naive_Wb11970640	CD4NAIVEWB11970640	primaryCells	human	missing	Dr. John Stamatoyannopoulos at UW	Wb11970640	missing	missing
-BTO:0000782	CD4+_Naive_Wb78495824	CD4NAIVEWB78495824	primaryCells	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing
+BTO:0000876	CD14+	CD14	tissue	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+	missing	missing
+BTO:0000776	CD20+	CD20	tissue	human	missing	Dr. Heimfeld Lab at FHCRC	CD20+	missing	missing
+BTO:0000776	CD20+_RO01778	CD20RO01778	tissue	human	missing	Rajinder Kaul, UW	CD20+_RO01778	missing	missing
+BTO:0000776	CD20+_RO01794	CD20RO01794	tissue	human	missing	Rajinder Kaul, UW	CD20+_RO01794	missing	missing
+BTO:0000725	CD34+_Mobilized	CD34MOBILIZED	tissue	human	missing	Dr. Heimfeld Lab at FHCRC	FHCRC	missing	missing
+BTO:0000782	CD4+_Naive_Wb11970640	CD4NAIVEWB11970640	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb11970640	missing	missing
+BTO:0000782	CD4+_Naive_Wb78495824	CD4NAIVEWB78495824	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing
 AMAD:7069	CH12	CH12	cellLine	mouse	missing	Weissman lab	CH12	missing	missing
 BTO:0001546	CLL	CLL	cellLine	human	missing	Dr. Jennifer Brown at Harvard Medical School.	CLL	missing	missing
 BTO:0004962	CMK	CMK	cellLine	human	missing	DSMZ	ACC-392	missing	missing
 AMAD:7003	CNS	CNS	tissue	mouse	missing	CSHL lab	CNS	missing	missing
 BTO:0000195	Caco-2	CACO2	cellLine	human	missing	ATCC	HTB-37	missing	missing
 AMAD:7012	Cerebellum	CBELLUM	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cerebellum; Cerebellum	missing	missing
-BTO:0000232	Cerebellum_OC	CEREBELLUMOC	missing	human	missing	NICHD	1104; 602; 1442	missing	missing
+BTO:0000232	Cerebellum_OC	CEREBELLUMOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing
 AMAD:7014	Cerebrum	CEREBRUM	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Cerebrum	missing	missing
-BTO:0000239	Cerebrum_frontal_OC	CEREBRUMFRONTALOC	missing	human	missing	NICHD	1104; 602; 1442	missing	missing
+BTO:0000239	Cerebrum_frontal_OC	CEREBRUMFRONTALOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing
 BTO:0000252	Chorion	CHORION	missing	human	missing	Dr. Amy Murtha at Duke University	missing	missing	missing
 BTO:0000849	Colo829	COLO829	cellLine	human	missing	ATCC	CRL-1974	missing	missing
 AMAD:6984	Colon	COLON	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Colon; Colon	missing	missing
-BTO:0000269	Colon_BC	COLONBC	primaryCells	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074; CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing
-BTO:0000269	Colon_OC	COLONOC	missing	human	missing	NCTC	10-0005A; 10-0170A	missing	missing
-BTO:0000782	Cord_CD4_Th0	CORDCD4TH0	primaryCells	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th0	missing	missing
-BTO:0000782	Cord_CD4_Th1	CORDCD4TH1	primaryCells	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th1	missing	missing
-BTO:0000782	Cord_CD4_naive	CORDCD4NAIVE	primaryCells	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_naive	missing	missing
+BTO:0000269	Colon_BC	COLONBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074; CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing
+BTO:0000269	Colon_OC	COLONOC	tissue	human	missing	NCTC	10-0005A; 10-0170A	missing	missing
+BTO:0000782	Cord_CD4_Th0	CORDCD4TH0	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th0	missing	missing
+BTO:0000782	Cord_CD4_Th1	CORDCD4TH1	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th1	missing	missing
+BTO:0000782	Cord_CD4_naive	CORDCD4NAIVE	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_naive	missing	missing
 AMAD:4465	Cortex	CORTEX	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cortex;Cortex	missing	missing
 BTO:0001360	Decidua	DECIDUA	missing	human	missing	Dr. Amy Murtha at Duke University (Durham, NC).	missing	missing	missing
 BTO:0001106	Dnd41	DND41	missing	human	missing	DSMZ	Dnd41	missing	missing
 AMAD:6977	Duodenum	DUOD	tissue	mouse	missing	CSHL lab	Duodenum	missing	missing
 BTO:0000194	ECC-1	ECC1	cellLine	human	missing	ATCC	CRL-2923	missing	missing
-AMAD:7040	EPC_(CD117+_CD71+_TER119+)	EPCPPP	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119+	missing	missing
-AMAD:7040	EPC_(CD117+_CD71+_TER119-)	EPCPPM	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119-	missing	missing
-AMAD:7040	EPC_(CD117+_CD71-_TER119-)	EPCPMM	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71-,TER119-	missing	missing
-AMAD:7040	EPC_(CD117-_CD71+_TER119+)	EPCMPP	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71+,TER119+	missing	missing
-AMAD:7040	EPC_(CD117-_CD71-_TER119+)	EPCMMP	primaryCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71-,TER119+	missing	missing
-AMAD:29	ES-46C	ES46C	primaryCells	mouse	missing	Smith lab	ES-46C	missing	missing
-AMAD:29	ES-Bruce4	ESB4	primaryCells	mouse	missing	University of California, San Diego Transgenic Core and Embryonic Stem Cell	ES-Bruce4	missing	missing
-AMAD:29	ES-CJ7	ESCJ7	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	ES-CJ7	missing	missing
-AMAD:29	ES-D3	ESD3	primaryCells	mouse	missing	ATCC	CRL-1934	missing	missing
-AMAD:29	ES-E14	ESE14	primaryCells	mouse	missing	Santos lab	E14	missing	missing
-AMAD:29	ES-EM5Sox17huCD25	ESEM5S	primaryCells	mouse	missing	Gilbert lab	ES-GscgfpSox17huCD25	missing	missing
-AMAD:29	ES-TT2	ESTT2	primaryCells	mouse	missing	Shinkai lab	ES-TT2	missing	missing
-AMAD:29	ES-WW6	ESWW6	primaryCells	mouse	missing	A. Skoultchi Lab	WW6_F4WT	missing	missing
-AMAD:29	ES-WW6_F1KO	ESWW6KO	primaryCells	mouse	missing	A. Skoultchi Lab	WW6_F1KO	missing	missing
-AMAD:15148	ES-neurons	ESNEURON	primaryCells	mouse	missing	LICR lab	mESC-neurons	missing	missing
-BTO:0001422	Endometrium_OC	ENDOMETRIUMOC	missing	human	missing	Dr. Steven Young	Endometrium_OC	missing	missing
+AMAD:7040	EPC_(CD117+_CD71+_TER119+)	EPCPPP	embryonicStemCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119+	missing	missing
+AMAD:7040	EPC_(CD117+_CD71+_TER119-)	EPCPPM	embryonicStemCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71+,TER119-	missing	missing
+AMAD:7040	EPC_(CD117+_CD71-_TER119-)	EPCPMM	embryonicStemCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117+,CD71-,TER119-	missing	missing
+AMAD:7040	EPC_(CD117-_CD71+_TER119+)	EPCMPP	embryonicStemCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71+,TER119+	missing	missing
+AMAD:7040	EPC_(CD117-_CD71-_TER119+)	EPCMMP	embryonicStemCells	mouse	missing	M. Bender, R. Byron (Fred Hutchinson Cancer Research Center)	CD117-,CD71-,TER119+	missing	missing
+AMAD:29	ES-46C	ES46C	embryonicStemCells	mouse	missing	Smith lab	ES-46C	missing	missing
+AMAD:29	ES-Bruce4	ESB4	embryonicStemCells	mouse	missing	University of California, San Diego Transgenic Core and Embryonic Stem Cell	ES-Bruce4	missing	missing
+AMAD:29	ES-CJ7	ESCJ7	embryonicStemCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	ES-CJ7	missing	missing
+AMAD:29	ES-D3	ESD3	embryonicStemCells	mouse	missing	ATCC	CRL-1934	missing	missing
+AMAD:29	ES-E14	ESE14	embryonicStemCells	mouse	missing	Santos lab	E14	missing	missing
+AMAD:29	ES-EM5Sox17huCD25	ESEM5S	embryonicStemCells	mouse	missing	Gilbert lab	ES-GscgfpSox17huCD25	missing	missing
+AMAD:29	ES-TT2	ESTT2	embryonicStemCells	mouse	missing	Shinkai lab	ES-TT2	missing	missing
+AMAD:29	ES-WW6	ESWW6	embryonicStemCells	mouse	missing	A. Skoultchi Lab	WW6_F4WT	missing	missing
+AMAD:29	ES-WW6_F1KO	ESWW6KO	embryonicStemCells	mouse	missing	A. Skoultchi Lab	WW6_F1KO	missing	missing
+AMAD:15148	ES-neurons	ESNEURON	embryonicStemCells	mouse	missing	LICR lab	mESC-neurons	missing	missing
+BTO:0001422	Endometrium_OC	ENDOMETRIUMOC	tissue	human	missing	Dr. Steven Young	Endometrium_OC	missing	missing
 AMAD:233	EpiSC-5	EPISC5	primaryCells	mouse	missing	Gilbert lab	EpiSC5	missing	missing
 AMAD:50	EpiSC-7	EPISC7	primaryCells	mouse	missing	Gilbert lab	EpiSC7	missing	missing
 AMAD:7079	Erythrobl	ERYTHROBL	primaryCells	mouse	missing	Mitch Weiss lab	Erythroblast	missing	missing
-BTO:0000959	Esophagus_BC	ESOPHAGUSBC	primaryCells	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075; CP-S13-D1234106-05_B302113	missing	missing
+BTO:0000959	Esophagus_BC	ESOPHAGUSBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075; CP-S13-D1234106-05_B302113	missing	missing
 AMAD:15212	FVLstem	FVLS	primaryCells	mouse	missing	Paulson Lab	FVLstem	missing	missing
 AMAD:15212	FVprogenitor	FVP	primaryCells	mouse	missing	Paulson Lab	FVprogenitor	missing	missing
 AMAD:7108	FatPad	FAT	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	FatPad	missing	missing
 BTO:0000452	FibroP	FIBROP	missing	human	missing	Paul Tesar at Case Western University	FibroP	missing	missing
-BTO:0000452	FibroP_AG08395	FIBROPAG08395	missing	human	missing	Coriell	AG08395	missing	missing
-BTO:0000452	FibroP_AG08396	FIBROPAG08396	missing	human	missing	Coriell	AG08396	missing	missing
-BTO:0000452	FibroP_AG20443	FIBROPAG20443	missing	human	missing	Coriell	AG20443	missing	missing
-BTO:0000452	Fibrobl	FIBROBL	missing	human	missing	Coriell	AG08470	missing	missing
+BTO:0000452	FibroP_AG08395	FIBROPAG08395	primaryCells	human	missing	Coriell	AG08395	missing	missing
+BTO:0000452	FibroP_AG08396	FIBROPAG08396	primaryCells	human	missing	Coriell	AG08396	missing	missing
+BTO:0000452	FibroP_AG20443	FIBROPAG20443	primaryCells	human	missing	Coriell	AG20443	missing	missing
+BTO:0000452	Fibrobl	FIBROBL	primaryCells	human	missing	Coriell	AG08470	missing	missing
 BTO:0001255	Fibrobl_GM03348	FIBROBLGM03348	missing	human	missing	Coriell	GM03348	missing	missing
 AMAD:6948	Fibroblast	FIBROBLAST	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Fibroblast	missing	missing
 AMAD:3883	ForelimbBud	FLBUD	tissue	mouse	missing	Selleri lab, Cornell	ForelimbBud	missing	missing
 AMAD:7003	FrontalLobe	FLOBE	tissue	mouse	missing	CSHL lab	Frontal Lobe	missing	missing
-BTO:0000484	Frontal_cortex_OC	FRONTALCORTEXOC	missing	human	missing	Kathleen Price Bryan Brain	673; 913	missing	missing
+BTO:0000484	Frontal_cortex_OC	FRONTALCORTEXOC	tissue	human	missing	Kathleen Price Bryan Brain	673; 913	missing	missing
 AMAD:7079	G1E	G1E	cellLine	mouse	missing	Mitch Weiss lab	missing	missing	missing
 AMAD:7079	G1E-ER4	G1EER4	cellLine	mouse	missing	Mitch Weiss lab	missing	missing	missing
 BTO:0003671	GC_B_cell	GCBCELL	missing	human	missing	Dr. Yanwen Jiang	GC_B_cell	missing	missing
-BTO:0001253	GM04503	GM04503	missing	human	missing	Coriell	GM04503D	missing	missing
-BTO:0001253	GM04504	GM04504	missing	human	missing	Coriell	GM04504A	missing	missing
-BTO:0002062	GM08714	GM08714	missing	human	missing	Coriell	GM08714	missing	missing
-BTO:0002062	GM10248	GM10248	missing	human	missing	Coriell	GM10248	missing	missing
-BTO:0002062	GM10266	GM10266	missing	human	missing	Coriell	GM10266	missing	missing
-BTO:0002062	GM12812	GM12812	missing	human	missing	Coriell	GM12812	missing	missing
-BTO:0002062	GM12813	GM12813	missing	human	missing	Coriell	GM12813	missing	missing
-BTO:0002062	GM12878	GM12878	missing	human	missing	Coriell	GM12878	missing	missing
-BTO:0002062	GM12878-XiMat	GM12878Xb	missing	human	missing	Hunt Willard at Duke University	GM12878-XiMat	missing	missing
-BTO:0002062	GM13976	GM13976	missing	human	missing	Coriell	GM13976	missing	missing
-BTO:0002062	GM13977	GM13977	missing	human	missing	Coriell	GM13977	missing	missing
-BTO:0002062	GM20000	GM20000	missing	human	missing	Coriell	GM20000	missing	missing
+BTO:0001253	GM04503	GM04503	primaryCells	human	missing	Coriell	GM04503D	missing	missing
+BTO:0001253	GM04504	GM04504	primaryCells	human	missing	Coriell	GM04504A	missing	missing
+BTO:0002062	GM08714	GM08714	primaryCells	human	missing	Coriell	GM08714	missing	missing
+BTO:0002062	GM10248	GM10248	primaryCells	human	missing	Coriell	GM10248	missing	missing
+BTO:0002062	GM10266	GM10266	primaryCells	human	missing	Coriell	GM10266	missing	missing
+BTO:0002062	GM12812	GM12812	primaryCells	human	missing	Coriell	GM12812	missing	missing
+BTO:0002062	GM12813	GM12813	primaryCells	human	missing	Coriell	GM12813	missing	missing
+BTO:0002062	GM12878	GM12878	primaryCells	human	missing	Coriell	GM12878	missing	missing
+BTO:0002062	GM12878-XiMat	GM12878Xb	cellLine	human	missing	Hunt Willard at Duke University	GM12878-XiMat	missing	missing
+BTO:0002062	GM13976	GM13976	primaryCells	human	missing	Coriell	GM13976	missing	missing
+BTO:0002062	GM13977	GM13977	primaryCells	human	missing	Coriell	GM13977	missing	missing
+BTO:0002062	GM20000	GM20000	primaryCells	human	missing	Coriell	GM20000	missing	missing
 AMAD:16230	GenitalFatPad	GFAT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Genital Fat Pad; Gonadal Adipose Tissue	missing	missing
-BTO:0000527	Gliobla	GLIOBLA	missing	human	missing	Dr. Darrell Bigner at Duke University Medical Center	D54	missing	missing
-BTO:0002807	H0287	H0287	missing	human	missing	Dr. John Stamatoyannopoulos at UW	H0287	missing	missing
-CL:0000007	H1-hESC	H1HESC	missing	human	missing	WiCell Research Institute	WA01	missing	missing
-BTO:0000938	H1-neurons	H1NEURONS	missing	human	missing	CDI	TBD	missing	missing
-BTO:0001086	H7-hESC	H7ES	missing	human	missing	WiCell Research Institute	WA07 (H7)	missing	missing
-BTO:0001086	H9ES	H9ES	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
-BTO:0001086	H9ES-AFP+	H9ESAFP	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
-BTO:0001086	H9ES-AFP-	H9ESAFPb	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
-BTO:0001086	H9ES-CM	H9ESCM	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
-BTO:0001086	H9ES-E	H9ESE	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
-BTO:0001086	H9ES-EB	H9ESEB	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
-BTO:0001086	H9ES-EBD	H9ESEBD	missing	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
-BTO:0000099	HA-h	HAH	missing	human	missing	ScienCell	1830	missing	missing
-BTO:0000099	HA-sp	HASP	missing	human	missing	ScienCell	1820	missing	missing
-BTO:0004660	HAEpiC	HAE	missing	human	missing	ScienCell	7110	missing	missing
-BTO:0000759	HAL	HAL	missing	human	missing	Asterand, Inc.	HAL	missing	missing
-BTO:0000099	HAc	HAC	missing	human	missing	ScienCell	1810	missing	missing
-BTO:0000135	HAoAF	HAOAF	missing	human	missing	PromoCell	HAoAF	missing	missing
-BTO:0000135	HAoAF_6090101.11	HAOAF609010111	missing	human	missing	PromoCell	C-14037	missing	missing
-BTO:0000135	HAoAF_6111301.9	HAOAF61113019	missing	human	missing	PromoCell	C-14037	missing	missing
-BTO:0000394	HAoEC	HAOEC	missing	human	missing	PromoCell	HAoEC	missing	missing
-BTO:0000394	HAoEC_7071706.1	HAOEC70717061	missing	human	missing	PromoCell	C-14023	missing	missing
-BTO:0000394	HAoEC_8061102.1	HAOEC80611021	missing	human	missing	PromoCell	C-14023	missing	missing
-BTO:0003636	HBMEC	HBMEC	missing	human	missing	ScienCell	1000	missing	missing
-BTO:0002441	HBVP	HBVP	missing	human	missing	ScienCell	1200	missing	missing
-BTO:0002488	HBVSMC	HBVSMC	missing	human	missing	ScienCell	1100	missing	missing
-BTO:0003093	HCF	HCF	missing	human	missing	ScienCell	6300	missing	missing
-BTO:0003093	HCFaa	HCFAA	missing	human	missing	ScienCell	6320	missing	missing
-BTO:0000249	HCH	HCH	missing	human	missing	PromoCell	HCH	missing	missing
-BTO:0000249	HCH_0011308.2P	HCH00113082P	missing	human	missing	PromoCell	C-14070	missing	missing
-BTO:0000249	HCH_8100808.2	HCH81008082	missing	human	missing	PromoCell	C-14070	missing	missing
-BTO:0001539	HCM	HCM	missing	human	missing	ScienCell	6200	missing	missing
-BTO:0000258	HCPEpiC	HCPE	missing	human	missing	ScienCell	1310	missing	missing
-BTO:0002254	HCT-116	HCT116	missing	human	missing	ATCC	CCL-247	missing	missing
-BTO:0003415	HConF	HCONF	missing	human	missing	ScienCell	6570	missing	missing
-BTO:0001578	HEEpiC	HEE	missing	human	missing	ScienCell	2720	missing	missing
-BTO:0000007	HEK293	HEK293	missing	human	missing	ATCC	CRL-1573	missing	missing
-BTO:0000007	HEK293(b)	HEK293b	missing	human	missing	ATCC	CRL-1573	missing	missing
-BTO:0000007	HEK293-T-REx	HEK293TREx	missing	human	missing	Invitrogen	r71007	missing	missing
-BTO:0000007	HEK293T	HEK293T	missing	human	missing	Thermo Scientific Open Biosystems	HCL4517	missing	missing
-BTO:0001849	HFDPC	HFDPC	missing	human	missing	PromoCell	HFDPC	missing	missing
-BTO:0001849	HFDPC_0100503.2	HFDPC01005032	missing	human	missing	PromoCell	C-14005	missing	missing
-BTO:0001849	HFDPC_0102703.3	HFDPC01027033	missing	human	missing	PromoCell	C-14005	missing	missing
+BTO:0000527	Gliobla	GLIOBLA	cellLine	human	missing	Dr. Darrell Bigner at Duke University Medical Center	D54	missing	missing
+BTO:0002807	H0287	H0287	cellLine	human	missing	Dr. John Stamatoyannopoulos at UW	H0287	missing	missing
+CL:0000007	H1-hESC	H1HESC	embryonicStemCells	human	missing	WiCell Research Institute	WA01	missing	missing
+BTO:0000938	H1-neurons	H1NEURONS	embryonicStemCells	human	missing	CDI	TBD	missing	missing
+BTO:0001086	H7-hESC	H7ES	embryonicStemCells	human	missing	WiCell Research Institute	WA07 (H7)	missing	missing
+BTO:0001086	H9ES	H9ES	embryonicStemCells	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
+BTO:0001086	H9ES-AFP+	H9ESAFP	embryonicStemCells	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
+BTO:0001086	H9ES-AFP-	H9ESAFPb	embryonicStemCells	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
+BTO:0001086	H9ES-CM	H9ESCM	embryonicStemCells	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
+BTO:0001086	H9ES-E	H9ESE	embryonicStemCells	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
+BTO:0001086	H9ES-EB	H9ESEB	embryonicStemCells	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
+BTO:0001086	H9ES-EBD	H9ESEBD	embryonicStemCells	human	missing	WiCell Research Institute	WA09 (H9)	missing	missing
+BTO:0000099	HA-h	HAH	primaryCells	human	missing	ScienCell	1830	missing	missing
+BTO:0000099	HA-sp	HASP	primaryCells	human	missing	ScienCell	1820	missing	missing
+BTO:0004660	HAEpiC	HAE	primaryCells	human	missing	ScienCell	7110	missing	missing
+BTO:0000759	HAL	HAL	tissue	human	missing	Asterand, Inc.	HAL	missing	missing
+BTO:0000099	HAc	HAC	primaryCells	human	missing	ScienCell	1810	missing	missing
+BTO:0000135	HAoAF	HAOAF	tissue	human	missing	PromoCell	HAoAF	missing	missing
+BTO:0000135	HAoAF_6090101.11	HAOAF609010111	tissue	human	missing	PromoCell	C-14037	missing	missing
+BTO:0000135	HAoAF_6111301.9	HAOAF61113019	tissue	human	missing	PromoCell	C-14037	missing	missing
+BTO:0000394	HAoEC	HAOEC	tissue	human	missing	PromoCell	HAoEC	missing	missing
+BTO:0000394	HAoEC_7071706.1	HAOEC70717061	tissue	human	missing	PromoCell	C-14023	missing	missing
+BTO:0000394	HAoEC_8061102.1	HAOEC80611021	tissue	human	missing	PromoCell	C-14023	missing	missing
+BTO:0003636	HBMEC	HBMEC	primaryCells	human	missing	ScienCell	1000	missing	missing
+BTO:0002441	HBVP	HBVP	primaryCells	human	missing	ScienCell	1200	missing	missing
+BTO:0002488	HBVSMC	HBVSMC	primaryCells	human	missing	ScienCell	1100	missing	missing
+BTO:0003093	HCF	HCF	primaryCells	human	missing	ScienCell	6300	missing	missing
+BTO:0003093	HCFaa	HCFAA	primaryCells	human	missing	ScienCell	6320	missing	missing
+BTO:0000249	HCH	HCH	primaryCells	human	missing	PromoCell	HCH	missing	missing
+BTO:0000249	HCH_0011308.2P	HCH00113082P	primaryCells	human	missing	PromoCell	C-14070	missing	missing
+BTO:0000249	HCH_8100808.2	HCH81008082	primaryCells	human	missing	PromoCell	C-14070	missing	missing
+BTO:0001539	HCM	HCM	tissue	human	missing	ScienCell	6200	missing	missing
+BTO:0000258	HCPEpiC	HCPE	tissue	human	missing	ScienCell	1310	missing	missing
+BTO:0002254	HCT-116	HCT116	cellLine	human	missing	ATCC	CCL-247	missing	missing
+BTO:0003415	HConF	HCONF	primaryCells	human	missing	ScienCell	6570	missing	missing
+BTO:0001578	HEEpiC	HEE	primaryCells	human	missing	ScienCell	2720	missing	missing
+BTO:0000007	HEK293	HEK293	cellLine	human	missing	ATCC	CRL-1573	missing	missing
+BTO:0000007	HEK293(b)	HEK293b	cellLine	human	missing	ATCC	CRL-1573	missing	missing
+BTO:0000007	HEK293-T-REx	HEK293TREx	cellLine	human	missing	Invitrogen	r71007	missing	missing
+BTO:0000007	HEK293T	HEK293T	cellLine	human	missing	Thermo Scientific Open Biosystems	HCL4517	missing	missing
+BTO:0001849	HFDPC	HFDPC	primaryCells	human	missing	PromoCell	HFDPC	missing	missing
+BTO:0001849	HFDPC_0100503.2	HFDPC01005032	primaryCells	human	missing	PromoCell	C-14005	missing	missing
+BTO:0001849	HFDPC_0102703.3	HFDPC01027033	primaryCells	human	missing	PromoCell	C-14005	missing	missing
 BTO:0002245	HFF	HFF	missing	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HFF	missing	missing
 BTO:0002245	HFF-Myc	HFFMYC	missing	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HFF-Myc	missing	missing
-BTO:0000759	HFL11W	HFL11W	missing	human	missing	Unknown	HFL11W	missing	missing
-BTO:0000759	HFL24W	HFL24W	missing	human	missing	Unknown	HFL24W	missing	missing
-BTO:0001251	HHSEC	HHSEC	missing	human	missing	ScienCell	5000	missing	missing
-BTO:0000653	HIPEpiC	HIPE	missing	human	missing	ScienCell	6560	missing	missing
-BTO:0000738	HL-60	HL60	missing	human	missing	ATCC	CCL-240	missing	missing
-BTO:0002178	HMEC	HMEC	missing	human	missing	Lonza	CC-2551	missing	missing
-BTO:0002178	HMEpC	HMEPC	missing	human	missing	PromoCell	HMEpC	missing	missing
-BTO:0002178	HMEpC_6022801.3	HMEPC60228013	missing	human	missing	PromoCell	C-14066	missing	missing
-BTO:0000817	HMF	HMF	missing	human	missing	ScienCell	7630	missing	missing
-BTO:0003599	HMVEC-LBl	HMVECh	missing	human	missing	Lonza	CC-2815, CC-2815T75	missing	missing
-BTO:0003599	HMVEC-LLy	HMVECb	missing	human	missing	Lonza	CC-2814, CC-2814T25	missing	missing
-BTO:0001854	HMVEC-dAd	HMVECDAD	missing	human	missing	Lonza	CC-2543,CC-3202	missing	missing
-BTO:0004574	HMVEC-dBl-Ad	HMVECc	missing	human	missing	Lonza	CC-2811, CC-2811T75	missing	missing
-BTO:0004574	HMVEC-dBl-Neo	HMVECd	missing	human	missing	Lonza	CC-2813, CC-2813T75	missing	missing
-BTO:0004574	HMVEC-dLy-Ad	HMVECe	missing	human	missing	Lonza	CC-2810, CC-2810T75	missing	missing
-BTO:0004574	HMVEC-dLy-Neo	HMVECf	missing	human	missing	Lonza	CC-2812, CC-2812T25	missing	missing
-BTO:0004574	HMVEC-dNeo	HMVECg	missing	human	missing	Lonza	CC-2505, CC-2505T225	missing	missing
-BTO:0001770	HNPCEpiC	HNPCE	missing	human	missing	ScienCell	6580	missing	missing
-BTO:0004324	HOB	HOB	missing	human	missing	PromoCell	HOB	missing	missing
-BTO:0004324	HOB_0090202.1	HOB00902021	missing	human	missing	PromoCell	C-14071	missing	missing
-BTO:0004324	HOB_0091301	HOB0091301	missing	human	missing	PromoCell	C-14071	missing	missing
-BTO:0001141	HPAEC	HPAEC	missing	human	missing	Lonza	CC-2530,CC-3162	missing	missing
-BTO:0003511	HPAEpiC	HPAE	missing	human	missing	ScienCell	3200	missing	missing
-BTO:0000778	HPAF	HPAF	missing	human	missing	ScienCell	3120	missing	missing
-BTO:0001975	HPC-PL	HPCPL	missing	human	missing	PromoCell	pericytes	missing	missing
-BTO:0001975	HPC-PL_0032601.13	HPCPL003260113	missing	human	missing	PromoCell	C-14095	missing	missing
-BTO:0001975	HPC-PL_0101504.13	HPCPL010150413	missing	human	missing	PromoCell	C-14095	missing	missing
-BTO:0002362	HPDE6-E6E7	HPDE6E6E7	missing	human	missing	Dr. Ming-Sound Tsao, Ontario Cancer Institute	HPDE6-E6E7	missing	missing
-BTO:0000764	HPF	HPF	missing	human	missing	ScienCell	3300	missing	missing
-BTO:0001975	HPIEpC	HPIEPC	missing	human	missing	PromoCell	human-placental-epithelial-cells-hplepc	missing	missing
-BTO:0001975	HPIEpC_9012801.2	HPIEPC90128012	missing	human	missing	PromoCell	C-14069	missing	missing
-BTO:0001975	HPIEpC_9041503.2	HPIEPC90415032	missing	human	missing	PromoCell	C-14069	missing	missing
-BTO:0001020	HPdLF	HPDLF	missing	human	missing	Lonza	CC-7049	missing	missing
-BTO:0001176	HRGEC	HRGEC	missing	human	missing	ScienCell	4000	missing	missing
-BTO:0001177	HRPEpiC	HRPE	missing	human	missing	ScienCell	6540	missing	missing
+BTO:0000759	HFL11W	HFL11W	tissue	human	missing	Unknown	HFL11W	missing	missing
+BTO:0000759	HFL24W	HFL24W	tissue	human	missing	Unknown	HFL24W	missing	missing
+BTO:0001251	HHSEC	HHSEC	primaryCells	human	missing	ScienCell	5000	missing	missing
+BTO:0000653	HIPEpiC	HIPE	primaryCells	human	missing	ScienCell	6560	missing	missing
+BTO:0000738	HL-60	HL60	cellLine	human	missing	ATCC	CCL-240	missing	missing
+BTO:0002178	HMEC	HMEC	primaryCells	human	missing	Lonza	CC-2551	missing	missing
+BTO:0002178	HMEpC	HMEPC	primaryCells	human	missing	PromoCell	HMEpC	missing	missing
+BTO:0002178	HMEpC_6022801.3	HMEPC60228013	primaryCells	human	missing	PromoCell	C-14066	missing	missing
+BTO:0000817	HMF	HMF	primaryCells	human	missing	ScienCell	7630	missing	missing
+BTO:0003599	HMVEC-LBl	HMVECh	primaryCells	human	missing	Lonza	CC-2815, CC-2815T75	missing	missing
+BTO:0003599	HMVEC-LLy	HMVECb	primaryCells	human	missing	Lonza	CC-2814, CC-2814T25	missing	missing
+BTO:0001854	HMVEC-dAd	HMVECDAD	primaryCells	human	missing	Lonza	CC-2543,CC-3202	missing	missing
+BTO:0004574	HMVEC-dBl-Ad	HMVECc	primaryCells	human	missing	Lonza	CC-2811, CC-2811T75	missing	missing
+BTO:0004574	HMVEC-dBl-Neo	HMVECd	primaryCells	human	missing	Lonza	CC-2813, CC-2813T75	missing	missing
+BTO:0004574	HMVEC-dLy-Ad	HMVECe	primaryCells	human	missing	Lonza	CC-2810, CC-2810T75	missing	missing
+BTO:0004574	HMVEC-dLy-Neo	HMVECf	primaryCells	human	missing	Lonza	CC-2812, CC-2812T25	missing	missing
+BTO:0004574	HMVEC-dNeo	HMVECg	primaryCells	human	missing	Lonza	CC-2505, CC-2505T225	missing	missing
+BTO:0001770	HNPCEpiC	HNPCE	primaryCells	human	missing	ScienCell	6580	missing	missing
+BTO:0004324	HOB	HOB	primaryCells	human	missing	PromoCell	HOB	missing	missing
+BTO:0004324	HOB_0090202.1	HOB00902021	primaryCells	human	missing	PromoCell	C-14071	missing	missing
+BTO:0004324	HOB_0091301	HOB0091301	primaryCells	human	missing	PromoCell	C-14071	missing	missing
+BTO:0001141	HPAEC	HPAEC	primaryCells	human	missing	Lonza	CC-2530,CC-3162	missing	missing
+BTO:0003511	HPAEpiC	HPAE	primaryCells	human	missing	ScienCell	3200	missing	missing
+BTO:0000778	HPAF	HPAF	primaryCells	human	missing	ScienCell	3120	missing	missing
+BTO:0001975	HPC-PL	HPCPL	tissue	human	missing	PromoCell	pericytes	missing	missing
+BTO:0001975	HPC-PL_0032601.13	HPCPL003260113	tissue	human	missing	PromoCell	C-14095	missing	missing
+BTO:0001975	HPC-PL_0101504.13	HPCPL010150413	tissue	human	missing	PromoCell	C-14095	missing	missing
+BTO:0002362	HPDE6-E6E7	HPDE6E6E7	cellLine	human	missing	Dr. Ming-Sound Tsao, Ontario Cancer Institute	HPDE6-E6E7	missing	missing
+BTO:0000764	HPF	HPF	primaryCells	human	missing	ScienCell	3300	missing	missing
+BTO:0001975	HPIEpC	HPIEPC	primaryCells	human	missing	PromoCell	human-placental-epithelial-cells-hplepc	missing	missing
+BTO:0001975	HPIEpC_9012801.2	HPIEPC90128012	primaryCells	human	missing	PromoCell	C-14069	missing	missing
+BTO:0001975	HPIEpC_9041503.2	HPIEPC90415032	primaryCells	human	missing	PromoCell	C-14069	missing	missing
+BTO:0001020	HPdLF	HPDLF	primaryCells	human	missing	Lonza	CC-7049	missing	missing
+BTO:0001176	HRGEC	HRGEC	primaryCells	human	missing	ScienCell	4000	missing	missing
+BTO:0001177	HRPEpiC	HRPE	primaryCells	human	missing	ScienCell	6540	missing	missing
 BTO:0000222	HSMM_FSHD	HSMMFSHD	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	HSMM_FSHD	missing	missing
 BTO:0000222	HSMM_emb	HSMMEMB	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	fetal myoblast cell strain (H246 and H275) from Dr Stephen Hauschka- U. of Washington 1980	missing	missing
 BTO:0001760	HSMMtube_FSHD	HSMMTUBEFSHD	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	HSMMtube_FSHD	missing	missing
 BTO:0001760	HSMMtube_emb	HSMMTUBEEMB	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	fetal myoblast cell strain (H246 and H275) from Dr Stephen Hauschka- U. of Washington 1980	missing	missing
-BTO:0003275	HSaVEC	HSAVEC	missing	human	missing	PromoCell	HSaVEC	missing	missing
-BTO:0003275	HSaVEC_0022202.16	HSAVEC002220216	missing	human	missing	PromoCell	C-14025	missing	missing
-BTO:0003275	HSaVEC_9100101.15	HSAVEC910010115	missing	human	missing	PromoCell	C-14025	missing	missing
-BTO:0001282	HT-1080	HT1080	missing	human	missing	ATCC	CCL-121	missing	missing
+BTO:0003275	HSaVEC	HSAVEC	primaryCells	human	missing	PromoCell	HSaVEC	missing	missing
+BTO:0003275	HSaVEC_0022202.16	HSAVEC002220216	primaryCells	human	missing	PromoCell	C-14025	missing	missing
+BTO:0003275	HSaVEC_9100101.15	HSAVEC910010115	primaryCells	human	missing	PromoCell	C-14025	missing	missing
+BTO:0001282	HT-1080	HT1080	cellLine	human	missing	ATCC	CCL-121	missing	missing
 BTO:0001079	HTR8svn	HTR8	missing	human	missing	Charles H. Graham, Department of Anatomy & Cell Biology, Queen's University at Kingston, Kingston, Ontario, Canada	HTR8svn	missing	missing
-BTO:0001949	HUVEC	HUVEC	missing	human	missing	Lonza	CC-2517	missing	missing
-BTO:0002625	HVMF	HVMF	missing	human	missing	ScienCell	7130	missing	missing
-BTO:0001975	HVMF_6091203.3	HVMF60912033	missing	human	missing	PromoCell	C-14034	missing	missing
-BTO:0001975	HVMF_6100401.3	HVMF61004013	missing	human	missing	PromoCell	C-14034	missing	missing
-BTO:0004042	HWP	HWP	missing	human	missing	PromoCell	HWP	missing	missing
-BTO:0004042	HWP_0092205	HWP0092205	missing	human	missing	PromoCell	C-14072	missing	missing
-BTO:0004042	HWP_8120201.5	HWP81202015	missing	human	missing	PromoCell	C-14072	missing	missing
-BTO:0000568	HeLa-S3	HELAS3	missing	human	missing	ATCC	CCL-2.2	missing	missing
+BTO:0001949	HUVEC	HUVEC	primaryCells	human	missing	Lonza	CC-2517	missing	missing
+BTO:0002625	HVMF	HVMF	primaryCells	human	missing	ScienCell	7130	missing	missing
+BTO:0001975	HVMF_6091203.3	HVMF60912033	primaryCells	human	missing	PromoCell	C-14034	missing	missing
+BTO:0001975	HVMF_6100401.3	HVMF61004013	primaryCells	human	missing	PromoCell	C-14034	missing	missing
+BTO:0004042	HWP	HWP	primaryCells	human	missing	PromoCell	HWP	missing	missing
+BTO:0004042	HWP_0092205	HWP0092205	primaryCells	human	missing	PromoCell	C-14072	missing	missing
+BTO:0004042	HWP_8120201.5	HWP81202015	primaryCells	human	missing	PromoCell	C-14072	missing	missing
+BTO:0000568	HeLa-S3	HELAS3	cellLine	human	missing	ATCC	CCL-2.2	missing	missing
 AMAD:3341	HeadlessEmbryo	HLEMBRYO	tissue	mouse	missing	Selleri lab, Cornell	HeadlessEmbryo	missing	missing
 AMAD:7103	Heart	HEART	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Heart; Heart	missing	missing
-BTO:0000562	Heart_OC	HEARTOC	missing	human	missing	NICHD	1104; 602; 1442; 1863; 4548	missing	missing
+BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	1104; 602; 1442; 1863; 4548	missing	missing
 BTO:0000562	Heart_STL003	HeartSTL003	missing	human	missing	Snyder lab	STL003	missing	missing
-BTO:0000599	HepG2	HEPG2	missing	human	missing	ATCC	HB-8065	missing	missing
-BTO:0000599	HepG2b	HEPG2b	missing	human	missing	ATCC	HB-8065	missing	missing
+BTO:0000599	HepG2	HEPG2	cellLine	human	missing	ATCC	HB-8065	missing	missing
+BTO:0000599	HepG2b	HEPG2b	cellLine	human	missing	ATCC	HB-8065	missing	missing
 BTO:0000575	Hepatocytes	HEPATO	missing	human	missing	zen-bio	Missing	missing	missing
 AMAD:3891	HindlimbBud	HLBUD	tissue	mouse	missing	Selleri lab, Cornell	HindlimbBud	missing	missing
-BTO:0001950	Huh-7	HUH7	missing	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7	missing	missing
-BTO:0001950	Huh-7.5	HUH75	missing	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7.5	missing	missing
-BTO:0001229	IMR90	IMR90	missing	human	missing	ATCC	CCL-186	58607680	missing
-BTO:0000658	Ishikawa	ISHIKAWA	missing	human	missing	Sigma-Aldrich	99040201	missing	missing
+BTO:0001950	Huh-7	HUH7	cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7	missing	missing
+BTO:0001950	Huh-7.5	HUH75cellLine	human	missing	Dr. Ravi Jhaveri at Duke University	Huh-7.5	missing	missing
+BTO:0001229	IMR90	IMR90	cellLine	human	missing	ATCC	CCL-186	58607680	missing
+BTO:0000658	Ishikawa	ISHIKAWA	cellLine	human	missing	Sigma-Aldrich	99040201	missing	missing
 AMAD:174	J185a	J185A	cellLine	mouse	missing	Gilbert lab	J185a	missing	missing
-BTO:0001948	Jurkat	JURKAT	missing	human	missing	ATCC	TIB-152	missing	missing
-BTO:0000664	K562	K562	missing	human	missing	ATCC	CCL-243	missing	missing
-BTO:0000664	K562b	K562b	missing	human	missing	ATCC	CCL-243	missing	missing
+BTO:0001948	Jurkat	JURKAT	cellLine	human	missing	ATCC	TIB-152	missing	missing
+BTO:0000664	K562	K562	cellLine	human	missing	ATCC	CCL-243	missing	missing
+BTO:0000664	K562b	K562b	cellLine	human	missing	ATCC	CCL-243	missing	missing
 AMAD:6960	Kidney	KIDNEY	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Kidney; Kidney	missing	missing
-BTO:0000671	Kidney_BC	KIDNEYBC	missing	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055; CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing
-BTO:0000671	Kidney_OC	KIDNEYOC	missing	human	missing	NICHD ; NICHD ; NICHD ; NCTC ; NICHD	1104; 602; 1442; 10-0022A; 1863	missing	missing
+BTO:0000671	Kidney_BC	KIDNEYBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055; CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing
+BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; NCTC ; NICHD	1104; 602; 1442; 10-0022A; 1863	missing	missing
 AMAD:7077	L1210	L1210	cellLine	mouse	missing	ATCC	CCL-219	missing	missing
-BTO:0005046	LHCN-M2	LHCNM2	missing	human	missing	Dr. Woodring Wright	Missing	missing	missing
-BTO:0002398	LHSR	LHSR	missing	human	missing	William Hahn at the Dana Farber Cancer Institute, Boston, MA	LHSR	missing	missing
-BTO:0002021	LNCaP	LNCAP	missing	human	missing	ATCC	CRL-1740	missing	missing
+BTO:0005046	LHCN-M2	LHCNM2	cellLine	human	missing	Dr. Woodring Wright	Missing	missing	missing
+BTO:0002398	LHSR	LHSR	cellLine	human	missing	William Hahn at the Dana Farber Cancer Institute, Boston, MA	LHSR	missing	missing
+BTO:0002021	LNCaP	LNCAP	cellLine	human	missing	ATCC	CRL-1740	missing	missing
 AMAD:6982	LgIntestine	LGINT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Large Intestine; Large Intestine	missing	missing
 AMAD:7127	Limb	LIMB	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Limb; Limb	missing	missing
 AMAD:6963	Liver	LIVER	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Liver; Liver	missing	missing
-BTO:0000759	Liver_OC	LIVEROC	missing	human	missing	NICHD	1104; 602; 1442	missing	missing
-BTO:0000759	Liver_STL004	LIVSTL004	missing	human	missing	Snyder lab	STL004	missing	missing
-BTO:0000759	Liver_STL011	LIVSTL011	missing	human	missing	Snyder lab	STL011	missing	missing
-BTO:0002104	Loucy	LOUCY	missing	human	missing	DSMZ	Loucy	missing	missing
+BTO:0000759	Liver_OC	LIVEROC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing
+BTO:0000759	Liver_STL004	LIVSTL004	tissue	human	missing	Snyder lab	STL004	missing	missing
+BTO:0000759	Liver_STL011	LIVSTL011	tissue	human	missing	Snyder lab	STL011	missing	missing
+BTO:0002104	Loucy	LOUCY	cellLine	human	missing	DSMZ	Loucy	missing	missing
 AMAD:6948	Lung	LUNG	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Lung; Lung	missing	missing
-BTO:0000763	Lung_BC	LUNGBC	missing	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114; CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing
-BTO:0000763	Lung_OC	LUNGOC	missing	human	missing	NICHD ; NICHD ; NICHD ; CF Center ; CF Center	1104; 602; 1442; DD006I; DD007I	missing	missing
-BTO:0000527	M059J	M059J	missing	human	missing	ATCC	CRL-2366	missing	missing
-BTO:0000093	MCF-7	MCF7	missing	human	missing	ATCC	HTB-22	59401285	missing
-BTO:0001939	MCF10A-Er-Src	MCF10AES	missing	human	missing	Struhl laboratory	MCF10A-Er-Src	missing	missing
-BTO:0000815	MDA-MB-231	MDA	missing	human	missing	ATCC	HTB-26	missing	missing
+BTO:0000763	Lung_BC	LUNGBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114; CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing
+BTO:0000763	Lung_OC	LUNGOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; CF Center ; CF Center	1104; 602; 1442; DD006I; DD007I	missing	missing
+BTO:0000527	M059J	M059J	cellLine	human	missing	ATCC	CRL-2366	missing	missing
+BTO:0000093	MCF-7	MCF7	cellLine	human	missing	ATCC	HTB-22	59401285	missing
+BTO:0001939	MCF10A-Er-Src	MCF10AES	cellLine	human	missing	Struhl laboratory	MCF10A-Er-Src	missing	missing
+BTO:0000815	MDA-MB-231	MDA	cellLine	human	missing	ATCC	HTB-26	missing	missing
 AMAD:6948	MEF	MEF	primaryCells	mouse	missing	LICR lab	MEF	missing	missing
 MP:0002026	MEL	MEL	cellLine	mouse	missing	Weissman lab	MEL	missing	missing
 AMAD:7040	MEP	MEP	primaryCells	mouse	missing	Bodine lab	MEP	missing	missing
-BTO:0002062	MRT_A204	MRTA204	missing	human	missing	ATCC	HTB-82	1	missing
-BTO:0002062	MRT_G401	MRTG401	missing	human	missing	ATCC	CRL-1441	6	missing
-BTO:0002062	MRT_TTC549	MRTTTC549	missing	human	missing	ATCC	TTC549	missing	missing
+BTO:0002062	MRT_A204	MRTA204	cellLine	human	missing	ATCC	HTB-82	1	missing
+BTO:0002062	MRT_G401	MRTG401	cellLine	human	missing	ATCC	CRL-1441	6	missing
+BTO:0002062	MRT_TTC549	MRTTTC549	cellLine	human	missing	ATCC	TTC549	missing	missing
 AMAD:7035	MammaryGland	MAMG	tissue	mouse	missing	CSHL lab	Mammary Gland	missing	missing
-BTO:0001359	Medullo	MEDULLO	missing	human	missing	Dr. Darrell Bigner at Duke University Medical Center	missing	missing	missing
-BTO:0001757	Medullo_D341	MEDULLOD341	missing	human	missing	Dr. Darrell Bigner at Duke University Medical Center	Medullo_D341	missing	missing
+BTO:0001359	Medullo	MEDULLO	cellLine	human	missing	Dr. Darrell Bigner at Duke University Medical Center	missing	missing	missing
+BTO:0001757	Medullo_D341	MEDULLOD341	cellLine	human	missing	Dr. Darrell Bigner at Duke University Medical Center	Medullo_D341	missing	missing
 AMAD:7054	Megakaryo	MEGAKARYO	primaryCells	mouse	missing	Mitch Weiss lab	missing	missing	missing
-BTO:0000849	Mel_2183	MEL2183	missing	human	missing	Dr. Yardena Samuels	Mel_2183	missing	missing
-BTO:0000847	Melano	MELANO	missing	human	missing	ScienCell	2200	missing	missing
+BTO:0000849	Mel_2183	MEL2183	cellLine	human	missing	Dr. Yardena Samuels	Mel_2183	missing	missing
+BTO:0000847	Melano	MELANO	primaryCells	human	missing	ScienCell	2200	missing	missing
 AMAD:3342	Mesoderm	MESODERM	tissue	mouse	missing	Selleri lab, Cornell	Mesoderm	missing	missing
-BTO:0000876	Monocytes-CD14+	MONOCD14	missing	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+	missing	missing
-BTO:0000876	Monocytes-CD14+_RO01746	MONOCD14RO1746	missing	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+_RO01746	missing	missing
-BTO:0000876	Monocytes-CD14+_RO01826	MONOCD14RO1826	missing	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+_RO01826	missing	missing
+BTO:0000876	Monocytes-CD14+	MONOCD14	tissue	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+	missing	missing
+BTO:0000876	Monocytes-CD14+_RO01746	MONOCD14RO1746	tissue	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+_RO01746	missing	missing
+BTO:0000876	Monocytes-CD14+_RO01826	MONOCD14RO1826	tissue	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+_RO01826	missing	missing
 BTO:0000907	Myometr	MYOMETR	missing	human	missing	Dr. Jennifer Condon of Magee Women's Research Institute	missing	missing	missing
-BTO:0002489	NB4	NB4	missing	human	missing	Refer to protocol documents for differing sources, UW: DSMZ (Deutsche Sammlung von Mikroorganismen und Zellkulturen) ACC-207 http://www.dsmz.de/ or Yale (Stanford): National Cell Culture Center http://www.nccc.com/	NB4	missing	missing
-BTO:0000099	NH-A	NHA	missing	human	missing	Lonza	CC-2565	missing	missing
-BTO:0002022	NHBE	NHBE	missing	human	missing	Lonza	CC-2541	missing	missing
-BTO:0001845	NHBE_RA	NHBERA	missing	human	missing	Lonza	CC-2540, CC3170	missing	missing
-BTO:0003185	NHDF	NHDF	missing	human	missing	PromoCell	NHDF	missing	missing
-BTO:0004419	NHDF-Ad	NHDFAD	missing	human	missing	Lonza	CC-2511, CC-2511T225	missing	missing
-BTO:0004419	NHDF-neo	NHDFNEO	missing	human	missing	Lonza	CC-2509	missing	missing
-BTO:0003185	NHDF_0060801.3	NHDF00608013	missing	human	missing	PromoCell	C-14031	missing	missing
-BTO:0003185	NHDF_7071701.2	NHDF70717012	missing	human	missing	PromoCell	C-14031	missing	missing
-BTO:0000375	NHEK	NHEK	tissue	human	missing	Lonza	CC-2501	missing	missing
-BTO:0000847	NHEM.f_M2	NHEMFM2	missing	human	missing	PromoCell	NHEM	missing	missing
-BTO:0000847	NHEM.f_M2_5071302.2	NHEMFM250713022	missing	human	missing	PromoCell	C-14042	missing	missing
-BTO:0000847	NHEM.f_M2_6022001	NHEMFM26022001	missing	human	missing	PromoCell	C-14042	missing	missing
-BTO:0000847	NHEM_M2	NHEMM2	missing	human	missing	PromoCell	NHEM	missing	missing
-BTO:0000847	NHEM_M2_7011001.2	NHEMM270110012	missing	human	missing	PromoCell	C-14043	missing	missing
-BTO:0000847	NHEM_M2_7012303	NHEMM27012303	missing	human	missing	PromoCell	C-14043	missing	missing
+BTO:0002489	NB4	NB4	cellLine	human	missing	Refer to protocol documents for differing sources, UW: DSMZ (Deutsche Sammlung von Mikroorganismen und Zellkulturen) ACC-207 http://www.dsmz.de/ or Yale (Stanford): National Cell Culture Center http://www.nccc.com/	NB4	missing	missing
+BTO:0000099	NH-A	NHA	primaryCells	human	missing	Lonza	CC-2565	missing	missing
+BTO:0002022	NHBE	NHBE	primaryCells	human	missing	Lonza	CC-2541	missing	missing
+BTO:0001845	NHBE_RA	NHBERA	primaryCells	human	missing	Lonza	CC-2540, CC3170	missing	missing
+BTO:0003185	NHDF	NHDF	primaryCells	human	missing	PromoCell	NHDF	missing	missing
+BTO:0004419	NHDF-Ad	NHDFAD	primaryCells	human	missing	Lonza	CC-2511, CC-2511T225	missing	missing
+BTO:0004419	NHDF-neo	NHDFNEO	primaryCells	human	missing	Lonza	CC-2509	missing	missing
+BTO:0003185	NHDF_0060801.3	NHDF00608013	primaryCells	human	missing	PromoCell	C-14031	missing	missing
+BTO:0003185	NHDF_7071701.2	NHDF70717012	primaryCells	human	missing	PromoCell	C-14031	missing	missing
+BTO:0000375	NHEK	NHEK	primaryCells	human	missing	Lonza	CC-2501	missing	missing
+BTO:0000847	NHEM.f_M2	NHEMFM2	primaryCells	human	missing	PromoCell	NHEM	missing	missing
+BTO:0000847	NHEM.f_M2_5071302.2	NHEMFM250713022	primaryCells	human	missing	PromoCell	C-14042	missing	missing
+BTO:0000847	NHEM.f_M2_6022001	NHEMFM26022001	primaryCells	human	missing	PromoCell	C-14042	missing	missing
+BTO:0000847	NHEM_M2	NHEMM2	primaryCells	human	missing	PromoCell	NHEM	missing	missing
+BTO:0000847	NHEM_M2_7011001.2	NHEMM270110012	primaryCells	human	missing	PromoCell	C-14043	missing	missing
+BTO:0000847	NHEM_M2_7012303	NHEMM27012303	primaryCells	human	missing	PromoCell	C-14043	missing	missing
 AMAD:7146	NIH-3T3	NIH3T3	cellLine	mouse	missing	ATCC	CRL-1658	missing	missing
-BTO:0000946	NT2-D1	NT2D1	missing	human	missing	ATCC	CRL-1973	missing	missing
-BTO:0000776	Naive_B_cell	NAIVEBCELL	missing	human	missing	Dr. Yanwen Jiang	Naive_B_cell	missing	missing
+BTO:0000946	NT2-D1	NT2D1	cellLine	human	missing	ATCC	CRL-1973	missing	missing
+BTO:0000776	Naive_B_cell	NAIVEBCELL	tissue	human	missing	Dr. Yanwen Jiang	Naive_B_cell	missing	missing
 BTO:0000961	Olf_neurosphere	OLFNEUROSPHERE	missing	human	missing	Alan Mackay-Sim	Olf_neurosphere	missing	missing
 AMAD:7015	OlfactBulb	OLFACT	tissue	mouse	missing	LICR lab	Olfactory Bulb	missing	missing
-BTO:0001593	Osteobl	OSTEO	missing	human	missing	Lonza	CC-2538	missing	missing
+BTO:0001593	Osteobl	OSTEO	primaryCells	human	missing	Lonza	CC-2538	missing	missing
 AMAD:6958	Ovary	OVARY	tissue	mouse	missing	CSHL lab	Ovary	missing	missing
-BTO:0000304	PANC-1	PANC1	missing	human	missing	ATCC	CRL-1469	missing	missing
-BTO:0000553	PBDEFetal	PBDEFETAL	missing	human	missing	Bouhassira Lab	FetalPBDE	missing	missing
-BTO:0001025	PBMC	PBMC	missing	human	missing	Dr. E.H. Bresnick at UW Madison	PBMC	missing	missing
+BTO:0000304	PANC-1	PANC1	cellLine	human	missing	ATCC	CRL-1469	missing	missing
+BTO:0000553	PBDEFetal	PBDEFETAL	tissue	human	missing	Bouhassira Lab	FetalPBDE	missing	missing
+BTO:0001025	PBMC	PBMC	tissue	human	missing	Dr. E.H. Bresnick at UW Madison	PBMC	missing	missing
 AMAD:7015	Pancreas	PANCREAS	tissue	mouse	missing	LICR lab	Pancreas	missing	missing
-BTO:0000988	Pancreas_OC	PANCREASOC	missing	human	missing	NCTC	09-0144A; 10-0021A	missing	missing
+BTO:0000988	Pancreas_OC	PANCREASOC	tissue	human	missing	NCTC	09-0144A; 10-0021A	missing	missing
 AMAD:6948	Patski	PATSKI	cellLine	mouse	missing	Dr. Christine Disteche at University of Washington	Patski	missing	missing
 AMAD:6957	Placenta	PLAC	tissue	mouse	missing	LICR lab	Placenta	missing	missing
-BTO:0001101	Pons_OC	PONSOC	missing	human	missing	NICHD	1104; 602; 1442	missing	missing
-BTO:0002398	PrEC	PREC	missing	human	missing	Lonza	CC-2555	missing	missing
-BTO:0001129	Prostate_OC	PROSTATEOC	missing	human	missing	NICHD	1669; 1540	missing	missing
-BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	missing	human	missing	NICHD	1104; 602; 1442; 1540; 1863	missing	missing
-BTO:0000037	RCC_7860	RCC7860	missing	human	missing	ATCC	CRL-1932	missing	missing
-BTO:0003508	RPMI-7951	RPMI7951	missing	human	missing	ATCC	HTB-66	missing	missing
-BTO:0001498	RPTEC	RPTEC	missing	human	missing	Lonza	CC-2553, CC-2553T225	missing	missing
-BTO:0002397	RWPE1	RWPE1	missing	human	missing	ATCC	CRL-11609	missing	missing
-BTO:0001154	Raji	RAJI	missing	human	missing	ATCC	CCl-86	missing	missing
+BTO:0001101	Pons_OC	PONSOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing
+BTO:0002398	PrEC	PREC	primaryCells	human	missing	Lonza	CC-2555	missing	missing
+BTO:0001129	Prostate_OC	PROSTATEOC	tissue	human	missing	NICHD	1669; 1540	missing	missing
+BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	missing	NICHD	1104; 602; 1442; 1540; 1863	missing	missing
+BTO:0000037	RCC_7860	RCC7860	cellLine	human	missing	ATCC	CRL-1932	missing	missing
+BTO:0003508	RPMI-7951	RPMI7951	cellLine	human	missing	ATCC	HTB-66	missing	missing
+BTO:0001498	RPTEC	RPTEC	primaryCells	human	missing	Lonza	CC-2553, CC-2553T225	missing	missing
+BTO:0002397	RWPE1	RWPE1	cellLine	human	missing	ATCC	CRL-11609	missing	missing
+BTO:0001154	Raji	RAJI	cellLine	human	missing	ATCC	CCl-86	missing	missing
 AMAD:6944	Retina	RETINA	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Retina	missing	missing
-BTO:0000793	SH-SY5Y	SHSY5Y	missing	human	missing	ATCC	CC-2266	missing	missing
-BTO:0001620	SK-N-SH	SKNSH	missing	human	missing	ATCC	HTB-11	59257297	missing
-BTO:0002916	SkMC	SKMC	missing	human	missing	PromoCell	SkMC	missing	missing
-BTO:0002916	SkMC_8121902.17	SKMC812190217	missing	human	missing	PromoCell	C-14060	missing	missing
-BTO:0002916	SkMC_9011302	SKMC9011302	missing	human	missing	PromoCell	C-14060	missing	missing
+BTO:0000793	SH-SY5Y	SHSY5Y	cellLine	human	missing	ATCC	CC-2266	missing	missing
+BTO:0001620	SK-N-SH	SKNSH	cellLine	human	missing	ATCC	HTB-11	59257297	missing
+BTO:0002916	SkMC	SKMC	primaryCells	human	missing	PromoCell	SkMC	missing	missing
+BTO:0002916	SkMC_8121902.17	SKMC812190217	primaryCells	human	missing	PromoCell	C-14060	missing	missing
+BTO:0002916	SkMC_9011302	SKMC9011302	primaryCells	human	missing	PromoCell	C-14060	missing	missing
 AMAD:7125	SkMuscle	SKMUSCLE	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Skeletal Muscle	missing	missing
 BTO:0001103	Skeletal_Muscle_BC	SKELBC	missing	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148; CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing
 AMAD:4556	Skin	SKIN	tissue	mouse	missing	LICR lab	Skin	missing	missing
 AMAD:6978	SmIntestine	SMINT	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Small Intestine; Small Intestine	missing	missing
-BTO:0000651	Small_intestine_OC	SMALLINTESTINEOC	missing	human	missing	NCTC	10-0063A; 09-0143A	missing	missing
+BTO:0000651	Small_intestine_OC	SMALLINTESTINEOC	tissue	human	missing	NCTC	10-0063A; 09-0143A	missing	missing
 AMAD:4521	SpinalCord	SPC	tissue	mouse	missing	LICR lab	Spinal Cord	missing	missing
 AMAD:7038	Spleen	SPL	tissue	mouse	missing	1) LICR lab; 2)Dr. John Stamatoyannopoulos at UW; 3)CSHL lab	Spleen; Spleen; Spleen	missing	missing
-BTO:0001281	Spleen_OC	SPLEENOC	missing	human	missing	NICHD	1863; 4548	missing	missing
-BTO:0002316	Stellate	STELLATE	missing	human	missing	Dr. Steve Choi at Duke University	Stellate	missing	missing
+BTO:0001281	Spleen_OC	SPLEENOC	tissue	human	missing	NICHD	1863; 4548	missing	missing
+BTO:0002316	Stellate	STELLATE	tissue	human	missing	Dr. Steve Choi at Duke University	Stellate	missing	missing
 AMAD:6966	Stomach	STOM	tissue	mouse	missing	1) CSHL lab; 2) LICR lab	Stomach; Stomach	missing	missing
-BTO:0001307	Stomach_BC	STOMACHBC	missing	human	missing	BioChain; BioChain; BioChain	CP-S12-D1234248-05_A808008; CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing
+BTO:0001307	Stomach_BC	STOMACHBC	tissue	human	missing	BioChain; BioChain; BioChain	CP-S12-D1234248-05_A808008; CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing
 AMAD:17477	SubcFatPad	SFAT	tissue	mouse	missing	CSHL lab	Subcutaneous Adipose tissue	missing	missing
-BTO:0001248	T-47D	T47D	missing	human	missing	ATCC	HTB-133	missing	missing
+BTO:0001248	T-47D	T47D	cellLine	human	missing	ATCC	HTB-133	missing	missing
 AMAD:7060	T-Naive	TNAIVE	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	T-Naive	missing	missing
-BTO:0001583	T98G	T98G	missing	human	missing	ATCC	CRL-1690	missing	missing
+BTO:0001583	T98G	T98G	cellLine	human	missing	ATCC	CRL-1690	missing	missing
 AMAD:7060	THelper-Activated	THELPA	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	THelper-Activated	missing	missing
 AMAD:7060	TReg	TREG	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg	missing	missing
 AMAD:7060	TReg-Activated	TREGA	primaryCells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg-Activated	missing	missing
 BTO:0000782	T_cells_CD4+	TCELLSCD4	missing	human	missing	Dr. David Randolph at University of Alabama, Birmingham	vary	missing	missing
 AMAD:9201	Testis	TESTIS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Testis; Testis	missing	missing
-BTO:0001678	Th1	TH1	missing	human	missing	Dr. John Stamatoyannopoulos at UW	None (primary pheresis of single normal subject)	missing	missing
-BTO:0002417	Th17	TH17	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Th17	missing	missing
-BTO:0001678	Th1_Wb33676984	TH1WB33676984	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Wb33676984	missing	missing
-BTO:0001678	Th1_Wb54553204	TH1WB54553204	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Wb54553204	missing	missing
-BTO:0001679	Th2	TH2	missing	human	missing	Dr. John Stamatoyannopoulos at UW	None (primary pheresis of single normal subject)	missing	missing
-BTO:0001679	Th2_Wb33676984	TH2WB33676984	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Wb33676984	missing	missing
-BTO:0001679	Th2_Wb54553204	TH2WB54553204	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Wb54553204	missing	missing
+BTO:0001678	Th1	TH1	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	None (primary pheresis of single normal subject)	missing	missing
+BTO:0002417	Th17	TH17	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Th17	missing	missing
+BTO:0001678	Th1_Wb33676984	TH1WB33676984	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb33676984	missing	missing
+BTO:0001678	Th1_Wb54553204	TH1WB54553204	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb54553204	missing	missing
+BTO:0001679	Th2	TH2	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	None (primary pheresis of single normal subject)	missing	missing
+BTO:0001679	Th2_Wb33676984	TH2WB33676984	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb33676984	missing	missing
+BTO:0001679	Th2_Wb54553204	TH2WB54553204	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb54553204	missing	missing
 AMAD:7037	Thymus	THYMUS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Thymus; Thymus	missing	missing
-BTO:0004520	Treg_Wb78495824	TREGWB78495824	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing
-BTO:0004520	Treg_Wb83319432	TREGWB83319432	missing	human	missing	Dr. John Stamatoyannopoulos at UW	Wb83319432	missing	missing
-BTO:0000970	U2OS	U2OS	missing	human	missing	ATCC	HTB-96	missing	missing
-BTO:0002036	U87	U87	missing	human	missing	ATCC	HTB-14	missing	missing
-BTO:0001768	UCH-1	UCH1	missing	human	missing	Chordoma Research	Foundation	missing	missing
+BTO:0004520	Treg_Wb78495824	TREGWB78495824	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing
+BTO:0004520	Treg_Wb83319432	TREGWB83319432	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb83319432	missing	missing
+BTO:0000970	U2OS	U2OS	cellLine	human	missing	ATCC	HTB-96	missing	missing
+BTO:0002036	U87	U87	cellLine	human	missing	ATCC	HTB-14	missing	missing
+BTO:0001768	UCH-1	UCH1	cellLine	human	missing	Chordoma Research	Foundation	missing	missing
 AMAD:11033	UpperLegMuscle	ULMUS	tissue	mouse	missing	LICR lab	Thigh Muscle	missing	missing
-BTO:0001245	Urothelia	UROTHEL	missing	human	missing	Dr. D Sens at University of N. Dakota	Urothelia	missing	missing
-BTO:0001958	WI-38	WI38	missing	human	missing	Dr. Carl Mann, SBIGeM	WI-38	missing	missing
+BTO:0001245	Urothelia	UROTHEL	cellLine	human	missing	Dr. D Sens at University of N. Dakota	Urothelia	missing	missing
+BTO:0001958	WI-38	WI38	cellLine	human	missing	Dr. Carl Mann, SBIGeM	WI-38	missing	missing
 AMAD:7005	WholeBrain	WBRAIN	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Whole Brain; Whole Brain	missing	missing
 AMAD:29	ZhBTc4	ZHBTC4	primaryCells	mouse	missing	Dr. Levasseur at University of Iowa	ZhBTc4	missing	missing
-BTO:0000141	bone_marrow_HS27a	HS27A	missing	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS27a	missing	missing
-BTO:0000141	bone_marrow_HS5	HS5	missing	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS5	missing	missing
-BTO:0000141	bone_marrow_MSC	MSC	missing	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	MSC	missing	missing
-BTO:0004054	hMNC-CB	HMNCCB	missing	human	missing	PromoCell	hMNC-CB	missing	missing
-BTO:0004054	hMNC-CB_8072802.6	HMNCCB80728026	missing	human	missing	PromoCell	C-14096	missing	missing
-BTO:0004054	hMNC-CB_9111701.6	HMNCCB91117016	missing	human	missing	PromoCell	C-14096	missing	missing
-BTO:0001025	hMNC-PB	HMNCPB	missing	human	missing	PromoCell	hMNC-PB	missing	missing
-BTO:0001025	hMNC-PB_0022330.9	HMNCPB00223309	missing	human	missing	PromoCell	C-14098	missing	missing
-BTO:0001025	hMNC-PB_0082430.9	HMNCPB00824309	missing	human	missing	PromoCell	C-14098	missing	missing
-BTO:0003298	hMSC-AT	HMSCAT	missing	human	missing	PromoCell	hMSC-AT	missing	missing
-BTO:0003298	hMSC-AT_0102604.12	HMSCAT010260412	missing	human	missing	PromoCell	C-14092	missing	missing
-BTO:0003298	hMSC-AT_9061601.12	HMSCAT906160112	missing	human	missing	PromoCell	C-14092	missing	missing
-BTO:0003298	hMSC-BM	HMSCBM	missing	human	missing	PromoCell	hMSC-BM	missing	missing
-BTO:0003298	hMSC-BM_0050602.11	HMSCBM005060211	missing	human	missing	PromoCell	C-14090	missing	missing
-BTO:0003298	hMSC-BM_0051105.11	HMSCBM005110511	missing	human	missing	PromoCell	C-14090	missing	missing
-BTO:0003298	hMSC-UC	HMSCUC	missing	human	missing	PromoCell	hMSC-UC	missing	missing
-BTO:0003298	hMSC-UC_0052501.7	HMSCUC00525017	missing	human	missing	PromoCell	C-14091	missing	missing
-BTO:0003298	hMSC-UC_0081101.7	HMSCUC00811017	missing	human	missing	PromoCell	C-14091	missing	missing
+BTO:0000141	bone_marrow_HS27a	HS27A	cellLine	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS27a	missing	missing
+BTO:0000141	bone_marrow_HS5	HS5	cellLine	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS5	missing	missing
+BTO:0000141	bone_marrow_MSC	MSC	cellLine	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	MSC	missing	missing
+BTO:0004054	hMNC-CB	HMNCCB	tissue	human	missing	PromoCell	hMNC-CB	missing	missing
+BTO:0004054	hMNC-CB_8072802.6	HMNCCB80728026	tissue	human	missing	PromoCell	C-14096	missing	missing
+BTO:0004054	hMNC-CB_9111701.6	HMNCCB91117016	tissue	human	missing	PromoCell	C-14096	missing	missing
+BTO:0001025	hMNC-PB	HMNCPB	missing	human	tissue	PromoCell	hMNC-PB	missing	missing
+BTO:0001025	hMNC-PB_0022330.9	HMNCPB00223309	tissue	human	missing	PromoCell	C-14098	missing	missing
+BTO:0001025	hMNC-PB_0082430.9	HMNCPB00824309	tissue	human	missing	PromoCell	C-14098	missing	missing
+BTO:0003298	hMSC-AT	HMSCAT	tissue	human	missing	PromoCell	hMSC-AT	missing	missing
+BTO:0003298	hMSC-AT_0102604.12	HMSCAT010260412	tissue	human	missing	PromoCell	C-14092	missing	missing
+BTO:0003298	hMSC-AT_9061601.12	HMSCAT906160112	tissue	human	missing	PromoCell	C-14092	missing	missing
+BTO:0003298	hMSC-BM	HMSCBM	tissue	human	missing	PromoCell	hMSC-BM	missing	missing
+BTO:0003298	hMSC-BM_0050602.11	HMSCBM005060211	tissue	human	missing	PromoCell	C-14090	missing	missing
+BTO:0003298	hMSC-BM_0051105.11	HMSCBM005110511	tissue	human	missing	PromoCell	C-14090	missing	missing
+BTO:0003298	hMSC-UC	HMSCUC	tissue	human	missing	PromoCell	hMSC-UC	missing	missing
+BTO:0003298	hMSC-UC_0052501.7	HMSCUC00525017	tissue	human	missing	PromoCell	C-14091	missing	missing
+BTO:0003298	hMSC-UC_0081101.7	HMSCUC00811017	tissue	human	missing	PromoCell	C-14091	missing	missing
 BTO:0000001	iPS_CWRU1	IPSCWRU1	missing	human	missing	Paul Tesar at Case Western University	iPS_CWRU1	missing	missing
 BTO:0000001	iPS_NIHi11	IPSNIHI11	missing	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS_NIHi11	missing	missing
 BTO:0000001	iPS_NIHi7	IPSNIHI7	missing	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS_NIHi7	missing	missing
 BTO:0000001	iPS_hFib2_iPS4	IPSHFIB2IPS4	missing	human	missing	HSCI iPS Cell Core Facility	hFib2_iPS4	missing	missing
 BTO:0000001	iPS_hFib2_iPS5	IPSHFIB2IPS5	missing	human	missing	HSCI iPS Cell Core Facility	hFib2_iPS5	missing	missing
 GO:0030218	mG/ER	MGER	cellLine	mouse	missing	Dr. John Stamatoyannopoulos at UW	mG/ER	missing	missing
-BTO:0000812	ovcar-3	OVCAR3	missing	human	missing	ATCC	HTB-161	missing	missing
-BTO:0001129	prostate	PROSTATE	missing	human	missing	ATCC	Missing	missing	missing
-BTO:0001521 (non-specific)	8988T	8988T	missing	human	missing	DSMZ	ACC 162	missing	missing
-BTO:0002062 (non-specific)	GM06990	GM06990	missing	human	missing	Coriell	GM06990	missing	missing
-BTO:0002062 (non-specific)	GM10847	GM10847	missing	human	missing	Coriell	GM10847	missing	missing
-BTO:0002062 (non-specific)	GM12801	GM12801	missing	human	missing	Coriell	GM12801	missing	missing
-BTO:0002062 (non-specific)	GM12864	GM12864	missing	human	missing	Coriell	GM12864	missing	missing
-BTO:0002062 (non-specific)	GM12865	GM12865	missing	human	missing	Coriell	GM12865	missing	missing
-BTO:0002062 (non-specific)	GM12866	GM12866	missing	human	missing	Coriell	GM12866	missing	missing
-BTO:0002062 (non-specific)	GM12867	GM12867	missing	human	missing	Coriell	GM12867	missing	missing
-BTO:0002062 (non-specific)	GM12868	GM12868	missing	human	missing	Coriell	GM12868	missing	missing
-BTO:0002062 (non-specific)	GM12869	GM12869	missing	human	missing	Coriell	GM12869	missing	missing
-BTO:0002062 (non-specific)	GM12870	GM12870	missing	human	missing	Coriell	GM12870	missing	missing
-BTO:0002062 (non-specific)	GM12871	GM12871	missing	human	missing	Coriell	GM12871	missing	missing
-BTO:0002062 (non-specific)	GM12872	GM12872	missing	human	missing	Coriell	GM12872	missing	missing
-BTO:0002062 (non-specific)	GM12873	GM12873	missing	human	missing	Coriell	GM12873	missing	missing
-BTO:0002062 (non-specific)	GM12874	GM12874	missing	human	missing	Coriell	GM12874	missing	missing
-BTO:0002062 (non-specific)	GM12875	GM12875	missing	human	missing	Coriell	GM12875	missing	missing
-BTO:0002062 (non-specific)	GM12891	GM12891	missing	human	missing	Coriell	GM12891	missing	missing
-BTO:0002062 (non-specific)	GM12892	GM12892	missing	human	missing	Coriell	GM12892	missing	missing
-BTO:0002062 (non-specific)	GM15510	GM15510	missing	human	missing	Coriell	GM15510	missing	missing
-BTO:0002062 (non-specific)	GM18505	GM18505	missing	human	missing	Coriell	GM18505	missing	missing
-BTO:0002062 (non-specific)	GM18507	GM18507	missing	human	missing	Coriell	GM18507	missing	missing
-BTO:0002062 (non-specific)	GM18526	GM18526	missing	human	missing	Coriell	GM18526	missing	missing
-BTO:0002062 (non-specific)	GM18951	GM18951	missing	human	missing	Coriell	GM18951	missing	missing
-BTO:0002062 (non-specific)	GM19099	GM19099	missing	human	missing	Coriell	GM19099	missing	missing
-BTO:0002062 (non-specific)	GM19193	GM19193	missing	human	missing	Coriell	GM19193	missing	missing
-BTO:0002062 (non-specific)	GM19238	GM19238	missing	human	missing	Coriell	GM19238	missing	missing
-BTO:0002062 (non-specific)	GM19239	GM19239	missing	human	missing	Coriell	GM19239	missing	missing
-BTO:0002062 (non-specific)	GM19240	GM19240	missing	human	missing	Coriell	GM19240	missing	missing
-BTO:0000519 (non-specific)	HGF	HGF	missing	human	missing	ScienCell	2620	missing	missing
-BTO:0000059 (non-specific)	HRCEpiC	HRCE	missing	human	missing	Lonza	CC-2554	missing	missing
-BTO:0000059 (non-specific)	HRE	HRE	missing	human	missing	Lonza	CC-2556	missing	missing
+BTO:0000812	ovcar-3	OVCAR3	cellLine	human	missing	ATCC	HTB-161	missing	missing
+BTO:0001129	prostate	PROSTATE	tissue	human	missing	ATCC	Missing	missing	missing
+BTO:0001521 (non-specific)	8988T	8988T	cellLine	human	missing	DSMZ	ACC 162	missing	missing
+BTO:0002062 (non-specific)	GM06990	GM06990	cellLine	human	missing	Coriell	GM06990	missing	missing
+BTO:0002062 (non-specific)	GM10847	GM10847	cellLine	human	missing	Coriell	GM10847	missing	missing
+BTO:0002062 (non-specific)	GM12801	GM12801	cellLine	human	missing	Coriell	GM12801	missing	missing
+BTO:0002062 (non-specific)	GM12864	GM12864	cellLine	human	missing	Coriell	GM12864	missing	missing
+BTO:0002062 (non-specific)	GM12865	GM12865	cellLine	human	missing	Coriell	GM12865	missing	missing
+BTO:0002062 (non-specific)	GM12866	GM12866	cellLine	human	missing	Coriell	GM12866	missing	missing
+BTO:0002062 (non-specific)	GM12867	GM12867	cellLine	human	missing	Coriell	GM12867	missing	missing
+BTO:0002062 (non-specific)	GM12868	GM12868	cellLine	human	missing	Coriell	GM12868	missing	missing
+BTO:0002062 (non-specific)	GM12869	GM12869	cellLine	human	missing	Coriell	GM12869	missing	missing
+BTO:0002062 (non-specific)	GM12870	GM12870	cellLine	human	missing	Coriell	GM12870	missing	missing
+BTO:0002062 (non-specific)	GM12871	GM12871	cellLine	human	missing	Coriell	GM12871	missing	missing
+BTO:0002062 (non-specific)	GM12872	GM12872	cellLine	human	missing	Coriell	GM12872	missing	missing
+BTO:0002062 (non-specific)	GM12873	GM12873	cellLine	human	missing	Coriell	GM12873	missing	missing
+BTO:0002062 (non-specific)	GM12874	GM12874	cellLine	human	missing	Coriell	GM12874	missing	missing
+BTO:0002062 (non-specific)	GM12875	GM12875	cellLine	human	missing	Coriell	GM12875	missing	missing
+BTO:0002062 (non-specific)	GM12891	GM12891	cellLine	human	missing	Coriell	GM12891	missing	missing
+BTO:0002062 (non-specific)	GM12892	GM12892	cellLine	human	missing	Coriell	GM12892	missing	missing
+BTO:0002062 (non-specific)	GM15510	GM15510	cellLine	human	missing	Coriell	GM15510	missing	missing
+BTO:0002062 (non-specific)	GM18505	GM18505	cellLine	human	missing	Coriell	GM18505	missing	missing
+BTO:0002062 (non-specific)	GM18507	GM18507	cellLine	human	missing	Coriell	GM18507	missing	missing
+BTO:0002062 (non-specific)	GM18526	GM18526	cellLine	human	missing	Coriell	GM18526	missing	missing
+BTO:0002062 (non-specific)	GM18951	GM18951	cellLine	human	missing	Coriell	GM18951	missing	missing
+BTO:0002062 (non-specific)	GM19099	GM19099	cellLine	human	missing	Coriell	GM19099	missing	missing
+BTO:0002062 (non-specific)	GM19193	GM19193	cellLine	human	missing	Coriell	GM19193	missing	missing
+BTO:0002062 (non-specific)	GM19238	GM19238	cellLine	human	missing	Coriell	GM19238	missing	missing
+BTO:0002062 (non-specific)	GM19239	GM19239	cellLine	human	missing	Coriell	GM19239	missing	missing
+BTO:0002062 (non-specific)	GM19240	GM19240	cellLine	human	missing	Coriell	GM19240	missing	missing
+BTO:0000519 (non-specific)	HGF	HGF	primaryCells	human	missing	ScienCell	2620	missing	missing
+BTO:0000059 (non-specific)	HRCEpiC	HRCE	primaryCells	human	missing	Lonza	CC-2554	missing	missing
+BTO:0000059 (non-specific)	HRE	HRE	primaryCells	human	missing	Lonza	CC-2556	missing	missing
 BTO:0000256 (non-specific)	HSMM	HSMM	missing	human	missing	Refer to the protocol documents for differing sources	CC-2580	missing	missing
 BTO:0001760 (non-specific)	HSMMtube	HSMMt	missing	human	missing	Lonza	See HSMM	missing	missing
 BTO:0002062 (non-specific)	Lymphoblastoid_cell_line	LYMPHOBLAST	missing	human	missing	Coriell	various GMXXXXX cell lines	missing	missing
-BTO:0000161 (non-specific)	NHLF	NHLF	missing	human	missing	Lonza	CC-2512	missing	missing
+BTO:0000161 (non-specific)	NHLF	NHLF	primaryCells	human	missing	Lonza	CC-2512	missing	missing
 BTO:0000574 (non-specific)	PBDE	PBDE	missing	human	missing	Dr. Peggy Farnham at USC	PBDE	missing	missing
-BTO:0000690 (non-specific)	PFSK-1	PFSK1	missing	human	missing	ATCC	CRL-2060	missing	missing
+BTO:0000690 (non-specific)	PFSK-1	PFSK1	cellLine	human	missing	ATCC	CRL-2060	missing	missing
 BTO:0000991 (non-specific)	PanIsletD	PANISD	missing	human	missing	National Disease Research Interchange	PanIsletD	missing	missing
 BTO:0000991 (non-specific)	PanIslets	PANISLETS	missing	human	missing	Refer to publication or NDRI	PanIslets	missing	missing
 BTO:0001255 (non-specific)	ProgFib	PROGFIB	missing	human	missing	Progeria Research Foundation	HGADFN167	missing	missing
-BTO:0002022 (non-specific)	SAEC	SAEC	missing	human	missing	Lonza	CC-2547	missing	missing
-BTO:0002372 (non-specific)	SK-N-MC	SKNMC	missing	human	missing	ATCC	HTB-10	missing	missing
-BTO:0002372 (non-specific)	SK-N-SH_RA	SKNSHRA	missing	human	missing	ATCC	HTB-11	missing	missing
-BTO:0001801 (non-specific)	SKMC	SKMC	missing	human	missing	Lonza	CC-2561	missing	missing
-BTO:0001389 (non-specific)	TBEC	TBEC	missing	human	missing	National Disease Research Interchange	DD009C	missing	missing
-BTO:0001178 (non-specific)	WERI-Rb-1	WERIRB1	missing	human	missing	ATCC	HTB-169	missing	missing
-BTO:0001120 (non-specific)	pHTE	PHTE	missing	human	missing	Dr. Cal Cotton at Case Western Reserve University	missing	missing	missing
+BTO:0002022 (non-specific)	SAEC	SAEC	primaryCells	human	missing	Lonza	CC-2547	missing	missing
+BTO:0002372 (non-specific)	SK-N-MC	SKNMC	cellLine	human	missing	ATCC	HTB-10	missing	missing
+BTO:0002372 (non-specific)	SK-N-SH_RA	SKNSHRA	cellLine	human	missing	ATCC	HTB-11	missing	missing
+BTO:0001801 (non-specific)	SKMC	SKMC	cellLine	human	missing	Lonza	CC-2561	missing	missing
+BTO:0001389 (non-specific)	TBEC	TBEC	primaryCells	human	missing	National Disease Research Interchange	DD009C	missing	missing
+BTO:0001178 (non-specific)	WERI-Rb-1	WERIRB1	cellLine	human	missing	ATCC	HTB-169	missing	missing
+BTO:0001120 (non-specific)	pHTE	PHTE	primaryCells	human	missing	Dr. Cal Cotton at Case Western Reserve University	missing	missing	missing
 BTO:0000001 (nonspecific)	iPS	IPS	missing	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS	missing	missing
