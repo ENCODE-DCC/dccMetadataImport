@@ -1,0 +1,22 @@
+biosample_term_id 	biosample_term_name	CL_Identifiers	CL_Term_name	UBERON_Identifiers	UBERON_Term_name	EFO_Identifier	EFO_Term_name	DO_Identifier	DO_Term_name	Questions	Comments
+AMAD:7097	Adrenal	NA	NA	UBERON:0002369	adrenal gland	NA	NA	NA	NA	NA	NA	NA
+AMAD:7188	BAT	NA	NA	UBERON:0001348	brown adipose tissue	NA	NA	NA	NA	NA	NA
+BTO:0001487	BC_Adipose_UHN00001	NA	NA	UBERON:0001013	adipose tissue	NA	NA	NA	NA	NA
+BTO:0000047	BC_Adrenal_Gland_H12803N	NA	NA	UBERON:0002369	adrenal gland	NA	NA	NA	NA	NA	NA	NA
+BTO:0001418	BC_Bladder_01-11002	NA	NA	UBERON:0001255	urinary bladder	NA	NA	NA	NA	NA	NA
+BTO:0000142	BC_Brain_H11058N	NA	NA	UBERON:0000955	brain	NA	NA	NA	NA	Should we specify vertebrate brain?	NA
+BTO:0000149	BC_Breast_02-03015	NA	NA	UBERON:0000310	breast	NA	NA	NA	NA	NA	NA	NA
+BTO:0000269	BC_Colon_01-11002	NA	NA	UBERON:0001155	colon	NA	NA	NA	NA	NA	NA	NA
+BTO:0000269 	BC_Colon_H12817N 	NA	NA	UBERON:0001155	colon	NA	NA	NA	NA	NA	NA	NA
+BTO:0000959 	BC_Esophagus_01-11002	NA	NA	UBERON:0001043	esophagus	NA	NA	NA	NA	NA	NA
+BTO:0000959 	BC_Esophagus_H12817N 	NA	NA	UBERON:0001043	esophagus	NA	NA	NA	NA	NA	NA
+BTO:0000657 	BC_Jejunum_H12817N	NA	NA	UBERON:0002115	jejunum	NA	NA	NA	NA	NA	NA
+BTO:0000671	BC_Kidney_01-11002	NA	NA	UBERON:0002113	kidney	NA	NA	NA	NA	Should we specify adult mammalian kidney or is that taken care of with combination with age?	NA
+BTO:0000671	BC_Kidney_H12817N	NA	NA	UBERON:0002113	kidney	NA	NA	NA	NA	Should we specify adult mammalian kidney or is that taken care of with combination with age?	NA
+BTO:0001629	BC_Left_Ventricle_N4	NA	NA	UBERON:0002084	heart left ventricle	NA	NA	NA	NA	NA	NA
+BTO:0001025	BC_Leukocyte_UHN00204	CL:0000842	monoclear cell	NA	NA	NA	NA	NA	NA	NA	NA
+BTO:0000759	BC_Liver_01-11002	NA	NA	UBERON:0002107	liver	NA	NA	NA	NA	NA	NA	NA
+BTO:0000763	BC_Lung_01-11002	NA	NA	UBERON:0002048	lung	NA	NA	NA	NA	NA	NA	NA
+BTO:0000763	BC_Lung_H12817N	NA	NA	UBERON:0002048	lung	NA	NA	NA	NA	NA	NA	NA
+BTO:0000988	BC_Pancreas_H12817N	NA	NA	UBERON:0001264	pancrease	NA	NA	NA	NA	NA	NA
+
