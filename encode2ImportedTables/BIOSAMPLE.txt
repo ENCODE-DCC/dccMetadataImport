@@ -155,10 +155,8 @@ BTO:0000099	HA-sp	HASP	primary cells	human	missing	ScienCell	1820	missing	missin
 BTO:0004660	HAEpiC	HAE	primary cells	human	missing	ScienCell	7110	missing	missing
 BTO:0000759	HAL	HAL	tissue	human	missing	Asterand, Inc.	HAL	missing	missing
 BTO:0000099	HAc	HAC	primary cells	human	missing	ScienCell	1810	missing	missing
-BTO:0000135	HAoAF	HAOAF	tissue	human	missing	PromoCell	HAoAF	missing	missing
 BTO:0000135	HAoAF_6090101.11	HAOAF609010111	tissue	human	missing	PromoCell	C-14037	missing	missing
 BTO:0000135	HAoAF_6111301.9	HAOAF61113019	tissue	human	missing	PromoCell	C-14037	missing	missing
-BTO:0000394	HAoEC	HAOEC	tissue	human	missing	PromoCell	HAoEC	missing	missing
 BTO:0000394	HAoEC_7071706.1	HAOEC70717061	tissue	human	missing	PromoCell	C-14023	missing	missing
 BTO:0000394	HAoEC_8061102.1	HAOEC80611021	tissue	human	missing	PromoCell	C-14023	missing	missing
 BTO:0003636	HBMEC	HBMEC	primary cells	human	missing	ScienCell	1000	missing	missing
@@ -166,7 +164,6 @@ BTO:0002441	HBVP	HBVP	primary cells	human	missing	ScienCell	1200	missing	missing
 BTO:0002488	HBVSMC	HBVSMC	primary cells	human	missing	ScienCell	1100	missing	missing
 BTO:0003093	HCF	HCF	primary cells	human	missing	ScienCell	6300	missing	missing
 BTO:0003093	HCFaa	HCFAA	primary cells	human	missing	ScienCell	6320	missing	missing
-BTO:0000249	HCH	HCH	primary cells	human	missing	PromoCell	HCH	missing	missing
 BTO:0000249	HCH_0011308.2P	HCH00113082P	primary cells	human	missing	PromoCell	C-14070	missing	missing
 BTO:0000249	HCH_8100808.2	HCH81008082	primary cells	human	missing	PromoCell	C-14070	missing	missing
 BTO:0001539	HCM	HCM	tissue	human	missing	ScienCell	6200	missing	missing
@@ -178,7 +175,6 @@ BTO:0000007	HEK293	HEK293	cell line	human	missing	ATCC	CRL-1573	missing	missing
 BTO:0000007	HEK293(b)	HEK293b	cell line	human	missing	ATCC	CRL-1573	missing	missing
 BTO:0000007	HEK293-T-REx	HEK293TREx	cell line	human	missing	Invitrogen	r71007	missing	missing
 BTO:0000007	HEK293T	HEK293T	cell line	human	missing	Thermo Scientific Open Biosystems	HCL4517	missing	missing
-BTO:0001849	HFDPC	HFDPC	primary cells	human	missing	PromoCell	HFDPC	missing	missing
 BTO:0001849	HFDPC_0100503.2	HFDPC01005032	primary cells	human	missing	PromoCell	C-14005	missing	missing
 BTO:0001849	HFDPC_0102703.3	HFDPC01027033	primary cells	human	missing	PromoCell	C-14005	missing	missing
 BTO:0002245	HFF	HFF	missing	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HFF	missing	missing
@@ -189,7 +185,7 @@ BTO:0001251	HHSEC	HHSEC	primary cells	human	missing	ScienCell	5000	missing	missi
 BTO:0000653	HIPEpiC	HIPE	primary cells	human	missing	ScienCell	6560	missing	missing
 BTO:0000738	HL-60	HL60	cell line	human	missing	ATCC	CCL-240	missing	missing
 BTO:0002178	HMEC	HMEC	primary cells	human	missing	Lonza	CC-2551	missing	missing
-BTO:0002178	HMEpC	HMEPC	primary cells	human	missing	PromoCell	HMEpC	missing	missing
+#BTO:0002178	HMEpC	HMEPC	primary cells	human	missing	PromoCell	HMEpC	missing	missing
 BTO:0002178	HMEpC_6022801.3	HMEPC60228013	primary cells	human	missing	PromoCell	C-14066	missing	missing
 BTO:0000817	HMF	HMF	primary cells	human	missing	ScienCell	7630	missing	missing
 BTO:0003599	HMVEC-LBl	HMVECh	primary cells	human	missing	Lonza	CC-2815, CC-2815T75	missing	missing
@@ -201,44 +197,38 @@ BTO:0004574	HMVEC-dLy-Ad	HMVECe	primary cells	human	missing	Lonza	CC-2810, CC-28
 BTO:0004574	HMVEC-dLy-Neo	HMVECf	primary cells	human	missing	Lonza	CC-2812, CC-2812T25	missing	missing
 BTO:0004574	HMVEC-dNeo	HMVECg	primary cells	human	missing	Lonza	CC-2505, CC-2505T225	missing	missing
 BTO:0001770	HNPCEpiC	HNPCE	primary cells	human	missing	ScienCell	6580	missing	missing
-BTO:0004324	HOB	HOB	primary cells	human	missing	PromoCell	HOB	missing	missing
 BTO:0004324	HOB_0090202.1	HOB00902021	primary cells	human	missing	PromoCell	C-14071	missing	missing
 BTO:0004324	HOB_0091301	HOB0091301	primary cells	human	missing	PromoCell	C-14071	missing	missing
 BTO:0001141	HPAEC	HPAEC	primary cells	human	missing	Lonza	CC-2530,CC-3162	missing	missing
 BTO:0003511	HPAEpiC	HPAE	primary cells	human	missing	ScienCell	3200	missing	missing
 BTO:0000778	HPAF	HPAF	primary cells	human	missing	ScienCell	3120	missing	missing
-BTO:0001975	HPC-PL	HPCPL	tissue	human	missing	PromoCell	pericytes	missing	missing
 BTO:0001975	HPC-PL_0032601.13	HPCPL003260113	tissue	human	missing	PromoCell	C-14095	missing	missing
 BTO:0001975	HPC-PL_0101504.13	HPCPL010150413	tissue	human	missing	PromoCell	C-14095	missing	missing
 BTO:0002362	HPDE6-E6E7	HPDE6E6E7	cell line	human	missing	Dr. Ming-Sound Tsao, Ontario Cancer Institute	HPDE6-E6E7	missing	missing
 BTO:0000764	HPF	HPF	primary cells	human	missing	ScienCell	3300	missing	missing
-BTO:0001975	HPIEpC	HPIEPC	primary cells	human	missing	PromoCell	human-placental-epithelial-cells-hplepc	missing	missing
 BTO:0001975	HPIEpC_9012801.2	HPIEPC90128012	primary cells	human	missing	PromoCell	C-14069	missing	missing
 BTO:0001975	HPIEpC_9041503.2	HPIEPC90415032	primary cells	human	missing	PromoCell	C-14069	missing	missing
 BTO:0001020	HPdLF	HPDLF	primary cells	human	missing	Lonza	CC-7049	missing	missing
 BTO:0001176	HRGEC	HRGEC	primary cells	human	missing	ScienCell	4000	missing	missing
 BTO:0001177	HRPEpiC	HRPE	primary cells	human	missing	ScienCell	6540	missing	missing
-BTO:0000222	HSMM_FSHD	HSMMFSHD	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	HSMM_FSHD	missing	missing
-BTO:0000222	HSMM_emb	HSMMEMB	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	fetal myoblast cell strain (H246 and H275) from Dr Stephen Hauschka- U. of Washington 1980	missing	missing
-BTO:0001760	HSMMtube_FSHD	HSMMTUBEFSHD	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	HSMMtube_FSHD	missing	missing
-BTO:0001760	HSMMtube_emb	HSMMTUBEEMB	missing	human	missing	Duke/UNC/UT/EBI ENCODE group	fetal myoblast cell strain (H246 and H275) from Dr Stephen Hauschka- U. of Washington 1980	missing	missing
-BTO:0003275	HSaVEC	HSAVEC	primary cells	human	missing	PromoCell	HSaVEC	missing	missing
+BTO:0000222	HSMM_FSHD	HSMMFSHD	progenitor cells	human	missing	Duke/UNC/UT/EBI ENCODE group	HSMM_FSHD	missing	missing
+BTO:0000222	HSMM_emb	HSMMEMB	progenitor cells	human	missing	Duke/UNC/UT/EBI ENCODE group	fetal myoblast cell strain (H246 and H275) from Dr Stephen Hauschka- U. of Washington 1980	missing	missing
+BTO:0001760	HSMMtube_FSHD	HSMMTUBEFSHD	cell line	human	missing	Duke/UNC/UT/EBI ENCODE group	HSMMtube_FSHD	missing	missing
+BTO:0001760	HSMMtube_emb	HSMMTUBEEMB	cell line	human	missing	Duke/UNC/UT/EBI ENCODE group	fetal myoblast cell strain (H246 and H275) from Dr Stephen Hauschka- U. of Washington 1980	missing	missing
 BTO:0003275	HSaVEC_0022202.16	HSAVEC002220216	primary cells	human	missing	PromoCell	C-14025	missing	missing
 BTO:0003275	HSaVEC_9100101.15	HSAVEC910010115	primary cells	human	missing	PromoCell	C-14025	missing	missing
 BTO:0001282	HT-1080	HT1080	cell line	human	missing	ATCC	CCL-121	missing	missing
-BTO:0001079	HTR8svn	HTR8	missing	human	missing	Charles H. Graham, Department of Anatomy & Cell Biology, Queen's University at Kingston, Kingston, Ontario, Canada	HTR8svn	missing	missing
+BTO:0001079	HTR8svn	HTR8	primary cells	human	missing	Charles H. Graham, Department of Anatomy & Cell Biology, Queen's University at Kingston, Kingston, Ontario, Canada	HTR8svn	missing	missing
 BTO:0001949	HUVEC	HUVEC	primary cells	human	missing	Lonza	CC-2517	missing	missing
-BTO:0002625	HVMF	HVMF	primary cells	human	missing	ScienCell	7130	missing	missing
 BTO:0001975	HVMF_6091203.3	HVMF60912033	primary cells	human	missing	PromoCell	C-14034	missing	missing
 BTO:0001975	HVMF_6100401.3	HVMF61004013	primary cells	human	missing	PromoCell	C-14034	missing	missing
-BTO:0004042	HWP	HWP	primary cells	human	missing	PromoCell	HWP	missing	missing
 BTO:0004042	HWP_0092205	HWP0092205	primary cells	human	missing	PromoCell	C-14072	missing	missing
 BTO:0004042	HWP_8120201.5	HWP81202015	primary cells	human	missing	PromoCell	C-14072	missing	missing
 BTO:0000568	HeLa-S3	HELAS3	cell line	human	missing	ATCC	CCL-2.2	missing	missing
 AMAD:3341	HeadlessEmbryo	HLEMBRYO	tissue	mouse	missing	Selleri lab, Cornell	HeadlessEmbryo	missing	missing
 AMAD:7103	Heart	HEART	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Heart; Heart	missing	missing
 BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	1104; 602; 1442; 1863; 4548	missing	missing
-BTO:0000562	Heart_STL003	HeartSTL003	missing	human	missing	Snyder lab	STL003	missing	missing
+BTO:0000562	Heart_STL003	HeartSTL003	tissue	human	missing	Snyder lab	STL003	missing	missing
 BTO:0000599	HepG2	HEPG2	cell line	human	missing	ATCC	HB-8065	missing	missing
 BTO:0000599	HepG2b	HEPG2b	cell line	human	missing	ATCC	HB-8065	missing	missing
 BTO:0000575	Hepatocytes	HEPATO	missing	human	missing	zen-bio	Missing	missing	missing
@@ -293,22 +283,19 @@ BTO:0002489	NB4	NB4	cell line	human	missing	Refer to protocol documents for diff
 BTO:0000099	NH-A	NHA	primary cells	human	missing	Lonza	CC-2565	missing	missing
 BTO:0002022	NHBE	NHBE	primary cells	human	missing	Lonza	CC-2541	missing	missing
 BTO:0001845	NHBE_RA	NHBERA	primary cells	human	missing	Lonza	CC-2540, CC3170	missing	missing
-BTO:0003185	NHDF	NHDF	primary cells	human	missing	PromoCell	NHDF	missing	missing
 BTO:0004419	NHDF-Ad	NHDFAD	primary cells	human	missing	Lonza	CC-2511, CC-2511T225	missing	missing
 BTO:0004419	NHDF-neo	NHDFNEO	primary cells	human	missing	Lonza	CC-2509	missing	missing
 BTO:0003185	NHDF_0060801.3	NHDF00608013	primary cells	human	missing	PromoCell	C-14031	missing	missing
 BTO:0003185	NHDF_7071701.2	NHDF70717012	primary cells	human	missing	PromoCell	C-14031	missing	missing
 BTO:0000375	NHEK	NHEK	primary cells	human	missing	Lonza	CC-2501	missing	missing
-BTO:0000847	NHEM.f_M2	NHEMFM2	primary cells	human	missing	PromoCell	NHEM	missing	missing
 BTO:0000847	NHEM.f_M2_5071302.2	NHEMFM250713022	primary cells	human	missing	PromoCell	C-14042	missing	missing
 BTO:0000847	NHEM.f_M2_6022001	NHEMFM26022001	primary cells	human	missing	PromoCell	C-14042	missing	missing
-BTO:0000847	NHEM_M2	NHEMM2	primary cells	human	missing	PromoCell	NHEM	missing	missing
 BTO:0000847	NHEM_M2_7011001.2	NHEMM270110012	primary cells	human	missing	PromoCell	C-14043	missing	missing
 BTO:0000847	NHEM_M2_7012303	NHEMM27012303	primary cells	human	missing	PromoCell	C-14043	missing	missing
 AMAD:7146	NIH-3T3	NIH3T3	cell line	mouse	missing	ATCC	CRL-1658	missing	missing
 BTO:0000946	NT2-D1	NT2D1	cell line	human	missing	ATCC	CRL-1973	missing	missing
 BTO:0000776	Naive_B_cell	NAIVEBCELL	tissue	human	missing	Dr. Yanwen Jiang	Naive_B_cell	missing	missing
-BTO:0000961	Olf_neurosphere	OLFNEUROSPHERE	missing	human	missing	Alan Mackay-Sim	Olf_neurosphere	missing	missing
+BTO:0000961	Olf_neurosphere	OLFNEUROSPHERE	tissue	human	missing	Alan Mackay-Sim	Olf_neurosphere	missing	missing
 AMAD:7015	OlfactBulb	OLFACT	tissue	mouse	missing	LICR lab	Olfactory Bulb	missing	missing
 BTO:0001593	Osteobl	OSTEO	primary cells	human	missing	Lonza	CC-2538	missing	missing
 AMAD:6958	Ovary	OVARY	tissue	mouse	missing	CSHL lab	Ovary	missing	missing
@@ -331,7 +318,6 @@ BTO:0001154	Raji	RAJI	cell line	human	missing	ATCC	CCl-86	missing	missing
 AMAD:6944	Retina	RETINA	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Retina	missing	missing
 BTO:0000793	SH-SY5Y	SHSY5Y	cell line	human	missing	ATCC	CC-2266	missing	missing
 BTO:0001620	SK-N-SH	SKNSH	cell line	human	missing	ATCC	HTB-11	59257297	missing
-BTO:0002916	SkMC	SKMC	primary cells	human	missing	PromoCell	SkMC	missing	missing
 BTO:0002916	SkMC_8121902.17	SKMC812190217	primary cells	human	missing	PromoCell	C-14060	missing	missing
 BTO:0002916	SkMC_9011302	SKMC9011302	primary cells	human	missing	PromoCell	C-14060	missing	missing
 AMAD:7125	SkMuscle	SKMUSCLE	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Skeletal Muscle	missing	missing
@@ -352,7 +338,7 @@ BTO:0001583	T98G	T98G	cell line	human	missing	ATCC	CRL-1690	missing	missing
 AMAD:7060	THelper-Activated	THELPA	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	THelper-Activated	missing	missing
 AMAD:7060	TReg	TREG	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg	missing	missing
 AMAD:7060	TReg-Activated	TREGA	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg-Activated	missing	missing
-BTO:0000782	T_cells_CD4+	TCELLSCD4	missing	human	missing	Dr. David Randolph at University of Alabama, Birmingham	vary	missing	missing
+BTO:0000782	T_cells_CD4+	TCELLSCD4	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	vary	missing	missing
 AMAD:9201	Testis	TESTIS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Testis; Testis	missing	missing
 BTO:0001678	Th1	TH1	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	None (primary pheresis of single normal subject)	missing	missing
 BTO:0002417	Th17	TH17	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Th17	missing	missing
@@ -375,19 +361,14 @@ AMAD:29	ZhBTc4	ZHBTC4	primary cells	mouse	missing	Dr. Levasseur at University of
 BTO:0000141	bone_marrow_HS27a	HS27A	cell line	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS27a	missing	missing
 BTO:0000141	bone_marrow_HS5	HS5	cell line	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS5	missing	missing
 BTO:0000141	bone_marrow_MSC	MSC	cell line	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	MSC	missing	missing
-BTO:0004054	hMNC-CB	HMNCCB	tissue	human	missing	PromoCell	hMNC-CB	missing	missing
 BTO:0004054	hMNC-CB_8072802.6	HMNCCB80728026	tissue	human	missing	PromoCell	C-14096	missing	missing
 BTO:0004054	hMNC-CB_9111701.6	HMNCCB91117016	tissue	human	missing	PromoCell	C-14096	missing	missing
-BTO:0001025	hMNC-PB	HMNCPB	missing	human	tissue	PromoCell	hMNC-PB	missing	missing
 BTO:0001025	hMNC-PB_0022330.9	HMNCPB00223309	tissue	human	missing	PromoCell	C-14098	missing	missing
 BTO:0001025	hMNC-PB_0082430.9	HMNCPB00824309	tissue	human	missing	PromoCell	C-14098	missing	missing
-BTO:0003298	hMSC-AT	HMSCAT	stem cells	human	missing	PromoCell	hMSC-AT	missing	missing
 BTO:0003298	hMSC-AT_0102604.12	HMSCAT010260412	stem cells	human	missing	PromoCell	C-14092	missing	missing
 BTO:0003298	hMSC-AT_9061601.12	HMSCAT906160112	stem cells	human	missing	PromoCell	C-14092	missing	missing
-BTO:0003298	hMSC-BM	HMSCBM	stem cells	human	missing	PromoCell	hMSC-BM	missing	missing
 BTO:0003298	hMSC-BM_0050602.11	HMSCBM005060211	stem cells	human	missing	PromoCell	C-14090	missing	missing
 BTO:0003298	hMSC-BM_0051105.11	HMSCBM005110511	stem cells	human	missing	PromoCell	C-14090	missing	missing
-BTO:0003298	hMSC-UC	HMSCUC	stem cells	human	missing	PromoCell	hMSC-UC	missing	missing
 BTO:0003298	hMSC-UC_0052501.7	HMSCUC00525017	stem cells	human	missing	PromoCell	C-14091	missing	missing
 BTO:0003298	hMSC-UC_0081101.7	HMSCUC00811017	stem cells	human	missing	PromoCell	C-14091	missing	missing
 BTO:0000001	iPS_CWRU1	IPSCWRU1	induced pluripotent stem cells	human	missing	Paul Tesar at Case Western University	iPS_CWRU1	missing	missing
@@ -429,14 +410,13 @@ BTO:0002062	GM19240	GM19240	cell line	human	missing	Coriell	GM19240	missing	miss
 BTO:0000519	HGF	HGF	primary cells	human	missing	ScienCell	2620	missing	missing
 BTO:0000059	HRCEpiC	HRCE	primary cells	human	missing	Lonza	CC-2554	missing	missing
 BTO:0000059	HRE	HRE	primary cells	human	missing	Lonza	CC-2556	missing	missing
-BTO:0000256	HSMM	HSMM	missing	human	missing	Refer to the protocol documents for differing sources	CC-2580	missing	missing
-BTO:0001760	HSMMtube	HSMMt	missing	human	missing	Lonza	See HSMM	missing	missing
-BTO:0002062	Lymphoblastoid_cell_line	LYMPHOBLAST	missing	human	missing	Coriell	various GMXXXXX cell lines	missing	missing
+BTO:0000256	HSMM	HSMM	progenitor cells	human	missing	Refer to the protocol documents for differing sources	CC-2580	missing	missing
+BTO:0001760	HSMMtube	HSMMt	cell line	human	missing	Lonza	See HSMM	missing	missing
 BTO:0000161	NHLF	NHLF	primary cells	human	missing	Lonza	CC-2512	missing	missing
 BTO:0000574	PBDE	PBDE	missing	human	missing	Dr. Peggy Farnham at USC	PBDE	missing	missing
 BTO:0000690	PFSK-1	PFSK1	cell line	human	missing	ATCC	CRL-2060	missing	missing
-BTO:0000991	PanIsletD	PANISD	missing	human	missing	National Disease Research Interchange	PanIsletD	missing	missing
-BTO:0000991	PanIslets	PANISLETS	missing	human	missing	Refer to publication or NDRI	PanIslets	missing	missing
+BTO:0000991	PanIsletD	PANISD	tissue	human	missing	National Disease Research Interchange	PanIsletD	missing	missing
+BTO:0000991	PanIslets	PANISLETS	tissue	human	missing	Refer to publication or NDRI	PanIslets	missing	missing
 BTO:0001255	ProgFib	PROGFIB	missing	human	missing	Progeria Research Foundation	HGADFN167	missing	missing
 BTO:0002022	SAEC	SAEC	primary cells	human	missing	Lonza	CC-2547	missing	missing
 BTO:0002372	SK-N-MC	SKNMC	cell line	human	missing	ATCC	HTB-10	missing	missing
