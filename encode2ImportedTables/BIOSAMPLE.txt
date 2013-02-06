@@ -381,68 +381,68 @@ BTO:0004054	hMNC-CB_9111701.6	HMNCCB91117016	tissue	human	missing	PromoCell	C-14
 BTO:0001025	hMNC-PB	HMNCPB	missing	human	tissue	PromoCell	hMNC-PB	missing	missing
 BTO:0001025	hMNC-PB_0022330.9	HMNCPB00223309	tissue	human	missing	PromoCell	C-14098	missing	missing
 BTO:0001025	hMNC-PB_0082430.9	HMNCPB00824309	tissue	human	missing	PromoCell	C-14098	missing	missing
-BTO:0003298	hMSC-AT	HMSCAT	tissue	human	missing	PromoCell	hMSC-AT	missing	missing
-BTO:0003298	hMSC-AT_0102604.12	HMSCAT010260412	tissue	human	missing	PromoCell	C-14092	missing	missing
-BTO:0003298	hMSC-AT_9061601.12	HMSCAT906160112	tissue	human	missing	PromoCell	C-14092	missing	missing
-BTO:0003298	hMSC-BM	HMSCBM	tissue	human	missing	PromoCell	hMSC-BM	missing	missing
-BTO:0003298	hMSC-BM_0050602.11	HMSCBM005060211	tissue	human	missing	PromoCell	C-14090	missing	missing
-BTO:0003298	hMSC-BM_0051105.11	HMSCBM005110511	tissue	human	missing	PromoCell	C-14090	missing	missing
-BTO:0003298	hMSC-UC	HMSCUC	tissue	human	missing	PromoCell	hMSC-UC	missing	missing
-BTO:0003298	hMSC-UC_0052501.7	HMSCUC00525017	tissue	human	missing	PromoCell	C-14091	missing	missing
-BTO:0003298	hMSC-UC_0081101.7	HMSCUC00811017	tissue	human	missing	PromoCell	C-14091	missing	missing
-BTO:0000001	iPS_CWRU1	IPSCWRU1	missing	human	missing	Paul Tesar at Case Western University	iPS_CWRU1	missing	missing
-BTO:0000001	iPS_NIHi11	IPSNIHI11	missing	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS_NIHi11	missing	missing
-BTO:0000001	iPS_NIHi7	IPSNIHI7	missing	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS_NIHi7	missing	missing
-BTO:0000001	iPS_hFib2_iPS4	IPSHFIB2IPS4	missing	human	missing	HSCI iPS Cell Core Facility	hFib2_iPS4	missing	missing
-BTO:0000001	iPS_hFib2_iPS5	IPSHFIB2IPS5	missing	human	missing	HSCI iPS Cell Core Facility	hFib2_iPS5	missing	missing
+BTO:0003298	hMSC-AT	HMSCAT	stem cells	human	missing	PromoCell	hMSC-AT	missing	missing
+BTO:0003298	hMSC-AT_0102604.12	HMSCAT010260412	stem cells	human	missing	PromoCell	C-14092	missing	missing
+BTO:0003298	hMSC-AT_9061601.12	HMSCAT906160112	stem cells	human	missing	PromoCell	C-14092	missing	missing
+BTO:0003298	hMSC-BM	HMSCBM	stem cells	human	missing	PromoCell	hMSC-BM	missing	missing
+BTO:0003298	hMSC-BM_0050602.11	HMSCBM005060211	stem cells	human	missing	PromoCell	C-14090	missing	missing
+BTO:0003298	hMSC-BM_0051105.11	HMSCBM005110511	stem cells	human	missing	PromoCell	C-14090	missing	missing
+BTO:0003298	hMSC-UC	HMSCUC	stem cells	human	missing	PromoCell	hMSC-UC	missing	missing
+BTO:0003298	hMSC-UC_0052501.7	HMSCUC00525017	stem cells	human	missing	PromoCell	C-14091	missing	missing
+BTO:0003298	hMSC-UC_0081101.7	HMSCUC00811017	stem cells	human	missing	PromoCell	C-14091	missing	missing
+BTO:0000001	iPS_CWRU1	IPSCWRU1	induced pluripotent stem cells	human	missing	Paul Tesar at Case Western University	iPS_CWRU1	missing	missing
+BTO:0000001	iPS_NIHi11	IPSNIHI11	induced pluripotent stem cells	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS_NIHi11	missing	missing
+BTO:0000001	iPS_NIHi7	IPSNIHI7	induced pluripotent stem cells	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS_NIHi7	missing	missing
+BTO:0000001	iPS_hFib2_iPS4	IPSHFIB2IPS4	induced pluripotent stem cells	human	missing	HSCI iPS Cell Core Facility	hFib2_iPS4	missing	missing
+BTO:0000001	iPS_hFib2_iPS5	IPSHFIB2IPS5	induced pluripotent stem cells	human	missing	HSCI iPS Cell Core Facility	hFib2_iPS5	missing	missing
 GO:0030218	mG/ER	MGER	cell line	mouse	missing	Dr. John Stamatoyannopoulos at UW	mG/ER	missing	missing
 BTO:0000812	ovcar-3	OVCAR3	cell line	human	missing	ATCC	HTB-161	missing	missing
 BTO:0001129	prostate	PROSTATE	tissue	human	missing	ATCC	Missing	missing	missing
-BTO:0001521 (non-specific)	8988T	8988T	cell line	human	missing	DSMZ	ACC 162	missing	missing
-BTO:0002062 (non-specific)	GM06990	GM06990	cell line	human	missing	Coriell	GM06990	missing	missing
-BTO:0002062 (non-specific)	GM10847	GM10847	cell line	human	missing	Coriell	GM10847	missing	missing
-BTO:0002062 (non-specific)	GM12801	GM12801	cell line	human	missing	Coriell	GM12801	missing	missing
-BTO:0002062 (non-specific)	GM12864	GM12864	cell line	human	missing	Coriell	GM12864	missing	missing
-BTO:0002062 (non-specific)	GM12865	GM12865	cell line	human	missing	Coriell	GM12865	missing	missing
-BTO:0002062 (non-specific)	GM12866	GM12866	cell line	human	missing	Coriell	GM12866	missing	missing
-BTO:0002062 (non-specific)	GM12867	GM12867	cell line	human	missing	Coriell	GM12867	missing	missing
-BTO:0002062 (non-specific)	GM12868	GM12868	cell line	human	missing	Coriell	GM12868	missing	missing
-BTO:0002062 (non-specific)	GM12869	GM12869	cell line	human	missing	Coriell	GM12869	missing	missing
-BTO:0002062 (non-specific)	GM12870	GM12870	cell line	human	missing	Coriell	GM12870	missing	missing
-BTO:0002062 (non-specific)	GM12871	GM12871	cell line	human	missing	Coriell	GM12871	missing	missing
-BTO:0002062 (non-specific)	GM12872	GM12872	cell line	human	missing	Coriell	GM12872	missing	missing
-BTO:0002062 (non-specific)	GM12873	GM12873	cell line	human	missing	Coriell	GM12873	missing	missing
-BTO:0002062 (non-specific)	GM12874	GM12874	cell line	human	missing	Coriell	GM12874	missing	missing
-BTO:0002062 (non-specific)	GM12875	GM12875	cell line	human	missing	Coriell	GM12875	missing	missing
-BTO:0002062 (non-specific)	GM12891	GM12891	cell line	human	missing	Coriell	GM12891	missing	missing
-BTO:0002062 (non-specific)	GM12892	GM12892	cell line	human	missing	Coriell	GM12892	missing	missing
-BTO:0002062 (non-specific)	GM15510	GM15510	cell line	human	missing	Coriell	GM15510	missing	missing
-BTO:0002062 (non-specific)	GM18505	GM18505	cell line	human	missing	Coriell	GM18505	missing	missing
-BTO:0002062 (non-specific)	GM18507	GM18507	cell line	human	missing	Coriell	GM18507	missing	missing
-BTO:0002062 (non-specific)	GM18526	GM18526	cell line	human	missing	Coriell	GM18526	missing	missing
-BTO:0002062 (non-specific)	GM18951	GM18951	cell line	human	missing	Coriell	GM18951	missing	missing
-BTO:0002062 (non-specific)	GM19099	GM19099	cell line	human	missing	Coriell	GM19099	missing	missing
-BTO:0002062 (non-specific)	GM19193	GM19193	cell line	human	missing	Coriell	GM19193	missing	missing
-BTO:0002062 (non-specific)	GM19238	GM19238	cell line	human	missing	Coriell	GM19238	missing	missing
-BTO:0002062 (non-specific)	GM19239	GM19239	cell line	human	missing	Coriell	GM19239	missing	missing
-BTO:0002062 (non-specific)	GM19240	GM19240	cell line	human	missing	Coriell	GM19240	missing	missing
-BTO:0000519 (non-specific)	HGF	HGF	primary cells	human	missing	ScienCell	2620	missing	missing
-BTO:0000059 (non-specific)	HRCEpiC	HRCE	primary cells	human	missing	Lonza	CC-2554	missing	missing
-BTO:0000059 (non-specific)	HRE	HRE	primary cells	human	missing	Lonza	CC-2556	missing	missing
-BTO:0000256 (non-specific)	HSMM	HSMM	missing	human	missing	Refer to the protocol documents for differing sources	CC-2580	missing	missing
-BTO:0001760 (non-specific)	HSMMtube	HSMMt	missing	human	missing	Lonza	See HSMM	missing	missing
-BTO:0002062 (non-specific)	Lymphoblastoid_cell_line	LYMPHOBLAST	missing	human	missing	Coriell	various GMXXXXX cell lines	missing	missing
-BTO:0000161 (non-specific)	NHLF	NHLF	primary cells	human	missing	Lonza	CC-2512	missing	missing
-BTO:0000574 (non-specific)	PBDE	PBDE	missing	human	missing	Dr. Peggy Farnham at USC	PBDE	missing	missing
-BTO:0000690 (non-specific)	PFSK-1	PFSK1	cell line	human	missing	ATCC	CRL-2060	missing	missing
-BTO:0000991 (non-specific)	PanIsletD	PANISD	missing	human	missing	National Disease Research Interchange	PanIsletD	missing	missing
-BTO:0000991 (non-specific)	PanIslets	PANISLETS	missing	human	missing	Refer to publication or NDRI	PanIslets	missing	missing
-BTO:0001255 (non-specific)	ProgFib	PROGFIB	missing	human	missing	Progeria Research Foundation	HGADFN167	missing	missing
-BTO:0002022 (non-specific)	SAEC	SAEC	primary cells	human	missing	Lonza	CC-2547	missing	missing
-BTO:0002372 (non-specific)	SK-N-MC	SKNMC	cell line	human	missing	ATCC	HTB-10	missing	missing
-BTO:0002372 (non-specific)	SK-N-SH_RA	SKNSHRA	cell line	human	missing	ATCC	HTB-11	missing	missing
-BTO:0001801 (non-specific)	SKMC	SKMC	cell line	human	missing	Lonza	CC-2561	missing	missing
-BTO:0001389 (non-specific)	TBEC	TBEC	primary cells	human	missing	National Disease Research Interchange	DD009C	missing	missing
-BTO:0001178 (non-specific)	WERI-Rb-1	WERIRB1	cell line	human	missing	ATCC	HTB-169	missing	missing
-BTO:0001120 (non-specific)	pHTE	PHTE	primary cells	human	missing	Dr. Cal Cotton at Case Western Reserve University	missing	missing	missing
-BTO:0000001 (nonspecific)	iPS	IPS	missing	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS	missing	missing
+BTO:0001521	8988T	8988T	cell line	human	missing	DSMZ	ACC 162	missing	missing
+BTO:0002062	GM06990	GM06990	cell line	human	missing	Coriell	GM06990	missing	missing
+BTO:0002062	GM10847	GM10847	cell line	human	missing	Coriell	GM10847	missing	missing
+BTO:0002062	GM12801	GM12801	cell line	human	missing	Coriell	GM12801	missing	missing
+BTO:0002062	GM12864	GM12864	cell line	human	missing	Coriell	GM12864	missing	missing
+BTO:0002062	GM12865	GM12865	cell line	human	missing	Coriell	GM12865	missing	missing
+BTO:0002062	GM12866	GM12866	cell line	human	missing	Coriell	GM12866	missing	missing
+BTO:0002062	GM12867	GM12867	cell line	human	missing	Coriell	GM12867	missing	missing
+BTO:0002062	GM12868	GM12868	cell line	human	missing	Coriell	GM12868	missing	missing
+BTO:0002062	GM12869	GM12869	cell line	human	missing	Coriell	GM12869	missing	missing
+BTO:0002062	GM12870	GM12870	cell line	human	missing	Coriell	GM12870	missing	missing
+BTO:0002062	GM12871	GM12871	cell line	human	missing	Coriell	GM12871	missing	missing
+BTO:0002062	GM12872	GM12872	cell line	human	missing	Coriell	GM12872	missing	missing
+BTO:0002062	GM12873	GM12873	cell line	human	missing	Coriell	GM12873	missing	missing
+BTO:0002062	GM12874	GM12874	cell line	human	missing	Coriell	GM12874	missing	missing
+BTO:0002062	GM12875	GM12875	cell line	human	missing	Coriell	GM12875	missing	missing
+BTO:0002062	GM12891	GM12891	cell line	human	missing	Coriell	GM12891	missing	missing
+BTO:0002062	GM12892	GM12892	cell line	human	missing	Coriell	GM12892	missing	missing
+BTO:0002062	GM15510	GM15510	cell line	human	missing	Coriell	GM15510	missing	missing
+BTO:0002062	GM18505	GM18505	cell line	human	missing	Coriell	GM18505	missing	missing
+BTO:0002062	GM18507	GM18507	cell line	human	missing	Coriell	GM18507	missing	missing
+BTO:0002062	GM18526	GM18526	cell line	human	missing	Coriell	GM18526	missing	missing
+BTO:0002062	GM18951	GM18951	cell line	human	missing	Coriell	GM18951	missing	missing
+BTO:0002062	GM19099	GM19099	cell line	human	missing	Coriell	GM19099	missing	missing
+BTO:0002062	GM19193	GM19193	cell line	human	missing	Coriell	GM19193	missing	missing
+BTO:0002062	GM19238	GM19238	cell line	human	missing	Coriell	GM19238	missing	missing
+BTO:0002062	GM19239	GM19239	cell line	human	missing	Coriell	GM19239	missing	missing
+BTO:0002062	GM19240	GM19240	cell line	human	missing	Coriell	GM19240	missing	missing
+BTO:0000519	HGF	HGF	primary cells	human	missing	ScienCell	2620	missing	missing
+BTO:0000059	HRCEpiC	HRCE	primary cells	human	missing	Lonza	CC-2554	missing	missing
+BTO:0000059	HRE	HRE	primary cells	human	missing	Lonza	CC-2556	missing	missing
+BTO:0000256	HSMM	HSMM	missing	human	missing	Refer to the protocol documents for differing sources	CC-2580	missing	missing
+BTO:0001760	HSMMtube	HSMMt	missing	human	missing	Lonza	See HSMM	missing	missing
+BTO:0002062	Lymphoblastoid_cell_line	LYMPHOBLAST	missing	human	missing	Coriell	various GMXXXXX cell lines	missing	missing
+BTO:0000161	NHLF	NHLF	primary cells	human	missing	Lonza	CC-2512	missing	missing
+BTO:0000574	PBDE	PBDE	missing	human	missing	Dr. Peggy Farnham at USC	PBDE	missing	missing
+BTO:0000690	PFSK-1	PFSK1	cell line	human	missing	ATCC	CRL-2060	missing	missing
+BTO:0000991	PanIsletD	PANISD	missing	human	missing	National Disease Research Interchange	PanIsletD	missing	missing
+BTO:0000991	PanIslets	PANISLETS	missing	human	missing	Refer to publication or NDRI	PanIslets	missing	missing
+BTO:0001255	ProgFib	PROGFIB	missing	human	missing	Progeria Research Foundation	HGADFN167	missing	missing
+BTO:0002022	SAEC	SAEC	primary cells	human	missing	Lonza	CC-2547	missing	missing
+BTO:0002372	SK-N-MC	SKNMC	cell line	human	missing	ATCC	HTB-10	missing	missing
+BTO:0002372	SK-N-SH_RA	SKNSHRA	cell line	human	missing	ATCC	HTB-11	missing	missing
+BTO:0001801	SKMC	SKMC	cell line	human	missing	Lonza	CC-2561	missing	missing
+BTO:0001389	TBEC	TBEC	primary cells	human	missing	National Disease Research Interchange	DD009C	missing	missing
+BTO:0001178	WERI-Rb-1	WERIRB1	cell line	human	missing	ATCC	HTB-169	missing	missing
+BTO:0001120	pHTE	PHTE	primary cells	human	missing	Dr. Cal Cotton at Case Western Reserve University	missing	missing	missing
+BTO:0000001	iPS	IPS	induced pluripotent stem cells	human	missing	Josh Chenoweth, Laboratory of Molecular Biology, National Institutes of Health, NINDS	iPS	missing	missing
