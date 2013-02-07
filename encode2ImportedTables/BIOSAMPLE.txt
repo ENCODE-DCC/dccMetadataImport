@@ -25,37 +25,37 @@ BTO:0000047	BC_Adrenal_Gland_H12803N	BCADRENAL	tissue	human	missing	BioChain	D12
 BTO:0001418	BC_Bladder_01-11002	BCBLADDER	tissue	human	missing	BioChain	CP-S12-D1234010-05_B402059	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000142	BC_Brain_H11058N	BCBRAIN	tissue	human	missing	BioChain	D4234035_A810101	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000149	BC_Breast_02-03015	BCBREAST	tissue	human	missing	BioChain	D4234086_A710031	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000269	BC_Colon_01-11002	BCCOLON	tissue	human	missing	BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000269	BC_Colon_01-11002	BCCOLON	tissue	human	missing	BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	BC_Colon_01-11002	BCCOLON	tissue	human	Null	BioChain	CP-S10-R1234090-20_B402074	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	BC_Colon_01-11002	BCCOLON	tissue	human	Null	BioChain	CP-S12-D1234090-05_A903056	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000269	BC_Colon_H12817N	BCCOLONb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000269	BC_Colon_H12817N	BCCOLONb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	BC_Colon_H12817N	BCCOLONb	tissue	human	Null	BioChain	CP-S10-R1234090-20_B111053	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	BC_Colon_H12817N	BCCOLONb	tissue	human	Null	BioChain	CP-S13-D1234090-05_B111123	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000959	BC_Esophagus_01-11002	BCESOPHAGUS	tissue	human	missing	BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000959	BC_Esophagus_01-11002	BCESOPHAGUS	tissue	human	missing	BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000959	BC_Esophagus_01-11002	BCESOPHAGUS	tissue	human	Null	BioChain	CP-S10-R1234106-20_B402075	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000959	BC_Esophagus_01-11002	BCESOPHAGUS	tissue	human	Null	BioChain	CP-S12-D1234106-05_A803198	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000959	BC_Esophagus_H12817N	BCESOPHAGUSb	tissue	human	missing	BioChain	CP-S13-D1234106-05_B302113	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000657	BC_Jejunum_H12817N	BCJEJUNUM	tissue	human	missing	BioChain; BioChain	CP-S13-D1234230-05_B402068; CP-S10-R1234230-20_A911037	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000657	BC_Jejunum_H12817N	BCJEJUNUM	tissue	human	missing	BioChain; BioChain	CP-S13-D1234230-05_B402068; CP-S10-R1234230-20_A911037	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000657	BC_Jejunum_H12817N	BCJEJUNUM	tissue	human	Null	BioChain	CP-S10-R1234230-20_A911037	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000657	BC_Jejunum_H12817N	BCJEJUNUM	tissue	human	Null	BioChain	CP-S13-D1234230-05_B402068	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000671	BC_Kidney_01-11002	BCKIDNEY	tissue	human	missing	BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000671	BC_Kidney_01-11002	BCKIDNEY	tissue	human	missing	BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	BC_Kidney_01-11002	BCKIDNEY	tissue	human	Null	BioChain	CP-S10-R1234142-20_A808055	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	BC_Kidney_01-11002	BCKIDNEY	tissue	human	Null	BioChain	CP-S12-D1234142-05_B402060	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000671	BC_Kidney_H12817N	BCKIDNEYb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000671	BC_Kidney_H12817N	BCKIDNEYb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	BC_Kidney_H12817N	BCKIDNEYb	tissue	human	Null	BioChain	CP-S10-R1234142-20_B111054	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	BC_Kidney_H12817N	BCKIDNEYb	tissue	human	Null	BioChain	CP-S13-D1234142-05_B402061	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001629	BC_Left_Ventricle_N41	BCLEFVENTRI	tissue	human	missing	BioChain	D1234138_A705026	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001025	BC_Leukocyte_UHN00204	BCLEUKOCYTE	tissue	human	missing	BioChain	D4234148_A612197	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000759	BC_Liver_01-11002	BCLIVER	tissue	human	missing	BioChain; BioChain	CP-S12-D1234149-05_B209118; CP-S10-R1234149-20_B304045	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000759	BC_Liver_01-11002	BCLIVER	tissue	human	missing	BioChain; BioChain	CP-S12-D1234149-05_B209118; CP-S10-R1234149-20_B304045	missing	missing		missing	Yes	nNo	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000759	BC_Liver_01-11002	BCLIVER	tissue	human	Null	BioChain	CP-S10-R1234149-20_B304045	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000759	BC_Liver_01-11002	BCLIVER	tissue	human	Null	BioChain	CP-S12-D1234149-05_B209118	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000763	BC_Lung_01-11002	BCLUNG	tissue	human	missing	BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000763	BC_Lung_01-11002	BCLUNG	tissue	human	missing	BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	BC_Lung_01-11002	BCLUNG	tissue	human	Null	BioChain	CP-S10-R1234152-20_A906114	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	BC_Lung_01-11002	BCLUNG	tissue	human	Null	BioChain	CP-S12-D1234152-05_A610240	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000763	BC_Lung_H12817N	BCLUNGb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000763	BC_Lung_H12817N	BCLUNGb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	BC_Lung_H12817N	BCLUNGb	tissue	human	Null	BioChain	CP-S10-R1234152-20_B207133	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	BC_Lung_H12817N	BCLUNGb	tissue	human	Null	BioChain	CP-S13-D1234152-05_B402062	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000988	BC_Pancreas_H12817N	BCPANCREAS	tissue	human	missing	BioChain; BioChain	CP-S13-D1234188-05_B402063; CP-S10-R1234188-20_B402076	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000988	BC_Pancreas_H12817N	BCPANCREAS	tissue	human	missing	BioChain; BioChain	CP-S13-D1234188-05_B402063; CP-S10-R1234188-20_B402076	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000988	BC_Pancreas_H12817N	BCPANCREAS	tissue	human	Null	BioChain	CP-S10-R1234188-20_B402076	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000988	BC_Pancreas_H12817N	BCPANCREAS	tissue	human	Null	BioChain	CP-S13-D1234188-05_B402063	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000405	BC_Penis_H12817N	BCPENIS	tissue	human	missing	BioChain	CP-S13-D1234194-05_B402064	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -63,21 +63,21 @@ BTO:0000717	BC_Pericardium_H12529N	BCPERICARDIUM	tissue	human	missing	BioChain	D
 BTO:0001078	BC_Placenta_UHN00189	BCPLACENTA	tissue	human	missing	BioChain	D4234200_A603104	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001129	BC_Prostate_Gland_H12817N	BCPROSTATE	tissue	human	missing	BioChain	CP-D1234201-05_B101058	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001158	BC_Rectum_N29	BCRECTUM	tissue	human	missing	BioChain	D4234206_A712205	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001103	BC_Skeletal_Muscle_01-11002	BCSKEL	tissue	human	missing	BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001103	BC_Skeletal_Muscle_01-11002	BCSKEL	tissue	human	missing	BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001103	BC_Skeletal_Muscle_01-11002	BCSKEL	tissue	human	Null	BioChain	CP-S10-R1234171-20_A808148	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001103	BC_Skeletal_Muscle_01-11002	BCSKEL	tissue	human	Null	BioChain	CP-S12-D1234171-05_A610262	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001103	BC_Skeletal_Muscle_H12817N	BCSKELb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001103	BC_Skeletal_Muscle_H12817N	BCSKELb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001103	BC_Skeletal_Muscle_H12817N	BCSKELb	tissue	human	Null	BioChain	CP-S10-R1234230-20_A911037	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001103	BC_Skeletal_Muscle_H12817N	BCSKELb	tissue	human	Null	BioChain	CP-S13-D1234171-05_B402065	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001253	BC_Skin_01-11002	BCSKIN	tissue	human	missing	BioChain	CP-S12-D1234218-05_B402066	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000651	BC_Small_Intestine_01-11002	BCSMINTESTINE	tissue	human	missing	BioChain; BioChain	CP-S12-D1234226-05_B402067; CP-S10-R1234226-20_A612138	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000651	BC_Small_Intestine_01-11002	BCSMINTESTINE	tissue	human	missing	BioChain; BioChain	CP-S12-D1234226-05_B402067; CP-S10-R1234226-20_A612138	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000651	BC_Small_Intestine_01-11002	BCSMINTESTINE	tissue	human	Null	BioChain	CP-S10-R1234226-20_A612138	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000651	BC_Small_Intestine_01-11002	BCSMINTESTINE	tissue	human	Null	BioChain	CP-S12-D1234226-05_B402067	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001281	BC_Spleen_H12817N	BCSPLEENb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234246-05_B402069; CP-S10-R1234246-20_B304070	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001281	BC_Spleen_H12817N	BCSPLEENb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234246-05_B402069; CP-S10-R1234246-20_B304070	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001281	BC_Spleen_H12817N	BCSPLEENb	tissue	human	Null	BioChain	CP-S10-R1234246-20_B304070	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001281	BC_Spleen_H12817N	BCSPLEENb	tissue	human	Null	BioChain	CP-S13-D1234246-05_B402069	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001307	BC_Stomach_01-11002	BCSTOMACH	tissue	human	missing	BioChain	CP-S12-D1234248-05_A808008	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	tissue	human	Null	BioChain	CP-S10-R1234248-20_B402077	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001307	BC_Stomach_H12817N	BCSTOMACHb	tissue	human	Null	BioChain	CP-S13-D1234248-05_B402070	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001363	BC_Testis_N30	BCTESTIS	tissue	human	missing	BioChain	D4234260_A711169	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -92,8 +92,9 @@ AMAD:6943	BoneMarrow	BMARROW	tissue	mouse	missing	LICR lab	BoneMarrow	missing	mi
 BTO:0000141	bone_marrow_HS27a	HS27A	cell line	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS27a	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000141	bone_marrow_HS5	HS5	cell line	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS5	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000141	bone_marrow_MSC	MSC	cell line	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	MSC	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000149	Breast_OC	BREASTOC	missing	human	missing	NCTC	11-0068A; 11-0067A	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000149	Breast_OC	BREASTOC	missing	human	missing	NCTC	11-0068A; 11-0067A	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000149	Breast_OC	BREASTOC	tissue	human	Null	NCTC	11-0068A	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000149	Breast_OC	BREASTOC	tissue	human	Null	NCTC	11-0067A	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7125	C2C12	C2C12	cell line	mouse	missing	Dr. Barbara Wold at Caltech	C2C12	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000195	Caco-2	CACO2	cell line	human	missing	ATCC	HTB-37	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000876	CD14+	CD14	tissue	human	missing	S. Heimfeld Laboratory, FHCRC	Monocytes-CD14+	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -103,34 +104,39 @@ BTO:0000776	CD20+_RO01794	CD20RO01794	tissue	human	missing	Rajinder Kaul, UW	CD2
 BTO:0000725	CD34+_Mobilized	CD34MOBILIZED	tissue	human	missing	Dr. Heimfeld Lab at FHCRC	FHCRC	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000782	CD4+_Naive_Wb11970640	CD4NAIVEWB11970640	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb11970640	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000782	CD4+_Naive_Wb78495824	CD4NAIVEWB78495824	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:7012	Cerebellum	CBELLUM	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cerebellum; Cerebellum	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:7012	Cerebellum	CBELLUM	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cerebellum; Cerebellum	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7012	Cerebellum	CBELLUM	tissue	mouse	Null	1)LICR lab	Cerebellum	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7012	Cerebellum	CBELLUM	tissue	mouse	Null	2)CSHL lab	Cerebellum	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000232	Cerebellum_OC	CEREBELLUMOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000232	Cerebellum_OC	CEREBELLUMOC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000232	Cerebellum_OC	CEREBELLUMOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000232	Cerebellum_OC	CEREBELLUMOC	tissue	human	missing	NICHD	1104	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000232	Cerebellum_OC	CEREBELLUMOC	tissue	human	missing	NICHD	602	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000232	Cerebellum_OC	CEREBELLUMOC	tissue	human	Null	NICHD	1442	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7014	Cerebrum	CEREBRUM	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Cerebrum	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000239	Cerebrum_frontal_OC	CEREBRUMFRONTALOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000239	Cerebrum_frontal_OC	CEREBRUMFRONTALOC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000239	Cerebrum_frontal_OC	CEREBRUMFRONTALOC	tissue	human	Null	NICHD	602	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000239	Cerebrum_frontal_OC	CEREBRUMFRONTALOC	tissue	human	Null	NICHD	1442	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7069	CH12	CH12	cell line	mouse	missing	Weissman lab	CH12	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000252	Chorion	CHORION	missing	human	missing	Dr. Amy Murtha at Duke University	missing	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001546	CLL	CLL	cell line	human	missing	Dr. Jennifer Brown at Harvard Medical School.	CLL	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0004962	CMK	CMK	cell line	human	missing	DSMZ	ACC-392	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7003	CNS	CNS	tissue	mouse	missing	CSHL lab	CNS	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000849	Colo829	COLO829	cell line	human	missing	ATCC	CRL-1974	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:6984	Colon	COLON	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Colon; Colon	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:6984	Colon	COLON	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Colon; Colon	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6984	Colon	COLON	tissue	mouse	Null	1)LICR lab	Colon	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6984	Colon	COLON	tissue	mouse	Null	2)CSHL lab	Colon	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000269	Colon_BC	COLONBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074; CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000269	Colon_BC	COLONBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074; CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	Colon_BC	COLONBC	tissue	human	Null	BioChain	CP-S10-R1234090-20_B111053	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	Colon_BC	COLONBC	tissue	human	Null	BioChain	CP-S10-R1234090-20_B402074	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	Colon_BC	COLONBC	tissue	human	Null	BioChain	CP-S12-D1234090-05_A903056	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	Colon_BC	COLONBC	tissue	human	Null	BioChain	CP-S13-D1234090-05_B111123	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000269	Colon_OC	COLONOC	tissue	human	missing	NCTC	10-0005A; 10-0170A	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000269	Colon_OC	COLONOC	tissue	human	missing	NCTC	10-0005A; 10-0170A	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000269	Colon_OC	COLONOC	tissue	human	Null	NCTC	10-0005A	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000269	Colon_OC	COLONOC	tissue	human	Null	NCTC	10-0170A	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000782	Cord_CD4_naive	CORDCD4NAIVE	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_naive	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000782	Cord_CD4_Th0	CORDCD4TH0	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th0	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000782	Cord_CD4_Th1	CORDCD4TH1	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th1	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:4465	Cortex	CORTEX	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cortex;Cortex	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:4465	Cortex	CORTEX	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cortex;Cortex	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:4465	Cortex	CORTEX	tissue	mouse	Null	1)LICR lab	Cortex	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:4465	Cortex	CORTEX	tissue	mouse	Null	2)CSHL lab	Cortex	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001360	Decidua	DECIDUA	missing	human	missing	Dr. Amy Murtha at Duke University (Durham, NC).	missing	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -156,7 +162,7 @@ AMAD:15148	ES-neurons	ESNEURON	embryonic stem cells	mouse	missing	LICR lab	mESC-
 AMAD:29	ES-TT2	ESTT2	embryonic stem cells	mouse	missing	Shinkai lab	ES-TT2	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:29	ES-WW6	ESWW6	embryonic stem cells	mouse	missing	A. Skoultchi Lab	WW6_F4WT	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:29	ES-WW6_F1KO	ESWW6KO	embryonic stem cells	mouse	missing	A. Skoultchi Lab	WW6_F1KO	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000959	Esophagus_BC	ESOPHAGUSBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075; CP-S13-D1234106-05_B302113	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000959	Esophagus_BC	ESOPHAGUSBC	tissue	human	missing	BioChain; BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075; CP-S13-D1234106-05_B302113	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000959	Esophagus_BC	ESOPHAGUSBC	tissue	human	Null	BioChain	CP-S10-R1234106-20_B402075	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000959	Esophagus_BC	ESOPHAGUSBC	tissue	human	Null	BioChain	CP-S12-D1234106-05_A803198	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000959	Esophagus_BC	ESOPHAGUSBC	tissue	human	Null	BioChain	CP-S13-D1234106-05_B302113	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -172,12 +178,13 @@ AMAD:3883	ForelimbBud	FLBUD	tissue	mouse	missing	Selleri lab, Cornell	ForelimbBu
 AMAD:7003	FrontalLobe	FLOBE	tissue	mouse	missing	CSHL lab	Frontal Lobe	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000484	Frontal_cortex_OC	FRONTALCORTEXOC	tissue	human	missing	Kathleen Price Bryan Brain	673; 913	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000484	Frontal_cortex_OC	FRONTALCORTEXOC	tissue	human	Null	Kathleen Price Bryan Brain	673	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000484	Frontal_cortex_OC	FRONTALCORTEXOC	tissue	human	missing	Kathleen Price Bryan Brain	913	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:15212	FVLstem	FVLS	stem cells	mouse	missing	Paulson Lab	FVLstem	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:15212	FVprogenitor	FVP	progenitor cells	mouse	missing	Paulson Lab	FVprogenitor	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7079	G1E	G1E	progenitor cells	mouse	missing	Mitch Weiss lab	missing	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7079	G1E-ER4	G1EER4	cell line	mouse	missing	Mitch Weiss lab	missing	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0003671	GC_B_cell	GCBCELL	tissue	human	missing	Dr. Yanwen Jiang	GC_B_cell	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:16230	GenitalFatPad	GFAT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Genital Fat Pad; Gonadal Adipose Tissue	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:16230	GenitalFatPad	GFAT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Genital Fat Pad; Gonadal Adipose Tissue	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:16230	GenitalFatPad	GFAT	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Genital Fat Pad	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:16230	GenitalFatPad	GFAT	tissue	mouse	Null	2)CSHL lab	Gonadal Adipose Tissue	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000527	Gliobla	GLIOBLA	cell line	human	missing	Dr. Darrell Bigner at Duke University Medical Center	D54	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -252,11 +259,15 @@ BTO:0003415	HConF	HCONF	primary cells	human	missing	ScienCell	6570	missing	missi
 BTO:0000258	HCPEpiC	HCPE	tissue	human	missing	ScienCell	1310	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002254	HCT-116	HCT116	cell line	human	missing	ATCC	CCL-247	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:3341	HeadlessEmbryo	HLEMBRYO	tissue	mouse	missing	Selleri lab, Cornell	HeadlessEmbryo	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:7103	Heart	HEART	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Heart; Heart	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:7103	Heart	HEART	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Heart; Heart	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7103	Heart	HEART	tissue	mouse	Null	1)LICR lab	Heart	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7103	Heart	HEART	tissue	mouse	Null	2)CSHL lab	Heart	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	1104; 602; 1442; 1863; 4548	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	1104; 602; 1442; 1863; 4548	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000562	Heart_OC	HEARTOC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	602	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	1863	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000562	Heart_OC	HEARTOC	tissue	human	missing	NICHD	4548	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000562	Heart_STL003	HeartSTL003	tissue	human	missing	Snyder lab	STL003	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001578	HEEpiC	HEE	primary cells	human	missing	ScienCell	2720	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000007	HEK293	HEK293	cell line	human	missing	ATCC	CRL-1573	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -292,18 +303,22 @@ BTO:0003298	hMSC-BM_0050602.11	HMSCBM005060211	stem cells	human	missing	PromoCel
 BTO:0003298	hMSC-BM_0051105.11	HMSCBM005110511	stem cells	human	missing	PromoCell	C-14090	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0003298	hMSC-UC_0052501.7	HMSCUC00525017	stem cells	human	missing	PromoCell	C-14091	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0003298	hMSC-UC_0081101.7	HMSCUC00811017	stem cells	human	missing	PromoCell	C-14091	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001854	HMVEC-dAd	HMVECDAD	primary cells	human	missing	Lonza	CC-2543,CC-3202	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0004574	HMVEC-dBl-Ad	HMVECc	primary cells	human	missing	Lonza	CC-2811, CC-2811T75	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0004574	HMVEC-dBl-Neo	HMVECd	primary cells	human	missing	Lonza	CC-2813, CC-2813T75	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0004574	HMVEC-dLy-Ad	HMVECe	primary cells	human	missing	Lonza	CC-2810, CC-2810T75	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0004574	HMVEC-dLy-Neo	HMVECf	primary cells	human	missing	Lonza	CC-2812, CC-2812T25	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0004574	HMVEC-dNeo	HMVECg	primary cells	human	missing	Lonza	CC-2505, CC-2505T225	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0003599	HMVEC-LBl	HMVECh	primary cells	human	missing	Lonza	CC-2815, CC-2815T75	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0003599	HMVEC-LLy	HMVECb	primary cells	human	missing	Lonza	CC-2814, CC-2814T25	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001854	HMVEC-dAd	HMVECDAD	primary cells	human	missing	Lonza	CC-2543,CC-3202	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001854	HMVEC-dAd	HMVECDAD	primary cells	human	missing	Lonza	CC-2543	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001854	HMVEC-dAd	HMVECDAD	primary cells	human	missing	Lonza	CC-3202	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0004574	HMVEC-dBl-Ad	HMVECc	primary cells	human	missing	Lonza	CC-2811	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0004574	HMVEC-dBl-Neo	HMVECd	primary cells	human	missing	Lonza	CC-2813	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0004574	HMVEC-dLy-Ad	HMVECe	primary cells	human	missing	Lonza	CC-2810	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0004574	HMVEC-dLy-Neo	HMVECf	primary cells	human	missing	Lonza	CC-2812	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0004574	HMVEC-dNeo	HMVECg	primary cells	human	missing	Lonza	CC-2505	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0003599	HMVEC-LBl	HMVECh	primary cells	human	missing	Lonza	CC-2815	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0003599	HMVEC-LLy	HMVECb	primary cells	human	missing	Lonza	CC-2814	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001770	HNPCEpiC	HNPCE	primary cells	human	missing	ScienCell	6580	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0004324	HOB_0090202.1	HOB00902021	primary cells	human	missing	PromoCell	C-14071	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0004324	HOB_0091301	HOB0091301	primary cells	human	missing	PromoCell	C-14071	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001141	HPAEC	HPAEC	primary cells	human	missing	Lonza	CC-2530,CC-3162	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001141	HPAEC	HPAEC	primary cells	human	missing	Lonza	CC-2530,CC-3162	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001141	HPAEC	HPAEC	primary cells	human	missing	Lonza	CC-2530	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001141	HPAEC	HPAEC	primary cells	human	missing	Lonza	CC-3162	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0003511	HPAEpiC	HPAE	primary cells	human	missing	ScienCell	3200	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000778	HPAF	HPAF	primary cells	human	missing	ScienCell	3120	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001975	HPC-PL_0032601.13	HPCPL003260113	tissue	human	missing	PromoCell	C-14095	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -346,47 +361,49 @@ AMAD:174	J185a	J185A	cell line	mouse	missing	Gilbert lab	J185a	missing	missing		
 BTO:0001948	Jurkat	JURKAT	cell line	human	missing	ATCC	TIB-152	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000664	K562	K562	cell line	human	missing	ATCC	CCL-243	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000664	K562b	K562b	cell line	human	missing	ATCC	CCL-243	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:6960	Kidney	KIDNEY	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Kidney; Kidney	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:6960	Kidney	KIDNEY	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Kidney; Kidney	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6960	Kidney	KIDNEY	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Kidney	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6960	Kidney	KIDNEY	tissue	mouse	Null	2)CSHL lab	Kidney	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000671	Kidney_BC	KIDNEYBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055; CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000671	Kidney_BC	KIDNEYBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055; CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_BC	KIDNEYBC	tissue	human	Null	BioChain	CP-S10-R1234142-20_A808055	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_BC	KIDNEYBC	tissue	human	Null	BioChain	CP-S10-R1234142-20_B111054	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_BC	KIDNEYBC	tissue	human	Null	BioChain	CP-S12-D1234142-05_B402060	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_BC	KIDNEYBC	tissue	human	Null	BioChain	CP-S13-D1234142-05_B402061	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; NCTC ; NICHD	1104; 602; 1442; 10-0022A; 1863	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; NCTC ; NICHD	1104; 602; 1442; 10-0022A; 1863	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	Null	NCTC	10-0022A	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	Null	NICHD	1442	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	Null	NICHD	1863	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000671	Kidney_OC	KIDNEYOC	tissue	human	Null	NICHD	602	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7077	L1210	L1210	cell line	mouse	missing	ATCC	CCL-219	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:6982	LgIntestine	LGINT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Large Intestine; Large Intestine	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:6982	LgIntestine	LGINT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Large Intestine; Large Intestine	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6982	LgIntestine	LGINT	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Large Intestine	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6982	LgIntestine	LGINT	tissue	mouse	Null	2)CSHL lab	Large Intestine	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0005046	LHCN-M2	LHCNM2	cell line	human	missing	Dr. Woodring Wright	Missing	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002398	LHSR	LHSR	cell line	human	missing	William Hahn at the Dana Farber Cancer Institute, Boston, MA	LHSR	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:7127	Limb	LIMB	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Limb; Limb	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:7127	Limb	LIMB	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Limb; Limb	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7127	Limb	LIMB	tissue	mouse	Null	1)LICR lab	Limb	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7127	Limb	LIMB	tissue	mouse	Null	2)CSHL lab	Limb	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:6963	Liver	LIVER	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Liver; Liver	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:6963	Liver	LIVER	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Liver; Liver	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6963	Liver	LIVER	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Liver	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6963	Liver	LIVER	tissue	mouse	Null	2)CSHL lab	Liver	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000759	Liver_OC	LIVEROC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000759	Liver_OC	LIVEROC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000759	Liver_OC	LIVEROC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000759	Liver_OC	LIVEROC	tissue	human	missing	NICHD	602	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000759	Liver_OC	LIVEROC	tissue	human	missing	NICHD	1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000759	Liver_STL004	LIVSTL004	tissue	human	missing	Snyder lab	STL004	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000759	Liver_STL011	LIVSTL011	tissue	human	missing	Snyder lab	STL011	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002021	LNCaP	LNCAP	cell line	human	missing	ATCC	CRL-1740	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002104	Loucy	LOUCY	cell line	human	missing	DSMZ	Loucy	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:6948	Lung	LUNG	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Lung; Lung	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:6948	Lung	LUNG	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Lung; Lung	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6948	Lung	LUNG	tissue	mouse	Null	1)LICR lab	Lung	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6948	Lung	LUNG	tissue	mouse	Null	2)CSHL lab	Lung	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000763	Lung_BC	LUNGBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114; CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000763	Lung_BC	LUNGBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114; CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	Lung_BC	LUNGBC	tissue	human	Null	BioChain	CP-S10-R1234152-20_A906114	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	Lung_BC	LUNGBC	tissue	human	Null	BioChain	CP-S10-R1234152-20_B207133	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	Lung_BC	LUNGBC	tissue	human	Null	BioChain	CP-S12-D1234152-05_A610240	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	Lung_BC	LUNGBC	tissue	human	Null	BioChain	CP-S13-D1234152-05_B402062	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000763	Lung_OC	LUNGOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; CF Center ; CF Center	1104; 602; 1442; DD006I; DD007I	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000763	Lung_OC	LUNGOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; CF Center ; CF Center	1104; 602; 1442; DD006I; DD007I	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	Lung_OC	LUNGOC	tissue	human	Null	CF Center	DD006I	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	Lung_OC	LUNGOC	tissue	human	Null	CF Center	DD007I	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000763	Lung_OC	LUNGOC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -418,8 +435,10 @@ BTO:0000776	Naive_B_cell	NAIVEBCELL	tissue	human	missing	Dr. Yanwen Jiang	Naive_
 BTO:0002489	NB4	NB4	cell line	human	missing	Refer to protocol documents for differing sources, UW: DSMZ (Deutsche Sammlung von Mikroorganismen und Zellkulturen) ACC-207 http://www.dsmz.de/ or Yale (Stanford): National Cell Culture Center http://www.nccc.com/	NB4	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000099	NH-A	NHA	primary cells	human	missing	Lonza	CC-2565	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002022	NHBE	NHBE	primary cells	human	missing	Lonza	CC-2541	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001845	NHBE_RA	NHBERA	primary cells	human	missing	Lonza	CC-2540, CC3170	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0004419	NHDF-Ad	NHDFAD	primary cells	human	missing	Lonza	CC-2511, CC-2511T225	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001845	NHBE_RA	NHBERA	primary cells	human	missing	Lonza	CC-2540, CC3170	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001845	NHBE_RA	NHBERA	primary cells	human	missing	Lonza	CC-2540	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001845	NHBE_RA	NHBERA	primary cells	human	missing	Lonza	CC-3170	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0004419	NHDF-Ad	NHDFAD	primary cells	human	missing	Lonza	CC-2511	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0004419	NHDF-neo	NHDFNEO	primary cells	human	missing	Lonza	CC-2509	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0003185	NHDF_0060801.3	NHDF00608013	primary cells	human	missing	PromoCell	C-14031	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0003185	NHDF_7071701.2	NHDF70717012	primary cells	human	missing	PromoCell	C-14031	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -438,8 +457,9 @@ AMAD:6958	Ovary	OVARY	tissue	mouse	missing	CSHL lab	Ovary	missing	missing		missi
 BTO:0000812	ovcar-3	OVCAR3	cell line	human	missing	ATCC	HTB-161	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000304	PANC-1	PANC1	cell line	human	missing	ATCC	CRL-1469	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7015	Pancreas	PANCREAS	tissue	mouse	missing	LICR lab	Pancreas	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000988	Pancreas_OC	PANCREASOC	tissue	human	missing	NCTC	09-0144A; 10-0021A	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000988	Pancreas_OC	PANCREASOC	tissue	human	missing	NCTC	09-0144A; 10-0021A	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000988	Pancreas_OC	PANCREASOC	tissue	human	Null	NCTC	09-0144A	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000988	Pancreas_OC	PANCREASOC	tissue	human	missing	NCTC	10-0021A	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000991	PanIsletD	PANISD	tissue	human	missing	National Disease Research Interchange	PanIsletD	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000991	PanIslets	PANISLETS	tissue	human	missing	Refer to publication or NDRI	PanIslets	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6948	Patski	PATSKI	cell line	mouse	missing	Dr. Christine Disteche at University of Washington	Patski	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -449,15 +469,22 @@ BTO:0001025	PBMC	PBMC	tissue	human	missing	Dr. E.H. Bresnick at UW Madison	PBMC	
 BTO:0000690	PFSK-1	PFSK1	cell line	human	missing	ATCC	CRL-2060	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001120	pHTE	PHTE	primary cells	human	missing	Dr. Cal Cotton at Case Western Reserve University	missing	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6957	Placenta	PLAC	tissue	mouse	missing	LICR lab	Placenta	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001101	Pons_OC	PONSOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001101	Pons_OC	PONSOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001101	Pons_OC	PONSOC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001101	Pons_OC	PONSOC	tissue	human	missing	NICHD	602	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001101	Pons_OC	PONSOC	tissue	human	missing	NICHD	1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002398	PrEC	PREC	primary cells	human	missing	Lonza	CC-2555	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001255	ProgFib	PROGFIB	missing	human	missing	Progeria Research Foundation	HGADFN167	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001129	prostate	PROSTATE	tissue	human	missing	ATCC	Missing	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001129	Prostate_OC	PROSTATEOC	tissue	human	missing	NICHD	1669; 1540	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001129	Prostate_OC	PROSTATEOC	tissue	human	missing	NICHD	1669; 1540	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001129	Prostate_OC	PROSTATEOC	tissue	human	Null	NICHD	1669	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	missing	NICHD	1104; 602; 1442; 1540; 1863	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001129	Prostate_OC	PROSTATEOC	tissue	human	missing	NICHD	1540	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	missing	NICHD	1104; 602; 1442; 1540; 1863	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	Null	NICHD	1104	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	missing	NICHD	602	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	missing	NICHD	1442	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	missing	NICHD	1540	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001140	Psoas_muscle_OC	PSOASMUSCLEOC	tissue	human	missing	NICHD	1863	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001154	Raji	RAJI	cell line	human	missing	ATCC	CCl-86	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000037	RCC_7860	RCC7860	cell line	human	missing	ATCC	CRL-1932	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6944	Retina	RETINA	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Retina	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -469,7 +496,7 @@ BTO:0000793	SH-SY5Y	SHSY5Y	cell line	human	missing	ATCC	CC-2266	missing	missing	
 BTO:0002372	SK-N-MC	SKNMC	cell line	human	missing	ATCC	HTB-10	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001620	SK-N-SH	SKNSH	cell line	human	missing	ATCC	HTB-11	59257297	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002372	SK-N-SH_RA	SKNSHRA	cell line	human	missing	ATCC	HTB-11	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001103	Skeletal_Muscle_BC	SKELBC	missing	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148; CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001103	Skeletal_Muscle_BC	SKELBC	missing	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148; CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001103	Skeletal_Muscle_BC	SKELBC	tissue	human	Null	BioChain	CP-S10-R1234171-20_A808148	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001103	Skeletal_Muscle_BC	SKELBC	tissue	human	Null	BioChain	CP-S10-R1234230-20_A911037	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001103	Skeletal_Muscle_BC	SKELBC	tissue	human	Null	BioChain	CP-S12-D1234171-05_A610262	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -479,23 +506,25 @@ BTO:0001801	SKMC	SKMC	cell line	human	missing	Lonza	CC-2561	missing	missing		mis
 BTO:0002916	SkMC_8121902.17	SKMC812190217	primary cells	human	missing	PromoCell	C-14060	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002916	SkMC_9011302	SKMC9011302	primary cells	human	missing	PromoCell	C-14060	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7125	SkMuscle	SKMUSCLE	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Skeletal Muscle	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0000651	Small_intestine_OC	SMALLINTESTINEOC	tissue	human	missing	NCTC	10-0063A; 09-0143A	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000651	Small_intestine_OC	SMALLINTESTINEOC	tissue	human	missing	NCTC	10-0063A; 09-0143A	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0000651	Small_intestine_OC	SMALLINTESTINEOC	tissue	human	Null	NCTC	10-0063A	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:6978	SmIntestine	SMINT	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Small Intestine; Small Intestine	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0000651	Small_intestine_OC	SMALLINTESTINEOC	tissue	human	missing	NCTC	09-0143A	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:6978	SmIntestine	SMINT	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Small Intestine; Small Intestine	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6978	SmIntestine	SMINT	tissue	mouse	Null	1)LICR lab	Small Intestine	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6978	SmIntestine	SMINT	tissue	mouse	Null	2)CSHL lab	Small Intestine	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:4521	SpinalCord	SPC	tissue	mouse	missing	LICR lab	Spinal Cord	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:7038	Spleen	SPL	tissue	mouse	missing	1) LICR lab; 2)Dr. John Stamatoyannopoulos at UW; 3)CSHL lab	Spleen; Spleen; Spleen	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:7038	Spleen	SPL	tissue	mouse	missing	1) LICR lab; 2)Dr. John Stamatoyannopoulos at UW; 3)CSHL lab	Spleen; Spleen; Spleen	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7038	Spleen	SPL	tissue	mouse	Null	1) LICR lab	Spleen	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7038	Spleen	SPL	tissue	mouse	Null	2)Dr. John Stamatoyannopoulos at UW	Spleen	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7038	Spleen	SPL	tissue	mouse	Null	3)CSHL lab	Spleen	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001281	Spleen_OC	SPLEENOC	tissue	human	missing	NICHD	1863; 4548	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001281	Spleen_OC	SPLEENOC	tissue	human	missing	NICHD	1863; 4548	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001281	Spleen_OC	SPLEENOC	tissue	human	Null	NICHD	1863	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001281	Spleen_OC	SPLEENOC	tissue	human	missing	NICHD	4548	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0002316	Stellate	STELLATE	tissue	human	missing	Dr. Steve Choi at Duke University	Stellate	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:6966	Stomach	STOM	tissue	mouse	missing	1) CSHL lab; 2) LICR lab	Stomach; Stomach	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:6966	Stomach	STOM	tissue	mouse	missing	1) CSHL lab; 2) LICR lab	Stomach; Stomach	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6966	Stomach	STOM	tissue	mouse	Null	1) CSHL lab	Stomach	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:6966	Stomach	STOM	tissue	mouse	Null	2) LICR lab	Stomach	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BTO:0001307	Stomach_BC	STOMACHBC	tissue	human	missing	BioChain; BioChain; BioChain	CP-S12-D1234248-05_A808008; CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+BTO:0001307	Stomach_BC	STOMACHBC	tissue	human	missing	BioChain; BioChain; BioChain	CP-S12-D1234248-05_A808008; CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001307	Stomach_BC	STOMACHBC	tissue	human	Null	BioChain	CP-S10-R1234248-20_B402077	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001307	Stomach_BC	STOMACHBC	tissue	human	Null	BioChain	CP-S12-D1234248-05_A808008	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001307	Stomach_BC	STOMACHBC	tissue	human	Null	BioChain	CP-S13-D1234248-05_B402070	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -504,7 +533,7 @@ BTO:0001248	T-47D	T47D	cell line	human	missing	ATCC	HTB-133	missing	missing		mis
 AMAD:7060	T-Naive	TNAIVE	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	T-Naive	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001583	T98G	T98G	cell line	human	missing	ATCC	CRL-1690	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001389	TBEC	TBEC	primary cells	human	missing	National Disease Research Interchange	DD009C	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:9201	Testis	TESTIS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Testis; Testis	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:9201	Testis	TESTIS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Testis; Testis	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:9201	Testis	TESTIS	tissue	mouse	Null	1)LICR lab	Testis	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:9201	Testis	TESTIS	tissue	mouse	Null	2)CSHL lab	Testis	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001678	Th1	TH1	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	None (primary pheresis of single normal subject)	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -515,7 +544,7 @@ BTO:0001679	Th2	TH2	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	None 
 BTO:0001679	Th2_Wb33676984	TH2WB33676984	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb33676984	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001679	Th2_Wb54553204	TH2WB54553204	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb54553204	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7060	THelper-Activated	THELPA	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	THelper-Activated	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:7037	Thymus	THYMUS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Thymus; Thymus	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:7037	Thymus	THYMUS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Thymus; Thymus	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7037	Thymus	THYMUS	tissue	mouse	Null	1)LICR lab	Thymus	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7037	Thymus	THYMUS	tissue	mouse	Null	2)CSHL lab	Thymus	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7060	TReg	TREG	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -529,7 +558,7 @@ BTO:0001768	UCH-1	UCH1	cell line	human	missing	Chordoma Research	Foundation	miss
 AMAD:11033	UpperLegMuscle	ULMUS	tissue	mouse	missing	LICR lab	Thigh Muscle	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001245	Urothelia	UROTHEL	cell line	human	missing	Dr. D Sens at University of N. Dakota	Urothelia	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001178	WERI-Rb-1	WERIRB1	cell line	human	missing	ATCC	HTB-169	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AMAD:7005	WholeBrain	WBRAIN	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Whole Brain; Whole Brain	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+AMAD:7005	WholeBrain	WBRAIN	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Whole Brain; Whole Brain	missing	missing		missing	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7005	WholeBrain	WBRAIN	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Whole Brain	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 AMAD:7005	WholeBrain	WBRAIN	tissue	mouse	Null	2)CSHL lab	Whole Brain	missing	missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 BTO:0001958	WI-38	WI38	cell line	human	missing	Dr. Carl Mann, SBIGeM	WI-38	missing	missing		missing	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
