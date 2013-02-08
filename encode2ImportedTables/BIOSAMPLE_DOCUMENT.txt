@@ -1,513 +1,513 @@
-biosample_no	document_no	is_current	date_created
-MRT_A204	Crawford:MRTA204.1_Crawford_protocol.pdf	created_by
-Huh-7	Crawford:Huh-7_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AG09309	Stam:AG09309_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cord_CD4_Th0	Crawford:CordCD4Th0_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HBVP	Stam:HBVP_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM19193	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Chorion	Crawford:Chorion_and_decidua_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Stomach_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-UC_0052501.7	Gingeras:hMSCUC0052501.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-EM5Sox17huCD25	Gilbert:ES-EM5Sox17huCD25_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ProgFib	Crawford:progeria_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-EPC_(CD117-_CD71-_TER119+)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Stellate	Crawford:Stellate_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FibroP_AG20443	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-THelper-Activated	Stam:THelper-Activated_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HeadlessEmbryo	Stam:HeadlessEmbryo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HL-60	Stam:HL-60_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H9ES-E	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Leukocyte_UHN00204	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPdLF	Stam:HPdLF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Melano	Crawford:Melano_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Th1_Wb54553204	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FVprogenitor	Hardison:FVprogenitor_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CMK	Stam:CMK_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HEK293(b)	Snyder:HEK293b_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cord_CD4_Th1	Crawford_Stam:HumanTh1_Th2_Th17_NaiveCD4_SOP_v1b_1.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-RWPE1	Crawford:RWPE_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-BM_0051105.11	Gingeras:hMSCBM0051105.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NT2-D1	ENCODE:NT2-D1_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-K562	ENCODE:K562_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFL11W	ENCODE:HFL11W_and_HFL24W_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoAF_6090101.11	Gingeras:HAoAF6090101.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-bone_marrow_MSC	Stam:MSC_marrow-fibroblastoid_SOP_v2.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCF	Stam:HCF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM.f_M2_6022001	Gingeras:NHEM.fM26022001_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCM	Stam:HCM_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCH_8100808.2	Gingeras:HCH8100808.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM_M2_7011001.2	Gingeras:NHEMM27011001.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM19238	Crawford:GM19238_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM19239	Crawford:GM19239_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CD20+_RO01794	Stam:CD20+_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PBMC	Farnham:PBMC_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cerebrum_frontal_OC	Crawford:CerebrumfrontalOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HUVEC	ENCODE:HUVEC_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM13977	Crawford:GM13977_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Breast_OC	Crawford:BreastOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Lung_OC	Crawford:LungOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM_M2_7012303	Gingeras:NHEMM27012303_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H9ES	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SK-N-SH	Myers:SK-N-SH_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-G1E	Hardison:G1E_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Pancreas_OC	Crawford:PancreasOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-LLy	Stam:HMVEC-LLy_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPC-PL_0032601.13	Gingeras:HPCPL0032601.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Fibrobl	Crawford:fibroblast_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Kidney_OC	Crawford:KidneyOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SpinalCord	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM06990	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-WW6_F1KO	Stam:ES-WW6_F1K0_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-bone_marrow_HS27a	Stam:HS27a_SOP-1.V.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MRT_TTC549	Crawford:MRTTTC549_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-TT2	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM19240	Crawford:GM19240_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Raji	Farnham:Raji_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-bone_marrow_HS5	Stam:HS5_SOP-1.V1-2.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ECC-1	Myers:ECC1_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Treg_Wb83319432	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-BM_0050602.11	Gingeras:hMSCBM0050602.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BAT	Ren:BAT_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-dAd	Stam:HMVECdAd_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AG04449	Stam:AG04449_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPAF	Stam:HPAF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Colon_OC	Crawford:ColonOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FVLstem	Hardison:FVLstem_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMMtube_emb	Crawford:HSMMtubeemb_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-iPS	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Monocytes-CD14+_RO01826	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HA-h	Stam:HAh_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ovcar-3	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12878	ENCODE:GM12878_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12875	Stam:GM12875_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12874	Stam:GM12874_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12871	Stam:GM12871_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12870	Stam:GM12870_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12873	Stam:GM12873_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM19099	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FatPad	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12892	Crawford:GM12892_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Monocytes-CD14+	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SkMC_8121902.17	Gingeras:SkMC8121902.17_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HGF	Stam:HGF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-prostate	Gingeras:Prostate_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Pericardium_H12529N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-AT_0102604.12	Gingeras:hMSCAT0102604.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H0287	Stam:H0287_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-TReg-Activated	Stam:TReg-Activated_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CD4+_Naive_Wb78495824	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Left_Ventricle_N41	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-EPC_(CD117+_CD71+_TER119+)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM04504	Stam:GM04504A_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM18507	ENCODE:GM18507_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM04503	Stam:GM04503D_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM18505	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HVMF_6091203.3	Gingeras:HVMF6091203.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HVMF_6100401.3	Gingeras:HVMF6100401.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoAF_6111301.9	Gingeras:HAoAF6111301.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HindlimbBud	Stam:HindlimbBuds_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Bladder	Gingeras:Bladder_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Placenta_UHN00189	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-L1210	Gilbert:L1210_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Liver_STL011	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-CB_9111701.6	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Duodenum	Gingeras:Duodenum_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Lymphoblastoid_cell_line	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HRE	Stam:HRE_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AG09319	Stam:AG09319_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SkMuscle	Stam:SkeletalMuscle_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Kidney_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Treg_Wb78495824	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-dBl-Neo	Stam:HMVEC-dBl-Neo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cord_CD4_naive	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Skin	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12872	Stam:GM12872_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-dLy-Ad	Stam:HMVEC-dLy-Ad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-iPS_NIHi11	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AoAF	Stam:AoAF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-3134	Stam:3134_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHDF-neo	Stam:NHDF-neo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Loucy	Bernstein:Loucy_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Retina	Stam:Retina_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-iPS_CWRU1	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMF	Stam:HMF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-T-Naive	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Heart_OC	Crawford:HeartOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SKMC	Stam:SkMC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Skeletal_Muscle_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-RCC_7860	Crawford:RCC7860_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-neurons	Ren:ES-neurons_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Kidney_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12891	Crawford:GM12891_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCFaa	Stam:HCFaa_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSaVEC_9100101.15	Gingeras:HSaVEC9100101.15_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-mG/ER	Stam:mG-ER_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Patski	Stam:Patski_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM08714	Farnham:GM08714_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Lung_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Psoas_muscle_OC	Crawford:PsoasmuscleOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Pancreas	Ren:Pancreas_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CLL	Crawford:CLL_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHDF_7071701.2	Gingeras:NHDF7071701.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM15510	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H9ES-EB	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12878-XiMat	Myers:GM12878-XiMat_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HOB_0091301	Gingeras:HOB0091301_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMMtube_FSHD	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SK-N-SH_RA	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-U87	Myers:U-87_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Erythrobl	Hardison:Erythroblast__Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-EpiSC-7	Gilbert:EpiSC-7_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-dBl-Ad	Stam:HMVEC-dBl-Ad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-EpiSC-5	Gilbert:EpiSC-5_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Colo829	Crawford:Colo829_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM10266	Crawford:GM10266_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ForelimbBud	Stam:ForelimbBuds_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ZhBTc4	Stam:ZhBTc4_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SAEC	Stam:SAEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Monocytes-CD14+_RO01746	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Th2	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Th1	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-WERI-Rb-1	Stam:WERI-Rb-1_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Placenta	Ren:Placenta_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-T98G	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-U2OS	Farnham:U2OS_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-PB_0022330.9	Gingeras:hMNCPB0022330.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HRCEpiC	Stam:HRCEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMM_FSHD	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12813	Stam:GM12813_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12812	Stam:GM12812_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-416B	Stam:416B_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HIPEpiC	Stam:HIPEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GC_B_cell	Crawford:GCBcell_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H9ES-EBD	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HEK293T	Crawford:HEK293T_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEK	ENCODE:Keratinocyte_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM18951	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAEpiC	Stam:HAEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12868	Stam:GM12868_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-M059J	Stam:M059J_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12866	Stam:GM12866_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFL24W	Myers:HFL11W_and_HFL24W_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12864	Stam:GM12864_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12865	Stam:GM12865_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HepG2	ENCODE:HepG2_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Ovary	Gingeras:Ovary_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Stomach_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Endometrium_OC	Crawford:EndometriumOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HRPEpiC	Stam:HRPEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-RPTEC	Stam:RPTEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Urothelia	Crawford:Urothelia_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HNPCEpiC	Stam:HNPCEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PanIsletD	Crawford:PanIsletD_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Colon_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CD34+_Mobilized	Stam:CD34+Mobilized_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-E14	Stam:ES-E14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAL	Myers:HAL_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Colon_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Astrocy	Crawford:Astrocytes_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CD14+	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Prostate_Gland_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Gliobla	Crawford:D54_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Pancreas_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BG02ES	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMEpC	Gingeras:HMEpC_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BMDM	Ren:BMDM_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMM_emb	Crawford:HSMMemb_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HTR8svn	Crawford:HTR8svn_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAc	Stam:HAc_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPAEC	Stam:HPAEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCH_0011308.2P	Gingeras:HCH0011308.2P_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Small_intestine_OC	Crawford:SmallintestineOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CD20+	Stam:CD20+_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-LHSR	Crawford:LHSR_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-iPS_NIHi7	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-LBl	Stam:HMVEC-Lbl_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Testis_N30	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-UC_0081101.7	Gingeras:hMSCUC0081101.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Ishikawa	Crawford:Ishikawa_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PBDE	Farnham:PBDE_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-46C	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Lung_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-dNeo	Stam:HMVEC-dNeo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSaVEC_0022202.16	Gingeras:HSaVEC0022202.16_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMEpC_6022801.3	Gingeras:HMEpC6022801.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHDF_0060801.3	Gingeras:NHDF0060801.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HBMEC	Stam:HBMEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-RPMI-7951	Stam:RPMI7951_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cerebellum_OC	Crawford:CerebellumOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HRGEC	Stam:HRGEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Mesoderm	Stam:Mesoderm_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Adrenal	Gingeras:Adrenal_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HT-1080	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Spleen_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-T_cells_CD4+	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Kidney_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Prostate_OC	Crawford:ProstateOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPIEpC_9012801.2	Gingeras:HPIEpC9012801.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AoSMC	Crawford:AoSMC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-EPC_(CD117+_CD71+_TER119-)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H9ES-CM	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-B-cell_(CD43-)	Stam:bCellCd43_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HWP	Gingeras:HWP0092205_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-PB_0082430.9	Gingeras:hMNCPB0082430.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-OlfactBulb	Ren:OlfactoryBulb_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Skeletal_Muscle_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Naive_B_cell	Crawford:NaiveBcell_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-WW6	Stam:ES-WW6_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-J185a	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Skin_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-A20	Stam:A20_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Adipose_UHN00001	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-K562b	Farnham:K562_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HepG2b	ENCODE:HepG2_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SH-SY5Y	Farnham:SH-SY5Y_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Huh-7.5	Crawford:Huh-7.5_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Liver_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Decidua	Crawford:Chorion_and_decidua_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SkMC_9011302	Gingeras:SkMC9011302_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Liver_OC	Crawford:LiverOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FrontalLobe	Gingeras:FrontalLobe_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM20000	Crawford:GM20000_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Dnd41	Bernstein:Dnd41_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Stomach_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHBE	Crawford:NHBE_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-IMR90	Stam:IMR90_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Fibroblast	Stam:Fibroblast_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HEK293-T-REx	Farnham:T-REx-HEK293_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HHSEC	Stam:HHSEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Medullo_D341	Crawford:MedulloD341_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Uterus_BN0765	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PrEC	Stam:PrEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MRT_G401	Crawford:MRTG401.6_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPF	Stam:HPF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-T-47D	Stam_and_Myers:T47D_StamandMyers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Th2_Wb33676984	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MammaryGland	Gingeras:MammaryGland_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Th1_Wb33676984	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HOB_0090202.1	Gingeras:HOB0090202.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-WI-38	Stam:WI38_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFDPC_0102703.3	Gingeras:HFDPC0102703.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12801	Stam:GM12801_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BJ	Stam:BJ_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Medullo	Crawford:D721_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Fibrobl_GM03348	Crawford:FibroblGM03348_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-pHTE	Crawford:pHTE_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Adult_CD4_Th0	Crawford:AdultCD4Th0_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Adult_CD4_Th1	Crawford_Stam:HumanTh1_Th2_Th17_NaiveCD4_SOP_v1b_1.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Penis_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Esophagus_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-CJ7	Stam:ES-CJ7_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NIH-3T3	Stam:NIH-3T3_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Colon_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PBDEFetal	Farnham:FetalPBDE_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-CB_8072802.6	Gingeras:hMNCCB8072802.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-G1E-ER4	Hardison:G1E_ER4_E2_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHBE_RA	UW_Stam:NHBERA_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPDE6-E6E7	Crawford:HPDE6-E6E7_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-EPC_(CD117-_CD71+_TER119+)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BoneMarrow	Ren:BoneMarrow_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Pons_OC	Crawford:PonsOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Lung_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-UpperLegMuscle	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PFSK-1	Myers:PFSK-1_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Spleen_OC	Crawford:SpleenOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Adult_CD4_naive	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Skeletal_Muscle_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCPEpiC	Stam:HCPEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM13976	Crawford:GM13976_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Bladder_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HA-sp	Stam:HA-sp_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoEC_7071706.1	Gingeras:HAoEC7071706.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-UCH-1	Crawford:UCH1_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFF-Myc	Stam:HFFMyc_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AG04450	Stam:AG04450_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Brain_H11058N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Megakaryo	Hardison:Megakaryocyte_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-AG10803	Stam:AG10803_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Breast_02-03015	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-8988T	Crawford:8988T_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMVEC-dLy-Neo	Stam:HMVEC-dLy-Neo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CD20+_RO01778	Stam:CD20+_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM10248	Crawford:GM10248_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-EPC_(CD117+_CD71-_TER119-)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-TReg	Stam:TReg_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM18526	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HEEpiC	Stam:HEEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Rectum_N29	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-TBEC	Crawford:TBEC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HWP_8120201.5	Gingeras:HWP8120201.5_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-AT_9061601.12	Gingeras:hMSCAT9061601.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MDA-MB-231	Struhl:MDA-MB-231_Struhl_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Heart_STL003	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFF	Stam:HFF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CH12	Weissman:CH12_Weissman_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SubcFatPad	Gingeras:SubcutaneousFatPad_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-Bruce4	Ren:ES-Bruce4_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Small_Intestine_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Adrenal_Gland_H12803N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPAEpiC	Stam:HPAEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Hepatocytes	Crawford:Hepatocytes_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BG02ES-EBD	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-C2C12	Wold:C2C12_Wold_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Mel_2183	Crawford:Mel2183_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HBVSMC	Stam:HBVSMC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Esophagus_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-B-cell_(CD19+)	Stam:bCellCd19_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H1-hESC	ENCODE:H1-hESC_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MEF	Ren:MEF_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFDPC_0100503.2	Gingeras:HFDPC0100503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MEP	Hardison:MEP_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ES-D3	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HConF	Stam:HConF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-10T1/2	Wold:10ToneHalf_Wold_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MCF10A-Er-Src	Struhl:MCF-10A_Struhl_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPIEpC_9041503.2	Gingeras:HPIEpC9041503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FibroP_AG08395	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FibroP_AG08396	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM10847	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Frontal_cortex_OC	Crawford:FrontalcortexOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-iPS_hFib2_iPS5	Gilbert:IPSHFIB2IPS5_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-iPS_hFib2_iPS4	Gilbert:IPSHFIB2IPS4_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H9ES-AFP-	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H9ES-AFP+	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Caco-2	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Myometr	Crawford:Myometr_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12869	Stam:GM12869_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BC_Jejunum_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Th2_Wb54553204	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cerebrum	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM.f_M2_5071302.2	Gingeras:NHEM.fM25071302.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CNS	Gingeras:CNS_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPC-PL_0101504.13	Gingeras:HPCPL0101504.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H7-hESC	StamAndCrawford:H7-hESC_StamAndCrawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoEC_8061102.1	Gingeras:HAoEC8061102.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Th17	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-CD4+_Naive_Wb11970640	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-LHCN-M2	Wold:LHCNM2_Wold_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GM12867	Stam:GM12867_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Olf_neurosphere	Crawford:Olfneurosphere_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Liver_STL004	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Esophagus_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-FibroP	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFDPC	Gingeras:HFDPC0100503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HFDPC	Gingeras:HFDPC0102703.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMMtube	Bernstein:HSMMtube_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMMtube	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoAF	Gingeras:HAoAF6090101.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoAF	Gingeras:HAoAF6111301.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Thymus	Ren:Thymus_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Thymus	Stam:Thymus_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Thymus	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MCF-7	Crawford:MCF-7_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MCF-7	Farnham:MCF-7_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MCF-7	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCH	Gingeras:HCH8100808.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCH	Gingeras:HCH0011308.2P_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PANC-1	Myers:PANC-1_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PANC-1	Stam:PANC-1_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HEK293	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HEK293	Snyder:HEK293b_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCT-116	ENCODE:HCT-116_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HCT-116	Stam:HCT116_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-LNCaP	Crawford:LNCaP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-LNCaP	Farnham:LNCaP_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-LNCaP	Stam:LNCaP_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Liver	Ren:Liver_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Liver	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Liver	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SkMC	Gingeras:SkMC9011302_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SkMC	Gingeras:SkMC8121902.17_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM.f_M2	Gingeras:NHEM.fM25071302.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM.f_M2	Gingeras:NHEM.fM26022001_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Lung	Ren:Lung_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Lung	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HVMF	Stam:HVMF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HVMF	Gingeras:HVMF6100401.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HVMF	Gingeras:HVMF6091203.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM_M2	Gingeras:NHEMM27011001.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHEM_M2	Gingeras:NHEMM27012303_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Jurkat	Myers:Jurkat_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Jurkat	Stam:Jurkat_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-AT	Gingeras:hMSCAT0102604.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-AT	Gingeras:hMSCAT9061601.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Testis	Ren:Testis_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Testis	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMEC	Bernstein:HMEC_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMEC	Crawford:HMEC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HMEC	Stam:HMEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHLF	Bernstein:NHLF_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHLF	Stam:NHLF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHDF-Ad	Stam:NHDF-Ad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHDF-Ad	Bernstein:NHDF-Ad_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-A549	Myers:A549_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-A549	Crawford:A549_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-A549	Stam:A549_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Limb	Ren:Limb_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Limb	Gingeras:Limb_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cortex	Ren:Cortex_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cortex	Gingeras:Cortex_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPIEpC	Gingeras:HPIEpC9012801.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPIEpC	Gingeras:HPIEpC9041503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PanIslets	Crawford:PanIslets_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-PanIslets	Lieb:PanIslets_Lieb_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSaVEC	Gingeras:HSaVEC9100101.15_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSaVEC	Gingeras:HSaVEC0022202.16_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-WholeBrain	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-WholeBrain	Gingeras:WholeBrain_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SK-N-MC	Myers:SK-N-MC_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SK-N-MC	Stam:SK-N-MC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Stomach	Gingeras:Stomach_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Stomach	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-CB	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-CB	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Osteobl	Crawford:Osteoblast_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Osteobl	Bernstein:Osteoblast_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-BM	Gingeras:hMSCBM0050602.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-BM	Gingeras:hMSCBM0051105.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Spleen	Ren:Spleen_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Spleen	Stam:Spleen_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Spleen	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cerebellum	Ren:Cerebellum_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cerebellum	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Cerebellum	Gingeras:Cerebellum_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HWP_0092205	Gingeras:HWP0092205_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HWP_0092205	Gingeras:HWP8120201.5_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HeLa-S3	ENCODE:HeLa-S3_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HeLa-S3	Crawford:HeLa-S3_IFN_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-LgIntestine	Stam:LargeIntestine_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-LgIntestine	Gingeras:LargeIntestine_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Heart	Ren:Heart_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Heart	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NH-A	Bernstein:NH-A_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NH-A	Stam:ENCODE:NH-A_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHDF	Gingeras:NHDF0060801.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NHDF	Gingeras:NHDF7071701.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Kidney	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Kidney	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GenitalFatPad	Stam:GenitalFatPad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-GenitalFatPad	Gingeras:GenitalFatPad_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BE2_C	Stam:BE2-C_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-BE2_C	Myers:BE2-C_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPC-PL	Gingeras:HPCPL0032601.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HPC-PL	Gingeras:HPCPL0101504.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoEC	Gingeras:HAoEC7071706.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HAoEC	Gingeras:HAoEC8061102.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NB4	ENCODE:NB4_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-NB4	Stam:NB4_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-MEL	Weissman:MEL_Weissman_protocol.pdfStam:MEL_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SmIntestine	Ren:SmallIntestine_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-SmIntestine	Gingeras:SmallIntestine_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Colon	Ren:Colon_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-Colon	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMM	Bernstein:HSMM_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMM	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HSMM	Stam:HSMM_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-UC	Gingeras:hMSCUC0081101.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMSC-UC	Gingeras:hMSCUC0052501.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HOB	Gingeras:HOB0090202.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-HOB	Gingeras:HOB0091301_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-PB	Gingeras:hMNCPB0022330.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-hMNC-PB	Gingeras:hMNCPB0082430.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H1-neurons	Cellular_Dynamics_International_Batch_1:H1_Neurons_Round1.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-H1-neurons	Cellular_Dynamics_International_Batch_2:H1_Neurons_Round2.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+biosample_document_no	biosample_no	document_no	is_current	date_created	created_by
+b26e69d9-dc96-4b9c-8cd5-0b298b0c7523	MRT_A204	Crawford:MRTA204.1_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cbe16230-5e44-4404-a21a-ddece7e3cce9	Huh-7	Crawford:Huh-7_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cc336726-d2d4-437c-8dc8-8c927825733e	AG09309	Stam:AG09309_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fbb341d4-12b7-434d-a0d6-d12978f0cdd5	Cord_CD4_Th0	Crawford:CordCD4Th0_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+95635d34-f7d3-4b09-a788-90ac65f5e7be	HBVP	Stam:HBVP_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2feb65fe-0318-46de-b869-0da407ad3d37	GM19193	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7f66b7a2-ea82-4686-b77b-ba93e958f441	Chorion	Crawford:Chorion_and_decidua_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ac51a6a8-db82-4292-9a8f-a17aba61fb93	BC_Stomach_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fa68bd9f-831d-46f6-a79e-51025100ddad	hMSC-UC_0052501.7	Gingeras:hMSCUC0052501.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bb1facd2-ec88-487c-88af-1606c27267ad	ES-EM5Sox17huCD25	Gilbert:ES-EM5Sox17huCD25_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b9d8d582-d346-4b0f-abb7-db8534b20bb0	ProgFib	Crawford:progeria_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cf967270-9862-493b-981f-2601cb4b1426	EPC_(CD117-_CD71-_TER119+)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ea164564-ee7a-448e-a9bf-8353acfe2c44	Stellate	Crawford:Stellate_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+25815079-ec9b-4f3f-ac63-3eadaa6e4c59	FibroP_AG20443	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2412e6a9-1d26-42a4-9793-33ab92bf4a47	THelper-Activated	Stam:THelper-Activated_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6d820596-253d-4fae-bb11-35f57bb06aff	HeadlessEmbryo	Stam:HeadlessEmbryo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f0a27583-4d51-46e8-acf6-db7f4058fb64	HL-60	Stam:HL-60_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bb4f5e78-a17c-4068-b0fa-0b5ccfd3a9a1	H9ES-E	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b33e5f73-ce9f-4898-9ec8-b6f7b277a40e	BC_Leukocyte_UHN00204	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+53038040-b0fc-430f-8b24-71a22df6ec29	HPdLF	Stam:HPdLF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a56ef2c0-9eaa-4926-978f-4aafeafb2a41	Melano	Crawford:Melano_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+46c7b545-7ad6-4cb1-9b5f-f48e19236d71	Th1_Wb54553204	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ced56cfe-a5b8-4a68-8d19-f5b9b3e2b993	FVprogenitor	Hardison:FVprogenitor_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3556e49c-d5a0-44b0-8e3d-6742d52cbef5	CMK	Stam:CMK_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3cee7056-b84b-478c-8121-402d1219f37a	HEK293(b)	Snyder:HEK293b_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+391c951d-4175-40a9-8d2f-ad0996eea75b	Cord_CD4_Th1	Crawford_Stam:HumanTh1_Th2_Th17_NaiveCD4_SOP_v1b_1.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c64e46a5-a57e-412a-b8e0-247f1d4a7a71	RWPE1	Crawford:RWPE_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+715065f7-c98d-4ef1-9bb6-40bbdea2a6da	hMSC-BM_0051105.11	Gingeras:hMSCBM0051105.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8b142bab-d38e-486e-9ce7-e45022b3001d	NT2-D1	ENCODE:NT2-D1_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+40792158-1613-47f4-ae3f-dc3400c097d3	K562	ENCODE:K562_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7272456e-2ea7-4987-ab0d-42f350204e98	HFL11W	ENCODE:HFL11W_and_HFL24W_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+68a26c90-db25-47cb-94ef-177974271fc6	HAoAF_6090101.11	Gingeras:HAoAF6090101.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0b1b695a-5809-44c4-b430-92e673b5517c	bone_marrow_MSC	Stam:MSC_marrow-fibroblastoid_SOP_v2.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+61aba16f-4fad-4d0e-83e7-cc4ef03ec270	HCF	Stam:HCF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ee17f45a-1119-47b4-bc0c-f48a239ff058	NHEM.f_M2_6022001	Gingeras:NHEM.fM26022001_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3c4edc64-df16-4f4c-97da-a7186681d3dc	HCM	Stam:HCM_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+31849c9b-4eb9-4a8d-bdc7-9087f5899556	HCH_8100808.2	Gingeras:HCH8100808.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6936cf77-6548-4142-aa2f-b3a487075ec2	NHEM_M2_7011001.2	Gingeras:NHEMM27011001.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a5615f2f-6f84-4d25-a3c9-660d72fb63ff	GM19238	Crawford:GM19238_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e355a8ad-6e07-410f-84c1-06b4962da68d	GM19239	Crawford:GM19239_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2f72a762-d9a4-4670-b0b7-58ca6ff9d3f7	CD20+_RO01794	Stam:CD20+_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+78a84a85-7a89-4490-aec5-c225e755b9bb	PBMC	Farnham:PBMC_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a12b267b-0bf6-4502-ad7b-b66441f48178	Cerebrum_frontal_OC	Crawford:CerebrumfrontalOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fe8d6bbc-b28a-4125-963f-40dd359216d1	HUVEC	ENCODE:HUVEC_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9d1dead3-3c0d-435b-8b3e-f9a045055fb8	GM13977	Crawford:GM13977_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+16251f41-101c-46d7-9a46-fd1e36a48fba	Breast_OC	Crawford:BreastOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4dae9dc8-2b00-4d57-a50f-12ac3985cf67	Lung_OC	Crawford:LungOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1c4dab2c-56b7-470c-9d70-24acc85c4c56	NHEM_M2_7012303	Gingeras:NHEMM27012303_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+12d3f81d-ef32-4d27-ab6a-8def330111f7	H9ES	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+784ee76c-6f44-411d-8480-cf6011cb5ee6	SK-N-SH	Myers:SK-N-SH_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+be676f47-8f13-47ae-be85-b6232d52875f	G1E	Hardison:G1E_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b1f727ff-5644-48f8-b40b-54514f58add5	Pancreas_OC	Crawford:PancreasOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+90854834-7447-400a-af54-b3733bf699ad	HMVEC-LLy	Stam:HMVEC-LLy_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4d9d28cc-e43f-4dbd-bcd2-43157007ffed	HPC-PL_0032601.13	Gingeras:HPCPL0032601.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bb4eba04-7f54-4f6e-8ec0-ea2b08fdf900	Fibrobl	Crawford:fibroblast_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bfaac796-9c91-4b80-a63d-957e993a6912	Kidney_OC	Crawford:KidneyOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+770fb6b7-8c31-4286-a0ad-88f31f71aa68	SpinalCord	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+695177dc-37b9-497d-94c7-639f37be6b8f	GM06990	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8053e20a-0d1f-45c0-ac31-ab60e20f82c8	ES-WW6_F1KO	Stam:ES-WW6_F1K0_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8c5c5ba9-2884-4614-8da3-9869fe013321	bone_marrow_HS27a	Stam:HS27a_SOP-1.V.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6df4d8a1-c20d-4ca7-b5d8-15a957f54738	MRT_TTC549	Crawford:MRTTTC549_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c3848656-54fe-4db0-a6f6-430d49d990e8	ES-TT2	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cb130396-85eb-462f-b4b4-e7c66d7ed0a9	GM19240	Crawford:GM19240_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d270af61-d141-428d-b7cc-a827df19ac81	Raji	Farnham:Raji_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5297a5f3-e979-443d-a3fb-14db180bb851	bone_marrow_HS5	Stam:HS5_SOP-1.V1-2.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+27f254b6-a118-42e3-a71c-40a10b95564c	ECC-1	Myers:ECC1_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1a6c2954-a0e2-4ecf-9ea4-c9d2e3167bd3	Treg_Wb83319432	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+15e214dd-18a2-4fb2-b924-c6bf61b2f099	hMSC-BM_0050602.11	Gingeras:hMSCBM0050602.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+aefe9ed5-c36d-4d10-a7a1-39b485fc81d6	BAT	Ren:BAT_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fcac2423-91ce-45e3-9884-234536916aac	HMVEC-dAd	Stam:HMVECdAd_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+45d3eb60-3611-47ad-88ec-6591f354c28b	AG04449	Stam:AG04449_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bcc7d599-3f7a-492d-9e29-8fd4c650c1da	HPAF	Stam:HPAF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+11326ff4-a38b-4684-953a-6ba6f8637da7	Colon_OC	Crawford:ColonOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d8d21f48-4372-4861-90a9-884417469a6d	FVLstem	Hardison:FVLstem_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+55ac1c77-8e62-48d7-a38d-817e155bfaa6	HSMMtube_emb	Crawford:HSMMtubeemb_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8e3c567a-d68b-4a67-8073-68eab787d2b6	iPS	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+772fe026-77cd-4967-8b3e-4bcaf15aa530	Monocytes-CD14+_RO01826	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+caabf3e1-8fe7-477b-8002-98d136461773	HA-h	Stam:HAh_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f194aa51-d8d2-4153-8e5a-6731022dc6f1	ovcar-3	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0741e0a7-d022-4585-aeae-2a00faa70882	GM12878	ENCODE:GM12878_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+919c8187-8c80-4ef2-a715-2c13eca972fa	GM12875	Stam:GM12875_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+29606de5-e86b-4129-89c3-f6b4edf3637c	GM12874	Stam:GM12874_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ef268ef8-143d-436c-8929-c17fde149969	GM12871	Stam:GM12871_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+79af6c97-8bbc-40f8-8264-3e1b7c3a9f0e	GM12870	Stam:GM12870_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+62a5670a-f7c5-4c12-ac54-c0f9f97bf499	GM12873	Stam:GM12873_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3df8dda6-51cf-4217-a7f3-43660d78dce5	GM19099	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+34cdb70f-3f74-44fd-b1d4-cdef10031478	FatPad	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+42a2d5cb-9de1-41e4-80c9-1bd0c57f8731	GM12892	Crawford:GM12892_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e77d49e8-5731-4f4b-be42-e3afbd697a13	Monocytes-CD14+	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4165de1b-cb4f-41e4-8787-ebcd39a05a5b	SkMC_8121902.17	Gingeras:SkMC8121902.17_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f0bedcf0-7479-4776-9764-7d412c96c9b4	HGF	Stam:HGF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+da6de6ed-4315-4737-b143-5180a5467fc1	prostate	Gingeras:Prostate_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dec7710e-73e4-4b92-854d-8082b4e3cb67	BC_Pericardium_H12529N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f22f123c-4768-425a-bd72-5f4d13482f79	hMSC-AT_0102604.12	Gingeras:hMSCAT0102604.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+23386af2-4a8b-4705-97e3-5de607f5ab01	H0287	Stam:H0287_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+955885fe-84b7-40f4-b705-978857ab88f3	TReg-Activated	Stam:TReg-Activated_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d28300c7-c207-4088-b214-cab41024905b	CD4+_Naive_Wb78495824	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+29d8fc64-d58d-4b63-bf18-c091847f4984	BC_Left_Ventricle_N41	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dfa4b7d8-a8ab-4892-8b4b-045b9ae7baf5	EPC_(CD117+_CD71+_TER119+)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ec2be0a5-59dc-4ce2-93f3-d0e3978b17ca	GM04504	Stam:GM04504A_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bb59afb1-468b-4122-b9e8-7d3c5fea3d12	GM18507	ENCODE:GM18507_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bdc5f8fe-5100-47e7-ad18-d5c4617d8347	GM04503	Stam:GM04503D_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+76f9e927-bbb8-4130-8d0d-28ab75f82ec7	GM18505	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6fd14724-b4c9-4b39-aa72-348f0b301baf	HVMF_6091203.3	Gingeras:HVMF6091203.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ebaab155-4617-4eac-a310-99c2c20f5215	HVMF_6100401.3	Gingeras:HVMF6100401.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b6ebc228-a018-4123-bc7e-c7f6f7b412dd	HAoAF_6111301.9	Gingeras:HAoAF6111301.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d84d270a-996e-448a-8594-d076c4bb2bc8	HindlimbBud	Stam:HindlimbBuds_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+03483949-a65a-4dd4-8392-faf0f3667d7f	Bladder	Gingeras:Bladder_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+297ed3aa-57e7-445d-ad24-d036fa9d0811	BC_Placenta_UHN00189	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1d9e779e-5549-41ba-8234-2d40727940f2	L1210	Gilbert:L1210_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a94ad03e-4c68-4e01-9867-e9edb9dc046d	Liver_STL011	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+21e6fbe8-8a79-489c-ab76-8d08a3342e67	hMNC-CB_9111701.6	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+00400a31-f39c-45ee-89d4-c402b80aa02c	Duodenum	Gingeras:Duodenum_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4ebbaacc-9fcb-4ee4-9c06-c0e668dcd771	Lymphoblastoid_cell_line	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+88b21a72-a195-4530-820a-75b55be3acaf	HRE	Stam:HRE_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+53e4b1a5-79a4-4eb4-b09f-431a80b43710	AG09319	Stam:AG09319_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2abe1466-4de9-4cf3-9dfe-f3d697a1cdfc	SkMuscle	Stam:SkeletalMuscle_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+43f5ff87-0b0f-409d-a2c4-2944a69b0ada	BC_Kidney_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b47b5c13-6f96-43be-af96-657a07fd94c3	Treg_Wb78495824	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0af08e70-7134-434c-ac9e-3728e27cf315	HMVEC-dBl-Neo	Stam:HMVEC-dBl-Neo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f209ff2a-2667-4459-bde2-f716c89407bb	Cord_CD4_naive	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+089891cb-82db-481e-bb3a-d9ab7f562d23	Skin	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ff127976-87e0-4cf4-b15c-2feefe2e468e	GM12872	Stam:GM12872_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8e2c0496-2d8e-47fc-a7a8-9be4a8ba0024	HMVEC-dLy-Ad	Stam:HMVEC-dLy-Ad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e9e631df-829d-46f6-8d75-b95660169451	iPS_NIHi11	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+386f9d3a-08c0-470b-aca5-bf5c7b2e1c46	AoAF	Stam:AoAF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d4e00354-233a-419b-adf6-23e76758f878	3134	Stam:3134_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1433ddd4-195e-4e10-9d3a-2e865e481bc2	NHDF-neo	Stam:NHDF-neo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e6b5cdaa-90d8-4a59-9f8e-cf21e4d5745e	Loucy	Bernstein:Loucy_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b098c5eb-20e0-4ee9-8c97-70ef7eb8777a	Retina	Stam:Retina_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1cd78ab5-333f-4fb7-8738-071397999593	iPS_CWRU1	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6b5c23d7-9ec8-421a-a3ec-0554296bf74c	HMF	Stam:HMF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d91db30a-57d8-4798-8aec-feeb20981647	T-Naive	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7c377bc8-f761-4649-9a15-4f93d0560367	Heart_OC	Crawford:HeartOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+56aa0286-8259-4058-b2a8-5b38968db434	SKMC	Stam:SkMC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3ef3fa5e-45ec-4674-b06e-3f608647bb3b	Skeletal_Muscle_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b50816bb-d920-4d70-92f6-14d702d68871	RCC_7860	Crawford:RCC7860_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d21f33f0-1f95-404f-97a9-000a7fa4c41d	ES-neurons	Ren:ES-neurons_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c8db71e0-963b-4b6a-a22a-76515f8c93cf	Kidney_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3ccc89ad-3e84-4679-8905-1b2f776fb2d2	GM12891	Crawford:GM12891_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ebf5850e-5383-4eb0-b518-1c8cee9e8728	HCFaa	Stam:HCFaa_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c62dcd57-7bb9-4882-9c48-1e56c8544a2e	HSaVEC_9100101.15	Gingeras:HSaVEC9100101.15_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3e390c41-b2c7-4eb6-8b38-28147f5dfb87	mG/ER	Stam:mG-ER_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+78b0e414-9ac1-4202-b27d-d850ad6365dc	Patski	Stam:Patski_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ddd3ace8-03aa-4597-bd41-96630479f711	GM08714	Farnham:GM08714_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dd716889-f097-4cf4-bf82-449d43fbf878	BC_Lung_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8e85df7e-490c-462b-b576-c9b2f84d4a48	Psoas_muscle_OC	Crawford:PsoasmuscleOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+aa411f39-0edc-4433-b879-d31ddfd8424d	Pancreas	Ren:Pancreas_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+925f7dd2-1e58-4e19-b79e-75bbb39db94c	CLL	Crawford:CLL_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8a213dad-67d7-4909-9a26-0feda96dcc62	NHDF_7071701.2	Gingeras:NHDF7071701.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+53f69d35-58a0-438a-8052-c683151e0ba3	GM15510	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+edb9dc9b-b7eb-48b4-9d45-5655030ce8f3	H9ES-EB	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+67f49782-1ffd-4e16-9735-965a85f462e9	GM12878-XiMat	Myers:GM12878-XiMat_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d3cfb02a-7546-416a-b2e3-6c10c8fae35e	HOB_0091301	Gingeras:HOB0091301_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+417e5510-84de-48b4-a395-1bcc8d5d1eef	HSMMtube_FSHD	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e0817ec9-cb23-4860-8d97-0392802f102b	SK-N-SH_RA	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5dab4d24-0904-4c5b-9331-47b8503cbccc	U87	Myers:U-87_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+edebb70b-3e25-45a4-af9b-7a21d6815991	Erythrobl	Hardison:Erythroblast__Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+139d6eff-ae8c-4ae5-8df2-9fb7a2ec9931	EpiSC-7	Gilbert:EpiSC-7_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+da78fcc6-7951-4600-9999-41a2ec2a95e7	HMVEC-dBl-Ad	Stam:HMVEC-dBl-Ad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f8de538c-9f3a-4870-9372-533fa84995f4	EpiSC-5	Gilbert:EpiSC-5_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+29695ffe-7983-4d23-814a-d86fbea4d82a	Colo829	Crawford:Colo829_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+39186e9d-28e2-40e8-b06d-a256df0503d3	GM10266	Crawford:GM10266_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d103bdad-3277-4b42-9b63-876dfbe7fd99	ForelimbBud	Stam:ForelimbBuds_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cd5b88d3-1731-45c5-80e2-a9129c13e554	ZhBTc4	Stam:ZhBTc4_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c1e11a93-9b27-41fc-9750-c7ca38474717	SAEC	Stam:SAEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ad42048f-3d0a-4906-96cc-22229182ac8b	Monocytes-CD14+_RO01746	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9ac80422-80b1-4f2e-a487-a1f764a1537e	Th2	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+aaf8e98b-2591-4e8d-b894-92fb7770755f	Th1	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+899ad420-c5cb-49bc-861d-9f0f53aaac3b	WERI-Rb-1	Stam:WERI-Rb-1_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0efb0313-9008-4b9b-be41-08fab75658ad	Placenta	Ren:Placenta_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d46b7914-fc93-45f2-8cd9-6f8acc22bc06	T98G	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9c093552-95ae-4a30-a4fb-5819c2c91da5	U2OS	Farnham:U2OS_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+86b6a201-24e8-490b-a86d-0a6ba14f8882	hMNC-PB_0022330.9	Gingeras:hMNCPB0022330.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c65496c7-d2ec-4116-8094-70c8f5ed1c36	HRCEpiC	Stam:HRCEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6f7e6a9b-9381-408d-9aa6-b3a8a6b4d666	HSMM_FSHD	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+47cc3b02-6629-433e-b559-bd18b455487f	GM12813	Stam:GM12813_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2d2e37d2-5d17-45c0-b29c-a24841f64448	GM12812	Stam:GM12812_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c49a09aa-ac08-4438-b163-11553a61f231	416B	Stam:416B_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+36e5fef7-fcfe-41a0-b28c-362dde4cbb21	HIPEpiC	Stam:HIPEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f42e03cd-1726-4233-b6f1-5d893959a300	GC_B_cell	Crawford:GCBcell_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+75e74551-de48-4cc1-b394-a78fe0519ccf	H9ES-EBD	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+42619bf2-3df2-4640-a6c5-12de36352113	HEK293T	Crawford:HEK293T_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c5670560-449a-483d-a929-b857c8d37045	NHEK	ENCODE:Keratinocyte_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dc20fca2-b78d-406c-85f9-13a0d631c2b1	GM18951	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+574ca95f-5d33-4c62-9930-f1eda0ba772e	HAEpiC	Stam:HAEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+56e0de60-5535-4f4f-be58-6c80d66f883e	GM12868	Stam:GM12868_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7c9a9e5f-17af-49a5-81eb-44a28890015b	M059J	Stam:M059J_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+219d80e7-043e-4f10-b84e-8cab1374c16e	GM12866	Stam:GM12866_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e5f84175-ee16-40c4-a902-d9c5619cb56f	HFL24W	Myers:HFL11W_and_HFL24W_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f01ed9b9-775e-4f0f-b24e-d2f7b6aa5116	GM12864	Stam:GM12864_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1bec699f-4d9c-4110-9684-f5191b9b34b2	GM12865	Stam:GM12865_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+da16dd8f-26d2-436c-a36d-78f4a8237220	HepG2	ENCODE:HepG2_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+51a7000b-3a8a-48cd-8426-1f1d022d95a7	Ovary	Gingeras:Ovary_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9dca8a11-1a95-430a-920a-685766d5039b	BC_Stomach_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+79722cb1-169a-4abc-a0bc-fb7a5bf8f0ac	Endometrium_OC	Crawford:EndometriumOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+61093df2-7832-4b5f-a83f-0f5c1cb8a6d0	HRPEpiC	Stam:HRPEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6af15466-a039-4aab-be64-984a1e775dce	RPTEC	Stam:RPTEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0fb3347c-1c60-44f4-906e-e5178b0ed1a8	Urothelia	Crawford:Urothelia_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1cc752d1-9c54-4db1-be75-8494c70a83d8	HNPCEpiC	Stam:HNPCEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d1110789-fbaa-4484-8aa1-aa8e867c9232	PanIsletD	Crawford:PanIsletD_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6466c4a2-17d5-4375-976c-ea0bdb37696c	BC_Colon_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+57a9cb31-fcd4-482a-88fe-d171894fe3a5	CD34+_Mobilized	Stam:CD34+Mobilized_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+65aefc7a-0fa7-4e0a-ac4a-79aca4edd3d7	ES-E14	Stam:ES-E14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a82c21bb-a42b-4289-84b0-d57524846b71	HAL	Myers:HAL_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+138df80c-5430-4794-ab89-7f17183fa7a2	BC_Colon_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+36c4c588-6d89-4797-b2e3-74d19612b8d3	Astrocy	Crawford:Astrocytes_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+56984f03-da2e-4758-bd78-f0639ace3746	CD14+	Stam:MonoCD14_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+56e0e92b-1aef-444e-8204-61a2bfa7436f	BC_Prostate_Gland_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4f05f03c-6250-4ffe-ba4e-9b261472cfbe	Gliobla	Crawford:D54_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5bf5e32b-1ecd-48ed-b92b-cd158686a9f1	BC_Pancreas_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ba940156-4865-4848-a5cf-0cf6293f0f06	BG02ES	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+de42b669-6fdf-4ddb-af33-64385487da97	HMEpC	Gingeras:HMEpC_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+27d07e46-e3f4-46db-951a-c6a1458a0071	BMDM	Ren:BMDM_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fa428452-f2cf-48af-b255-0c494b816368	HSMM_emb	Crawford:HSMMemb_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2e6064f5-ee6e-4ca2-9ab1-6765dab9672d	HTR8svn	Crawford:HTR8svn_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bbd5f354-526d-4b8f-972d-7635ee1bfcb6	HAc	Stam:HAc_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9eca8d23-7a7b-4dc5-b448-9fad66cf19dd	HPAEC	Stam:HPAEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e3dee102-d656-47a2-911b-a892c691ed13	HCH_0011308.2P	Gingeras:HCH0011308.2P_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6fecbf37-0422-4396-8ca6-c70687ddcf2c	Small_intestine_OC	Crawford:SmallintestineOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8801ec9b-8f75-4c3c-9f27-dc79f4c8a902	CD20+	Stam:CD20+_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1c4fdf26-ebe5-4018-aff2-f23f09934dcb	LHSR	Crawford:LHSR_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+00e2bd6c-6a17-4e9e-a9f5-7c5500d0af2c	iPS_NIHi7	Crawford:iPS_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5ec564a2-9661-4ab2-aeee-7915ab194de8	HMVEC-LBl	Stam:HMVEC-Lbl_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+091622e5-a473-4e94-8b87-ba5296e9bc8a	BC_Testis_N30	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+445a3bb1-87ff-42a3-b601-cf2590e1ad66	hMSC-UC_0081101.7	Gingeras:hMSCUC0081101.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+29cde9f6-2777-42d5-94b5-6a5caada1fbe	Ishikawa	Crawford:Ishikawa_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+afb1f3b3-d775-41a1-ac6d-0bf167948e5d	PBDE	Farnham:PBDE_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bc4bdacd-fab9-4dce-a173-e995be334704	ES-46C	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8329fd40-0542-4230-996c-7659af4b6a70	BC_Lung_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2698fab7-bae3-46e0-b221-436bc6e80fbb	HMVEC-dNeo	Stam:HMVEC-dNeo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+97c005d7-115c-443c-a4a8-65d316b0d522	HSaVEC_0022202.16	Gingeras:HSaVEC0022202.16_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e71b7fe6-1db1-4c3c-b08c-0dabb6473133	HMEpC_6022801.3	Gingeras:HMEpC6022801.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d312e09c-74fd-45e8-9a96-df320275b10d	NHDF_0060801.3	Gingeras:NHDF0060801.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+969fc7b2-1ebc-424d-9407-fec87607d39e	HBMEC	Stam:HBMEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2bfe009a-d4de-43cd-9b8c-6d864a3c9c87	RPMI-7951	Stam:RPMI7951_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8d0d8269-e657-4c50-9f1a-7fb066bf514c	Cerebellum_OC	Crawford:CerebellumOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d17572f1-5332-48e9-a086-887905d4c64a	HRGEC	Stam:HRGEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b0c8b6e9-6add-4234-92ad-d52aae5d2b63	Mesoderm	Stam:Mesoderm_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b16dd632-0830-4534-8b92-898d2664e9fe	Adrenal	Gingeras:Adrenal_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9c5f7e9a-815a-4256-96f9-77d3ad91aa3f	HT-1080	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cfdc1354-4f2f-4aec-8582-0d1c6f08cfd4	BC_Spleen_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ed1f7018-a22f-43da-9da2-0282c9072445	T_cells_CD4+	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+162b7d13-8c5f-40e6-8432-853446a35a64	BC_Kidney_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6e87b3dd-07cd-44b9-b68a-607aaeeeaea5	Prostate_OC	Crawford:ProstateOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fc84c21e-697e-4c59-b74a-c57841cf0b94	HPIEpC_9012801.2	Gingeras:HPIEpC9012801.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+541ec588-e95c-44b5-992d-8dfa5b7b62a7	AoSMC	Crawford:AoSMC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7e00cb71-c04b-441e-b882-7f198eeea20e	EPC_(CD117+_CD71+_TER119-)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4ced51df-a55e-4bf7-a72f-775f2e9166f6	H9ES-CM	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4d910e17-b861-49d0-a0a4-8bd8c930c1a5	B-cell_(CD43-)	Stam:bCellCd43_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+836a936e-fea2-4bf0-8665-d2fc3ee01201	HWP	Gingeras:HWP0092205_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a1e7b91b-f7f7-42b6-bed1-41450ac214cc	hMNC-PB_0082430.9	Gingeras:hMNCPB0082430.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7586c9b4-c8a5-4a8e-b584-6f17ad349c23	OlfactBulb	Ren:OlfactoryBulb_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4d4d81d0-a74e-4bf1-a83a-28e44a04a813	BC_Skeletal_Muscle_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b63b2b1a-de69-42a2-a464-fd101cb7744e	Naive_B_cell	Crawford:NaiveBcell_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+73b05880-aa07-4354-9d7c-04604435b4bd	ES-WW6	Stam:ES-WW6_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e59ee4bc-6f2d-43b4-bda6-3f98b5bea484	J185a	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+00c0a209-8fd3-471c-bd4f-864f883fc760	BC_Skin_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+305d977b-9ea0-4b10-af85-8970ee81d68a	A20	Stam:A20_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f803941b-ddaa-4685-acad-04ec1b0aa891	BC_Adipose_UHN00001	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+29830d91-4d09-4c77-b046-85801a23eaac	K562b	Farnham:K562_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c6475006-9598-4f80-8b4e-7b68533fe698	HepG2b	ENCODE:HepG2_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1e53fe9f-fd00-421d-b367-039a4e2ed9ad	SH-SY5Y	Farnham:SH-SY5Y_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+88296017-8d0c-4113-a426-9c6aedf2f35d	Huh-7.5	Crawford:Huh-7.5_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1991d172-6a20-43ef-bd66-3afab02bb668	BC_Liver_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+89fba937-7880-42bd-bdc3-a0dbabd6438a	Decidua	Crawford:Chorion_and_decidua_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d58783e5-4112-4351-bf1a-6c8398e3b0ac	SkMC_9011302	Gingeras:SkMC9011302_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+57d453cd-4bea-46a4-9f50-dc49b3582175	Liver_OC	Crawford:LiverOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cdf84863-f3a5-4849-9dab-c5cfafafd5ce	FrontalLobe	Gingeras:FrontalLobe_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8142ede4-986e-4e2f-b061-a383001a3d3e	GM20000	Crawford:GM20000_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+da0c2f4b-61b2-4101-9848-dc4365bf9a8e	Dnd41	Bernstein:Dnd41_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7d681694-08cd-478b-b740-38e10de49a42	Stomach_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+314acf9f-c71f-4a0b-9d86-f816f3649c83	NHBE	Crawford:NHBE_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+12b405fa-2a39-498b-b94d-7e8008d5969a	IMR90	Stam:IMR90_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0cc0adce-4a5a-4315-b423-3e9247aee54a	Fibroblast	Stam:Fibroblast_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+87066f36-43e2-41ac-a994-740fc296ad5c	HEK293-T-REx	Farnham:T-REx-HEK293_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f035e79a-56df-499a-8982-07c428ef647d	HHSEC	Stam:HHSEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+eaab30ab-72a2-4b75-8c8d-b0867aadcb12	Medullo_D341	Crawford:MedulloD341_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7762b0a0-f64a-4efe-b52e-a261177c4169	BC_Uterus_BN0765	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3d8501a8-3929-48a8-898e-3f5a3b57f798	PrEC	Stam:PrEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+82431ad5-a850-486e-aa7e-abbf930bbe12	MRT_G401	Crawford:MRTG401.6_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dca86adf-3449-4f4d-96db-839a17aa1226	HPF	Stam:HPF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+51e1ce71-c989-4538-9204-5732e3266df2	T-47D	Stam_and_Myers:T47D_StamandMyers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+666bcd10-6398-4b8e-b744-744f5148d237	Th2_Wb33676984	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b93c031a-8c10-45f2-89b0-04ee2325fa36	MammaryGland	Gingeras:MammaryGland_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0d1cda63-7c3d-4999-af80-b521d971f38e	Th1_Wb33676984	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a614083e-2b56-4ae8-92b8-3abdb87ca55a	HOB_0090202.1	Gingeras:HOB0090202.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+078ee3c7-6706-4f8b-a326-ddcdfa18076b	WI-38	Stam:WI38_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a3d449ce-fa2b-4535-b6ac-b54d075020db	HFDPC_0102703.3	Gingeras:HFDPC0102703.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+43934a87-30df-40f8-ad96-40ba56c6a92c	GM12801	Stam:GM12801_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+db57cc53-1a1c-4869-b496-c15dd62b1e02	BJ	Stam:BJ_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b0d5d716-73ef-4db0-9c1b-383197e84f43	Medullo	Crawford:D721_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+eabff073-e0fb-4df2-ae07-a49fb2a4ef41	Fibrobl_GM03348	Crawford:FibroblGM03348_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+96596bc8-72e9-4afe-87a3-f94054072cb4	pHTE	Crawford:pHTE_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+728a907e-c40b-4bc7-b60e-44e72f05280a	Adult_CD4_Th0	Crawford:AdultCD4Th0_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cb3a0d60-188b-4393-803e-05e6826a27ce	Adult_CD4_Th1	Crawford_Stam:HumanTh1_Th2_Th17_NaiveCD4_SOP_v1b_1.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+70307f91-a710-4b04-a5c5-9bf5b5ec9adf	BC_Penis_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+84b32144-ea62-4afd-b1a1-08c03daba854	BC_Esophagus_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ef137642-9c12-45b5-ac31-10526c3cb646	ES-CJ7	Stam:ES-CJ7_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5fe27596-d9bb-4aee-b460-f495768c938d	NIH-3T3	Stam:NIH-3T3_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+78290ea1-0a29-4e84-b1cb-7c9a0712057c	Colon_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+10a2f053-07bb-4543-a491-23cd4671c923	PBDEFetal	Farnham:FetalPBDE_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0eba5050-b34c-443c-ba5e-b1983db6ab59	hMNC-CB_8072802.6	Gingeras:hMNCCB8072802.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ede5e4fd-45e1-441a-881e-88b75a429181	G1E-ER4	Hardison:G1E_ER4_E2_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+72ec0bf0-7a76-491a-a84c-2697120f10b1	NHBE_RA	UW_Stam:NHBERA_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b36f97e2-9d80-474a-a44d-bef618c5c25c	HPDE6-E6E7	Crawford:HPDE6-E6E7_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3e5aae9d-3e68-4947-b5d5-1b8316598fc3	EPC_(CD117-_CD71+_TER119+)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+041c6629-817e-421d-8ab5-ef5cc85e3f3d	BoneMarrow	Ren:BoneMarrow_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+45bdb969-7b01-4980-88f2-19b949ca9c5f	Pons_OC	Crawford:PonsOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b8d7f0dc-ac12-41ed-8fba-3156a2500a4d	Lung_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b9c1b088-fa2e-4c86-bdf3-9670813effbc	UpperLegMuscle	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b40af02f-2c84-4b49-9674-708895cbe055	PFSK-1	Myers:PFSK-1_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6bb88e5c-0f65-457f-a0f3-654dc36f1525	Spleen_OC	Crawford:SpleenOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+35d4411b-3990-43c6-b4f9-e36898a4e634	Adult_CD4_naive	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4aab6d61-515f-4f5c-945a-c9547f75016c	BC_Skeletal_Muscle_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f5d7a7d2-a423-4e8c-8c07-59e42c0ebb34	HCPEpiC	Stam:HCPEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+33e71c4c-df80-4ba7-91d3-74370a9fd5b5	GM13976	Crawford:GM13976_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bb678c07-55ae-47da-bb76-f275ddb6f744	BC_Bladder_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1bbc3b15-1f48-4304-89f9-ecb6a6d9ff77	HA-sp	Stam:HA-sp_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+224ce8a7-6724-401e-9986-8e2b8ec765a5	HAoEC_7071706.1	Gingeras:HAoEC7071706.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cdc4e928-1383-4564-853d-44d392c5e48b	UCH-1	Crawford:UCH1_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+323330b7-f71c-4b67-8e49-2ef2b1bd95a0	HFF-Myc	Stam:HFFMyc_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2e6d03fd-1cd1-40b6-8cd9-304fc07447f2	AG04450	Stam:AG04450_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d1438915-97cc-4f41-a264-98751b476af5	BC_Brain_H11058N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f33be610-fa44-457f-8650-f7283cfa671d	Megakaryo	Hardison:Megakaryocyte_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c1762d47-3579-4fa6-86e0-a5518932cc48	AG10803	Stam:AG10803_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1c61ad6b-58a0-457c-b6f0-7699f90e035d	BC_Breast_02-03015	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b65a6908-08e2-46bb-9f71-d5af62bf0903	8988T	Crawford:8988T_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e04a8f05-148a-4ecb-8875-24eebeca59cf	HMVEC-dLy-Neo	Stam:HMVEC-dLy-Neo_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d1aaee9e-8402-4d88-b1db-e28b2c073536	CD20+_RO01778	Stam:CD20+_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3b58cde7-55b9-4755-a91e-e6c2ddf9eb02	GM10248	Crawford:GM10248_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c9e2b020-8195-4709-ba9e-324a6bda26c5	EPC_(CD117+_CD71-_TER119-)	UW:EPC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d711521f-ffaf-44d2-9fa7-58a9cc8418e4	TReg	Stam:TReg_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+89cee105-bd70-4e5f-ab30-7313b867a343	GM18526	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0733e78b-6e46-4c80-9061-4dc19d9ef2ab	HEEpiC	Stam:HEEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+99828c80-5cc5-4309-8631-50b45778b031	BC_Rectum_N29	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9254fff2-70e2-4f3b-8acc-b5a98093ea67	TBEC	Crawford:TBEC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+be7a92c9-af9e-479f-8240-c06daacaa3b6	HWP_8120201.5	Gingeras:HWP8120201.5_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c914b206-3817-4b18-ba5d-df364ae7ec3c	hMSC-AT_9061601.12	Gingeras:hMSCAT9061601.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+280b6974-c87b-4aa8-b46e-08e71f58a5b1	MDA-MB-231	Struhl:MDA-MB-231_Struhl_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bf0819ec-876d-4a65-987b-6270b9f4897e	Heart_STL003	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ac310987-bf08-429d-bb86-c2727f985187	HFF	Stam:HFF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+13c70c2f-c7f4-40b3-827c-97755bc8b1da	CH12	Weissman:CH12_Weissman_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+440803ed-918d-463f-b97d-96b5818ef584	SubcFatPad	Gingeras:SubcutaneousFatPad_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2dfd38d4-fc59-45c4-bb6b-352a0389201d	ES-Bruce4	Ren:ES-Bruce4_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ffd40bc7-02a4-4d3f-9cf3-584d447c0e4f	BC_Small_Intestine_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4f0ffdd1-60b6-4e1b-a3e0-3bd0b4146d9d	BC_Adrenal_Gland_H12803N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4f35ba1a-ea23-4ee6-acaf-226f3337a5fe	HPAEpiC	Stam:HPAEpiC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b2efdcc9-1506-4f83-8205-e66834c7c5fb	Hepatocytes	Crawford:Hepatocytes_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f0fc3737-02ae-4fe5-ba0c-73dbd70e78db	BG02ES-EBD	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+985fd771-683f-46cc-abd5-1820bcfc1a21	C2C12	Wold:C2C12_Wold_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bf22ad8f-1538-4571-9943-31822c985f2b	Mel_2183	Crawford:Mel2183_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6c909f66-1482-469e-98e2-6d39d3ce1078	HBVSMC	Stam:HBVSMC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+27bafe2f-392c-4000-b2ff-6907dd6cdd28	BC_Esophagus_01-11002	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+46c03ce0-d40d-4b94-8c17-fc0a0c1bc443	B-cell_(CD19+)	Stam:bCellCd19_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d5a987a4-f99b-4575-88d4-7b9ea7e474a1	H1-hESC	ENCODE:H1-hESC_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5818e3fe-49c8-469b-9e48-ef30e1aaa9d3	MEF	Ren:MEF_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5d9256a8-d223-4d06-9f55-fd2aabd01dbd	HFDPC_0100503.2	Gingeras:HFDPC0100503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9c88c438-7232-424f-93c3-8ae8d484fdf8	MEP	Hardison:MEP_Hardison_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7fadbfb0-432b-4461-b4f3-1c8513112894	ES-D3	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+77949e07-ee94-4c96-be33-181139fbd40d	HConF	Stam:HConF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+edcf91c3-6354-4a0b-a888-91f5774a686e	10T1/2	Wold:10ToneHalf_Wold_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+240ae399-8a9d-4dad-ae9b-e080b2739cd5	MCF10A-Er-Src	Struhl:MCF-10A_Struhl_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+38ff7aee-e17b-4851-9127-eb64b213a0d9	HPIEpC_9041503.2	Gingeras:HPIEpC9041503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b0488079-2ff5-489b-8652-04cd81fd9050	FibroP_AG08395	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f295281b-47fe-4532-a4c5-a44f05861ab7	FibroP_AG08396	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+abdae349-21d0-4a5d-9093-94c6e9e41de2	GM10847	Snyder:GM-generalized_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+aaabdd18-1f78-4012-8cb1-ff1eaf879f2a	Frontal_cortex_OC	Crawford:FrontalcortexOC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6af1ddae-c416-48b5-b02e-0ab46b22c11e	iPS_hFib2_iPS5	Gilbert:IPSHFIB2IPS5_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6488c983-eda2-4d98-9dae-c98486bd3e86	iPS_hFib2_iPS4	Gilbert:IPSHFIB2IPS4_Gilbert_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a3885f0d-25a3-4325-a4dc-20a3ef309eb5	H9ES-AFP-	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e185d6d6-40c6-43df-88ec-9f0da60f5967	H9ES-AFP+	Myers:BG02ES_and_H9ES_Myers_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9e7091b5-d522-4994-9466-03d5ebfda3fc	Caco-2	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d042a4c7-53b3-455f-84ed-75baa918efd9	Myometr	Crawford:Myometr_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0700495a-0eb5-4e82-9629-264552d81692	GM12869	Stam:GM12869_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+855077ce-f726-4ba4-93b8-e54ba69a4d50	BC_Jejunum_H12817N	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d0fab618-c3bf-45c2-ba1f-25c24805328a	Th2_Wb54553204	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+833907fb-f33c-438a-8001-550c8413d1b6	Cerebrum	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+39481a75-b4b5-4102-abfe-1486791155bb	NHEM.f_M2_5071302.2	Gingeras:NHEM.fM25071302.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cadc8036-4980-497b-9d9b-ab3866242105	CNS	Gingeras:CNS_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+febd8208-9e16-4b55-aecc-0e7025e37b5c	HPC-PL_0101504.13	Gingeras:HPCPL0101504.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+434c14c4-61d8-41e3-b7e9-6140ac882fa0	H7-hESC	StamAndCrawford:H7-hESC_StamAndCrawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5939afe9-85b7-4e1a-a212-088617bc2a1e	HAoEC_8061102.1	Gingeras:HAoEC8061102.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+23833587-b262-46f9-bf41-d1b92d48c6f6	Th17	Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+600fdc60-7f8a-4980-917b-c9b3c018a5bf	CD4+_Naive_Wb11970640	Crawford_Stam:AdultCD4naiveTcell_Crawford.v2_PlusStam.v1_SOP.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+def8eb3e-e0fc-4549-95e9-55a87dbcd989	LHCN-M2	Wold:LHCNM2_Wold_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f0ec2f4f-fa61-4bd9-b482-29be381a90b8	GM12867	Stam:GM12867_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1a6938de-5475-42fb-96d2-06058ca744e3	Olf_neurosphere	Crawford:Olfneurosphere_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+05df191f-50ae-45f4-b29e-124f6731ebca	Liver_STL004	missing	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+42251d69-0e30-4866-abcb-afdc690820d3	Esophagus_BC	Myers:Myers_BioChain_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+26e2ff80-9325-4ec9-95a5-be4ae5b9f741	FibroP	Crawford:FibroP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+338cfd9c-a023-4456-b672-8a338005a4ce	HFDPC	Gingeras:HFDPC0100503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+157cc4fc-ca1a-4883-a930-e9d86b5e5270	HFDPC	Gingeras:HFDPC0102703.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d84a95fb-6ee6-467c-8607-3f925b80a524	HSMMtube	Bernstein:HSMMtube_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ec6111a9-8ede-409b-a106-0bd4751f8e11	HSMMtube	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3a7d1ff7-23ff-40df-bdc6-26342d55ca14	HAoAF	Gingeras:HAoAF6090101.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1b4031d4-b559-4ef7-bf7b-660cbd94cae9	HAoAF	Gingeras:HAoAF6111301.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d597492d-ee2d-4cc5-a14a-e31eb8ea1e23	Thymus	Ren:Thymus_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e8d4d79d-7c34-44c2-af07-76e443e9c169	Thymus	Stam:Thymus_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+91df4b98-74d3-4d21-a564-72f8cd46a9b0	Thymus	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6a01b730-eab0-4ea5-82ae-22247202bce0	MCF-7	Crawford:MCF-7_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8d5ec739-0822-4810-9ec9-c84a194f4129	MCF-7	Farnham:MCF-7_Farnham_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+be16e262-8520-4ca3-8572-a79b2b121fd5	MCF-7	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5eaa4174-5842-49c3-8bed-7a6f0e6944bb	HCH	Gingeras:HCH8100808.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+11c4606a-c7e4-4f8b-bbb5-542fba8ea715	HCH	Gingeras:HCH0011308.2P_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ff877a55-87ac-4499-8755-6740b6f1293b	PANC-1	Myers:PANC-1_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b78e2ef4-22d6-427d-a55d-15570568d92b	PANC-1	Stam:PANC-1_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+afd40c46-3284-40ee-a372-91790c1d927a	HEK293	Stam:Stam_15_protocols.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7d31a9c9-4dfe-4246-a58a-c4081eae80a1	HEK293	Snyder:HEK293b_Snyder_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b5d73e80-c4a7-41b6-bdc8-6837858070a0	HCT-116	ENCODE:HCT-116_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+479ef770-3d98-4e4b-a7eb-d960df10a83a	HCT-116	Stam:HCT116_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+edc4762c-8b46-4f11-a59e-5e36b8434148	LNCaP	Crawford:LNCaP_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+228b9f67-29f5-4986-9ca4-f2aa155a984d	LNCaP	Farnham:LNCaP_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+51aa39aa-7e87-4f7f-b24e-03b455709a97	LNCaP	Stam:LNCaP_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e3ac1074-3464-40db-9f19-5b9fd824159a	Liver	Ren:Liver_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+23d4b452-2562-4693-8445-2b36fb396667	Liver	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5b2edf70-e8f4-4141-b2dd-dbb7bd3eaab5	Liver	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c588cbae-57cb-4709-9f25-1eec62b4198f	SkMC	Gingeras:SkMC9011302_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+82824d5d-e4cc-48e6-b68c-ded3987517e1	SkMC	Gingeras:SkMC8121902.17_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+aee0267c-6ef9-4dd2-924e-9aa405f670e7	NHEM.f_M2	Gingeras:NHEM.fM25071302.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+af167f58-d0eb-43e9-93ff-44319219f56a	NHEM.f_M2	Gingeras:NHEM.fM26022001_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3b14749d-668e-4d68-b758-1adb4b53bb16	Lung	Ren:Lung_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6e9364c9-83a3-4309-9c2a-25bbbb955301	Lung	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e151f77b-e727-4388-88fe-7475660ca960	HVMF	Stam:HVMF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fb0e692e-d419-4cb4-9bc6-e4c4854ea84e	HVMF	Gingeras:HVMF6100401.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+77c919df-7ada-4d09-a0c1-07c6c938972f	HVMF	Gingeras:HVMF6091203.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+66e056ae-51db-4b22-985d-c8ac996efefe	NHEM_M2	Gingeras:NHEMM27011001.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1e0e930b-7dc0-4ebd-9e06-2c9543296138	NHEM_M2	Gingeras:NHEMM27012303_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2de302b1-2880-464e-9d0f-b099055e18ed	Jurkat	Myers:Jurkat_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+197fcba6-3f6a-460a-b3dc-c4a79ad89479	Jurkat	Stam:Jurkat_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+68964bde-0c4a-4c79-aed4-be39dc294f90	hMSC-AT	Gingeras:hMSCAT0102604.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6614ee0f-3479-4011-8719-8babb2393c74	hMSC-AT	Gingeras:hMSCAT9061601.12_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a258ca02-6222-4472-bd6c-1327419a9226	Testis	Ren:Testis_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0db5802e-a7a7-4863-b675-a6d29cf43a5c	Testis	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9d834f98-6d6b-44ef-8fa4-fa04588deac4	HMEC	Bernstein:HMEC_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+841c30ab-469b-4896-b6f5-6c89183c3e3c	HMEC	Crawford:HMEC_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dec38220-0552-4882-b8c3-49e4aae1ec6f	HMEC	Stam:HMEC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+83a86991-d67f-4612-9c3e-748cc1d9064c	NHLF	Bernstein:NHLF_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c51cd942-5a20-422b-83a5-eb0a381f8811	NHLF	Stam:NHLF_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+906f25ea-ae83-412f-842a-ea98f767a634	NHDF-Ad	Stam:NHDF-Ad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+71dc1c66-be93-4179-806d-fccdccef4dc4	NHDF-Ad	Bernstein:NHDF-Ad_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+67678a03-106e-438a-a2a6-157c306e72d4	A549	Myers:A549_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+39585432-405f-4a20-879a-2692d97696e6	A549	Crawford:A549_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bcfe0ad8-33e9-472e-a6e7-6b21692b08cf	A549	Stam:A549_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1ccfc688-2896-41de-9e78-6d4bf27d326f	Limb	Ren:Limb_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7e0dd2b2-dd2f-4a07-9221-92f283cbd528	Limb	Gingeras:Limb_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+374e336c-2eb1-410f-9667-e553538377fa	Cortex	Ren:Cortex_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+70cb9435-5775-46da-b56d-09bb28f6340b	Cortex	Gingeras:Cortex_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1ae5ea30-6ce0-43cf-9364-8e52486dcdbd	HPIEpC	Gingeras:HPIEpC9012801.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7b1db159-e08b-4af4-a827-cd6c9c1c9c99	HPIEpC	Gingeras:HPIEpC9041503.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5d576fef-950b-47de-868c-1990855bb318	PanIslets	Crawford:PanIslets_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e3860ffb-f85a-4a55-9cd6-1673a0e3cb6e	PanIslets	Lieb:PanIslets_Lieb_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5f05ebbe-2cca-4f94-b982-c862f188246e	HSaVEC	Gingeras:HSaVEC9100101.15_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+40d971cd-d56a-4b9e-bb89-6ddaa8e32ba7	HSaVEC	Gingeras:HSaVEC0022202.16_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+84e7d8a1-6bc2-426a-9844-93b52e97b573	WholeBrain	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bf9051e6-7287-4cf8-aa5a-81358784ca45	WholeBrain	Gingeras:WholeBrain_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f7fd50fa-af98-41a5-87b1-ff135e31ef27	SK-N-MC	Myers:SK-N-MC_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3373b69a-910e-4e47-a6be-3033a6c395e0	SK-N-MC	Stam:SK-N-MC_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+56914f5d-278a-4ed8-8371-e5544a349b89	Stomach	Gingeras:Stomach_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+78428ec9-7902-47e5-b0d3-4e267398811c	Stomach	Ren:Tissue_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b193b851-03ab-4797-965b-1380ae9c8958	hMNC-CB	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ec159336-997d-4584-94e4-a6582743d861	hMNC-CB	Gingeras:hMNCCB9111701.6_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4576c7ef-06bf-488f-9eaf-9846db92b411	Osteobl	Crawford:Osteoblast_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3b34be20-0fdc-4e30-be54-2edeaf88903f	Osteobl	Bernstein:Osteoblast_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+44098fff-5bf5-42a3-bacf-3f53bb60e066	hMSC-BM	Gingeras:hMSCBM0050602.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5ae3584c-f724-49e5-a0de-3461eb0e0c98	hMSC-BM	Gingeras:hMSCBM0051105.11_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b1823186-dbe8-4579-839d-38856419e30c	Spleen	Ren:Spleen_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dfea8d48-f03a-49d6-b410-305c681479a2	Spleen	Stam:Spleen_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+092670dd-8907-40ad-a797-baab7d3a95e5	Spleen	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a85c0662-02b9-480b-a254-3c618806bd84	Cerebellum	Ren:Cerebellum_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+081b8b82-fe53-4cc6-b111-a36b08a247f0	Cerebellum	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a981e31d-8570-48da-ad3c-0eddc77d8300	Cerebellum	Gingeras:Cerebellum_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e1e38b60-a350-46fa-9392-f055fb0d3078	HWP_0092205	Gingeras:HWP0092205_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+54b57221-22a0-4821-af85-021015ed8f2a	HWP_0092205	Gingeras:HWP8120201.5_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0fcf30aa-b086-42bc-b102-e3cf0b35db1d	HeLa-S3	ENCODE:HeLa-S3_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+89680f8a-3569-4598-a571-63130c69da87	HeLa-S3	Crawford:HeLa-S3_IFN_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5e46ed4f-7f4e-4bee-9c16-575062119227	LgIntestine	Stam:LargeIntestine_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e0c1608d-73b2-4053-95c2-a2272c8b7c58	LgIntestine	Gingeras:LargeIntestine_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+22d54114-a128-4946-9174-b11b9562e5f7	Heart	Ren:Heart_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dc4ddae3-5101-4fe1-a712-a95e1f8a0736	Heart	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9a04abf5-fd74-4019-9212-6d89f0ac5c25	NH-A	Bernstein:NH-A_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2550e369-0392-434a-bd7f-d6fa9fa3f308	NH-A	Stam:ENCODE:NH-A_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9eb8fb5e-d356-4aea-a5ad-540911cd93a8	NHDF	Gingeras:NHDF0060801.3_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+181c4746-1444-4f2f-aafb-87268faa26fe	NHDF	Gingeras:NHDF7071701.2_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dcda8a9a-c624-4a5f-81ec-9f6a5efe2733	Kidney	Stam:Tissue_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3d1c3170-8451-43ae-ad7c-cf1b5fef5963	Kidney	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7604878d-a75e-4b68-8a63-f7997f31987b	GenitalFatPad	Stam:GenitalFatPad_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f2058d20-d470-4fe6-b705-7e98722887e3	GenitalFatPad	Gingeras:GenitalFatPad_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7dbdd4c0-4508-49d7-acc9-df5c1539fed3	BE2_C	Stam:BE2-C_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a7e23cea-a112-462f-a84e-e8061d8097b8	BE2_C	Myers:BE2-C_Myers_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9ef4dca5-1442-434a-af82-55f3ee48b516	HPC-PL	Gingeras:HPCPL0032601.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1a912b85-f300-44c4-9b0c-926cbcd1d35b	HPC-PL	Gingeras:HPCPL0101504.13_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c5ee64de-060a-466f-9cd6-e99d7a16d921	HAoEC	Gingeras:HAoEC7071706.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6ece40e4-1a5f-48ca-85db-b7f18f9af82c	HAoEC	Gingeras:HAoEC8061102.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d5a11b05-6532-44df-a184-d5599d22827f	NB4	ENCODE:NB4_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cc7b8e06-292e-40a9-aebd-f0d7277c7304	NB4	Stam:NB4_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+33915e72-98c3-408a-88bf-7a9ec48c89e6	MEL	Weissman:MEL_Weissman_protocol.pdfStam:MEL_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+736f220f-9bd4-4974-ad47-2055f4101eb6	SmIntestine	Ren:SmallIntestine_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5d27b2b0-13cc-422c-a6ee-5cca894a1230	SmIntestine	Gingeras:SmallIntestine_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+beb682a6-dd86-4ebc-9d0a-e81c8272f279	Colon	Ren:Colon_Ren_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+67ad4a0a-530b-461c-ae76-50a96208fd76	Colon	Gingeras:Tissue_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a0d0d2c3-1857-493d-ac98-e0172c776277	HSMM	Bernstein:HSMM_Bernstein_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+567e3f3d-9dab-4d0f-a8a9-d52818773d96	HSMM	Crawford:HSMM_HSMMtube_Crawford_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6950f065-c03f-4650-95a6-917233944142	HSMM	Stam:HSMM_Stam_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+aa19d9f0-e5bd-43a9-a3dd-72c396d8bf51	hMSC-UC	Gingeras:hMSCUC0081101.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b9bcd036-c858-49b9-bd70-89818e52419b	hMSC-UC	Gingeras:hMSCUC0052501.7_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ac11de5d-68f1-491e-b683-ccdb7d3412b1	HOB	Gingeras:HOB0090202.1_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c4f12263-f5da-412f-9bff-c8fced9ede1f	HOB	Gingeras:HOB0091301_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+42fc1673-b3b4-4b32-90a2-fabe4d5a5f4c	hMNC-PB	Gingeras:hMNCPB0022330.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2217b86a-a6f8-4af9-b87a-f227bff049f8	hMNC-PB	Gingeras:hMNCPB0082430.9_Gingeras_protocol.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+60a41fb1-5b79-4748-8fc4-d81151c842fb	H1-neurons	Cellular_Dynamics_International_Batch_1:H1_Neurons_Round1.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+945f4ca4-a04e-472d-a408-788d36349788	H1-neurons	Cellular_Dynamics_International_Batch_2:H1_Neurons_Round2.pdf	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
