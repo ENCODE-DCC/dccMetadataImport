@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<MINiML
+   xmlns="http://www.ncbi.nlm.nih.gov/geo/info/MINiML"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.ncbi.nlm.nih.gov/geo/info/MINiML http://www.ncbi.nlm.nih.gov/geo/info/MINiML.xsd"
+   version="0.5.0" >
+
+  <Contributor iid="contrib1">
+    <Person><First>BROAD</First><Last>INSTITUTE</Last></Person>
+    <Email>rharris1@bcm.tmc.edu</Email>
+    <Organization>Broad Institute</Organization>
+    <Address>
+      <Line>-</Line>
+      <City>Cambridge</City>
+      <State>MA</State>
+      <Zip-Code>02142</Zip-Code>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib2">
+    <Organization>GEO</Organization>
+    <Address>
+      <City></City>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib3">
+    <Person><First>Bradley</First><Middle>E</Middle><Last>Bernstein</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib4">
+    <Person><First>Alex</First><Last>Meissner</Last></Person>
+  </Contributor>
+
+  <Database iid="GEO">
+    <Name>Gene Expression Omnibus (GEO)</Name>
+    <Public-ID>GEO</Public-ID>
+    <Organization>NCBI NLM NIH</Organization>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo</Web-Link>
+    <Email>geo@ncbi.nlm.nih.gov</Email>
+  </Database>
+
+  <Platform iid="GPL9115">
+    <Status database="GEO">
+      <Submission-Date>2009-08-27</Submission-Date>
+      <Release-Date>2009-08-27</Release-Date>
+      <Last-Update-Date>2013-01-02</Last-Update-Date>
+    </Status>
+    <Title>Illumina Genome Analyzer II (Homo sapiens)</Title>
+    <Accession database="GEO">GPL9115</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="9606">Homo sapiens</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Platform iid="GPL10999">
+    <Status database="GEO">
+      <Submission-Date>2010-09-29</Submission-Date>
+      <Release-Date>2010-09-29</Release-Date>
+      <Last-Update-Date>2012-11-08</Last-Update-Date>
+    </Status>
+    <Title>Illumina Genome Analyzer IIx (Homo sapiens)</Title>
+    <Accession database="GEO">GPL10999</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="9606">Homo sapiens</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Sample iid="GSM621345">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS368 derived from human hES I3 TESR cells; 42LNLAAXX090804-1-S</Title>
+    <Accession database="GEO">GSM621345</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>I3(eye three) stem cells; 42LNLAAXX090804-1-S</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Harvard University
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="line">
+hES I3 TESR
+      </Characteristics>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+45.0
+      </Characteristics>
+      <Characteristics tag="medium">
+TESR
+      </Characteristics>
+      <Characteristics tag="Sex">
+Female
+      </Characteristics>
+      <Characteristics tag="batch">
+0/0/00
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-160 or 90-260
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+130-250 or 180-350
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15.0
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: Solexa-13317/Solexa-13235
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.2355
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.2350
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621345_BI.ES-I3.RRBS.RRBS368-369.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: 42LNLAAXX090804-1-S-42M0DAAXX090728-8-S.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of ES-I3 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the ES-I3 Cell Line, Libraries RRBS368-369 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5226
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: ESI3  RRBS 68
+BROWSER_TRACK_DESCRIPTION: BI ES-I3  Cell Line RRBS Libraries RRBS368-369 EA Release 2
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 98.89
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621345/GSM621345_BI.ES-I3.RRBS.RRBS368-369.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003559.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621347">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS350 derived from human WA-7 cells; 30J03AAXX090718-7-S</Title>
+    <Accession database="GEO">GSM621347</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>WA7 stem cells; 30J03AAXX090718-7-S</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Harvard University
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="line">
+WA-7
+      </Characteristics>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+44.0
+      </Characteristics>
+      <Characteristics tag="medium">
+KSR
+      </Characteristics>
+      <Characteristics tag="Sex">
+Female
+      </Characteristics>
+      <Characteristics tag="batch">
+0/0/00
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-160 or 90-260
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+130-250 or 180-350
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15.0
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: Solexa-11958/Solexa-11959
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.2357
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.2351
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621347_BI.ES-WA7.RRBS.RRBS350-351.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: 30J03AAXX090718-7-S-30HD2AAXX090607-3-S-30J03AAXX090718-2-S.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of ES-WA7 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the ES-WA7 Cell Line, Libraries RRBS350-351 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5224
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: ESWA7 RRBS 50
+BROWSER_TRACK_DESCRIPTION: BI ES-WA7 Cell Line RRBS Libraries RRBS350-351 EA Release 2
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 98.3
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621347/GSM621347_BI.ES-WA7.RRBS.RRBS350-351.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003560.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621348">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS348 derived from human hES-I3 cells; 30J03AAXX090718-6-S</Title>
+    <Accession database="GEO">GSM621348</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>I3(eye three) stem cells; 30J03AAXX090718-6-S</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Harvard University
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="line">
+hES-I3
+      </Characteristics>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+49 or 45
+      </Characteristics>
+      <Characteristics tag="medium">
+KSR or TESR
+      </Characteristics>
+      <Characteristics tag="Sex">
+Female
+      </Characteristics>
+      <Characteristics tag="batch">
+0/0/00
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-160 or 90-260
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+130-250 or 180-350
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15.0
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: Solexa-11956/Solexa-11957
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.2358
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.2352
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621348_BI.ES-I3.RRBS.RRBS348-349.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: 30J03AAXX090718-6-S-42R88AAXX091028-2-S-30H5VAAXX090528-2-S.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of ES-I3 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the ES-I3 Cell Line, Libraries RRBS348-349 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5234
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: ESI3 RRBS 48
+BROWSER_TRACK_DESCRIPTION: BI ES-I3 Cell Line RRBS Libraries RRBS348-349 EA Release 2
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 98.96
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621348/GSM621348_BI.ES-I3.RRBS.RRBS348-349.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003561.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621353">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS528 derived from human WA-7 cells; 42TVLAAXX100212-1-S</Title>
+    <Accession database="GEO">GSM621353</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>WA7 stem cells; 42TVLAAXX100212-1-S</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Harvard University
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="line">
+WA-7
+      </Characteristics>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+48.0
+      </Characteristics>
+      <Characteristics tag="medium">
+KSR
+      </Characteristics>
+      <Characteristics tag="Sex">
+Female
+      </Characteristics>
+      <Characteristics tag="batch">
+0/0/00
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-160/90-260
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+130-250/180-350
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15.0
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: Solexa-17914
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.2363
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.2354
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621353_BI.ES-WA7.RRBS.RRBS528-529.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: RRBS528-RRBS529.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of ES-WA7 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the ES-WA7 Cell Line, Libraries RRBS578-579 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.6854
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 3
+BROWSER_TRACK_NAME: ESWA7 RRBS 28
+BROWSER_TRACK_DESCRIPTION: BI ES-WA7 RRBS Libraries RRBS528-529 EA Release 3
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 98.80
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621353/GSM621353_BI.ES-WA7.RRBS.RRBS528-529.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003562.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621357">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS360 derived from human H1 cells; 42R88AAXX091028-3-S</Title>
+    <Accession database="GEO">GSM621357</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>H1 stem cells from Cellular Dynamics; 42R88AAXX091028-3-S</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Cellular Dynamics
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="line">
+H1
+      </Characteristics>
+      <Characteristics tag="lineage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+stage_zero
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+42
+      </Characteristics>
+      <Characteristics tag="medium">
+TESR
+      </Characteristics>
+      <Characteristics tag="Sex">
+Male
+      </Characteristics>
+      <Characteristics tag="batch">
+39805
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-160 or 90-260
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+130-250 or 180-350
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: Solexa-13232/Solexa-13233
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.1904
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.1903
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621357_BI.H1.RRBS.RRBS360-361.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: 42R88AAXX091028-3-S-617F7AAXX091106-2-S-42M0DAAXX090728-6-S-617F7AAXX091106-3-S.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of H1 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the H1 Cell Line, Libraries RRBS360-361 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5243
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: H1 RRBS 60
+BROWSER_TRACK_DESCRIPTION: BI H1 Cell Line RRBS Libraries RRBS360-361 EA Release 2
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 98.75
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621357/GSM621357_BI.H1.RRBS.RRBS360-361.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003563.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621763">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS534 derived from human H1 cells; RRBS534</Title>
+    <Accession database="GEO">GSM621763</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>H1 (WA01) embryonic stem cells; NIH Approval # NIHhESC-10-0043; RRBS534</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="medium">
+TESR
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+p32
+      </Characteristics>
+      <Characteristics tag="line">
+H1
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+NA
+      </Characteristics>
+      <Characteristics tag="batch">
+NA
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Male
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Cellular Dynamics
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+130-250 or 180-350
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-160 or 90-260
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Smith et al., Methods 48, 226-232
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: RRBS534/RRBS535
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3899
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3906
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621763_BI.H1.RRBS.RRBS534-535.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: RRBS534-RRBS535.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of H1 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the H1 Cell Line, Libraries RRBS534-535 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5236
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: H1 RRBS 34
+BROWSER_TRACK_DESCRIPTION: BI H1 Cell Line RRBS Libraries RRBS534-535 EA Release 2
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 97.56
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621763/GSM621763_BI.H1.RRBS.RRBS534-535.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003564.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621765">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS677 derived from human H1 cells; RRBS677</Title>
+    <Accession database="GEO">GSM621765</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>H1 (WA01) embryonic stem cells; NIH Approval # NIHhESC-10-0043; RRBS677</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="medium">
+TESR
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+p25
+      </Characteristics>
+      <Characteristics tag="line">
+Human ES
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+NA
+      </Characteristics>
+      <Characteristics tag="batch">
+NA
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Male
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Cellular Dynamics
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+118-290 or 170-430
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+28-200 or 80-300
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Smith et al., Methods 48, 226-232
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: RRBS677/RRBS678
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3901
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3907
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621765_BI.H1.RRBS.RRBS677-678.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: RRBS677-RRBS678.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of H1 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the H1 Cell Line, Libraries RRBS677-678 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5244
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: H1 RRBS 77
+BROWSER_TRACK_DESCRIPTION: BI H1 Cell Line RRBS Libraries RRBS677-678 EA Release 2
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 97.8
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621765/GSM621765_BI.H1.RRBS.RRBS677-678.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003565.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621767">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS569 derived from human HUES3 cells; RRBS569</Title>
+    <Accession database="GEO">GSM621767</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>Harvard University Embryonic Stem Cells; RRBS569</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="medium">
+KSR
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+p27
+      </Characteristics>
+      <Characteristics tag="line">
+HUES3
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+NA
+      </Characteristics>
+      <Characteristics tag="batch">
+NA
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Male
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Harvard University
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+120-230 or 180-350
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+30-140 or 90-260
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Smith et al., Methods 48, 226-232
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: RRBS569/RRBS571
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3903
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3905
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621767_BI.HUES3.RRBS.RRBS569-571.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: RRBS569-571.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of HUES3 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the HUES3 Cell Line, Libraries RRBS569-571 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5249
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: HUES3 RRBS 69
+BROWSER_TRACK_DESCRIPTION: BI HUES3 Cell Line RRBS Libraries RRBS569-571 EA Release 2
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 97.86
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621767/GSM621767_BI.HUES3.RRBS.RRBS569-571.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003566.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM669899">
+    <Status database="GEO">
+      <Submission-Date>2011-02-07</Submission-Date>
+      <Release-Date>2011-03-31</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS956 derived from human Neural progenitors derived from ES H9 cell cells; RRBS956</Title>
+    <Accession database="GEO">GSM669899</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>neuronal progenitors derived from H9 (WA09) human stem cells; RRBS956</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="sample alias">
+Neural progenitors derived from ES H9 cell
+      </Characteristics>
+      <Characteristics tag="sample common name">
+H9 Derived Neuronal Progenitor Cultured Cells
+      </Characteristics>
+      <Characteristics tag="donor_health_status">
+healthy
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="markers">
+&gt;90% nestin(+) and &lt;5% Oct-4(+)
+      </Characteristics>
+      <Characteristics tag="culture_conditions">
+Medium: AB2(^TM) Neural Medium with ANS(^TM) supplement plus bFGF (20ng/mL) and LIF (10 ng/mL); Differentiation Method: NA
+      </Characteristics>
+      <Characteristics tag="passage_if_expanded">
+NA
+      </Characteristics>
+      <Characteristics tag="cell_type">
+Neural progenitors derived from ES H9 cell
+      </Characteristics>
+      <Characteristics tag="donor_ethnicity">
+unknown
+      </Characteristics>
+      <Characteristics tag="donor_sex">
+Female
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Primary Cell Culture
+      </Characteristics>
+      <Characteristics tag="donor_id">
+Donor of H9 cells
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+ArunA Biomedical, Athens, GA
+      </Characteristics>
+      <Characteristics tag="donor_age">
+unknown
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+130-370
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-280
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Smith et al., Methods 48, 226-232
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: RRBS956
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.6030
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.6041
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM669899_BI.H9_Derived_Neuronal_Progenitor_Cultured_Cells.RRBS.RRBS956-957.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: RRBS956-RRBS957.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of H9 Derived Neuronal Progenitor Cultured Cells RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from H9 Derived Neuronal Progenitor Cultured Cells, Libraries RRBS956-957 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.6846
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 3
+BROWSER_TRACK_NAME: HDNP RRBS 56
+BROWSER_TRACK_DESCRIPTION: BI H9 Derived Neuronal Progenitor Cultured Cells RRBS Libraries RRBS956-957 EA Release 3
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 99.79
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL10999" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer IIx</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM669nnn/GSM669899/GSM669899_BI.H9_Derived_Neuronal_Progenitor_Cultured_Cells.RRBS.RRBS956-957.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003611.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM669901">
+    <Status database="GEO">
+      <Submission-Date>2011-02-07</Submission-Date>
+      <Release-Date>2011-03-31</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>Bisulfite-Seq analysis of RRBS747 derived from human H9 cells; RRBS747</Title>
+    <Accession database="GEO">GSM669901</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>H9 (WA09) embryonic stem cells; NIH Approval # NIHhESC-10-0062; RRBS747</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="sample alias">
+hES_H9_p58
+      </Characteristics>
+      <Characteristics tag="sample common name">
+H9 Cell Line
+      </Characteristics>
+      <Characteristics tag="lineage">
+embrionic stem cell
+      </Characteristics>
+      <Characteristics tag="medium">
+10% KOSR (Invitrogen)
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+58
+      </Characteristics>
+      <Characteristics tag="line">
+H9
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+NA
+      </Characteristics>
+      <Characteristics tag="batch">
+NA
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+undifferentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Female
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Harvard University
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_protocol">
+2x5hrs Epitect Kit
+      </Characteristics>
+      <Characteristics tag="dna_preparation_initial_dna_qnty">
+20 ng
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+NA
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_ligation_protocol">
+T4 Ligase (2,000U/ul) 16C o/n
+      </Characteristics>
+      <Characteristics tag="dna_preparation_adaptor_sequence">
+5' P-GATCGGAAGAGCTCGTATGCCGTCTTCTGCTTG and 5' ACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_r_primer_sequence">
+5' CAAGCAGAAGACGGCATACGAGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="dna_preparation_post-ligation_fragment_size_selection">
+160-250/190-400
+      </Characteristics>
+      <Characteristics tag="bisulfite_conversion_percent">
+&gt;99%
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+Standard Protocol (Smith et al., Methods 48, 226-232)
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_primer_conc">
+25uM
+      </Characteristics>
+      <Characteristics tag="dna_preparation_fragment_size_range">
+40-130/70-280
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+DNA Methylation
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_thermocycling_program">
+Smith et al., Methods 48, 226-232
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_product_isolation_protocol">
+Gel size selection
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_f_primer_sequence">
+5' AATGATACGGCGACCACCGAGATCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_template_conc">
+NA
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_polymerase_type">
+Pfu Turbo Cx hot start
+      </Characteristics>
+      <Characteristics tag="library_generation_pcr_number_cycles">
+15
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+NA
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Smith et al., Methods 48, 226-232
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: RRBS REMC Sequencing on Illumina
+Library name: RRBS747
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.6032
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.6042
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM669901_BI.H9.RRBS.RRBS747-748.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: RRBS747-RRBS748.hg19.level.2
+ANALYSIS TITLE: Methylation Proportion Graphs of H9 Cell Line RRBS Data
+ANALYSIS DESCRIPTION: Illumina RRBS read mappings from the H9 Cell Line, Libraries RRBS747-748 were processed into graphs of methylation proportions. Methylation proportions were calculated as (methylated calls / (methylated calls + unmethylated calls)) for all CpGs covered by at least 4 reads.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.6841
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: Reduced Representation Bisulfite-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19 MspI restriction fragments 40-220bp
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 0bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: None
+GENOMIC_WINDOW: 2bp containing CpGs
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 3
+BROWSER_TRACK_NAME: H9 RRBS 47
+BROWSER_TRACK_DESCRIPTION: BI H9 Cell Line RRBS Libraries RRBS747-748 EA Release 3
+BISULFITE_CONVERSION_PERCENTAGE_BASED_ON_MAPPINGS: 98.9
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL10999" />
+    <Library-Strategy>Bisulfite-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>Reduced Representation</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer IIx</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM669nnn/GSM669901/GSM669901_BI.H9.RRBS.RRBS747-748.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000003613.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Series iid="GSE25246">
+    <Status database="GEO">
+      <Submission-Date>2010-11-09</Submission-Date>
+      <Release-Date>2010-11-11</Release-Date>
+      <Last-Update-Date>2013-01-02</Last-Update-Date>
+    </Status>
+    <Title>BI Human Reference Epigenome Mapping Project: Characterization of DNA methylation by RRBS</Title>
+    <Accession database="GEO">GSE25246</Accession>
+    <Pubmed-ID>20944595</Pubmed-ID>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo/roadmap/epigenomics/</Web-Link>
+    <Summary>
+Characterization of the reference epigenome in humans in a diverse panel of ES cells, tissue stem cells, reprogrammed stem cells, primary cells and tissues.
+
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+
+    </Summary>
+    <Overall-Design>
+BI Human Reference Epigenome Mapping Project - samples and experiments will continue to be added to this study over the course of the project.
+
+EDACC Genboree Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSTUDY%2FEDACC.1899
+    </Overall-Design>
+    <Type>Methylation profiling by high throughput sequencing</Type>
+    <Contributor-Ref ref="contrib3" position="1" />
+    <Contributor-Ref ref="contrib4" position="2" />
+    <Contact-Ref ref="contrib1" />
+    <Sample-Ref ref="GSM621345" />
+    <Sample-Ref ref="GSM621347" />
+    <Sample-Ref ref="GSM621348" />
+    <Sample-Ref ref="GSM621353" />
+    <Sample-Ref ref="GSM621357" />
+    <Sample-Ref ref="GSM621763" />
+    <Sample-Ref ref="GSM621765" />
+    <Sample-Ref ref="GSM621767" />
+    <Sample-Ref ref="GSM669899" />
+    <Sample-Ref ref="GSM669901" />
+    <Supplementary-Data type="TAR">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/series/GSE25246/GSE25246_RAW.tar
+    </Supplementary-Data>
+  </Series>
+
+</MINiML>

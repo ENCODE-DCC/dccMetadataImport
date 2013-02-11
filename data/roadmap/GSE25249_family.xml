@@ -1,0 +1,4761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<MINiML
+   xmlns="http://www.ncbi.nlm.nih.gov/geo/info/MINiML"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.ncbi.nlm.nih.gov/geo/info/MINiML http://www.ncbi.nlm.nih.gov/geo/info/MINiML.xsd"
+   version="0.5.0" >
+
+  <Contributor iid="contrib1">
+    <Person><First>BROAD</First><Last>INSTITUTE</Last></Person>
+    <Email>rharris1@bcm.tmc.edu</Email>
+    <Organization>Broad Institute</Organization>
+    <Address>
+      <Line>-</Line>
+      <City>Cambridge</City>
+      <State>MA</State>
+      <Zip-Code>02142</Zip-Code>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib2">
+    <Organization>GEO</Organization>
+    <Address>
+      <City></City>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib3">
+    <Person><First>Bradley</First><Middle>E</Middle><Last>Bernstein</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib4">
+    <Person><First>Alex</First><Last>Meissner</Last></Person>
+  </Contributor>
+
+  <Database iid="GEO">
+    <Name>Gene Expression Omnibus (GEO)</Name>
+    <Public-ID>GEO</Public-ID>
+    <Organization>NCBI NLM NIH</Organization>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo</Web-Link>
+    <Email>geo@ncbi.nlm.nih.gov</Email>
+  </Database>
+
+  <Platform iid="GPL9115">
+    <Status database="GEO">
+      <Submission-Date>2009-08-27</Submission-Date>
+      <Release-Date>2009-08-27</Release-Date>
+      <Last-Update-Date>2013-01-02</Last-Update-Date>
+    </Status>
+    <Title>Illumina Genome Analyzer II (Homo sapiens)</Title>
+    <Accession database="GEO">GPL9115</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="9606">Homo sapiens</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Sample iid="GSM621737">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me3 in human hSKM cells; Lib:MC:20100222:03--ChIP:MC:20100216:03:hSKM:H3K4Me3</Title>
+    <Accession database="GEO">GSM621737</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:03--ChIP:MC:20100216:03:hSKM:H3K4Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+07-473
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Millipore
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+DAM1623866
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:03--ChIP:MC:20100216:03:hSKM:H3K4Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3161
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621737_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:03--ChIP:MC:20100216:03:hSKM:H3K4Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4646
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me3_EXPERIMENTS_SCORED: 62
+FINDPEAKS_SCORE: 0.5013
+FINDPEAKS_PERCENTILE: 73
+HOTSPOT_SCORE: 0.5469
+HOTSPOT_PERCENTILE: 79
+IROC_SCORE: 0.9991
+IROC_PERCENTILE: 48
+POISSON_SCORE: 0.7325
+POISSON_PERCENTILE: 92
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621737_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:03--ChIP:MC:20100216:03:hSKM:H3K4Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4920
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me3 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me3 Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me3_EXPERIMENTS_SCORED: 62
+FINDPEAKS_SCORE: 0.5013
+FINDPEAKS_PERCENTILE: 73
+HOTSPOT_SCORE: 0.5469
+HOTSPOT_PERCENTILE: 79
+IROC_SCORE: 0.9991
+IROC_PERCENTILE: 48
+POISSON_SCORE: 0.7325
+POISSON_PERCENTILE: 92
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621737/GSM621737_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621737/GSM621737_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002934.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621738">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K9ac in human hSKM cells; Lib:MC:20100222:06--ChIP:MC:20100216:06:hSKM:H3K9Ac</Title>
+    <Accession database="GEO">GSM621738</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:06--ChIP:MC:20100216:06:hSKM:H3K9Ac</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K9Ac
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab4441
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+550799
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K9ac
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:06--ChIP:MC:20100216:06:hSKM:H3K9Ac
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3162
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621738_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:06--ChIP:MC:20100216:06:hSKM:H3K9Ac.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K9ac ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K9ac ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4781
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9ac_EXPERIMENTS_SCORED: 35
+FINDPEAKS_SCORE: 0.5353
+FINDPEAKS_PERCENTILE: 86
+HOTSPOT_SCORE: 0.5427
+HOTSPOT_PERCENTILE: 94
+IROC_SCORE: 0.9868
+IROC_PERCENTILE: 60
+POISSON_SCORE: 0.6229
+POISSON_PERCENTILE: 86
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621738_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:06--ChIP:MC:20100216:06:hSKM:H3K9Ac.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K9ac ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K9ac ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5055
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K9ac 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K9ac Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9ac_EXPERIMENTS_SCORED: 35
+FINDPEAKS_SCORE: 0.5353
+FINDPEAKS_PERCENTILE: 86
+HOTSPOT_SCORE: 0.5427
+HOTSPOT_PERCENTILE: 94
+IROC_SCORE: 0.9868
+IROC_PERCENTILE: 60
+POISSON_SCORE: 0.6229
+POISSON_PERCENTILE: 86
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621738/GSM621738_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621738/GSM621738_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002935.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621739">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K36me3 in human hSKM cells; Lib:MC:20100222:04--ChIP:MC:20100216:04:hSKM:H3K36Me3</Title>
+    <Accession database="GEO">GSM621739</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:04--ChIP:MC:20100216:04:hSKM:H3K36Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K36Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab9050
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+499302
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K36me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:04--ChIP:MC:20100216:04:hSKM:H3K36Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3163
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621739_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:04--ChIP:MC:20100216:04:hSKM:H3K36Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K36me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K36me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4647
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K36me3_EXPERIMENTS_SCORED: 54
+FINDPEAKS_SCORE: 0.078
+FINDPEAKS_PERCENTILE: 19
+HOTSPOT_SCORE: 0.1615
+HOTSPOT_PERCENTILE: 17
+IROC_SCORE: 0.8396
+IROC_PERCENTILE: 15
+POISSON_SCORE: 0.4217
+POISSON_PERCENTILE: 26
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621739_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:04--ChIP:MC:20100216:04:hSKM:H3K36Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K36me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K36me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4921
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K36me3 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K36me3 Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K36me3_EXPERIMENTS_SCORED: 54
+FINDPEAKS_SCORE: 0.078
+FINDPEAKS_PERCENTILE: 19
+HOTSPOT_SCORE: 0.1615
+HOTSPOT_PERCENTILE: 17
+IROC_SCORE: 0.8396
+IROC_PERCENTILE: 15
+POISSON_SCORE: 0.4217
+POISSON_PERCENTILE: 26
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621739/GSM621739_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621739/GSM621739_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002936.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621740">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K27me3 in human hSKM cells; Lib:MC:20100222:05--ChIP:MC:20100216:05:hSKM:H3K27Me3</Title>
+    <Accession database="GEO">GSM621740</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:05--ChIP:MC:20100216:05:hSKM:H3K27Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K27Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+07-449
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Millipore
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+DAM1514011
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K27me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:05--ChIP:MC:20100216:05:hSKM:H3K27Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3164
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621740_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:05--ChIP:MC:20100216:05:hSKM:H3K27Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K27me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K27me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4596
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K27me3_EXPERIMENTS_SCORED: 52
+FINDPEAKS_SCORE: 0.0689
+FINDPEAKS_PERCENTILE: 35
+HOTSPOT_SCORE: 0.1512
+HOTSPOT_PERCENTILE: 33
+IROC_SCORE: 0.0
+IROC_PERCENTILE: 4
+POISSON_SCORE: 0.5356
+POISSON_PERCENTILE: 79
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621740_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:05--ChIP:MC:20100216:05:hSKM:H3K27Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K27me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K27me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4870
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K27me3 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K27me3 Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K27me3_EXPERIMENTS_SCORED: 52
+FINDPEAKS_SCORE: 0.0689
+FINDPEAKS_PERCENTILE: 35
+HOTSPOT_SCORE: 0.1512
+HOTSPOT_PERCENTILE: 33
+IROC_SCORE: 0.0
+IROC_PERCENTILE: 4
+POISSON_SCORE: 0.5356
+POISSON_PERCENTILE: 79
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621740/GSM621740_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621740/GSM621740_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002937.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621741">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me1 in human hSKM cells; Lib:MC:20100222:01--ChIP:MC:20100216:01:hSKM:H3K4Me1</Title>
+    <Accession database="GEO">GSM621741</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:01--ChIP:MC:20100216:01:hSKM:H3K4Me1</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me1
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab8895
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+659352
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me1
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:01--ChIP:MC:20100216:01:hSKM:H3K4Me1
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3165
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621741_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:01--ChIP:MC:20100216:01:hSKM:H3K4Me1.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me1 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me1 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4628
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me1_EXPERIMENTS_SCORED: 43
+FINDPEAKS_SCORE: 0.5299
+FINDPEAKS_PERCENTILE: 79
+HOTSPOT_SCORE: 0.512
+HOTSPOT_PERCENTILE: 79
+IROC_SCORE: 0.9674
+IROC_PERCENTILE: 33
+POISSON_SCORE: 0.6907
+POISSON_PERCENTILE: 86
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621741_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:01--ChIP:MC:20100216:01:hSKM:H3K4Me1.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me1 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me1 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4902
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me1 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me1 Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me1_EXPERIMENTS_SCORED: 43
+FINDPEAKS_SCORE: 0.5299
+FINDPEAKS_PERCENTILE: 79
+HOTSPOT_SCORE: 0.512
+HOTSPOT_PERCENTILE: 79
+IROC_SCORE: 0.9674
+IROC_PERCENTILE: 33
+POISSON_SCORE: 0.6907
+POISSON_PERCENTILE: 86
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621741/GSM621741_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621741/GSM621741_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002938.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621742">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me2 in human hSKM cells; Lib:MC:20100222:02--ChIP:MC:20100216:02:hSKM:H3K4Me2</Title>
+    <Accession database="GEO">GSM621742</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:02--ChIP:MC:20100216:02:hSKM:H3K4Me2</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me2
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab7766
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+56293
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me2
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:02--ChIP:MC:20100216:02:hSKM:H3K4Me2
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3166
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621742_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:02--ChIP:MC:20100216:02:hSKM:H3K4Me2.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me2 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me2 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4782
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me2_EXPERIMENTS_SCORED: 8
+FINDPEAKS_SCORE: 0.5763
+FINDPEAKS_PERCENTILE: 38
+HOTSPOT_SCORE: 0.545
+HOTSPOT_PERCENTILE: 25
+IROC_SCORE: 0.9991
+IROC_PERCENTILE: 50
+POISSON_SCORE: 0.6488
+POISSON_PERCENTILE: 38
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621742_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:02--ChIP:MC:20100216:02:hSKM:H3K4Me2.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me2 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me2 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5056
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me2 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me2 Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me2_EXPERIMENTS_SCORED: 8
+FINDPEAKS_SCORE: 0.5763
+FINDPEAKS_PERCENTILE: 38
+HOTSPOT_SCORE: 0.545
+HOTSPOT_PERCENTILE: 25
+IROC_SCORE: 0.9991
+IROC_PERCENTILE: 50
+POISSON_SCORE: 0.6488
+POISSON_PERCENTILE: 38
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621742/GSM621742_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621742/GSM621742_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002939.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621743">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of WCE in human hSKM cells; Lib:MC:20100222:15--ChIP:MC:20100216:15:hSKM:WCE</Title>
+    <Accession database="GEO">GSM621743</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:15--ChIP:MC:20100216:15:hSKM:WCE</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+standard
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+ChIP-Seq Input
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Input
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:15--ChIP:MC:20100216:15:hSKM:WCE
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3167
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621743_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:15--ChIP:MC:20100216:15:hSKM:WCE.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells ChIP-Seq Input Data
+ANALYSIS DESCRIPTION: Illumina reads produced by ChIP-Seq Input on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4686
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_Input_EXPERIMENTS_SCORED: 67
+FINDPEAKS_SCORE: 0.0058
+FINDPEAKS_PERCENTILE: 15
+HOTSPOT_SCORE: 0.0256
+HOTSPOT_PERCENTILE: 38
+IROC_SCORE: 1.0
+IROC_PERCENTILE: 100
+POISSON_SCORE: 0.2353
+POISSON_PERCENTILE: 48
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621743_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:15--ChIP:MC:20100216:15:hSKM:WCE.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells ChIP-Seq Input Data
+ANALYSIS DESCRIPTION: Illumina ChIP-Seq Input read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4960
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS Input 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells ChIP-Seq Input Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_Input_EXPERIMENTS_SCORED: 67
+FINDPEAKS_SCORE: 0.0058
+FINDPEAKS_PERCENTILE: 15
+HOTSPOT_SCORE: 0.0256
+HOTSPOT_PERCENTILE: 38
+IROC_SCORE: 1.0
+IROC_PERCENTILE: 100
+POISSON_SCORE: 0.2353
+POISSON_PERCENTILE: 48
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>RANDOM</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621743/GSM621743_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621743/GSM621743_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002940.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621744">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K9me3 in human hSKM cells; Lib:MC:20100222:07--ChIP:MC:20100216:07:hSKM:H3K9Me3</Title>
+    <Accession database="GEO">GSM621744</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:07--ChIP:MC:20100216:07:hSKM:H3K9Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-1
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K9Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab8898
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+484088
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K9me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:07--ChIP:MC:20100216:07:hSKM:H3K9Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3168
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3209
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621744_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-1.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:07--ChIP:MC:20100216:07:hSKM:H3K9Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K9me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K9me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-1 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4772
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9me3_EXPERIMENTS_SCORED: 59
+FINDPEAKS_SCORE: 0.0176
+FINDPEAKS_PERCENTILE: 5
+HOTSPOT_SCORE: 0.0578
+HOTSPOT_PERCENTILE: 17
+IROC_SCORE: 0.9971
+IROC_PERCENTILE: 97
+POISSON_SCORE: 0.305
+POISSON_PERCENTILE: 19
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621744_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-1.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:07--ChIP:MC:20100216:07:hSKM:H3K9Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K9me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K9me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-1 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5046
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K9me3 1
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K9me3 Donor hSKM-1 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9me3_EXPERIMENTS_SCORED: 59
+FINDPEAKS_SCORE: 0.0176
+FINDPEAKS_PERCENTILE: 5
+HOTSPOT_SCORE: 0.0578
+HOTSPOT_PERCENTILE: 17
+IROC_SCORE: 0.9971
+IROC_PERCENTILE: 97
+POISSON_SCORE: 0.305
+POISSON_PERCENTILE: 19
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621744/GSM621744_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-1.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621744/GSM621744_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-1.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002941.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621745">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me3 in human hSKM cells; Lib:MC:20100511:11--ChIP:MC:20100505:11:hSKM:H3K4Me3</Title>
+    <Accession database="GEO">GSM621745</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:11--ChIP:MC:20100505:11:hSKM:H3K4Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+07-473
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Millipore
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+DAM1623866
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:11--ChIP:MC:20100505:11:hSKM:H3K4Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3169
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621745_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:11--ChIP:MC:20100505:11:hSKM:H3K4Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4651
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me3_EXPERIMENTS_SCORED: 62
+FINDPEAKS_SCORE: 0.4304
+FINDPEAKS_PERCENTILE: 60
+HOTSPOT_SCORE: 0.4229
+HOTSPOT_PERCENTILE: 57
+IROC_SCORE: 0.9916
+IROC_PERCENTILE: 10
+POISSON_SCORE: 0.5259
+POISSON_PERCENTILE: 61
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621745_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:11--ChIP:MC:20100505:11:hSKM:H3K4Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4925
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me3 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me3 Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me3_EXPERIMENTS_SCORED: 62
+FINDPEAKS_SCORE: 0.4304
+FINDPEAKS_PERCENTILE: 60
+HOTSPOT_SCORE: 0.4229
+HOTSPOT_PERCENTILE: 57
+IROC_SCORE: 0.9916
+IROC_PERCENTILE: 10
+POISSON_SCORE: 0.5259
+POISSON_PERCENTILE: 61
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621745/GSM621745_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621745/GSM621745_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002942.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621746">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of WCE in human hSKM cells; Lib:MC:20100511:16--ChIP:MC:20100505:16:hSKM:WCE</Title>
+    <Accession database="GEO">GSM621746</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:16--ChIP:MC:20100505:16:hSKM:WCE</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+standard
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+ChIP-Seq Input
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Input
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:16--ChIP:MC:20100505:16:hSKM:WCE
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3170
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621746_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:16--ChIP:MC:20100505:16:hSKM:WCE.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells ChIP-Seq Input Data
+ANALYSIS DESCRIPTION: Illumina reads produced by ChIP-Seq Input on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4692
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_Input_EXPERIMENTS_SCORED: 67
+FINDPEAKS_SCORE: 0.0052
+FINDPEAKS_PERCENTILE: 7
+HOTSPOT_SCORE: 0.0303
+HOTSPOT_PERCENTILE: 41
+IROC_SCORE: 0.9182
+IROC_PERCENTILE: 68
+POISSON_SCORE: 0.2244
+POISSON_PERCENTILE: 45
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621746_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:16--ChIP:MC:20100505:16:hSKM:WCE.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells ChIP-Seq Input Data
+ANALYSIS DESCRIPTION: Illumina ChIP-Seq Input read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4966
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS Input 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells ChIP-Seq Input Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_Input_EXPERIMENTS_SCORED: 67
+FINDPEAKS_SCORE: 0.0052
+FINDPEAKS_PERCENTILE: 7
+HOTSPOT_SCORE: 0.0303
+HOTSPOT_PERCENTILE: 41
+IROC_SCORE: 0.9182
+IROC_PERCENTILE: 68
+POISSON_SCORE: 0.2244
+POISSON_PERCENTILE: 45
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>RANDOM</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621746/GSM621746_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621746/GSM621746_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002943.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621747">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K9me3 in human hSKM cells; Lib:MC:20100511:15--ChIP:MC:20100505:15:hSKM:H3K9Me3</Title>
+    <Accession database="GEO">GSM621747</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:15--ChIP:MC:20100505:15:hSKM:H3K9Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K9Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab8898
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+484088
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K9me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:15--ChIP:MC:20100505:15:hSKM:H3K9Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3171
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621747_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:15--ChIP:MC:20100505:15:hSKM:H3K9Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K9me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K9me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4777
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9me3_EXPERIMENTS_SCORED: 59
+FINDPEAKS_SCORE: 0.0175
+FINDPEAKS_PERCENTILE: 3
+HOTSPOT_SCORE: 0.0538
+HOTSPOT_PERCENTILE: 14
+IROC_SCORE: 0.5805
+IROC_PERCENTILE: 5
+POISSON_SCORE: 0.3469
+POISSON_PERCENTILE: 41
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621747_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:15--ChIP:MC:20100505:15:hSKM:H3K9Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K9me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K9me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5051
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K9me3 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K9me3 Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9me3_EXPERIMENTS_SCORED: 59
+FINDPEAKS_SCORE: 0.0175
+FINDPEAKS_PERCENTILE: 3
+HOTSPOT_SCORE: 0.0538
+HOTSPOT_PERCENTILE: 14
+IROC_SCORE: 0.5805
+IROC_PERCENTILE: 5
+POISSON_SCORE: 0.3469
+POISSON_PERCENTILE: 41
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621747/GSM621747_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621747/GSM621747_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002944.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621748">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K9ac in human hSKM cells; Lib:MC:20100511:14--ChIP:MC:20100505:14:hSKM:H3K9Ac</Title>
+    <Accession database="GEO">GSM621748</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:14--ChIP:MC:20100505:14:hSKM:H3K9Ac</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K9Ac
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab4441
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+550799
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K9ac
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:14--ChIP:MC:20100505:14:hSKM:H3K9Ac
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3172
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621748_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:14--ChIP:MC:20100505:14:hSKM:H3K9Ac.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K9ac ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K9ac ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4786
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9ac_EXPERIMENTS_SCORED: 35
+FINDPEAKS_SCORE: 0.5173
+FINDPEAKS_PERCENTILE: 83
+HOTSPOT_SCORE: 0.4984
+HOTSPOT_PERCENTILE: 83
+IROC_SCORE: 0.9983
+IROC_PERCENTILE: 89
+POISSON_SCORE: 0.604
+POISSON_PERCENTILE: 77
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621748_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:14--ChIP:MC:20100505:14:hSKM:H3K9Ac.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K9ac ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K9ac ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5060
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K9ac 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K9ac Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9ac_EXPERIMENTS_SCORED: 35
+FINDPEAKS_SCORE: 0.5173
+FINDPEAKS_PERCENTILE: 83
+HOTSPOT_SCORE: 0.4984
+HOTSPOT_PERCENTILE: 83
+IROC_SCORE: 0.9983
+IROC_PERCENTILE: 89
+POISSON_SCORE: 0.604
+POISSON_PERCENTILE: 77
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621748/GSM621748_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621748/GSM621748_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002945.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621749">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K36me3 in human hSKM cells; Lib:MC:20100511:12--ChIP:MC:20100505:12:hSKM:H3K36Me3</Title>
+    <Accession database="GEO">GSM621749</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:12--ChIP:MC:20100505:12:hSKM:H3K36Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K36Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab9050
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+499302
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K36me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:12--ChIP:MC:20100505:12:hSKM:H3K36Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3173
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621749_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:12--ChIP:MC:20100505:12:hSKM:H3K36Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K36me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K36me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4650
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K36me3_EXPERIMENTS_SCORED: 54
+FINDPEAKS_SCORE: 0.1903
+FINDPEAKS_PERCENTILE: 37
+HOTSPOT_SCORE: 0.1966
+HOTSPOT_PERCENTILE: 28
+IROC_SCORE: 0.8846
+IROC_PERCENTILE: 22
+POISSON_SCORE: 0.5351
+POISSON_PERCENTILE: 61
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621749_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:12--ChIP:MC:20100505:12:hSKM:H3K36Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K36me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K36me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4924
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K36me3 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K36me3 Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K36me3_EXPERIMENTS_SCORED: 54
+FINDPEAKS_SCORE: 0.1903
+FINDPEAKS_PERCENTILE: 37
+HOTSPOT_SCORE: 0.1966
+HOTSPOT_PERCENTILE: 28
+IROC_SCORE: 0.8846
+IROC_PERCENTILE: 22
+POISSON_SCORE: 0.5351
+POISSON_PERCENTILE: 61
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621749/GSM621749_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621749/GSM621749_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002946.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621750">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me2 in human hSKM cells; Lib:MC:20100511:10--ChIP:MC:20100505:10:hSKM:H3K4Me2</Title>
+    <Accession database="GEO">GSM621750</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:10--ChIP:MC:20100505:10:hSKM:H3K4Me2</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me2
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab7766
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+56293
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me2
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:10--ChIP:MC:20100505:10:hSKM:H3K4Me2
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3174
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621750_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:10--ChIP:MC:20100505:10:hSKM:H3K4Me2.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me2 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me2 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4787
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me2_EXPERIMENTS_SCORED: 8
+FINDPEAKS_SCORE: 0.582
+FINDPEAKS_PERCENTILE: 50
+HOTSPOT_SCORE: 0.5496
+HOTSPOT_PERCENTILE: 38
+IROC_SCORE: 0.9989
+IROC_PERCENTILE: 25
+POISSON_SCORE: 0.6669
+POISSON_PERCENTILE: 50
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621750_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:10--ChIP:MC:20100505:10:hSKM:H3K4Me2.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me2 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me2 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5061
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me2 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me2 Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me2_EXPERIMENTS_SCORED: 8
+FINDPEAKS_SCORE: 0.582
+FINDPEAKS_PERCENTILE: 50
+HOTSPOT_SCORE: 0.5496
+HOTSPOT_PERCENTILE: 38
+IROC_SCORE: 0.9989
+IROC_PERCENTILE: 25
+POISSON_SCORE: 0.6669
+POISSON_PERCENTILE: 50
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621750/GSM621750_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621750/GSM621750_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002947.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621751">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K27me3 in human hSKM cells; Lib:MC:20100511:13--ChIP:MC:20100505:13:hSKM:H3K27Me3</Title>
+    <Accession database="GEO">GSM621751</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:13--ChIP:MC:20100505:13:hSKM:H3K27Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K27Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+07-449
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Millipore
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+DAM1514011
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K27me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:13--ChIP:MC:20100505:13:hSKM:H3K27Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3175
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621751_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:13--ChIP:MC:20100505:13:hSKM:H3K27Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K27me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K27me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4600
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K27me3_EXPERIMENTS_SCORED: 52
+FINDPEAKS_SCORE: 0.0251
+FINDPEAKS_PERCENTILE: 13
+HOTSPOT_SCORE: 0.113
+HOTSPOT_PERCENTILE: 21
+IROC_SCORE: 0.9109
+IROC_PERCENTILE: 48
+POISSON_SCORE: 0.5053
+POISSON_PERCENTILE: 65
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621751_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:13--ChIP:MC:20100505:13:hSKM:H3K27Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K27me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K27me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4874
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K27me3 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K27me3 Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K27me3_EXPERIMENTS_SCORED: 52
+FINDPEAKS_SCORE: 0.0251
+FINDPEAKS_PERCENTILE: 13
+HOTSPOT_SCORE: 0.113
+HOTSPOT_PERCENTILE: 21
+IROC_SCORE: 0.9109
+IROC_PERCENTILE: 48
+POISSON_SCORE: 0.5053
+POISSON_PERCENTILE: 65
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621751/GSM621751_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621751/GSM621751_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002948.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621752">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me1 in human hSKM cells; Lib:MC:20100511:09--ChIP:MC:20100505:09:hSKM:H3K4Me1</Title>
+    <Accession database="GEO">GSM621752</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100511:09--ChIP:MC:20100505:09:hSKM:H3K4Me1</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-2
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me1
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab8895
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+151304
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me1
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100511:09--ChIP:MC:20100505:09:hSKM:H3K4Me1
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3176
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3210
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621752_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-2.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:09--ChIP:MC:20100505:09:hSKM:H3K4Me1.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me1 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me1 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-2 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4632
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me1_EXPERIMENTS_SCORED: 43
+FINDPEAKS_SCORE: 0.6184
+FINDPEAKS_PERCENTILE: 88
+HOTSPOT_SCORE: 0.5688
+HOTSPOT_PERCENTILE: 91
+IROC_SCORE: 0.9986
+IROC_PERCENTILE: 88
+POISSON_SCORE: 0.7173
+POISSON_PERCENTILE: 88
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621752_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-2.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100511:09--ChIP:MC:20100505:09:hSKM:H3K4Me1.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me1 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me1 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-2 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4906
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me1 2
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me1 Donor hSKM-2 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me1_EXPERIMENTS_SCORED: 43
+FINDPEAKS_SCORE: 0.6184
+FINDPEAKS_PERCENTILE: 88
+HOTSPOT_SCORE: 0.5688
+HOTSPOT_PERCENTILE: 91
+IROC_SCORE: 0.9986
+IROC_PERCENTILE: 88
+POISSON_SCORE: 0.7173
+POISSON_PERCENTILE: 88
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621752/GSM621752_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-2.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621752/GSM621752_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-2.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002949.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621753">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K9me3 in human hSKM cells; Lib:MC:20100222:14--ChIP:MC:20100216:14:hSKM:H3K9Me3</Title>
+    <Accession database="GEO">GSM621753</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:14--ChIP:MC:20100216:14:hSKM:H3K9Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K9Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab8898
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+484088
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K9me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:14--ChIP:MC:20100216:14:hSKM:H3K9Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3177
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621753_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:14--ChIP:MC:20100216:14:hSKM:H3K9Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K9me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K9me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4783
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9me3_EXPERIMENTS_SCORED: 59
+FINDPEAKS_SCORE: 0.0238
+FINDPEAKS_PERCENTILE: 19
+HOTSPOT_SCORE: 0.0852
+HOTSPOT_PERCENTILE: 29
+IROC_SCORE: 1.0
+IROC_PERCENTILE: 100
+POISSON_SCORE: 0.3636
+POISSON_PERCENTILE: 46
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621753_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:14--ChIP:MC:20100216:14:hSKM:H3K9Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K9me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K9me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5057
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K9me3 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K9me3 Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9me3_EXPERIMENTS_SCORED: 59
+FINDPEAKS_SCORE: 0.0238
+FINDPEAKS_PERCENTILE: 19
+HOTSPOT_SCORE: 0.0852
+HOTSPOT_PERCENTILE: 29
+IROC_SCORE: 1.0
+IROC_PERCENTILE: 100
+POISSON_SCORE: 0.3636
+POISSON_PERCENTILE: 46
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621753/GSM621753_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621753/GSM621753_BI.Muscle_Satellite_Cultured_Cells.H3K9me3.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002950.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621754">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K36me3 in human hSKM cells; Lib:MC:20100222:11--ChIP:MC:20100216:11:hSKM:H3K36Me3</Title>
+    <Accession database="GEO">GSM621754</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:11--ChIP:MC:20100216:11:hSKM:H3K36Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K36Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab9050
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+499302
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K36me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:11--ChIP:MC:20100216:11:hSKM:H3K36Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3178
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621754_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:11--ChIP:MC:20100216:11:hSKM:H3K36Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K36me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K36me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4659
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K36me3_EXPERIMENTS_SCORED: 54
+FINDPEAKS_SCORE: 0.0567
+FINDPEAKS_PERCENTILE: 11
+HOTSPOT_SCORE: 0.1494
+HOTSPOT_PERCENTILE: 9
+IROC_SCORE: 0.9062
+IROC_PERCENTILE: 28
+POISSON_SCORE: 0.4412
+POISSON_PERCENTILE: 31
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621754_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:11--ChIP:MC:20100216:11:hSKM:H3K36Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K36me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K36me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4933
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K36me3 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K36me3 Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K36me3_EXPERIMENTS_SCORED: 54
+FINDPEAKS_SCORE: 0.0567
+FINDPEAKS_PERCENTILE: 11
+HOTSPOT_SCORE: 0.1494
+HOTSPOT_PERCENTILE: 9
+IROC_SCORE: 0.9062
+IROC_PERCENTILE: 28
+POISSON_SCORE: 0.4412
+POISSON_PERCENTILE: 31
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621754/GSM621754_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621754/GSM621754_BI.Muscle_Satellite_Cultured_Cells.H3K36me3.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002951.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621755">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K27me3 in human hSKM cells; Lib:MC:20100222:12--ChIP:MC:20100216:12:hSKM:H3K27Me3</Title>
+    <Accession database="GEO">GSM621755</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:12--ChIP:MC:20100216:12:hSKM:H3K27Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K27Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+07-449
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Millipore
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+DAM1514011
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K27me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:12--ChIP:MC:20100216:12:hSKM:H3K27Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3179
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621755_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:12--ChIP:MC:20100216:12:hSKM:H3K27Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K27me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K27me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4601
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K27me3_EXPERIMENTS_SCORED: 52
+FINDPEAKS_SCORE: 0.1041
+FINDPEAKS_PERCENTILE: 42
+HOTSPOT_SCORE: 0.173
+HOTSPOT_PERCENTILE: 40
+IROC_SCORE: 0.8881
+IROC_PERCENTILE: 38
+POISSON_SCORE: 0.543
+POISSON_PERCENTILE: 83
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621755_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:12--ChIP:MC:20100216:12:hSKM:H3K27Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K27me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K27me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4875
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K27me3 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K27me3 Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K27me3_EXPERIMENTS_SCORED: 52
+FINDPEAKS_SCORE: 0.1041
+FINDPEAKS_PERCENTILE: 42
+HOTSPOT_SCORE: 0.173
+HOTSPOT_PERCENTILE: 40
+IROC_SCORE: 0.8881
+IROC_PERCENTILE: 38
+POISSON_SCORE: 0.543
+POISSON_PERCENTILE: 83
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621755/GSM621755_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621755/GSM621755_BI.Muscle_Satellite_Cultured_Cells.H3K27me3.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002952.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621756">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of WCE in human hSKM cells; Lib:MC:20100222:16--ChIP:MC:20100216:16:hSKM:WCE</Title>
+    <Accession database="GEO">GSM621756</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:16--ChIP:MC:20100216:16:hSKM:WCE</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+standard
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+ChIP-Seq Input
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Input
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:16--ChIP:MC:20100216:16:hSKM:WCE
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3180
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621756_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:16--ChIP:MC:20100216:16:hSKM:WCE.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells ChIP-Seq Input Data
+ANALYSIS DESCRIPTION: Illumina reads produced by ChIP-Seq Input on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4708
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_Input_EXPERIMENTS_SCORED: 67
+FINDPEAKS_SCORE: 0.0059
+FINDPEAKS_PERCENTILE: 19
+HOTSPOT_SCORE: 0.0379
+HOTSPOT_PERCENTILE: 44
+IROC_SCORE: 0.9548
+IROC_PERCENTILE: 74
+POISSON_SCORE: 0.21
+POISSON_PERCENTILE: 36
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621756_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:16--ChIP:MC:20100216:16:hSKM:WCE.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells ChIP-Seq Input Data
+ANALYSIS DESCRIPTION: Illumina ChIP-Seq Input read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4982
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS Input 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells ChIP-Seq Input Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_Input_EXPERIMENTS_SCORED: 67
+FINDPEAKS_SCORE: 0.0059
+FINDPEAKS_PERCENTILE: 19
+HOTSPOT_SCORE: 0.0379
+HOTSPOT_PERCENTILE: 44
+IROC_SCORE: 0.9548
+IROC_PERCENTILE: 74
+POISSON_SCORE: 0.21
+POISSON_PERCENTILE: 36
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>RANDOM</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621756/GSM621756_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621756/GSM621756_BI.Muscle_Satellite_Cultured_Cells.Input.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002953.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621757">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K9ac in human hSKM cells; Lib:MC:20100222:13--ChIP:MC:20100216:13:hSKM:H3K9Ac</Title>
+    <Accession database="GEO">GSM621757</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:13--ChIP:MC:20100216:13:hSKM:H3K9Ac</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K9Ac
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab4441
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+550799
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K9ac
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:13--ChIP:MC:20100216:13:hSKM:H3K9Ac
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3181
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621757_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:13--ChIP:MC:20100216:13:hSKM:H3K9Ac.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K9ac ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K9ac ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4791
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9ac_EXPERIMENTS_SCORED: 35
+FINDPEAKS_SCORE: 0.5362
+FINDPEAKS_PERCENTILE: 89
+HOTSPOT_SCORE: 0.5156
+HOTSPOT_PERCENTILE: 89
+IROC_SCORE: 0.9984
+IROC_PERCENTILE: 91
+POISSON_SCORE: 0.6049
+POISSON_PERCENTILE: 80
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621757_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:13--ChIP:MC:20100216:13:hSKM:H3K9Ac.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K9ac ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K9ac ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5065
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K9ac 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K9ac Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K9ac_EXPERIMENTS_SCORED: 35
+FINDPEAKS_SCORE: 0.5362
+FINDPEAKS_PERCENTILE: 89
+HOTSPOT_SCORE: 0.5156
+HOTSPOT_PERCENTILE: 89
+IROC_SCORE: 0.9984
+IROC_PERCENTILE: 91
+POISSON_SCORE: 0.6049
+POISSON_PERCENTILE: 80
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621757/GSM621757_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621757/GSM621757_BI.Muscle_Satellite_Cultured_Cells.H3K9ac.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002954.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621758">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me2 in human hSKM cells; Lib:MC:20100222:09--ChIP:MC:20100216:09:hSKM:H3K4Me2</Title>
+    <Accession database="GEO">GSM621758</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:09--ChIP:MC:20100216:09:hSKM:H3K4Me2</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me2
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab7766
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+56293
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me2
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:09--ChIP:MC:20100216:09:hSKM:H3K4Me2
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3182
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621758_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:09--ChIP:MC:20100216:09:hSKM:H3K4Me2.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me2 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me2 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4792
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me2_EXPERIMENTS_SCORED: 8
+FINDPEAKS_SCORE: 0.6298
+FINDPEAKS_PERCENTILE: 63
+HOTSPOT_SCORE: 0.5852
+HOTSPOT_PERCENTILE: 63
+IROC_SCORE: 0.999
+IROC_PERCENTILE: 38
+POISSON_SCORE: 0.6815
+POISSON_PERCENTILE: 63
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621758_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:09--ChIP:MC:20100216:09:hSKM:H3K4Me2.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me2 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me2 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.5066
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me2 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me2 Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me2_EXPERIMENTS_SCORED: 8
+FINDPEAKS_SCORE: 0.6298
+FINDPEAKS_PERCENTILE: 63
+HOTSPOT_SCORE: 0.5852
+HOTSPOT_PERCENTILE: 63
+IROC_SCORE: 0.999
+IROC_PERCENTILE: 38
+POISSON_SCORE: 0.6815
+POISSON_PERCENTILE: 63
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621758/GSM621758_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621758/GSM621758_BI.Muscle_Satellite_Cultured_Cells.H3K4me2.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002955.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621759">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me1 in human hSKM cells; Lib:MC:20100222:08--ChIP:MC:20100216:08:hSKM:H3K4Me1</Title>
+    <Accession database="GEO">GSM621759</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:08--ChIP:MC:20100216:08:hSKM:H3K4Me1</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me1
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+ab8895
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Abcam
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+659352
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me1
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:08--ChIP:MC:20100216:08:hSKM:H3K4Me1
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3183
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621759_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:08--ChIP:MC:20100216:08:hSKM:H3K4Me1.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me1 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me1 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4637
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me1_EXPERIMENTS_SCORED: 43
+FINDPEAKS_SCORE: 0.5517
+FINDPEAKS_PERCENTILE: 86
+HOTSPOT_SCORE: 0.5267
+HOTSPOT_PERCENTILE: 84
+IROC_SCORE: 0.9984
+IROC_PERCENTILE: 86
+POISSON_SCORE: 0.6793
+POISSON_PERCENTILE: 84
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621759_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:08--ChIP:MC:20100216:08:hSKM:H3K4Me1.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me1 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me1 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4911
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me1 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me1 Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me1_EXPERIMENTS_SCORED: 43
+FINDPEAKS_SCORE: 0.5517
+FINDPEAKS_PERCENTILE: 86
+HOTSPOT_SCORE: 0.5267
+HOTSPOT_PERCENTILE: 84
+IROC_SCORE: 0.9984
+IROC_PERCENTILE: 86
+POISSON_SCORE: 0.6793
+POISSON_PERCENTILE: 84
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621759/GSM621759_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621759/GSM621759_BI.Muscle_Satellite_Cultured_Cells.H3K4me1.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002956.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Sample iid="GSM621760">
+    <Status database="GEO">
+      <Submission-Date>2010-11-10</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2012-07-02</Last-Update-Date>
+    </Status>
+    <Title>ChIP-Seq analysis of H3K4me3 in human hSKM cells; Lib:MC:20100222:10--ChIP:MC:20100216:10:hSKM:H3K4Me3</Title>
+    <Accession database="GEO">GSM621760</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>&quot;Expanded from muscle spindle cells (Muoio et al; Diabetes 51, 901 (2002))&quot;; Lib:MC:20100222:10--ChIP:MC:20100216:10:hSKM:H3K4Me3</Source>
+      <Organism taxid="9606">Homo sapiens</Organism>
+      <Characteristics tag="lineage">
+mesoderm
+      </Characteristics>
+      <Characteristics tag="medium">
+DMEM
+      </Characteristics>
+      <Characteristics tag="molecule">
+genomic DNA
+      </Characteristics>
+      <Characteristics tag="disease">
+none
+      </Characteristics>
+      <Characteristics tag="passage">
+unknown
+      </Characteristics>
+      <Characteristics tag="line">
+hSKM
+      </Characteristics>
+      <Characteristics tag="differentiation_method">
+in vivo
+      </Characteristics>
+      <Characteristics tag="batch">
+hSKM-3
+      </Characteristics>
+      <Characteristics tag="biomaterial_type">
+Cell Line
+      </Characteristics>
+      <Characteristics tag="differentiation_stage">
+differentiated
+      </Characteristics>
+      <Characteristics tag="Sex">
+Unknown
+      </Characteristics>
+      <Characteristics tag="biomaterial_provider">
+Duke University
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_type">
+Protein A-Sepharose 4B
+      </Characteristics>
+      <Characteristics tag="chip_antibody">
+H3K4Me3
+      </Characteristics>
+      <Characteristics tag="chip_protocol_chromatin_amount">
+10 million cells
+      </Characteristics>
+      <Characteristics tag="extraction_protocol">
+SDS lysis
+      </Characteristics>
+      <Characteristics tag="chip_protocol_antibody_amount">
+2-15 ug
+      </Characteristics>
+      <Characteristics tag="chip_protocol_bead_amount">
+70 ul bed volume
+      </Characteristics>
+      <Characteristics tag="chip_protocol">
+Bernstein_BROAD_ENCODE_protocol
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_sonication_cycles">
+1
+      </Characteristics>
+      <Characteristics tag="chip_antibody_catalog">
+07-473
+      </Characteristics>
+      <Characteristics tag="chip_antibody_provider">
+Millipore
+      </Characteristics>
+      <Characteristics tag="chip_antibody_lot">
+DAM1623866
+      </Characteristics>
+      <Characteristics tag="experiment_type">
+Histone H3K4me3
+      </Characteristics>
+      <Characteristics tag="extraction_protocol_type_of_sonicator">
+Bioruptor
+      </Characteristics>
+      <Molecule>genomic DNA</Molecule>
+      <Extract-Protocol>
+Library construction protocol: Single read - Illumina
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+Design description: Human Chromatin IP REMC Sequencing on Illumina
+Library name: Lib:MC:20100222:10--ChIP:MC:20100216:10:hSKM:H3K4Me3
+EDACC Genboree Experiment Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FEXPERIMENT%2FEDACC.3184
+EDACC Genboree Sample Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSAMPLE%2FEDACC.3211
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+    </Description>
+    <Data-Processing>
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621760_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-3.bed
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:10--ChIP:MC:20100216:10:hSKM:H3K4Me3.hg19.level.1
+ANALYSIS TITLE: Mapping of Muscle Satellite Cultured Cells Histone H3K4me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina reads produced by Histone H3K4me3 ChIP-Seq on Muscle Satellite Cultured Cells, Donor hSKM-3 were mapped to the human genome using Pash.
+ANALYSIS TYPE: REFERENCE_ALIGNMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4658
+DATA_ANALYSIS_LEVEL: 1
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: Pash
+SOFTWARE_VERSION: 3.0
+MAXIMUM_ALIGNMENT_LENGTH: Read length
+MISMATCHES_ALLOWED: 10% of read length
+ALIGNMENTS_ALLOWED: 1
+TREATMENT_OF_MULTIPLE_ALIGNMENTS: If a read maps to more than 1 position it is removed from consideration.
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+ALIGNMENT_POSTPROCESSING: None
+READ_EXTENSION: 200bp
+RELEASE_NUMBER: Human Epigenome Atlas 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me3_EXPERIMENTS_SCORED: 62
+FINDPEAKS_SCORE: 0.4334
+FINDPEAKS_PERCENTILE: 61
+HOTSPOT_SCORE: 0.4243
+HOTSPOT_PERCENTILE: 59
+IROC_SCORE: 0.9844
+IROC_PERCENTILE: 3
+POISSON_SCORE: 0.519
+POISSON_PERCENTILE: 60
+
+**********************************************************************
+
+ANALYSIS FILE NAME: GSM621760_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-3.wig
+ANALYSIS CENTER: EDACC
+ANALYSIS ALIAS: Lib:MC:20100222:10--ChIP:MC:20100216:10:hSKM:H3K4Me3.hg19.level.2
+ANALYSIS TITLE: Raw Signal Density Graphs of Muscle Satellite Cultured Cells Histone H3K4me3 ChIP-Seq Data
+ANALYSIS DESCRIPTION: Illumina Histone H3K4me3 ChIP-Seq read mappings from Muscle Satellite Cultured Cells, Donor hSKM-3 were processed into density graphs of raw signal representing the aligned read density.
+ANALYSIS TYPE: ABUNDANCE_MEASUREMENT
+EDACC Genboree Analysis Page: http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FEDACC%2FANALYSIS%2FEDACC.4932
+DATA_ANALYSIS_LEVEL: 2
+EXPERIMENT_TYPE: ChIP-Seq
+GENOME_ASSEMBLY: NCBI Build GRCh37/UCSC Build hg19
+SOFTWARE: In house programs and scripts
+SOFTWARE_VERSION: NA
+READ_EXTENSION: 200bp
+TREATMENT_OF_IDENTICAL_ALIGNMENTS_OF_MULTIPLE_READS: If multiple reads map to the same start position on the + strand or stop position on the - strand, only a single read is retained.
+GENOMIC_WINDOW: 20bp
+TREATMENT_OF_REGIONS_PRONE_TO_MULTIPLE_ALIGNMENTS: None
+RELEASE_NUMBER: Human Epigenome Atlas 2
+BROWSER_TRACK_NAME: MS H3K4me3 3
+BROWSER_TRACK_DESCRIPTION: BI Muscle Satellite Cultured Cells Histone H3K4me3 Donor hSKM-3 EA Release 2
+
+
+QUALITY SCORES:
+NUMBER_OF_H3K4me3_EXPERIMENTS_SCORED: 62
+FINDPEAKS_SCORE: 0.4334
+FINDPEAKS_PERCENTILE: 61
+HOTSPOT_SCORE: 0.4243
+HOTSPOT_PERCENTILE: 59
+IROC_SCORE: 0.9844
+IROC_PERCENTILE: 3
+POISSON_SCORE: 0.519
+POISSON_PERCENTILE: 60
+
+**********************************************************************
+
+    </Data-Processing>
+    <Platform-Ref ref="GPL9115" />
+    <Library-Strategy>ChIP-Seq</Library-Strategy>
+    <Library-Source>genomic</Library-Source>
+    <Library-Selection>ChIP</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina Genome Analyzer II</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="BED">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621760/GSM621760_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-3.bed.gz
+    </Supplementary-Data>
+    <Supplementary-Data type="WIG">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/samples/GSM621nnn/GSM621760/GSM621760_BI.Muscle_Satellite_Cultured_Cells.H3K4me3.hSKM-3.wig.gz
+    </Supplementary-Data>
+    <Relation type="Named Annotation" target="http://www.ncbi.nlm.nih.gov/nuccore/89161185?report=graph&amp;tracks=key:sequence_track;key:graph_track,annots:NA000002957.1;key:gene_model_track,RNAs:false,CDSs:false,Exons:false,annots:Unnamed;key:feature_track,subkey:misc_RNA,annots:other" />
+  </Sample>
+
+  <Series iid="GSE25249">
+    <Status database="GEO">
+      <Submission-Date>2010-11-09</Submission-Date>
+      <Release-Date>2010-11-12</Release-Date>
+      <Last-Update-Date>2013-01-02</Last-Update-Date>
+    </Status>
+    <Title>BI Human Reference Epigenome Mapping Project: Characterization of chromatin modification by ChIP-Seq in human subject</Title>
+    <Accession database="GEO">GSE25249</Accession>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo/roadmap/epigenomics/</Web-Link>
+    <Summary>
+Genome scale characterization of chromatin modification, RNA expression, and cytosine methylation in a diverse panel of primary human cells and tissues, stem cells, and iPS cells derived from deidentified human subjects
+
+****************
+For data usage terms and conditions, please refer to:
+http://www.drugabuse.gov/funding/funding-opportunities/nih-common-fund/epigenomics-data-access-policies
+****************
+
+    </Summary>
+    <Overall-Design>
+BI Human Reference Epigenome Mapping Project - samples and experiments will continue to be added to this study over the course of the project.
+
+EDACC Genboree Page:
+http://genboree.org/java-bin/project.jsp?projectName=XML%20Submissions%2FBroad%2FSTUDY%2FEDACC.3212
+    </Overall-Design>
+    <Type>Genome binding/occupancy profiling by high throughput sequencing</Type>
+    <Contributor-Ref ref="contrib3" position="1" />
+    <Contributor-Ref ref="contrib4" position="2" />
+    <Contact-Ref ref="contrib1" />
+    <Sample-Ref ref="GSM621737" />
+    <Sample-Ref ref="GSM621738" />
+    <Sample-Ref ref="GSM621739" />
+    <Sample-Ref ref="GSM621740" />
+    <Sample-Ref ref="GSM621741" />
+    <Sample-Ref ref="GSM621742" />
+    <Sample-Ref ref="GSM621743" />
+    <Sample-Ref ref="GSM621744" />
+    <Sample-Ref ref="GSM621745" />
+    <Sample-Ref ref="GSM621746" />
+    <Sample-Ref ref="GSM621747" />
+    <Sample-Ref ref="GSM621748" />
+    <Sample-Ref ref="GSM621749" />
+    <Sample-Ref ref="GSM621750" />
+    <Sample-Ref ref="GSM621751" />
+    <Sample-Ref ref="GSM621752" />
+    <Sample-Ref ref="GSM621753" />
+    <Sample-Ref ref="GSM621754" />
+    <Sample-Ref ref="GSM621755" />
+    <Sample-Ref ref="GSM621756" />
+    <Sample-Ref ref="GSM621757" />
+    <Sample-Ref ref="GSM621758" />
+    <Sample-Ref ref="GSM621759" />
+    <Sample-Ref ref="GSM621760" />
+    <Supplementary-Data type="TAR">
+ftp://ftp.ncbi.nlm.nih.gov/pub/geo/DATA/supplementary/series/GSE25249/GSE25249_RAW.tar
+    </Supplementary-Data>
+  </Series>
+
+</MINiML>
