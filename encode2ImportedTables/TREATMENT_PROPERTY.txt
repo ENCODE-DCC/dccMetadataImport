@@ -1,104 +1,104 @@
-treatment_no	property_name	property_value	concentration	duration
-4OHTAM_100nM_30m	CHEBI:41774	tamoxifen	100nM	30m
-4OHTAM_1uM_12hr	CHEBI:41774	tamoxifen	1uM	12h
-4OHTAM_1uM_36hr	CHEBI:41774	tamoxifen	1uM	36h
-4OHTAM_1uM_4hr	CHEBI:41774	tamoxifen	1uM	4h
-4OHTAM_20nM_72hr	CHEBI:41774	tamoxifen	20nM	72h
-Alpha-amanitin_50ug_9hr	CHEBI:37415	alpha-amanitin	50ug/mL	9h
-BPA_100nM	CHEBI:31133	bisphenol A	10nm	1h
-BPA_100nM_4hr	CHEBI:31133	bisphenol A	100nM	4h
-Betamethasone_100nM	CHEBI:3077	betamethasone	100nM	1h
-DEX_100nM	CHEBI:41879	dexamethasone	100nM	1h
-DEX_100pM	CHEBI:41879	dexamethasone	100pM	1h
-DEX_1nM	CHEBI:41879	dexamethasone	1nM	1h
-DEX_500pM	CHEBI:41879	dexamethasone	500pM	1h
-DEX_50nM	CHEBI:41879	dexamethasone	50nM	1h
-DEX_5nM	CHEBI:41879	dexamethasone	5nM	1h
-DMSO_0.02pct	CHEBI:28262	dimethyl sulfoxide	0.02%	1h
-DMSO_0.02pct_24hr	CHEBI:28262	dimethyl sulfoxide	0.02%	24h
-DMSO_0.02pct_7d	CHEBI:28262	dimethyl sulfoxide	0.02%	7d
-DMSO_2.0pct	CHEBI:28262	dimethyl sulfoxide	2%	5d
-DMSO_4hr	CHEBI:28262	dimethyl sulfoxide	0.02%	4hr
-EqS_2.0pct_24hr	CHEBI:5931	insulin	 unknown	24h
-EqS_2.0pct_5d	CHEBI:5931	insulin	unknown	5d
-EqS_2.0pct_60hr	CHEBI:5931	insulin	unknown	60h
-EqS_2.0pct_7d	CHEBI:5931	insulin	unknown	7d
-Estradiol_100nM_1hr	CHEBI:23965	estradiol	100nM	1h
-Estradiol_10nM	CHEBI:23965	estradiol	10nM	1h
-Estradiol_10nM_24hr	CHEBI:23965	estradiol	10nM	24h
-Estradiol_10nM_30m	CHEBI:23965	estradiol	10nM	30m
-Estradiol_10nM_4hr	CHEBI:23965	estradiol	10nM	4h
-Estradiol_1nM	CHEBI:23965	estradiol	1nM	1h
-Estradiol_ctrl_0hr	CHEBI:Null	control	0nM	0m
-EtOH_0.01pct	CHEBI:16236	ethanol	0.01%	36h
-EtOH_0.01pct_12hr	CHEBI:16236	ethanol	0.01%	12h
-EtOH_0.01pct_4hr	CHEBI:16236	ethanol	0.01%	4h
-EtOH_0.02pct	CHEBI:16236	ethanol	0.02%	1h
-Genistein_100nM	CHEBI:28088	genistein	100nM	1h
-Genistein_100nM_4hr	CHEBI:28088	genistein	100nM	4h
-NaBut	CHEBI:64103	sodium butyrate	0.5mM	72h
-OHUrea	CHEBI:44423	hydoxyurea	100uM	72h
-Prednisolone_100nM	CHEBI:8378	prednisolone	100nM	1h
-Taxol_500nM_24hr	CHEBI:45863	taxol	500nM	24h
-androgen	CHEBI:50113	methyltrienolone	1nM	12h
-estrogen	CHEBI:50114	estrogen	100nm	45m
-forskolin	CHEBI:42471	forskolin	1uM	6h
-insulin	CHEBI:5931	insulin	100nM	6h
-pravastatin	CHEBI:63618	pravastin	2uM	16h
-Hypoxia_LacAcid	CHEBI:16004/CHEBI:16651	(R)-lactate	10mM	24h
-Hypoxia_LacAcid_ctrl	Null	control	0.0mM	24h
-SAHA_1uM_72hr	Cayman Chemical Item Number 10009929	N1-hydroxy-N8-phenyl-octanediamide	1uM	72h
-SAHA_ctrl	Null	control	0.0%	72h
-IFNa30	HGNC:IFNA	interferon alpha	unknown	30m
-IFNa4h	HGNC:IFNA	interferon alpha	500U/mL	4h
-IFNa6h	HGNC:IFNA	interferon lapha	unknown	6h
-IFNg30	HGNC:IFNG	interferon gamma	unknown	30m
-IFNg4h	HGNC:IFNG	interferon gamma	50ng/mL	4h
-IFNg6h	HGNC:IFNG	interferon gamma	unknown	6h
-TGFb	HGNC:TGFB	transforming growth factor beta	1ng/mL	24h
-TNFa	HGNC:TNF	tumor necrosis factor alpha	unknown	unknown
-UT189	unknown	unknown	unknown	1h
-serum_free_media	NA	NA	NA	NA
-serum_starved_media	NA	serum	0.05%	72h
-serum_stimulated_media	NA	serum	0%|10%	36h|3h
-vehicle	unknown	hormones	0.0%	72h
-G1_phase	NA	sorted G1 phase cells	NA	NA
-G2-M_phase	NA	sorted G2-M phase cells	NA	NA
-MNaseD	unknown	micrococcal nuclease	unknown	unknown
-diffProtA_14d	HGNC:BMP4	bone morphogenetic protein 4	unknown	14d
-diffProtA_14d	HGNC:INHBE	activin	unknown	14d
-diffProtA_14d	HGNC:FGFR1	basic fibroblast growth factor	unknown	14d
-diffProtA_2d	HGNC:BMP4	bone morphogenetic protein 4	unknown	2d
-diffProtA_2d	HGNC:INHBE	activin	unknown	2d
-diffProtA_2d	HGNC:FGFR1	basic fibroblast growth factor	unknown	2d
-diffProtA_5d	HGNC:BMP4	bone morphogenetic protein 4	unknown	5d
-diffProtA_5d	HGNC:INHBE	activin	unknown	5d
-diffProtA_5d	HGNC:FGFR1	basic fibroblast growth factor	unknown	5d
-diffProtA_9d	HGNC:BMP4	bone morphogenetic protein 4	unknown	9d
-diffProtA_9d	HGNC:INHBE	activin	unknown	9d
-diffProtA_9d	HGNC:FGFR1	basic fibroblast growth factor	unknown	9d
-diffProtB_24hr	CHEBI:50845	doxycycline	100ng/ml	24h
-diffProtB_6hr	CHEBI:50845	doxycycline	100ng/ml	6h
-diffProtB_72hr	CHEBI:50845	doxycycline	100ng/ml	72h
-diffProtC_120hr	CHEBI:16469	17beta-estradiol	100nM	120h
-diffProtC_24hr	CHEBI:16469	17beta-estradiol	100nM	24h
-diffProtC_48hr	CHEBI:16469	17beta-estradiol	100nM	48h
-diffProtD_14hr	CHEBI:16469	17beta-estradiol	10nM	14h
-diffProtD_24hr	CHEBI:16469	17beta-estradiol	10nM	24h
-diffProtD_30hr	CHEBI:16469	17beta-estradiol	10nM	30h
-diffProtD_3hr	CHEBI:16469	17beta-estradiol	10nM	3h
-diffProtD_7hr	CHEBI:16469	17beta-estradiol	10nM	7h
-diffProtE_3d	unknown	unknown	unknown	3d
-diffProtE_6d	unknown	unknown	unknown	6d
-diffProtE_9d	unknown	unknown	unknown	9d
-diffProtF_6d	unknown	unknown	unknown	6d
-diffProtF_9d	unknown	unknown	unknown	9d
-diffProtG_3d	unknown	unknown	unknown	3d
-diffProtH_Sox17+	unknown	unknown	unknown	6d
-diffProtH_Sox17-	unknown	unknown	unknown	6d
-DIFF_4d	unknown	unknown	unknown	4d
-DIFF_7d	unknown	unknown	unknown	7d
-Randomized_shRNA_control	unknown	unknown	unknown	6d
-CTCF_shRNA_knockdown	unknown	unknown	unknown	6d
-lenti-MyoD	CHEBI:50845	doxycycline	3ug/mL	10d
-lenti-control	CHEBI:50845	doxycycline	0ug/mL	10d
+treatment_property_no	treatment_no	property_name	property_value	concentration	duration	is_current	date_created	created_by
+2803a064-4718-48bf-bb1f-1161914943cd	4OHTAM_100nM_30m	CHEBI:41774	tamoxifen	100nM	30m	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7dadf1b9-29a5-45fc-a068-471d4774209f	4OHTAM_1uM_12hr	CHEBI:41774	tamoxifen	1uM	12h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c5f390ad-a2d3-4fee-a889-f9926cbdafeb	4OHTAM_1uM_36hr	CHEBI:41774	tamoxifen	1uM	36h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f8940190-724c-416c-b738-64f8770640de	4OHTAM_1uM_4hr	CHEBI:41774	tamoxifen	1uM	4h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+99401094-7e79-4500-9539-972f471b8d77	4OHTAM_20nM_72hr	CHEBI:41774	tamoxifen	20nM	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0ca31670-d6ad-4a69-acd4-386bb6e613a5	Alpha-amanitin_50ug_9hr	CHEBI:37415	alpha-amanitin	50ug/mL	9h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ddb0b43c-b703-41de-ab99-14c1b82ea9c5	BPA_100nM	CHEBI:31133	bisphenol A	10nm	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cd7b39d8-d2e3-42d5-a8ef-a41d3591d741	BPA_100nM_4hr	CHEBI:31133	bisphenol A	100nM	4h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+519b2382-d8ac-4d27-a03c-2b0668cdbee4	Betamethasone_100nM	CHEBI:3077	betamethasone	100nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2fce1ffe-36c8-4e96-a6ef-3c3c2b94f321	DEX_100nM	CHEBI:41879	dexamethasone	100nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c66a4f7a-9b59-4655-8110-8946c35b97e1	DEX_100pM	CHEBI:41879	dexamethasone	100pM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f38821cb-b9c3-466b-97e8-0c3911498010	DEX_1nM	CHEBI:41879	dexamethasone	1nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fe9d4072-8c63-4876-ac02-0ca780e646a8	DEX_500pM	CHEBI:41879	dexamethasone	500pM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+aa0f7a82-2305-41e5-9a5a-e32063d20707	DEX_50nM	CHEBI:41879	dexamethasone	50nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+af5fa951-e9b6-47b9-a222-9437bce98c54	DEX_5nM	CHEBI:41879	dexamethasone	5nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+efd0fff0-5a38-4c2d-b33b-b92373239dab	DMSO_0.02pct	CHEBI:28262	dimethyl sulfoxide	0.02%	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+004cb35e-878a-457e-88a7-a1e04fe1baf5	DMSO_0.02pct_24hr	CHEBI:28262	dimethyl sulfoxide	0.02%	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1d44367a-6580-4bf0-8bee-e59a28ef2bce	DMSO_0.02pct_7d	CHEBI:28262	dimethyl sulfoxide	0.02%	7d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+94f30273-33af-4555-9542-ab458856a8a8	DMSO_2.0pct	CHEBI:28262	dimethyl sulfoxide	2%	5d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7c29f2bd-0b72-463e-855e-b9ae6e3183a3	DMSO_4hr	CHEBI:28262	dimethyl sulfoxide	0.02%	4hr	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+916873d9-8daf-49c6-ab8b-ba89d4493663	EqS_2.0pct_24hr	CHEBI:5931	insulin	 unknown	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1ff7141a-46a6-4c07-9f68-667c9457fa65	EqS_2.0pct_5d	CHEBI:5931	insulin	unknown	5d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d1d7e164-4338-42c2-bab6-4fc737d1f785	EqS_2.0pct_60hr	CHEBI:5931	insulin	unknown	60h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+08a07dc0-7097-4e8d-9165-de144aff0214	EqS_2.0pct_7d	CHEBI:5931	insulin	unknown	7d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d5a494bd-c540-410f-9bc0-1b626474fe54	Estradiol_100nM_1hr	CHEBI:23965	estradiol	100nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+83155e97-a41a-4ed7-9848-4cd80f98556c	Estradiol_10nM	CHEBI:23965	estradiol	10nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5e5498d5-5026-466a-bdb1-d4b3462cf9e9	Estradiol_10nM_24hr	CHEBI:23965	estradiol	10nM	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+991983a9-84f0-4b40-927a-df1446a0c85e	Estradiol_10nM_30m	CHEBI:23965	estradiol	10nM	30m	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8b5457f8-0f06-4bbc-8c94-a3a1ea4333a3	Estradiol_10nM_4hr	CHEBI:23965	estradiol	10nM	4h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+969a227a-c932-43a4-b121-4e50563376d7	Estradiol_1nM	CHEBI:23965	estradiol	1nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a1cf16ce-82c0-4779-b5e7-1b72e173e77c	Estradiol_ctrl_0hr	CHEBI:Null	control	0nM	0m	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f074e244-9128-429d-ae4f-5be87e5a42a2	EtOH_0.01pct	CHEBI:16236	ethanol	0.01%	36h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b70e2b2c-98d2-4c35-91eb-ee38e5fabd5b	EtOH_0.01pct_12hr	CHEBI:16236	ethanol	0.01%	12h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8efc478f-e14e-49f5-9432-35eb5d7eb044	EtOH_0.01pct_4hr	CHEBI:16236	ethanol	0.01%	4h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+916626ad-c336-4ec3-82e6-ea1694cc855f	EtOH_0.02pct	CHEBI:16236	ethanol	0.02%	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e35d4df2-1209-4c8b-a5bb-9f53aeffd71b	Genistein_100nM	CHEBI:28088	genistein	100nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3a465ab5-76fa-46b8-a0ee-3be141cc0606	Genistein_100nM_4hr	CHEBI:28088	genistein	100nM	4h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+836f2ad9-4abf-4895-8c26-80bde4e8d565	NaBut	CHEBI:64103	sodium butyrate	0.5mM	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6da91555-f3ff-4bc0-869e-3243551ace4c	OHUrea	CHEBI:44423	hydoxyurea	100uM	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8c2e16b0-4da5-441f-abd6-5b39c992ef14	Prednisolone_100nM	CHEBI:8378	prednisolone	100nM	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7fc213f9-d350-4bef-920b-9db89fc0602a	Taxol_500nM_24hr	CHEBI:45863	taxol	500nM	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7ec80a99-5596-4c01-8503-1f6220074b6c	androgen	CHEBI:50113	methyltrienolone	1nM	12h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ff2e8099-6488-465e-9ed8-ec6b8bcf2593	estrogen	CHEBI:50114	estrogen	100nm	45m	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9b49316a-007a-4cbb-932c-f70aea229095	forskolin	CHEBI:42471	forskolin	1uM	6h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+539ea8f5-ae44-4750-8d5f-1358b6e84330	insulin	CHEBI:5931	insulin	100nM	6h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e26fe303-016a-4954-be3a-b1061d8efc3c	pravastatin	CHEBI:63618	pravastin	2uM	16h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+63268127-bfc4-4229-a444-cd1e285aa71f	Hypoxia_LacAcid	CHEBI:16004/CHEBI:16651	(R)-lactate	10mM	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dc64d49d-b716-420c-bd0a-f4473e9170ca	Hypoxia_LacAcid_ctrl	Null	control	0.0mM	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+be9bd481-245b-4fa7-9302-4b731c5faa4b	SAHA_1uM_72hr	Cayman Chemical Item Number 10009929	N1-hydroxy-N8-phenyl-octanediamide	1uM	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8b71f541-3760-420f-8845-fcef9efe5552	SAHA_ctrl	Null	control	0.0%	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+48a3c227-b9a6-46fd-aed3-ad94cd23aef1	IFNa30	HGNC:IFNA	interferon alpha	unknown	30m	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+625505c4-f73c-4e0e-9c6d-48c4e595e15c	IFNa4h	HGNC:IFNA	interferon alpha	500U/mL	4h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b6ef8d81-e42a-4880-93c5-ae48d8edbb89	IFNa6h	HGNC:IFNA	interferon lapha	unknown	6h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f0493d9b-5b8f-4fb5-bf7e-64b03ffe635e	IFNg30	HGNC:IFNG	interferon gamma	unknown	30m	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+95f68fb6-c98f-48a5-a6ba-5b0dc53cb02e	IFNg4h	HGNC:IFNG	interferon gamma	50ng/mL	4h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+677964cc-47d2-41d0-8740-51ea7e935ce3	IFNg6h	HGNC:IFNG	interferon gamma	unknown	6h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bda81c85-b233-44c8-9b3a-37c7a2f066e4	TGFb	HGNC:TGFB	transforming growth factor beta	1ng/mL	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3b5ee70c-af9c-4812-931f-2be40fa8442a	TNFa	HGNC:TNF	tumor necrosis factor alpha	unknown	unknown	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+06a152d4-1f48-43ce-84d6-ffb85d8b57fe	UT189	unknown	unknown	unknown	1h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e98047da-324e-441d-bfdb-a15dc6bda621	serum_free_media	NA	NA	NA	NA	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+739dca52-e6e8-4259-81ea-474721981bf8	serum_starved_media	NA	serum	0.05%	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+65609953-54b2-447f-a2c2-e53f56114356	serum_stimulated_media	NA	serum	0%|10%	36h|3h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2eaab52b-0c53-41d6-8ea7-3830fccf678c	vehicle	unknown	hormones	0.0%	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7a4fb3a8-4f48-4f27-9dee-a3af9ff138de	G1_phase	NA	sorted G1 phase cells	NA	NA	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b57d8a3c-290d-4cfd-a5d2-d56f58565232	G2-M_phase	NA	sorted G2-M phase cells	NA	NA	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a82b3883-e473-4f10-8307-ab91a342293c	MNaseD	unknown	micrococcal nuclease	unknown	unknown	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7664aacd-df35-4d95-bc1e-83a5ef45e493	diffProtA_14d	HGNC:BMP4	bone morphogenetic protein 4	unknown	14d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+48871965-9036-4e3a-909d-a05ff8286bb7	diffProtA_14d	HGNC:INHBE	activin	unknown	14d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5f4caaf7-2768-480e-8304-2ee0edd6e0d0	diffProtA_14d	HGNC:FGFR1	basic fibroblast growth factor	unknown	14d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9a239118-e65d-4c9a-a877-1e7671a1702d	diffProtA_2d	HGNC:BMP4	bone morphogenetic protein 4	unknown	2d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+7b35e08e-3060-41d6-8139-00a4129533ba	diffProtA_2d	HGNC:INHBE	activin	unknown	2d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c1515cc5-077c-402f-9465-8d607a346670	diffProtA_2d	HGNC:FGFR1	basic fibroblast growth factor	unknown	2d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a0551c74-39ae-433c-909f-20ac77d91f96	diffProtA_5d	HGNC:BMP4	bone morphogenetic protein 4	unknown	5d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+95a8b4af-2a84-41dd-b6c3-97cccd70168c	diffProtA_5d	HGNC:INHBE	activin	unknown	5d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+89dbf481-f5f4-4984-a70f-1ca86b48b838	diffProtA_5d	HGNC:FGFR1	basic fibroblast growth factor	unknown	5d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cdb021ec-7307-42be-99d6-c4097bac85b1	diffProtA_9d	HGNC:BMP4	bone morphogenetic protein 4	unknown	9d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+93d522f4-40fc-45d8-b19e-5999987e428c	diffProtA_9d	HGNC:INHBE	activin	unknown	9d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f6aeca30-4c80-4b83-958a-4f49a2dcaeed	diffProtA_9d	HGNC:FGFR1	basic fibroblast growth factor	unknown	9d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4fee7ccf-78e1-4a5c-ac2a-3961106dcaaa	diffProtB_24hr	CHEBI:50845	doxycycline	100ng/ml	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a48c7b4e-9b08-4c9d-94b3-578eb4b01387	diffProtB_6hr	CHEBI:50845	doxycycline	100ng/ml	6h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1e1530af-5dd2-4350-a7a6-71d4a27715e5	diffProtB_72hr	CHEBI:50845	doxycycline	100ng/ml	72h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9e57caea-417c-48a6-b80d-f9a9d288a8d2	diffProtC_120hr	CHEBI:16469	17beta-estradiol	100nM	120h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9d800922-5b4e-40bd-8b09-e40a39138d74	diffProtC_24hr	CHEBI:16469	17beta-estradiol	100nM	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a6513d35-c916-48ec-9fd8-94c00c2295b0	diffProtC_48hr	CHEBI:16469	17beta-estradiol	100nM	48h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8b00a3b5-36e4-4ebc-8595-43a383d6d6c5	diffProtD_14hr	CHEBI:16469	17beta-estradiol	10nM	14h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+a91729ec-cb97-4fb9-b366-748f9ebaf5bc	diffProtD_24hr	CHEBI:16469	17beta-estradiol	10nM	24h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e6f8c934-2574-41e3-a86d-e35a8edc93d9	diffProtD_30hr	CHEBI:16469	17beta-estradiol	10nM	30h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+cca6c294-1e6f-4da5-a129-7780c3e3e52b	diffProtD_3hr	CHEBI:16469	17beta-estradiol	10nM	3h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+567eb11f-a59a-4d45-b7e5-1ac07c8b1a47	diffProtD_7hr	CHEBI:16469	17beta-estradiol	10nM	7h	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+65e28fe8-2603-4e91-b990-34f58c55728b	diffProtE_3d	unknown	unknown	unknown	3d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f1696852-8fdf-46c6-b46d-b312af65436a	diffProtE_6d	unknown	unknown	unknown	6d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+87bf7336-6095-4fc5-b6a7-19e9936a431d	diffProtE_9d	unknown	unknown	unknown	9d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b22a630b-0e20-41f7-bdd8-5a3799320a29	diffProtF_6d	unknown	unknown	unknown	6d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+dc63437b-21a2-4b6d-bb73-7f2db9bcb392	diffProtF_9d	unknown	unknown	unknown	9d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+86435b60-a013-4fa1-b2ab-793ab340955b	diffProtG_3d	unknown	unknown	unknown	3d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5f7bfe5e-8bec-45e3-9b2f-976216afc887	diffProtH_Sox17+	unknown	unknown	unknown	6d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5dd696d2-79ea-4d7d-b399-f9b1783dcf4a	diffProtH_Sox17-	unknown	unknown	unknown	6d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1c3b1ae8-a0ae-4120-9850-c39d14e1c3bd	DIFF_4d	unknown	unknown	unknown	4d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d0ea2b07-7d4a-4c91-b46c-cc0c2b7ac03c	DIFF_7d	unknown	unknown	unknown	7d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9164d8cb-b25f-49e6-9a1d-7802dfb350d3	Randomized_shRNA_control	unknown	unknown	unknown	6d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fc6d937c-982a-42f6-aea2-33ddc1c27b71	CTCF_shRNA_knockdown	unknown	unknown	unknown	6d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c16f1ac3-3f93-4d82-9da1-90f7790b242b	lenti-MyoD	CHEBI:50845	doxycycline	3ug/mL	10d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+79361953-10f0-4bde-b913-4795d0ea8fd8	lenti-control	CHEBI:50845	doxycycline	0ug/mL	10d	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
