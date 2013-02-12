@@ -14,3 +14,4 @@ f095b24f-ad93-4787-beb2-acafac0d7d12	HEK293-T-REx	HEK293	derived_from	Yes	Wed Fe
 2a365526-42e7-4c91-b3b6-644a24d58d38	BG02ES-EBD	BG02ES	derived_from	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ce1f3e99-0c9a-4eb9-a865-e3936784d53b	H9ES-AFP-	H9ES	derived_from	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 b91f2119-e71a-4553-b05a-0271fd8a7b93	H9ES-AFP+	H9ES	derived_from	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+abf90856-00c9-4844-8196-daa2f1a3e44c  G1E-ER4 G1E derived_from  Yes Tue Feb 12 10:12:58 PST 2013 Jeff Long
