@@ -1,107 +1,108 @@
-4OHTAM_100nM_30m
-4OHTAM_1uM_12hr
-4OHTAM_1uM_36hr
-4OHTAM_1uM_4hr
-4OHTAM_20nM_72hr
-Alpha-amanitin_50ug_9hr
-BPA_100nM
-BPA_100nM_4hr
-Betamethasone_100nM
-CTCF_shRNA_knockdown
-DEX_100nM
-DEX_100pM
-DEX_1nM
-DEX_500pM
-DEX_50nM
-DEX_5nM
-DIFF_4d
-DIFF_7d
-DMSO_0.02pct
-DMSO_0.02pct_24hr
-DMSO_0.02pct_7d
-DMSO_2.0pct
-DMSO_4hr
-EqS_2.0pct_24hr
-EqS_2.0pct_5d
-EqS_2.0pct_60hr
-EqS_2.0pct_7d
-Estradiol_100nM_1hr
-Estradiol_10nM
-Estradiol_10nM_24hr
-Estradiol_10nM_30m
-Estradiol_10nM_4hr
-Estradiol_1nM
-Estradiol_ctrl_0hr
-EtOH_0.01pct
-EtOH_0.01pct_12hr
-EtOH_0.01pct_4hr
-EtOH_0.02pct
-G1_phase
-G2-M_phase
-Genistein_100nM
-Genistein_100nM_4hr
-Hypoxia_LacAcid
-Hypoxia_LacAcid_ctrl
-IFNa30
-IFNa4h
-IFNa6h
-IFNg30
-IFNg4h
-IFNg6h
-MNaseD
-NaBut
-OHUrea
-Prednisolone_100nM
-Randomized_shRNA_control
-SAHA_1uM_72hr
-SAHA_ctrl
-TGFb
-TNFa
-Taxol_500nM_24hr
-UT189
-ZNF_knockout_2C10_C5
-ZNF_knockout_4C50_C4
-ZNF_knockout_4G7_D3
-ZNF_knockout_A4.1-C6
-ZNF_knockout_A4.1-E2
-ZNF_knockout_B3.4-A8
-ZNF_knockout_E10.3-C6
-ZNF_knockout_E6.1-A1
-ZNF_knockout_F4.1-B2
-ZNF_knockout_G5.4-A11
-ZNF_knockout_P5
-androgen
-diffProtA_14d
-diffProtA_2d
-diffProtA_5d
-diffProtA_9d
-diffProtB_24hr
-diffProtB_6hr
-diffProtB_72hr
-diffProtC_120hr
-diffProtC_24hr
-diffProtC_48hr
-diffProtD_14hr
-diffProtD_24hr
-diffProtD_30hr
-diffProtD_3hr
-diffProtD_7hr
-diffProtE_3d
-diffProtE_6d
-diffProtE_9d
-diffProtF_6d
-diffProtF_9d
-diffProtG_3d
-diffProtH_Sox17+
-diffProtH_Sox17-
-estrogen
-forskolin
-insulin
-lenti-MyoD
-lenti-control
-pravastatin
-serum_free_media
-serum_starved_media
-serum_stimulated_media
-treatment_no
-vehicle
+treatment_no	is_current	date_created	created_by
+4OHTAM_100nM_30m	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+4OHTAM_1uM_12hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+4OHTAM_1uM_36hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+4OHTAM_1uM_4hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+4OHTAM_20nM_72hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Alpha-amanitin_50ug_9hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+BPA_100nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+BPA_100nM_4hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Betamethasone_100nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+CTCF_shRNA_knockdown	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DEX_100nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DEX_100pM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DEX_1nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DEX_500pM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DEX_50nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DEX_5nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DIFF_4d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DIFF_7d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DMSO_0.02pct	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DMSO_0.02pct_24hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DMSO_0.02pct_7d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DMSO_2.0pct	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+DMSO_4hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EqS_2.0pct_24hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EqS_2.0pct_5d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EqS_2.0pct_60hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EqS_2.0pct_7d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Estradiol_100nM_1hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Estradiol_10nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Estradiol_10nM_24hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Estradiol_10nM_30m	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Estradiol_10nM_4hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Estradiol_1nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Estradiol_ctrl_0hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EtOH_0.01pct	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EtOH_0.01pct_12hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EtOH_0.01pct_4hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+EtOH_0.02pct	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+G1_phase	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+G2-M_phase	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Genistein_100nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Genistein_100nM_4hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Hypoxia_LacAcid	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Hypoxia_LacAcid_ctrl	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+IFNa30	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+IFNa4h	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+IFNa6h	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+IFNg30	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+IFNg4h	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+IFNg6h	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+MNaseD	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+NaBut	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+OHUrea	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Prednisolone_100nM	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Randomized_shRNA_control	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+SAHA_1uM_72hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+SAHA_ctrl	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+TGFb	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+TNFa	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Taxol_500nM_24hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+UT189	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_2C10_C5	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_4C50_C4	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_4G7_D3	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_A4.1-C6	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_A4.1-E2	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_B3.4-A8	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_E10.3-C6	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_E6.1-A1	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_F4.1-B2	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_G5.4-A11	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+ZNF_knockout_P5	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+androgen	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtA_14d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtA_2d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtA_5d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtA_9d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtB_24hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtB_6hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtB_72hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtC_120hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtC_24hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtC_48hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtD_14hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtD_24hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtD_30hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtD_3hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtD_7hr	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtE_3d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtE_6d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtE_9d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtF_6d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtF_9d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtG_3d	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtH_Sox17+	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+diffProtH_Sox17-	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+estrogen	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+forskolin	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+insulin	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+lenti-MyoD	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+lenti-control	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+pravastatin	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+serum_free_media	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+serum_starved_media	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+serum_stimulated_media	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+vehicle	Yes	Tue Feb 12 14:51:47 PST 2013	Jeff Long
+Epstein-Barr_Virus_transformed	Yes	Tue Feb 12 15:50:50 PST 2013	Jeff Long
