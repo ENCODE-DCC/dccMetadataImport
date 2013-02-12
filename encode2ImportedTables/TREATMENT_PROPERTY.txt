@@ -49,14 +49,14 @@ Hypoxia_LacAcid	CHEBI:16004/CHEBI:16651	(R)-lactate	10mM	24h
 Hypoxia_LacAcid_ctrl	Null	control	0.0mM	24h
 SAHA_1uM_72hr	Cayman Chemical Item Number 10009929	N1-hydroxy-N8-phenyl-octanediamide	1uM	72h
 SAHA_ctrl	Null	control	0.0%	72h
-IFNa30	Gene:IFNA	interferon alpha	unknown	30m
-IFNa4h	Gene:IFNA	interferon alpha	500U/mL	4h
-IFNa6h	Gene:IFNA	interferon lapha	unknown	6h
-IFNg30	Gene:IFNG	interferon gamma	unknown	30m
-IFNg4h	Gene:IFNG	interferon gamma	50ng/mL	4h
-IFNg6h	Gene:IFNG	interferon gamma	unknown	6h
-TGFb	Gene:TGFb	transforming growth factor beta	1ng/mL	24h
-TNFa	Gene:TNFA	tumor necrosis factor alpha	unknown	unknown
+IFNa30	HGNC:IFNA	interferon alpha	unknown	30m
+IFNa4h	HGNC:IFNA	interferon alpha	500U/mL	4h
+IFNa6h	HGNC:IFNA	interferon lapha	unknown	6h
+IFNg30	HGNC:IFNG	interferon gamma	unknown	30m
+IFNg4h	HGNC:IFNG	interferon gamma	50ng/mL	4h
+IFNg6h	HGNC:IFNG	interferon gamma	unknown	6h
+TGFb	HGNC:TGFB	transforming growth factor beta	1ng/mL	24h
+TNFa	HGNC:TNF	tumor necrosis factor alpha	unknown	unknown
 UT189	unknown	unknown	unknown	1h
 serum_free_media	NA	NA	NA	NA
 serum_starved_media	NA	serum	0.05%	72h
@@ -65,18 +65,18 @@ vehicle	unknown	hormones	0.0%	72h
 G1_phase	NA	sorted G1 phase cells	NA	NA
 G2-M_phase	NA	sorted G2-M phase cells	NA	NA
 MNaseD	unknown	micrococcal nuclease	unknown	unknown
-diffProtA_14d	Gene:BMP4	bone morphogenetic protein 4	unknown	14d
-diffProtA_14d	Gene:activin	activin	unknown	14d
-diffProtA_14d	Gene:bFGF	basic fibroblast growth factor	unknown	14d
-diffProtA_2d	Gene:BMP4	bone morphogenetic protein 4	unknown	2d
-diffProtA_2d	Gene:activin	activin	unknown	2d
-diffProtA_2d	Gene:bFGF	basic fibroblast growth factor	unknown	2d
-diffProtA_5d	Gene:BMP4	bone morphogenetic protein 4	unknown	5d
-diffProtA_5d	Gene:activin	activin	unknown	5d
-diffProtA_5d	Gene:bFGF	basic fibroblast growth factor	unknown	5d
-diffProtA_9d	Gene:BMP4	bone morphogenetic protein 4	unknown	9d
-diffProtA_9d	Gene:activin	activin	unknown	9d
-diffProtA_9d	Gene:bFGF	basic fibroblast growth factor	unknown	9d
+diffProtA_14d	HGNC:BMP4	bone morphogenetic protein 4	unknown	14d
+diffProtA_14d	HGNC:INHBE	activin	unknown	14d
+diffProtA_14d	HGNC:FGFR1	basic fibroblast growth factor	unknown	14d
+diffProtA_2d	HGNC:BMP4	bone morphogenetic protein 4	unknown	2d
+diffProtA_2d	HGNC:INHBE	activin	unknown	2d
+diffProtA_2d	HGNC:FGFR1	basic fibroblast growth factor	unknown	2d
+diffProtA_5d	HGNC:BMP4	bone morphogenetic protein 4	unknown	5d
+diffProtA_5d	HGNC:INHBE	activin	unknown	5d
+diffProtA_5d	HGNC:FGFR1	basic fibroblast growth factor	unknown	5d
+diffProtA_9d	HGNC:BMP4	bone morphogenetic protein 4	unknown	9d
+diffProtA_9d	HGNC:INHBE	activin	unknown	9d
+diffProtA_9d	HGNC:FGFR1	basic fibroblast growth factor	unknown	9d
 diffProtB_24hr	CHEBI:50845	doxycycline	100ng/ml	24h
 diffProtB_6hr	CHEBI:50845	doxycycline	100ng/ml	6h
 diffProtB_72hr	CHEBI:50845	doxycycline	100ng/ml	72h
