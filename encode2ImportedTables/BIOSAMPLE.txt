@@ -1,4 +1,4 @@
-biosample_no	biosample_term_id	biosample_term_name	alias	alias_source	biosample_label	biosample_type	organism_no	treatment_no	source_no	product_id	lot_id	subcellular_location		submitted_by	is_obsolete	is_current	date_created	created_by
+9biosample_no	biosample_term_id	biosample_term_name	alias	alias_source	biosample_label	biosample_type	organism_no	treatment_no	source_no	product_id	lot_id	subcellular_location		submitted_by	is_obsolete	is_current	date_created	created_by
 971c81e2-2dc6-4091-8b27-2f50330182ed	AMAD:96	10T1/2	NA	NA	10T1/2	cell line	mouse	missing	American Type Culture Collection (ATCC)	CCL-226	missing	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2398b0ee-ac7c-4778-b3e6-46caeca08071	AMAD:7035	3134	NA	NA	3134	cell line	mouse	missing	Dr. John Stamatoyannopoulos at University of Washington	3134	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ca4ff7d0-a666-437a-9f3a-c89c3f7689cc	AMAD:7043	416B	NA	NA	416B	cell line	mouse	missing	Dr. John Stamatoyannopoulos at University of Washington	416B	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -305,7 +305,7 @@ fc7ece53-2ef3-4e5d-a7a9-319a9f1db0ce	BTO:0000059	HRE	NA	NA	HRE	primary cells	hum
 c26e7f77-f0aa-4ea9-b358-b05594c018e3	BTO:0001177	HRPEpiC	NA	NA	HRPE	primary cells	human	missing	ScienCell	6540	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 364640c0-67de-4280-a6b6-8e02b7f9f3bd	BTO:0003275	HSaVEC_0022202.16	NA	NA	HSAVEC002220216	primary cells	human	missing	PromoCell	C-14025	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 5aaac7de-1087-4044-a9cf-9de15cd6632d	BTO:0003275	HSaVEC_9100101.15	NA	NA	HSAVEC910010115	primary cells	human	missing	PromoCell	C-14025	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-1b854140-d271-4bd0-aa0a-a8bb0dcc23af	BTO:0000256	HSMM	NA	NA	HSMM	primary cells	human	missing	Refer to the protocol documents for differing sources	CC-2580	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1b854140-d271-4bd0-aa0a-a8bb0dcc23af	BTO:0000256	HSMM	NA	NA	HSMM	primary cells	human	missing	Lonza	CC-2580	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 a80c779e-66f5-4d4b-96ac-c97e75e9c427	BTO:0001760	HSMMtube	NA	NA	HSMMt	cell line	human	missing	Lonza	See HSMM	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 7b04ca81-ff1b-44bc-b74a-cbdbc3e8c412	BTO:0001760	HSMMtube_emb	NA	NA	HSMMTUBEEMB	cell line	human	missing	Duke/UNC/UT/EBI ENCODE group	fetal myoblast cell strain (H246 and H275) from Dr Stephen Hauschka- U. of Washington 1980	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 0d9497ef-79b1-4dd7-a213-0ea9a8e7b97d	BTO:0001760	HSMMtube_FSHD	NA	NA	HSMMTUBEFSHD	cell line	human	missing	Duke/UNC/UT/EBI ENCODE group	HSMMtube_FSHD	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
