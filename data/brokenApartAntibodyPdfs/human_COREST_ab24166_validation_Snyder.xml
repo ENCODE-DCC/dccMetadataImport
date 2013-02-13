@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="188" height="12" font="1">NOT AVAILABLE- ANTIBODY DISCONTINUED; </text>
+<text top="613" left="238" width="174" height="12" font="1">see attached pdf for antibody information</text>
+<text top="77" left="138" width="27" height="12" font="1">1/4/12</text>
+<text top="340" left="95" width="382" height="12" font="1">Synthetic peptide conjugated to KLH derived from within residues 400 to the C-terminus of  </text>
+<text top="352" left="95" width="75" height="12" font="1">Human CoREST.    </text>
+<text top="364" left="95" width="432" height="12" font="1">Note: This antibody has since been discontinued.  Full product information is attached at the end of this </text>
+<text top="376" left="95" width="48" height="12" font="1">document. </text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="140" height="12" font="1">CoREST (H-65) Antibody: ab24166</text>
+<text top="214" left="339" width="128" height="12" font="1">COREST (EntrezGene ID 23186)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="29" height="12" font="1">Abcam</text>
+<text top="484" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="33" height="12" font="1">834865 </text>
+<text top="300" left="215" width="36" height="12" font="1">ab24166</text>
+<text top="520" left="395" width="19" height="12" font="2">ChIP</text>
+<text top="561" left="141" width="30" height="12" font="2">Affinity</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="398" height="12" font="1">Essential component of the BHC complex, a corepressor complex that represses transcription of </text>
+<text top="424" left="95" width="67" height="12" font="1">neuron-specific </text>
+<text top="436" left="95" width="401" height="12" font="1">genes in non-neuronal cells. The BHC complex is recruited at RE1/NRSE sites by REST and acts by </text>
+<text top="448" left="95" width="77" height="12" font="1">deacetylating and </text>
+<text top="460" left="95" width="430" height="12" font="1">demethylating specific sites on histones, thereby acting as a chromatin modifier. In the BHC complex, it </text>
+<text top="472" left="95" width="46" height="12" font="1">serves as a </text>
+<text top="484" left="95" width="451" height="12" font="1">molecular beacon for the recruitment of molecular machinery, including MeCP2 and SUV39H1, that imposes </text>
+<text top="496" left="95" width="39" height="12" font="1">silencing </text>
+<text top="508" left="95" width="435" height="12" font="1">across a chromosomal interval. Plays a central role in demethylation of Lys-4 of histone H3 by promoting </text>
+<text top="521" left="95" width="56" height="12" font="1">demethylase </text>
+<text top="533" left="95" width="402" height="12" font="1">activity of KDM1A on core histones and nucleosomal substrates. It also protects KDM1A from the </text>
+<text top="545" left="95" width="50" height="12" font="1">proteasome</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="411" height="12" font="1">COMMENT:  We observe a single band in Western blots on cell lines K562, HeLa S3, and HepG2 that </text>
+<text top="55" left="125" width="403" height="12" font="1">migrates slightly slower than the predicted size (~53kD) would suggest. This has been previously </text>
+<text top="67" left="125" width="422" height="12" font="1">observed (see product literature for this and other commercial antibodies, as well as the Western blot </text>
+<text top="79" left="125" width="431" height="12" font="1">assays in our characterization document for ab24166 against COREST).  This band, but not the observed </text>
+<text top="91" left="125" width="421" height="12" font="1">weaker bands, is specifically immunoprecipitated by sc-30189. Based on this, sc-30189 is validated by </text>
+<text top="103" left="125" width="57" height="12" font="1">this criterion. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="8" family="Times" color="#000000"/>
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#ffffff"/>
+	<fontspec id="6" size="22" family="Times" color="#000000"/>
+<text top="297" left="369" width="55" height="11" font="3"><b>1  2  3  4 </b></text>
+<text top="337" left="71" width="608" height="13" font="4">Western blot using antibody ab24166 on nuclear lysates from cell lines GM12878 (Lane1), K562 (Lane2), HeLaS3 </text>
+<text top="351" left="71" width="157" height="13" font="4">(Lane3), and HepG2 (Lane4).</text>
+<text top="353" left="229" width="3" height="11" font="1"> </text>
+<text top="297" left="336" width="29" height="11" font="3"><b>Lane: </b></text>
+<text top="195" left="343" width="19" height="11" font="1">100 </text>
+<text top="207" left="343" width="14" height="11" font="1">75 </text>
+<text top="225" left="343" width="14" height="11" font="1">50 </text>
+<text top="238" left="343" width="14" height="11" font="1">38 </text>
+<text top="253" left="343" width="14" height="11" font="1">25 </text>
+<text top="262" left="343" width="14" height="11" font="1">20 </text>
+<text top="181" left="343" width="19" height="11" font="1">150 </text>
+<text top="167" left="336" width="39" height="11" font="1">MW (kD)</text>
+<text top="160" left="376" width="10" height="20" font="5">b</text>
+<text top="167" left="386" width="3" height="11" font="1"> </text>
+<text top="68" left="230" width="323" height="27" font="6">Antibody ab24166 (COREST) </text>
+<text top="96" left="328" width="125" height="27" font="6">Immunoblot</text>
+<text top="107" left="450" width="3" height="13" font="4"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="393" height="12" font="1">Comment: Because the overlap of the top 40% of peaks from datasets derived from antibodies </text>
+<text top="55" left="130" width="369" height="12" font="1">sc30189 and ab24166 (compared using standard ENCODE scoring methods) exceeds the </text>
+<text top="67" left="130" width="345" height="12" font="1">recommended threshold of 80%, both antibodies meet this criterion for validation. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="10" family="Times" color="#00a8a9"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+	<fontspec id="10" size="14" family="Times" color="#e62400"/>
+	<fontspec id="11" size="18" family="Times" color="#000000"/>
+<text top="306" left="77" width="3" height="13" font="4"> </text>
+<text top="320" left="77" width="69" height="13" font="7"><b>Antibodies:</b> </text>
+<text top="334" left="77" width="475" height="13" font="7"><b>sc30189:</b> epitope corresponding to amino acids 246-310 within CoREST of human origin </text>
+<text top="349" left="77" width="651" height="13" font="7"><b>ab24166:</b> immunogen is synthetic peptide conjugated to KLH derived from resides 400 to C-terminus of human COREST.  </text>
+<text top="363" left="77" width="3" height="13" font="4"> </text>
+<text top="378" left="77" width="638" height="13" font="7"><b>Comparison</b>: K562 cells were used for ChIP-seq with antibody sc-30189 or antibody ab24166.  Peaks were called from </text>
+<text top="392" left="91" width="628" height="13" font="4">replicate experiments using PeakSeq with a .01 q-value cut-off.  Comparisons between experiments were made using </text>
+<text top="406" left="91" width="423" height="13" font="4">these peaks according to standard ENCODE replicate comparison parameters (</text>
+<text top="421" left="91" width="548" height="13" font="8">http://genome.ucsc.edu/ENCODE/protocols/dataStandards/ChIP_DNase_FAIRE_DNAme_v2_2011.pdf</text>
+<text top="421" left="639" width="87" height="13" font="4">; reported is the </text>
+<text top="435" left="91" width="604" height="13" font="4">fraction of the  top 40% of peaks in one list that are found in the full list of peaks obtained with the other antibody.  </text>
+<text top="191" left="371" width="62" height="16" font="9">COREST </text>
+<text top="208" left="374" width="53" height="16" font="9">sc30189</text>
+<text top="191" left="446" width="62" height="16" font="9">COREST </text>
+<text top="208" left="448" width="54" height="16" font="9">ab24166</text>
+<text top="229" left="311" width="35" height="16" font="9">Total </text>
+<text top="246" left="307" width="37" height="16" font="9">peaks</text>
+<text top="238" left="378" width="46" height="16" font="9">111692</text>
+<text top="238" left="455" width="39" height="16" font="9">30269</text>
+<text top="264" left="302" width="52" height="16" font="9">% Peak </text>
+<text top="281" left="303" width="50" height="16" font="9">overlap </text>
+<text top="271" left="385" width="31" height="18" font="10"><b>87.6</b></text>
+<text top="271" left="459" width="31" height="18" font="10"><b>93.2</b></text>
+<text top="111" left="88" width="621" height="22" font="11"><b>Validation 2: ChIPseq with alternate antibodies to the same factor</b></text>
+<text top="108" left="702" width="7" height="27" font="6"> </text>
+<text top="136" left="48" width="7" height="27" font="6"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="12" size="9" family="Times" color="#000000"/>
+	<fontspec id="13" size="12" family="Times" color="#000000"/>
+	<fontspec id="14" size="6" family="Times" color="#000000"/>
+	<fontspec id="15" size="9" family="Times" color="#003299"/>
+	<fontspec id="16" size="6" family="Times" color="#000000"/>
+<text top="60" left="58" width="7" height="12" font="12">  </text>
+<text top="76" left="60" width="389" height="14" font="13"><b>Rabbit polyclonal to CoREST - ChIP Grade · (ab24166) </b></text>
+<text top="102" left="58" width="111" height="8" font="14">Printed on 30 December 2011  </text>
+<text top="120" left="58" width="2" height="9" font="14"> </text>
+<text top="143" left="59" width="198" height="12" font="15"><b>Product Constituents and Storage </b></text>
+<text top="169" left="60" width="62" height="9" font="16"><b>Storage buffer</b></text>
+<text top="169" left="175" width="141" height="9" font="14">Preservative: 0.02% Sodium Azide </text>
+<text top="179" left="175" width="146" height="9" font="14">Constituents: 1% BSA, PBS, pH 7.4 </text>
+<text top="203" left="175" width="362" height="9" font="14">This product may contain a hazardous substance. For a material safety datasheet (MSDS) </text>
+<text top="213" left="175" width="353" height="9" font="14">please see our website for a downloadable PDF. Please let us know if you are unable to </text>
+<text top="223" left="175" width="380" height="9" font="14">access the Internet and we will either send you a hard copy MSDS or fax the relevant MSDS to </text>
+<text top="234" left="175" width="82" height="9" font="14">you at your request. </text>
+<text top="247" left="60" width="23" height="9" font="16"><b>Form</b></text>
+<text top="247" left="175" width="26" height="9" font="14">Liquid </text>
+<text top="260" left="60" width="61" height="9" font="16"><b>Concentration</b></text>
+<text top="260" left="175" width="47" height="9" font="14">0.50 mg/ml </text>
+<text top="273" left="60" width="88" height="9" font="16"><b>Storage instructions</b></text>
+<text top="273" left="175" width="359" height="9" font="14">Store at +4°C short term (1-2 weeks). Aliquot and store at -20°C or -80°C. Avoid repeated </text>
+<text top="283" left="175" width="84" height="9" font="14">freeze / thaw cycles. </text>
+<text top="307" left="59" width="118" height="12" font="15"><b>Product Description </b></text>
+<text top="333" left="60" width="51" height="9" font="16"><b>Immunogen</b></text>
+<text top="333" left="175" width="362" height="9" font="14">Synthetic peptide conjugated to KLH derived from within residues 400 to the C-terminus of </text>
+<text top="343" left="175" width="72" height="9" font="14">Human CoREST. </text>
+<text top="353" left="175" width="2" height="9" font="14"> </text>
+<text top="363" left="175" width="2" height="9" font="14"> </text>
+<text top="373" left="175" width="129" height="9" font="14">(Peptide available as ab25740.) </text>
+<text top="386" left="60" width="79" height="9" font="16"><b>Species Reactivity</b></text>
+<text top="386" left="175" width="83" height="9" font="14">Reacts with Human. </text>
+<text top="397" left="175" width="360" height="9" font="14">Predicted to react with Mouse (88% identity with immunogen) due to sequence homology. </text>
+<text top="409" left="60" width="27" height="9" font="16"><b>Target</b></text>
+<text top="409" left="175" width="76" height="9" font="14">Information below. </text>
+<text top="423" left="60" width="38" height="9" font="16"><b>Function</b></text>
+<text top="423" left="175" width="376" height="9" font="14">Essential component of the BHC complex, a corepressor complex that represses transcription </text>
+<text top="433" left="175" width="368" height="9" font="14">of neuron-specific genes in non-neuronal cells. The BHC complex is recruited at RE1/NRSE </text>
+<text top="443" left="175" width="377" height="9" font="14">sites by REST and acts by deacetylating and demethylating specific sites on histones, thereby </text>
+<text top="453" left="175" width="367" height="9" font="14">acting as a chromatin modifier. In the BHC complex, it serves as a molecular beacon for the </text>
+<text top="463" left="175" width="370" height="9" font="14">recruitment of molecular machinery, including MeCP2 and SUV39H1, that imposes silencing </text>
+<text top="473" left="175" width="376" height="9" font="14">across a chromosomal interval. Plays a central role in demethylation of Lys-4 of histone H3 by </text>
+<text top="483" left="175" width="382" height="9" font="14">promoting demethylase activity of KDM1A on core histones and nucleosomal substrates. It also </text>
+<text top="493" left="175" width="156" height="9" font="14">protects KDM1A from the proteasome. </text>
+<text top="506" left="60" width="75" height="9" font="16"><b>Tissue specificity</b></text>
+<text top="506" left="175" width="98" height="9" font="14">Ubiquitously expressed. </text>
+<text top="519" left="60" width="92" height="9" font="16"><b>Sequence similarities</b></text>
+<text top="519" left="175" width="127" height="9" font="14">Belongs to the CoREST family. </text>
+<text top="529" left="175" width="106" height="9" font="14">Contains 1 ELM2 domain. </text>
+<text top="539" left="175" width="111" height="9" font="14">Contains 2 SANT domains. </text>
+<text top="552" left="60" width="33" height="9" font="16"><b>UniProt</b></text>
+<text top="552" left="175" width="238" height="9" font="14">Target information above from: UniProt accession Q9UKL0 </text>
+<text top="565" left="60" width="38" height="9" font="16"><b>Clonality</b></text>
+<text top="565" left="175" width="44" height="9" font="14">Polyclonal </text>
+<text top="578" left="60" width="32" height="9" font="16"><b>Isotype</b></text>
+<text top="578" left="175" width="17" height="9" font="14">IgG </text>
+<text top="591" left="60" width="26" height="9" font="16"><b>Purity</b></text>
+<text top="591" left="175" width="111" height="9" font="14">Immunogen affinity purified </text>
+<text top="615" left="59" width="74" height="12" font="15"><b>Product Use </b></text>
+<text top="642" left="60" width="76" height="9" font="16"><b>Application notes</b></text>
+<text top="642" left="175" width="104" height="9" font="16"><b>Recommended dilutions</b></text>
+<text top="642" left="280" width="2" height="9" font="14"> </text>
+<text top="652" left="175" width="356" height="9" font="14">IHC-P: Use at a concentration of 1 µg/ml. Perform heat mediated antigen retrieval before </text>
+<text top="662" left="175" width="161" height="9" font="14">commencing with IHC staining protocol. </text>
+<text top="672" left="175" width="165" height="9" font="14">ChIP: Use at a concentration of 3 µg/ml.  </text>
+<text top="682" left="175" width="171" height="9" font="14">ICC/IF: Use at a concentration of 5 µg/ml.  </text>
+<text top="692" left="175" width="362" height="9" font="14">WB: Use at a concentration of 1 µg/ml. Detects a band of approximately 76 kDa (predicted </text>
+<text top="702" left="175" width="311" height="9" font="14">molecular weight: 70 kDa). Can be blocked with CoREST peptide (ab25740).  </text>
+<text top="712" left="175" width="2" height="9" font="14"> </text>
+<text top="722" left="175" width="2" height="9" font="14"> </text>
+<text top="2" left="504" width="54" height="11" font="12">Page 1 of 5</text>
+<text top="781" left="503" width="55" height="11" font="12">12/30/2011</text>
+<text top="781" left="54" width="259" height="11" font="12">http://it.adminsite.com/admin/orders/print_popup.cfm</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="17" size="5" family="Times" color="#000000"/>
+<text top="61" left="175" width="143" height="9" font="14">Not yet tested in other applications. </text>
+<text top="72" left="175" width="2" height="9" font="14"> </text>
+<text top="82" left="175" width="316" height="9" font="14">Optimal dilutions/concentrations for use should be determined by the end user. </text>
+<text top="95" left="60" width="69" height="9" font="16"><b>Positive Control</b></text>
+<text top="95" left="175" width="263" height="9" font="14">Jurkat (Human T cell lymphoblast-like cell line) Whole Cell Lysate </text>
+<text top="108" left="60" width="31" height="9" font="16"><b>Images</b></text>
+<text top="108" left="175" width="192" height="9" font="14">See www.abcam.com/ab24166 for more detail.  </text>
+<text top="356" left="475" width="5" height="9" font="14">  </text>
+<text top="373" left="175" width="31" height="9" font="16"><b>ICC/IF  </b></text>
+<text top="397" left="175" width="375" height="9" font="14">ICC/IF image of ab24166 stained human HeLa cells. The cells were PFA fixed (3.7% PFA, 10 </text>
+<text top="407" left="175" width="355" height="9" font="14">min) and incubated with the antibody (ab24166, 5µg/ml) for 1h at room temperature. The </text>
+<text top="417" left="175" width="377" height="9" font="14">secondary antibody (green) was Alexa Fluor® 488 goat anti-rabbit IgG (H+L) used at a 1/1000 </text>
+<text top="430" left="175" width="95" height="9" font="14">dilution for 1h. Image-iT</text>
+<text top="427" left="270" width="11" height="7" font="17">TM</text>
+<text top="430" left="281" width="264" height="9" font="14"> FX Signal Enhancer was used as the primary blocking agent, 5% </text>
+<text top="439" left="175" width="367" height="9" font="14">BSA (in TBS-T) was used for all other blocking steps. DAPI was used to stain the cell nuclei </text>
+<text top="450" left="175" width="304" height="9" font="14">(blue). Alexa Fluor® 594 WGA was used to label plasma membranes (red).  </text>
+<text top="583" left="310" width="5" height="9" font="14">  </text>
+<text top="600" left="175" width="26" height="9" font="16"><b>ChIP  </b></text>
+<text top="618" left="175" width="362" height="9" font="14">PCR was performed on a SCNA1 promoter following CoRest chromatin immunoprecipition </text>
+<text top="628" left="175" width="244" height="9" font="14">using ab24166 at a concentration of 3ug/ml from 293T cells.  </text>
+<text top="638" left="175" width="73" height="9" font="14">Lane 1 - ab24166 </text>
+<text top="648" left="175" width="112" height="9" font="14">Lane 2 - Beads only control </text>
+<text top="658" left="175" width="101" height="9" font="14">Lane 3 - IgG only control </text>
+<text top="668" left="175" width="61" height="9" font="14">Lane 4 - Input  </text>
+<text top="2" left="504" width="54" height="11" font="12">Page 2 of 5</text>
+<text top="781" left="503" width="55" height="11" font="12">12/30/2011</text>
+<text top="781" left="54" width="259" height="11" font="12">http://it.adminsite.com/admin/orders/print_popup.cfm</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="792" width="612">
+<text top="293" left="283" width="5" height="9" font="14">  </text>
+<text top="311" left="175" width="20" height="9" font="16"><b>WB  </b></text>
+<text top="328" left="175" width="45" height="9" font="16"><b>All lanes : </b></text>
+<text top="328" left="221" width="234" height="9" font="14">Anti-CoREST antibody - ChIP Grade (ab24166) at 1 µg/ml </text>
+<text top="338" left="175" width="2" height="9" font="14"> </text>
+<text top="349" left="175" width="37" height="9" font="16"><b>Lane 1 : </b></text>
+<text top="349" left="212" width="254" height="9" font="14">HeLa (Human epithelial carcinoma cell line) Whole Cell Lysate  </text>
+<text top="359" left="175" width="37" height="9" font="16"><b>Lane 2 : </b></text>
+<text top="359" left="212" width="266" height="9" font="14">Jurkat (Human T cell lymphoblast-like cell line) Whole Cell Lysate  </text>
+<text top="369" left="175" width="2" height="9" font="14"> </text>
+<text top="379" left="175" width="141" height="9" font="14">Lysates/proteins at 10 µg per lane. </text>
+<text top="389" left="175" width="2" height="9" font="14"> </text>
+<text top="399" left="175" width="46" height="9" font="16"><b>Secondary</b></text>
+<text top="399" left="222" width="2" height="9" font="14"> </text>
+<text top="409" left="175" width="281" height="9" font="14">IRDye 680 Conjugated Goat Anti-Rabbit IgG (H+L) at 1/10000 dilution </text>
+<text top="419" left="175" width="2" height="9" font="14"> </text>
+<text top="429" left="175" width="153" height="9" font="14">Performed under reducing conditions. </text>
+<text top="439" left="175" width="2" height="9" font="14"> </text>
+<text top="449" left="175" width="90" height="9" font="16"><b>Predicted band size :</b></text>
+<text top="449" left="266" width="33" height="9" font="14"> 70 kDa </text>
+<text top="459" left="175" width="91" height="9" font="16"><b>Observed band size :</b></text>
+<text top="459" left="266" width="265" height="9" font="14"> 76 kDa (why is the actual band size different from the predicted?) </text>
+<text top="469" left="175" width="89" height="9" font="16"><b>Additional bands at :</b></text>
+<text top="469" left="264" width="252" height="9" font="14"> 66 kDa. We are unsure as to the identity of these extra bands. </text>
+<text top="479" left="175" width="2" height="9" font="14"> </text>
+<text top="489" left="175" width="311" height="9" font="14">The observed band at 76 kDa is similar to the migration pattern seen by other </text>
+<text top="499" left="175" width="375" height="9" font="14">commercially available antibodies to this target.   Publications also support this data (María E. </text>
+<text top="509" left="175" width="156" height="9" font="14">Andrés et al, 1999, PMID 10449787).   </text>
+<text top="2" left="504" width="54" height="11" font="12">Page 3 of 5</text>
+<text top="781" left="503" width="55" height="11" font="12">12/30/2011</text>
+<text top="781" left="54" width="259" height="11" font="12">http://it.adminsite.com/admin/orders/print_popup.cfm</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="18" size="4" family="Times" color="#000000"/>
+<text top="254" left="475" width="5" height="9" font="14">  </text>
+<text top="272" left="175" width="29" height="9" font="16"><b>IHC-P  </b></text>
+<text top="292" left="175" width="333" height="9" font="14">IHC image of CoREST staining in human tonsil FFPE section, performed on a Bond</text>
+<text top="289" left="509" width="11" height="7" font="17">TM</text>
+<text top="292" left="519" width="33" height="9" font="14"> system </text>
+<text top="302" left="175" width="351" height="9" font="14">using the standard protocol F. The section was pre-treated using heat mediated antigen </text>
+<text top="312" left="175" width="371" height="9" font="14">retrieval with sodium citrate buffer (pH6, epitope retrieval solution 1) for 20 mins. The section </text>
+<text top="322" left="175" width="380" height="9" font="14">was then incubated with ab24166, 1µg/ml, for 15 mins at room temperature and detected using </text>
+<text top="332" left="175" width="373" height="9" font="14">an HRP conjugated compact polymer system. DAB was used as the chromogen. The section </text>
+<text top="342" left="175" width="274" height="9" font="14">was then counterstained with haematoxylin and mounted with DPX.  </text>
+<text top="366" left="59" width="161" height="12" font="15"><b>Contact Us and Guarantees </b></text>
+<text top="392" left="60" width="93" height="9" font="16"><b>Abpromise guarantee</b></text>
+<text top="392" left="175" width="295" height="9" font="14">Our promise to you: Guaranteed product quality, expert customer support </text>
+<text top="402" left="175" width="2" height="9" font="14"> </text>
+<text top="412" left="175" width="50" height="9" font="14">As standard </text>
+<text top="436" left="205" width="316" height="9" font="14">Replacement or refund for products not performing as stated on the datasheet  </text>
+<text top="446" left="205" width="325" height="9" font="14">Valid for 6 months from date of delivery (see regional variations in our Terms and </text>
+<text top="457" left="205" width="49" height="9" font="14">conditions)  </text>
+<text top="467" left="205" width="168" height="9" font="14">Response to your inquiry within 24 hours  </text>
+<text top="491" left="175" width="44" height="9" font="14">In addition </text>
+<text top="515" left="205" width="330" height="9" font="14">We provide support in Chinese, English, French, German, Japanese and Spanish  </text>
+<text top="525" left="205" width="220" height="9" font="14">Extensive multi-media technical resources to help you  </text>
+<text top="535" left="205" width="323" height="9" font="14">We investigate all quality concerns to ensure our products perform to the highest </text>
+<text top="545" left="205" width="45" height="9" font="14">standards  </text>
+<text top="558" left="60" width="94" height="9" font="16"><b>Terms and conditions</b></text>
+<text top="558" left="205" width="339" height="9" font="14">Guarantee only valid for products bought direct from Abcam or one of our authorized </text>
+<text top="568" left="205" width="49" height="9" font="14">distributors  </text>
+<text top="578" left="205" width="326" height="9" font="14">Regional variations to our Abpromise may apply to the following countries: China, </text>
+<text top="588" left="205" width="75" height="9" font="14">Korea, Singapore  </text>
+<text top="598" left="205" width="337" height="9" font="14">Malaysia, Taiwan and Thailand, which operate a 120 day guarantee. Please contact </text>
+<text top="608" left="205" width="151" height="9" font="14">your regional office for further details  </text>
+<text top="618" left="205" width="348" height="9" font="14">Antibodies tested only in recombinant samples are not covered for use on endogenous </text>
+<text top="628" left="205" width="287" height="9" font="14">samples. Please check the datasheet for information on tested species  </text>
+<text top="638" left="205" width="335" height="9" font="14">&quot;Predicted to react&quot; information on datasheets is based on sequence homology and </text>
+<text top="648" left="205" width="112" height="9" font="14">provided for reference only  </text>
+<text top="658" left="205" width="314" height="9" font="14">&quot;Predicted to react&quot; species are not guaranteed, as they have not been tested  </text>
+<text top="669" left="205" width="353" height="9" font="14">Fast Track products are not covered under the Abpromise. Please see Fast Track terms </text>
+<text top="679" left="205" width="164" height="9" font="14">and conditions for additional information  </text>
+<text top="692" left="60" width="47" height="9" font="16"><b>Contact Us</b></text>
+<text top="695" left="178" width="70" height="9" font="16"><b>United Kingdom</b></text>
+<text top="695" left="247" width="2" height="9" font="14"> </text>
+<text top="705" left="178" width="101" height="9" font="14">Tel: +44 (0)1223 696000 </text>
+<text top="715" left="178" width="104" height="9" font="14">Fax: +44 (0)1223 771600 </text>
+<text top="725" left="178" width="84" height="9" font="14">orders@abcam.com </text>
+<text top="695" left="296" width="58" height="9" font="16"><b>United States</b></text>
+<text top="695" left="354" width="2" height="9" font="14"> </text>
+<text top="705" left="296" width="117" height="9" font="14">Tel: 888-77-ABCAM (22226) </text>
+<text top="715" left="296" width="79" height="9" font="14">Fax: 866-739-9884 </text>
+<text top="725" left="296" width="96" height="9" font="14">us.orders@abcam.com </text>
+<text top="2" left="504" width="54" height="11" font="12">Page 4 of 5</text>
+<text top="781" left="503" width="55" height="11" font="12">12/30/2011</text>
+<text top="781" left="54" width="259" height="11" font="12">http://it.adminsite.com/admin/orders/print_popup.cfm</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="792" width="612">
+<text top="149" left="175" width="203" height="9" font="14">For addresses go to <b>www.abcam.com/contactus</b> </text>
+<text top="159" left="175" width="2" height="9" font="14"> </text>
+<text top="64" left="178" width="94" height="9" font="14">technical@abcam.com </text>
+<text top="74" left="178" width="2" height="9" font="14"> </text>
+<text top="64" left="296" width="106" height="9" font="14">us.technical@abcam.com </text>
+<text top="74" left="296" width="2" height="9" font="14"> </text>
+<text top="87" left="178" width="26" height="9" font="16"><b>Japan</b></text>
+<text top="87" left="204" width="2" height="9" font="14"> </text>
+<text top="97" left="178" width="100" height="9" font="14">Tel: +81-(0)3-6231-0940 </text>
+<text top="107" left="178" width="103" height="9" font="14">Fax: +81-(0)3-6231-0941 </text>
+<text top="117" left="178" width="86" height="9" font="14">orders@abcam.co.jp </text>
+<text top="127" left="178" width="96" height="9" font="14">technical@abcam.co.jp </text>
+<text top="137" left="178" width="2" height="9" font="14"> </text>
+<text top="87" left="296" width="48" height="9" font="16"><b>Hong Kong</b></text>
+<text top="87" left="345" width="2" height="9" font="14"> </text>
+<text top="97" left="296" width="87" height="9" font="14">Tel: (852) 2603-6823 </text>
+<text top="107" left="296" width="89" height="9" font="14">Fax: (852) 3016-1888 </text>
+<text top="117" left="296" width="96" height="9" font="14">hk.orders@abcam.com </text>
+<text top="127" left="296" width="106" height="9" font="14">hk.technical@abcam.com </text>
+<text top="137" left="296" width="2" height="9" font="14"> </text>
+<text top="172" left="60" width="435" height="8" font="14">All products are &quot;FOR RESEARCH USE ONLY AND ARE NOT INTENDED FOR DIAGNOSTIC OR THERAPEUTIC USE&quot; </text>
+<text top="195" left="60" width="313" height="8" font="16"><b>After Sales Service (Full terms and conditions can be viewed on www.abcam.com)</b></text>
+<text top="195" left="373" width="4" height="8" font="14">  </text>
+<text top="218" left="60" width="116" height="8" font="16"><b>Product condition upon arrival</b></text>
+<text top="218" left="176" width="5" height="8" font="14">  </text>
+<text top="228" left="90" width="453" height="8" font="14">Shipping temperature - Our experiments show that the majority of antibodies are stable at room temperature for at least one </text>
+<text top="237" left="90" width="438" height="8" font="14">week, but as a precautionary measure we ship our antibodies in refrigerated recyclable packaging designed to keep our </text>
+<text top="246" left="90" width="455" height="8" font="14">products cool during transit. If the product arrives at ambient temperature, please do not worry, our experiments have shown </text>
+<text top="256" left="90" width="376" height="8" font="14">that activity will not be impaired. Some of our proteins are shipped on dry ice and should arrive frozen.  </text>
+<text top="266" left="90" width="463" height="8" font="14">Quantity - Liquid products should be centrifuged before use. Failure to do so may result in some product remaining in the cap.  </text>
+<text top="289" left="60" width="96" height="8" font="16"><b>Items ordered incorrectly</b></text>
+<text top="289" left="156" width="2" height="8" font="14"> </text>
+<text top="298" left="60" width="489" height="8" font="14">If items are ordered incorrectly by the customer, Abcam will consider taking them back. Requests for returns must have prior authorization </text>
+<text top="307" left="60" width="491" height="8" font="14">(contact returns@abcam.com) and must be made within 7 days of receipt of the items. Returns are subject to a restocking charge equal to </text>
+<text top="316" left="60" width="483" height="8" font="14">20% of the order value. Items must be returned in the same or equivalent packaging (i.e. cold and insulated) as originally despatched by </text>
+<text top="325" left="60" width="495" height="8" font="14">Abcam. If you have ordered incorrectly from one of our authorised distributors, please contact them for details of their returns policy. Please </text>
+<text top="334" left="60" width="445" height="8" font="14">note that Abcam does not permit the return of, or offer refunds for incorrectly ordered items in Asia Pacific distributor regions.  </text>
+<text top="2" left="504" width="54" height="11" font="12">Page 5 of 5</text>
+<text top="781" left="503" width="55" height="11" font="12">12/30/2011</text>
+<text top="781" left="54" width="259" height="11" font="12">http://it.adminsite.com/admin/orders/print_popup.cfm</text>
+</page>
+</pdf2xml>

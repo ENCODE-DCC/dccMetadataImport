@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="72" left="90" width="144" height="14" font="0"><b>Validation 2: JunD (sc­74) </b></text>
+<text top="96" left="90" width="399" height="14" font="1">IP‐Mass spec of the two bands identified in IP‐Western in Validation 1. Target </text>
+<text top="110" left="90" width="424" height="14" font="1">protein (JunD) was identified in both bands at FDR &lt;0.05 and is highlighted below. </text>
+<text top="124" left="90" width="223" height="14" font="1">All significant mass spec results are shown. </text>
+<text top="173" left="95" width="95" height="12" font="2">Identified Proteins </text>
+<text top="161" left="408" width="52" height="12" font="2">Accession </text>
+<text top="173" left="408" width="43" height="12" font="2">Number </text>
+<text top="161" left="498" width="51" height="12" font="2">Molecular </text>
+<text top="173" left="498" width="39" height="12" font="2">Weight </text>
+<text top="148" left="556" width="28" height="12" font="2">JunD </text>
+<text top="161" left="556" width="28" height="12" font="2">band </text>
+<text top="173" left="556" width="10" height="12" font="2">1 </text>
+<text top="195" left="95" width="286" height="12" font="2">Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 </text>
+<text top="207" left="95" width="32" height="12" font="2">SV=1 </text>
+<text top="195" left="408" width="74" height="12" font="2">ACTB_HUMAN </text>
+<text top="207" left="408" width="27" height="12" font="2">(+1) </text>
+<text top="207" left="498" width="39" height="12" font="2">42 kDa </text>
+<text top="207" left="574" width="16" height="12" font="2">13 </text>
+<text top="229" left="95" width="268" height="12" font="2">60 kDa heat shock protein, mitochondrial OS=Homo </text>
+<text top="241" left="95" width="165" height="12" font="2">sapiens GN=HSPD1 PE=1 SV=2 </text>
+<text top="241" left="408" width="75" height="12" font="2">CH60_HUMAN </text>
+<text top="241" left="498" width="39" height="12" font="2">61 kDa </text>
+<text top="241" left="580" width="10" height="12" font="2">9 </text>
+<text top="263" left="95" width="289" height="12" font="2">Phosphoglycerate kinase 1 OS=Homo sapiens GN=PGK1 </text>
+<text top="276" left="95" width="62" height="12" font="2">PE=1 SV=3 </text>
+<text top="276" left="408" width="75" height="12" font="2">PGK1_HUMAN </text>
+<text top="276" left="498" width="39" height="12" font="2">45 kDa </text>
+<text top="276" left="580" width="10" height="12" font="2">8 </text>
+<text top="298" left="95" width="283" height="12" font="2">Tubulin alpha-1B chain OS=Homo sapiens GN=TUBA1B </text>
+<text top="310" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="310" left="408" width="129" height="12" font="2">TBA1B_HUMAN  50 kDa </text>
+<text top="310" left="580" width="10" height="12" font="2">7 </text>
+<text top="332" left="95" width="302" height="12" font="2">Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 </text>
+<text top="344" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="344" left="408" width="129" height="12" font="2">EF1A1_HUMAN  50 kDa </text>
+<text top="344" left="580" width="10" height="12" font="2">7 </text>
+<text top="370" left="95" width="289" height="12" font="2">Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2 </text>
+<text top="370" left="408" width="76" height="12" font="2">ENOA_HUMAN </text>
+<text top="370" left="498" width="39" height="12" font="2">47 kDa </text>
+<text top="370" left="580" width="10" height="12" font="2">7 </text>
+<text top="392" left="95" width="277" height="12" font="2">Elongation factor Tu, mitochondrial OS=Homo sapiens </text>
+<text top="404" left="95" width="117" height="12" font="2">GN=TUFM PE=1 SV=2 </text>
+<text top="405" left="408" width="73" height="12" font="2">EFTU_HUMAN </text>
+<text top="405" left="498" width="39" height="12" font="2">50 kDa </text>
+<text top="405" left="580" width="10" height="12" font="2">7 </text>
+<text top="427" left="95" width="279" height="12" font="2">60S ribosomal protein L4 OS=Homo sapiens GN=RPL4 </text>
+<text top="439" left="95" width="62" height="12" font="2">PE=1 SV=5 </text>
+<text top="439" left="408" width="66" height="12" font="2">RL4_HUMAN </text>
+<text top="439" left="498" width="39" height="12" font="2">48 kDa </text>
+<text top="439" left="580" width="10" height="12" font="2">6 </text>
+<text top="461" left="95" width="261" height="12" font="2">Cytochrome b-c1 complex subunit 2, mitochondrial </text>
+<text top="473" left="95" width="229" height="12" font="2">OS=Homo sapiens GN=UQCRC2 PE=1 SV=3 </text>
+<text top="473" left="408" width="76" height="12" font="2">QCR2_HUMAN </text>
+<text top="473" left="498" width="39" height="12" font="2">48 kDa </text>
+<text top="473" left="580" width="10" height="12" font="2">6 </text>
+<text top="495" left="95" width="296" height="12" font="2">3-ketoacyl-CoA thiolase, mitochondrial OS=Homo sapiens </text>
+<text top="507" left="95" width="123" height="12" font="2">GN=ACAA2 PE=1 SV=2 </text>
+<text top="507" left="408" width="74" height="12" font="2">THIM_HUMAN </text>
+<text top="507" left="498" width="39" height="12" font="2">42 kDa </text>
+<text top="507" left="580" width="10" height="12" font="2">6 </text>
+<text top="530" left="95" width="281" height="12" font="2">Adenosylhomocysteinase OS=Homo sapiens GN=AHCY </text>
+<text top="542" left="95" width="62" height="12" font="2">PE=1 SV=4 </text>
+<text top="542" left="408" width="76" height="12" font="2">SAHH_HUMAN </text>
+<text top="542" left="498" width="39" height="12" font="2">48 kDa </text>
+<text top="542" left="580" width="10" height="12" font="2">6 </text>
+<text top="564" left="95" width="290" height="12" font="2">Isocitrate dehydrogenase [NADP] cytoplasmic OS=Homo </text>
+<text top="576" left="95" width="156" height="12" font="2">sapiens GN=IDH1 PE=1 SV=2 </text>
+<text top="576" left="408" width="74" height="12" font="2">IDHC_HUMAN </text>
+<text top="576" left="498" width="39" height="12" font="2">47 kDa </text>
+<text top="576" left="580" width="10" height="12" font="2">5 </text>
+<text top="598" left="95" width="255" height="12" font="2">UDP-glucose 6-dehydrogenase OS=Homo sapiens </text>
+<text top="610" left="95" width="119" height="12" font="2">GN=UGDH PE=1 SV=1 </text>
+<text top="610" left="408" width="78" height="12" font="2">UGDH_HUMAN </text>
+<text top="610" left="498" width="39" height="12" font="2">55 kDa </text>
+<text top="610" left="580" width="10" height="12" font="2">5 </text>
+<text top="632" left="95" width="262" height="12" font="2">Heat shock protein HSP 90-beta OS=Homo sapiens </text>
+<text top="645" left="95" width="142" height="12" font="2">GN=HSP90AB1 PE=1 SV=4 </text>
+<text top="645" left="408" width="129" height="12" font="2">HS90B_HUMAN  83 kDa </text>
+<text top="645" left="580" width="10" height="12" font="2">4 </text>
+<text top="667" left="95" width="278" height="12" font="2">Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 </text>
+<text top="679" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="679" left="408" width="74" height="12" font="2">TBB5_HUMAN </text>
+<text top="679" left="498" width="39" height="12" font="2">50 kDa </text>
+<text top="679" left="580" width="10" height="12" font="2">4 </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="95" width="269" height="12" font="2">ATP synthase subunit beta, mitochondrial OS=Homo </text>
+<text top="84" left="95" width="163" height="12" font="2">sapiens GN=ATP5B PE=1 SV=3 </text>
+<text top="84" left="408" width="73" height="12" font="2">ATPB_HUMAN </text>
+<text top="84" left="498" width="39" height="12" font="2">57 kDa </text>
+<text top="84" left="580" width="10" height="12" font="2">4 </text>
+<text top="106" left="95" width="284" height="12" font="2">Short/branched chain specific acyl-CoA dehydrogenase, </text>
+<text top="119" left="95" width="300" height="12" font="2">mitochondrial OS=Homo sapiens GN=ACADSB PE=1 SV=1 </text>
+<text top="119" left="408" width="129" height="12" font="2">ACDSB_HUMAN  47 kDa </text>
+<text top="119" left="580" width="10" height="12" font="2">4 </text>
+<text top="141" left="95" width="274" height="12" font="2">ATP synthase subunit alpha, mitochondrial OS=Homo </text>
+<text top="153" left="95" width="169" height="12" font="2">sapiens GN=ATP5A1 PE=1 SV=1 </text>
+<text top="153" left="408" width="73" height="12" font="2">ATPA_HUMAN </text>
+<text top="153" left="498" width="39" height="12" font="2">60 kDa </text>
+<text top="153" left="580" width="10" height="12" font="2">3 </text>
+<text top="175" left="95" width="284" height="12" font="2">Transcription factor jun-D OS=Homo sapiens GN=JUND </text>
+<text top="187" left="95" width="62" height="12" font="2">PE=1 SV=3 </text>
+<text top="187" left="408" width="74" height="12" font="2">JUND_HUMAN </text>
+<text top="187" left="498" width="39" height="12" font="2">35 kDa </text>
+<text top="187" left="580" width="10" height="12" font="2">3 </text>
+<text top="213" left="95" width="300" height="12" font="2">Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1 </text>
+<text top="213" left="408" width="73" height="12" font="2">ENPL_HUMAN </text>
+<text top="213" left="498" width="39" height="12" font="2">92 kDa </text>
+<text top="213" left="580" width="10" height="12" font="2">2 </text>
+<text top="235" left="95" width="303" height="12" font="2">Isocitrate dehydrogenase [NADP], mitochondrial OS=Homo </text>
+<text top="247" left="95" width="156" height="12" font="2">sapiens GN=IDH2 PE=1 SV=2 </text>
+<text top="247" left="408" width="73" height="12" font="2">IDHP_HUMAN </text>
+<text top="247" left="498" width="39" height="12" font="2">51 kDa </text>
+<text top="247" left="580" width="10" height="12" font="2">2 </text>
+<text top="270" left="95" width="271" height="12" font="2">Non-POU domain-containing octamer-binding protein </text>
+<text top="282" left="95" width="217" height="12" font="2">OS=Homo sapiens GN=NONO PE=1 SV=4 </text>
+<text top="282" left="408" width="129" height="12" font="2">NONO_HUMAN  54 kDa </text>
+<text top="282" left="580" width="10" height="12" font="2">2 </text>
+<text top="304" left="95" width="289" height="12" font="2">Interleukin enhancer-binding factor 2 OS=Homo sapiens </text>
+<text top="316" left="95" width="111" height="12" font="2">GN=ILF2 PE=1 SV=2 </text>
+<text top="316" left="408" width="69" height="12" font="2">ILF2_HUMAN </text>
+<text top="316" left="498" width="39" height="12" font="2">43 kDa </text>
+<text top="316" left="580" width="10" height="12" font="2">2 </text>
+<text top="338" left="95" width="4" height="12" font="2"> </text>
+<text top="338" left="408" width="4" height="12" font="2"> </text>
+<text top="338" left="498" width="4" height="12" font="2"> </text>
+<text top="338" left="556" width="4" height="12" font="2"> </text>
+<text top="385" left="95" width="95" height="12" font="2">Identified Proteins </text>
+<text top="373" left="408" width="52" height="12" font="2">Accession </text>
+<text top="385" left="408" width="43" height="12" font="2">Number </text>
+<text top="373" left="498" width="51" height="12" font="2">Molecular </text>
+<text top="385" left="498" width="39" height="12" font="2">Weight </text>
+<text top="360" left="556" width="28" height="12" font="2">JunD </text>
+<text top="373" left="556" width="28" height="12" font="2">band </text>
+<text top="385" left="556" width="10" height="12" font="2">2 </text>
+<text top="407" left="95" width="265" height="12" font="2">L-lactate dehydrogenase A chain OS=Homo sapiens </text>
+<text top="419" left="95" width="117" height="12" font="2">GN=LDHA PE=1 SV=2 </text>
+<text top="419" left="408" width="75" height="12" font="2">LDHA_HUMAN </text>
+<text top="419" left="498" width="39" height="12" font="2">37 kDa </text>
+<text top="419" left="574" width="16" height="12" font="2">13 </text>
+<text top="441" left="95" width="266" height="12" font="2">Aldo-keto reductase family 1 member C1 OS=Homo </text>
+<text top="453" left="95" width="171" height="12" font="2">sapiens GN=AKR1C1 PE=1 SV=1 </text>
+<text top="453" left="408" width="129" height="12" font="2">AK1C1_HUMAN  37 kDa </text>
+<text top="453" left="574" width="16" height="12" font="2">10 </text>
+<text top="475" left="95" width="284" height="12" font="2">Glyceraldehyde-3-phosphate dehydrogenase OS=Homo </text>
+<text top="488" left="95" width="166" height="12" font="2">sapiens GN=GAPDH PE=1 SV=3 </text>
+<text top="488" left="408" width="68" height="12" font="2">G3P_HUMAN </text>
+<text top="488" left="498" width="39" height="12" font="2">36 kDa </text>
+<text top="488" left="580" width="10" height="12" font="2">7 </text>
+<text top="510" left="95" width="283" height="12" font="2">Tubulin alpha-1B chain OS=Homo sapiens GN=TUBA1B </text>
+<text top="522" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="522" left="408" width="129" height="12" font="2">TBA1B_HUMAN  50 kDa </text>
+<text top="522" left="580" width="10" height="12" font="2">6 </text>
+<text top="544" left="95" width="286" height="12" font="2">Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 </text>
+<text top="556" left="95" width="32" height="12" font="2">SV=1 </text>
+<text top="544" left="408" width="74" height="12" font="2">ACTB_HUMAN </text>
+<text top="556" left="408" width="27" height="12" font="2">(+1) </text>
+<text top="556" left="498" width="39" height="12" font="2">42 kDa </text>
+<text top="556" left="580" width="10" height="12" font="2">5 </text>
+<text top="582" left="95" width="289" height="12" font="2">Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2 </text>
+<text top="582" left="408" width="76" height="12" font="2">ENOA_HUMAN </text>
+<text top="582" left="498" width="39" height="12" font="2">47 kDa </text>
+<text top="582" left="580" width="10" height="12" font="2">5 </text>
+<text top="604" left="95" width="278" height="12" font="2">Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 </text>
+<text top="617" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="617" left="408" width="74" height="12" font="2">TBB5_HUMAN </text>
+<text top="617" left="498" width="39" height="12" font="2">50 kDa </text>
+<text top="617" left="580" width="10" height="12" font="2">5 </text>
+<text top="639" left="95" width="269" height="12" font="2">Fructose-bisphosphate aldolase A OS=Homo sapiens </text>
+<text top="651" left="95" width="124" height="12" font="2">GN=ALDOA PE=1 SV=2 </text>
+<text top="651" left="408" width="129" height="12" font="2">ALDOA_HUMAN  39 kDa </text>
+<text top="651" left="580" width="10" height="12" font="2">5 </text>
+<text top="673" left="95" width="259" height="12" font="2">60S acidic ribosomal protein P0 OS=Homo sapiens </text>
+<text top="685" left="95" width="120" height="12" font="2">GN=RPLP0 PE=1 SV=1 </text>
+<text top="685" left="408" width="73" height="12" font="2">RLA0_HUMAN </text>
+<text top="685" left="498" width="39" height="12" font="2">34 kDa </text>
+<text top="685" left="580" width="10" height="12" font="2">5 </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="95" width="279" height="12" font="2">60S ribosomal protein L4 OS=Homo sapiens GN=RPL4 </text>
+<text top="84" left="95" width="62" height="12" font="2">PE=1 SV=5 </text>
+<text top="84" left="408" width="66" height="12" font="2">RL4_HUMAN </text>
+<text top="84" left="498" width="39" height="12" font="2">48 kDa </text>
+<text top="84" left="580" width="10" height="12" font="2">4 </text>
+<text top="106" left="95" width="274" height="12" font="2">ATP synthase subunit alpha, mitochondrial OS=Homo </text>
+<text top="119" left="95" width="169" height="12" font="2">sapiens GN=ATP5A1 PE=1 SV=1 </text>
+<text top="119" left="408" width="73" height="12" font="2">ATPA_HUMAN </text>
+<text top="119" left="498" width="39" height="12" font="2">60 kDa </text>
+<text top="119" left="580" width="10" height="12" font="2">4 </text>
+<text top="141" left="95" width="263" height="12" font="2">Proliferating cell nuclear antigen OS=Homo sapiens </text>
+<text top="153" left="95" width="116" height="12" font="2">GN=PCNA PE=1 SV=1 </text>
+<text top="153" left="408" width="75" height="12" font="2">PCNA_HUMAN </text>
+<text top="153" left="498" width="39" height="12" font="2">29 kDa </text>
+<text top="153" left="580" width="10" height="12" font="2">4 </text>
+<text top="175" left="95" width="262" height="12" font="2">Heat shock protein HSP 90-beta OS=Homo sapiens </text>
+<text top="187" left="95" width="142" height="12" font="2">GN=HSP90AB1 PE=1 SV=4 </text>
+<text top="187" left="408" width="129" height="12" font="2">HS90B_HUMAN  83 kDa </text>
+<text top="187" left="580" width="10" height="12" font="2">3 </text>
+<text top="209" left="95" width="284" height="12" font="2">Transcription factor jun-D OS=Homo sapiens GN=JUND </text>
+<text top="221" left="95" width="62" height="12" font="2">PE=1 SV=3 </text>
+<text top="221" left="408" width="74" height="12" font="2">JUND_HUMAN </text>
+<text top="221" left="498" width="39" height="12" font="2">35 kDa </text>
+<text top="221" left="580" width="10" height="12" font="2">3 </text>
+<text top="244" left="95" width="268" height="12" font="2">Pyruvate kinase isozymes M1/M2 OS=Homo sapiens </text>
+<text top="256" left="95" width="117" height="12" font="2">GN=PKM2 PE=1 SV=4 </text>
+<text top="256" left="408" width="75" height="12" font="2">KPYM_HUMAN </text>
+<text top="256" left="498" width="39" height="12" font="2">58 kDa </text>
+<text top="256" left="580" width="10" height="12" font="2">3 </text>
+<text top="278" left="95" width="266" height="12" font="2">Aldo-keto reductase family 1 member C3 OS=Homo </text>
+<text top="290" left="95" width="171" height="12" font="2">sapiens GN=AKR1C3 PE=1 SV=3 </text>
+<text top="290" left="408" width="129" height="12" font="2">AK1C3_HUMAN  37 kDa </text>
+<text top="290" left="580" width="10" height="12" font="2">3 </text>
+<text top="312" left="95" width="295" height="12" font="2">rRNA 2'-O-methyltransferase fibrillarin OS=Homo sapiens </text>
+<text top="324" left="95" width="107" height="12" font="2">GN=FBL PE=1 SV=2 </text>
+<text top="324" left="408" width="73" height="12" font="2">FBRL_HUMAN </text>
+<text top="324" left="498" width="39" height="12" font="2">34 kDa </text>
+<text top="324" left="580" width="10" height="12" font="2">3 </text>
+<text top="347" left="95" width="277" height="12" font="2">Glutamate dehydrogenase 1, mitochondrial OS=Homo </text>
+<text top="359" left="95" width="165" height="12" font="2">sapiens GN=GLUD1 PE=1 SV=2 </text>
+<text top="359" left="408" width="75" height="12" font="2">DHE3_HUMAN </text>
+<text top="359" left="498" width="39" height="12" font="2">61 kDa </text>
+<text top="359" left="580" width="10" height="12" font="2">2 </text>
+<text top="381" left="95" width="278" height="12" font="2">Tubulin beta-2C chain OS=Homo sapiens GN=TUBB2C </text>
+<text top="393" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="393" left="408" width="129" height="12" font="2">TBB2C_HUMAN  50 kDa </text>
+<text top="393" left="580" width="10" height="12" font="2">2 </text>
+<text top="415" left="95" width="297" height="12" font="2">Bile salt sulfotransferase OS=Homo sapiens GN=SULT2A1 </text>
+<text top="427" left="95" width="62" height="12" font="2">PE=1 SV=3 </text>
+<text top="427" left="408" width="129" height="12" font="2">ST2A1_HUMAN  34 kDa </text>
+<text top="427" left="580" width="10" height="12" font="2">2 </text>
+<text top="449" left="95" width="248" height="12" font="2">Ubiquitin thioesterase OTUB1 OS=Homo sapiens </text>
+<text top="462" left="95" width="124" height="12" font="2">GN=OTUB1 PE=1 SV=2 </text>
+<text top="462" left="408" width="129" height="12" font="2">OTUB1_HUMAN  31 kDa </text>
+<text top="462" left="580" width="10" height="12" font="2">2 </text>
+<text top="484" left="95" width="303" height="12" font="2">Nucleolysin TIA-1 isoform p40 OS=Homo sapiens GN=TIA1 </text>
+<text top="496" left="95" width="62" height="12" font="2">PE=1 SV=3 </text>
+<text top="496" left="408" width="71" height="12" font="2">TIA1_HUMAN </text>
+<text top="496" left="498" width="39" height="12" font="2">43 kDa </text>
+<text top="496" left="580" width="10" height="12" font="2">2 </text>
+<text top="518" left="95" width="301" height="12" font="2">Retrotransposon-derived protein PEG10 OS=Homo sapiens </text>
+<text top="530" left="95" width="122" height="12" font="2">GN=PEG10 PE=1 SV=2 </text>
+<text top="530" left="408" width="129" height="12" font="2">PEG10_HUMAN  80 kDa </text>
+<text top="530" left="580" width="10" height="12" font="2">2 </text>
+<text top="552" left="90" width="3" height="14" font="1"> </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="20" family="Times" color="#000000"/>
+	<fontspec id="1" size="7" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+<text top="46" left="246" width="80" height="21" font="0"><b>
+</b></text>
+<text top="46" left="359" width="79" height="21" font="0"><b> </b></text>
+<text top="46" left="461" width="93" height="21" font="0"><b></b></text>
+<text top="90" left="67" width="75" height="11" font="1">Date of Submission</text>
+<text top="339" left="58" width="38" height="11" font="1">Antibody </text>
+<text top="350" left="58" width="48" height="11" font="1">Description: </text>
+<text top="362" left="58" width="2" height="11" font="1"> </text>
+<text top="467" left="100" width="56" height="11" font="1">Species Target</text>
+<text top="501" left="100" width="83" height="11" font="1">Validation Method #1</text>
+<text top="142" left="292" width="23" height="11" font="1">Email:</text>
+<text top="142" left="67" width="25" height="11" font="1">Name:</text>
+<text top="217" left="67" width="63" height="11" font="1">Antibody Name:</text>
+<text top="217" left="300" width="27" height="11" font="1">Target:</text>
+<text top="175" left="200" width="14" height="11" font="1">Lab</text>
+<text top="249" left="192" width="41" height="11" font="1">Company/</text>
+<text top="260" left="192" width="29" height="11" font="1">Source:</text>
+<text top="467" left="300" width="49" height="11" font="1">Species Host</text>
+<text top="296" left="334" width="46" height="11" font="1">Lot Number</text>
+<text top="291" left="58" width="159" height="11" font="1">Catalog Number, database ID, laboratory </text>
+<text top="302" left="58" width="2" height="11" font="1"> </text>
+<text top="501" left="300" width="83" height="11" font="1">Validation Method #2</text>
+<text top="533" left="100" width="46" height="11" font="1">Purification </text>
+<text top="544" left="100" width="31" height="11" font="1">Method</text>
+<text top="533" left="300" width="45" height="11" font="1">Polyclonal/ </text>
+<text top="544" left="300" width="46" height="11" font="1">Monoclonal</text>
+<text top="598" left="50" width="54" height="11" font="1">Reference (PI/</text>
+<text top="610" left="50" width="46" height="11" font="1">Publication </text>
+<text top="621" left="50" width="48" height="11" font="1">Information)</text>
+<text top="643" left="49" width="272" height="11" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="654" left="49" width="190" height="10" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="664" left="49" width="144" height="10" font="2">please write-in the appropriate information</text>
+<text top="692" left="50" width="55" height="11" font="1">Histone Name</text>
+<text top="692" left="167" width="48" height="11" font="1">AA modified</text>
+<text top="692" left="325" width="45" height="11" font="1">AA Position</text>
+<text top="692" left="434" width="49" height="11" font="1">Modification</text>
+<text top="406" left="58" width="27" height="11" font="1">Target </text>
+<text top="417" left="58" width="48" height="11" font="1">Description: </text>
+<text top="428" left="58" width="2" height="11" font="1"> </text>
+<text top="573" left="175" width="48" height="11" font="1">Vendor URL:</text>
+<text top="575" left="243" width="171" height="11" font="1">http://www.novusbio.com/ZC3H11A-Antibo</text>
+<text top="89" left="150" width="44" height="11" font="1">06/15/2012</text>
+<text top="333" left="110" width="412" height="11" font="1">This is a rabbit polyclonal antibody generated using an epitope that maps to a region between residue 250 </text>
+<text top="345" left="110" width="222" height="11" font="1">and 300 of human zinc finger CCCH-type containing 11A. </text>
+<text top="467" left="162" width="28" height="11" font="1">Human</text>
+<text top="500" left="187" width="83" height="11" font="1">Immunoprecipitation</text>
+<text top="142" left="324" width="78" height="11" font="1">trupti@stanford.edu</text>
+<text top="142" left="99" width="46" height="11" font="1">Trupti Kawli</text>
+<text top="217" left="134" width="96" height="11" font="1">ZC3H11A (NB100-74650)</text>
+<text top="217" left="336" width="111" height="11" font="1">ZC3H11A (Entrez Gene 9877)</text>
+<text top="254" left="244" width="68" height="11" font="1">Novus Biologicals</text>
+<text top="467" left="357" width="25" height="11" font="1">Rabbit</text>
+<text top="296" left="389" width="10" height="11" font="1">A1</text>
+<text top="296" left="221" width="52" height="11" font="1">NB100-74650</text>
+<text top="500" left="388" width="50" height="11" font="1">IP-Mass Spec</text>
+<text top="538" left="153" width="28" height="11" font="1">Affinity</text>
+<text top="538" left="352" width="40" height="11" font="1">Polyclonal</text>
+<text top="400" left="110" width="357" height="11" font="1">ZC3H11A is a C3H1-type zinc finger protein. ZC3H11A has been identified as a protein that is </text>
+<text top="411" left="110" width="397" height="11" font="1">phosphorylated upon DNA damage by ATM or ATR. The function of ZC3H11A remains uncharacterized.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="153" left="71" width="52" height="11" font="1">Validation #1 </text>
+<text top="164" left="71" width="31" height="11" font="1">Analysis</text>
+<text top="630" left="68" width="133" height="11" font="1">Insert Validation Image (click here)</text>
+<text top="58" left="138" width="397" height="11" font="1">A. Western blots on nuclear lysates from cell lines GM12878 (Lane1), K562 (Lane2), HeLaS3 (Lane3), and </text>
+<text top="69" left="138" width="61" height="11" font="1">HepG2 (Lane4). </text>
+<text top="80" left="138" width="2" height="11" font="1"> </text>
+<text top="92" left="138" width="399" height="11" font="1">B. Immunoprecipitation was performed on nuclear lysates from K562 cells using antibody NB100-74650 </text>
+<text top="103" left="138" width="382" height="11" font="1">against ZC3H11A. Lane1: Nuclear lysate. Lane 2: Unbound material from immunoprecipitation with </text>
+<text top="114" left="138" width="383" height="11" font="1">NB100-74650. Lane 3: Bound material from immunoprecipitation with NB100-74650. Lane 4: Bound </text>
+<text top="125" left="138" width="379" height="11" font="1">material from control immunoprecipitation with rabbit IgG. Arrow indicates band of expected size </text>
+<text top="136" left="138" width="389" height="11" font="1">(89kD) that is highly enriched in the specifically immunoprecipitated fraction. Bands indicated by * in </text>
+<text top="147" left="138" width="170" height="11" font="1">K562 immunoprecipitate is IgG light chains. </text>
+<text top="158" left="138" width="2" height="11" font="1"> </text>
+<text top="170" left="138" width="350" height="11" font="1">Comment: A band of ~89kD is detected by Western blotting with NB100-74650 in multiple </text>
+<text top="181" left="138" width="386" height="11" font="1">human cell lines.  Immunoprecipitation from K562 nuclear lysate efficiently enriches a single protein </text>
+<text top="192" left="138" width="318" height="11" font="1">of ~89KD. Based on these observations, this antibody meets this ENCODE criterion.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="17" family="Times" color="#000000"/>
+<text top="158" left="279" width="0" height="24" font="3">1&quot;&quot;2&quot;3&quot;4&quot;&quot;</text>
+<text top="83" left="444" width="0" height="24" font="3">A.</text>
+<text top="99" left="444" width="0" height="29" font="3">&quot;&quot;</text>
+<text top="297" left="444" width="0" height="24" font="3">B.</text>
+<text top="313" left="444" width="0" height="24" font="3">&quot;&quot;</text>
+<text top="339" left="279" width="0" height="24" font="3">&quot;1&quot;&quot;&quot;2&quot;&quot;3&quot;&quot;&quot;&quot;&quot;&quot;4&quot;&quot;</text>
+<text top="438" left="331" width="0" height="24" font="3">*&quot;</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="166" left="75" width="52" height="11" font="1">Validation #2 </text>
+<text top="177" left="75" width="31" height="11" font="1">Analysis</text>
+<text top="614" left="72" width="134" height="11" font="1">Insert Validation Image (Click here)</text>
+<text top="663" left="271" width="63" height="11" font="1">Submit by Email</text>
+<text top="58" left="143" width="382" height="11" font="1">Immunoprecipitation of ZC3H11A from K562 cells using NB100-74650. Lane 1: input nuclear lysate, </text>
+<text top="69" left="143" width="388" height="11" font="1">Lane 2: material immunoprecipitated with NB100-74650, Lane 3: material immunoprecipitated using </text>
+<text top="80" left="143" width="355" height="11" font="1">control IgG. Bands A was excised from the gel and subject to analysis by mass spectrometry. </text>
+<text top="92" left="143" width="374" height="11" font="1">IP followed by mass spectrometry: Briefly, protein was immunoprecipitated from K562 whole cell </text>
+<text top="103" left="143" width="375" height="11" font="1">lysates using NB100-74650, and the IP fraction was loaded on a 10% polyacrylamide gel (NuPAGE </text>
+<text top="114" left="143" width="351" height="11" font="1">Bis-Tris Gel) and separated with an Invitrogen NuPAGE electrophoresis system. The gel was </text>
+<text top="125" left="143" width="391" height="11" font="1">silver-stained, gel fragments corresponding to the bands indicated were excised and destained using </text>
+<text top="136" left="143" width="385" height="11" font="1">the SilverSNAP Stain for Mass Spectrometry (Pierce). Then proteins were trypsinized using the in-gel </text>
+<text top="147" left="143" width="379" height="11" font="1">digestion method. Digested proteins were analyzed on an LTQ-Orbitrap (Thermo Scientific) by the </text>
+<text top="158" left="143" width="391" height="11" font="1">nanoLC-ESI-MS/MS technique. Peptides were identified by the SEQUEST algorithm and filtered with a </text>
+<text top="170" left="143" width="368" height="11" font="1">high confidence threshold (Protein false discovery rate &lt; 1%, 2 peptides per protein minimum). </text>
+<text top="181" left="143" width="389" height="11" font="1">We report 71 different proteins identified in band A. Of the specifically immunoprecipitated proteins, </text>
+<text top="192" left="143" width="391" height="11" font="1">ZC3H11A is the most abundant (242 peptides). Based on these observations, this band is likely due to </text>
+<text top="203" left="143" width="378" height="11" font="1">the presence of immunoprecipitated ZC3H11A and NB100-74650 meets the ENCODE standard for </text>
+<text top="214" left="143" width="102" height="11" font="1">validation by this criterion.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="4" size="20" family="Times" color="#000000"/>
+	<fontspec id="5" size="15" family="Times" color="#000000"/>
+<text top="21" left="522" width="0" height="27" font="4">Im</text>
+<text top="44" left="522" width="0" height="27" font="4">m</text>
+<text top="61" left="522" width="0" height="38" font="4">un</text>
+<text top="84" left="522" width="0" height="38" font="4">op</text>
+<text top="108" left="522" width="0" height="35" font="4">re</text>
+<text top="126" left="522" width="0" height="41" font="4">cip</text>
+<text top="152" left="522" width="0" height="32" font="4">ita-</text>
+<text top="187" left="522" width="0" height="38" font="4">on</text>
+<text top="211" left="522" width="0" height="32" font="4">.as</text>
+<text top="235" left="522" width="0" height="35" font="4">say</text>
+<text top="264" left="522" width="0" height="39" font="4">.(IP</text>
+<text top="292" left="522" width="0" height="39" font="4">).+.</text>
+<text top="320" left="522" width="0" height="32" font="4">.m</text>
+<text top="342" left="522" width="0" height="27" font="4">as</text>
+<text top="362" left="522" width="0" height="40" font="4">s.s</text>
+<text top="384" left="522" width="0" height="38" font="4">pe</text>
+<text top="406" left="522" width="0" height="36" font="4">ctr</text>
+<text top="431" left="522" width="0" height="38" font="4">om</text>
+<text top="460" left="522" width="0" height="38" font="4">etr</text>
+<text top="486" left="522" width="0" height="42" font="4">y.as</text>
+<text top="520" left="522" width="0" height="35" font="4">say</text>
+<text top="549" left="522" width="0" height="27" font="4">.</text>
+<text top="190" left="469" width="0" height="30" font="5">ZC</text>
+<text top="207" left="469" width="0" height="30" font="5">3H1</text>
+<text top="236" left="469" width="0" height="30" font="5">1A</text>
+<text top="255" left="469" width="0" height="27" font="5">(N</text>
+<text top="272" left="469" width="0" height="31" font="5">B1</text>
+<text top="290" left="469" width="0" height="30" font="5">00</text>
+<text top="308" left="469" width="0" height="27" font="5">&gt;7</text>
+<text top="322" left="469" width="0" height="30" font="5">46</text>
+<text top="340" left="469" width="0" height="30" font="5">50</text>
+<text top="358" left="469" width="0" height="36" font="5">).(R)</text>
+<text top="388" left="469" width="0" height="25" font="5">.1</text>
+<text top="401" left="469" width="0" height="30" font="5">17</text>
+<text top="418" left="469" width="0" height="33" font="5">.kD</text>
+<text top="441" left="469" width="0" height="21" font="5">.</text>
+<text top="111" left="468" width="0" height="21" font="5">MW</text>
+<text top="142" left="468" width="0" height="21" font="5">.</text>
+<text top="112" left="398" width="0" height="21" font="5">250.</text>
+<text top="112" left="368" width="0" height="21" font="5">150.</text>
+<text top="112" left="344" width="0" height="21" font="5">100.</text>
+<text top="121" left="323" width="0" height="21" font="5">75.</text>
+<text top="111" left="294" width="0" height="21" font="5">...50.</text>
+<text top="122" left="268" width="0" height="21" font="5">37.</text>
+<text top="122" left="240" width="0" height="21" font="5">25.</text>
+<text top="121" left="198" width="0" height="21" font="5">10.</text>
+<text top="121" left="137" width="0" height="29" font="5">Lan</text>
+<text top="146" left="137" width="0" height="30" font="5">e.</text>
+<text top="195" left="136" width="0" height="21" font="5">1..............2..............3.</text>
+<text top="469" left="251" width="0" height="29" font="5">Lan</text>
+<text top="494" left="251" width="0" height="34" font="5">e.1</text>
+<text top="516" left="251" width="0" height="25" font="5">.In</text>
+<text top="533" left="251" width="0" height="31" font="5">pu</text>
+<text top="552" left="251" width="0" height="35" font="5">t.ly</text>
+<text top="574" left="251" width="0" height="28" font="5">sate</text>
+<text top="604" left="251" width="0" height="21" font="5">.</text>
+<text top="469" left="230" width="0" height="21" font="5">.</text>
+<text top="469" left="209" width="0" height="29" font="5">Lan</text>
+<text top="494" left="209" width="0" height="34" font="5">e.2</text>
+<text top="516" left="209" width="0" height="25" font="5">.B</text>
+<text top="529" left="209" width="0" height="31" font="5">ou</text>
+<text top="548" left="209" width="0" height="31" font="5">nd</text>
+<text top="566" left="209" width="0" height="25" font="5">.m</text>
+<text top="584" left="209" width="0" height="21" font="5">ate</text>
+<text top="607" left="209" width="0" height="32" font="5">rial</text>
+<text top="630" left="209" width="0" height="31" font="5">.fr</text>
+<text top="646" left="209" width="0" height="31" font="5">om</text>
+<text top="669" left="209" width="0" height="25" font="5">.IP</text>
+<text top="686" left="209" width="0" height="21" font="5">.</text>
+<text top="469" left="188" width="0" height="21" font="5">.</text>
+<text top="469" left="168" width="0" height="29" font="5">Lan</text>
+<text top="494" left="168" width="0" height="34" font="5">e.3</text>
+<text top="516" left="168" width="0" height="25" font="5">.B</text>
+<text top="529" left="168" width="0" height="31" font="5">ou</text>
+<text top="548" left="168" width="0" height="31" font="5">nd</text>
+<text top="566" left="168" width="0" height="25" font="5">.m</text>
+<text top="584" left="168" width="0" height="21" font="5">ate</text>
+<text top="607" left="168" width="0" height="32" font="5">rial</text>
+<text top="630" left="168" width="0" height="31" font="5">.fr</text>
+<text top="646" left="168" width="0" height="31" font="5">om</text>
+<text top="669" left="168" width="0" height="25" font="5">.IP</text>
+<text top="686" left="168" width="0" height="37" font="5">.....</text>
+<text top="706" left="168" width="0" height="37" font="5">.....</text>
+<text top="726" left="168" width="0" height="25" font="5">..</text>
+<text top="469" left="146" width="0" height="31" font="5">us</text>
+<text top="485" left="146" width="0" height="26" font="5">in</text>
+<text top="498" left="146" width="0" height="34" font="5">g.n</text>
+<text top="520" left="146" width="0" height="31" font="5">on</text>
+<text top="538" left="146" width="0" height="34" font="5">&gt;sp</text>
+<text top="560" left="146" width="0" height="30" font="5">ec</text>
+<text top="576" left="146" width="0" height="26" font="5">iﬁ</text>
+<text top="590" left="146" width="0" height="33" font="5">c.Ig</text>
+<text top="614" left="146" width="0" height="21" font="5">G</text>
+<text top="625" left="146" width="0" height="21" font="5">.</text>
+<text top="369" left="340" width="0" height="31" font="5">Ban</text>
+<text top="396" left="340" width="0" height="35" font="5">d.A</text>
+<text top="420" left="340" width="0" height="21" font="5">.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="6" size="5" family="Times" color="#000000"/>
+	<fontspec id="7" size="5" family="Times" color="#000000"/>
+<text top="72" left="55" width="28" height="9" font="6"><b>Spectrum</b></text>
+<text top="72" left="111" width="48" height="9" font="6"><b>Name+of+Protein</b></text>
+<text top="72" left="356" width="139" height="9" font="6"><b>Count+of+peptides Ratio(ZC3H11A/IgG+Control)</b></text>
+<text top="81" left="55" width="194" height="9" font="7">ZC3H11A_Band,A Zinc,finger,CCCH,domain5containing,protein,11A</text>
+<text top="81" left="400" width="11" height="9" font="7">242</text>
+<text top="81" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="90" left="55" width="123" height="9" font="7">ZC3H11A_Band,A Isoform,A,of,Lamin5A/C</text>
+<text top="90" left="404" width="7" height="9" font="7">78</text>
+<text top="90" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="99" left="55" width="200" height="9" font="7">ZC3H11A_Band,A Isoform,5,of,Interleukin,enhancer5binding,factor,3</text>
+<text top="99" left="404" width="7" height="9" font="7">38</text>
+<text top="99" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="108" left="55" width="148" height="9" font="7">ZC3H11A_Band,A Stress570,protein,,mitochondrial</text>
+<text top="108" left="404" width="7" height="9" font="7">38</text>
+<text top="108" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="117" left="55" width="145" height="9" font="7">ZC3H11A_Band,A ATP5dependent,RNA,helicase,A</text>
+<text top="117" left="404" width="7" height="9" font="7">34</text>
+<text top="117" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="125" left="55" width="205" height="9" font="7">ZC3H11A_Band,A Isoform,3,of,Peroxisomal,targeting,signal,1,receptor</text>
+<text top="125" left="404" width="7" height="9" font="7">34</text>
+<text top="125" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="134" left="55" width="221" height="9" font="7">ZC3H11A_Band,A Isoform,2,of,Heterogeneous,nuclear,ribonucleoprotein,M</text>
+<text top="134" left="404" width="7" height="9" font="7">32</text>
+<text top="134" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="143" left="55" width="219" height="9" font="7">ZC3H11A_Band,A Isoform,1,of,Heterogeneous,nuclear,ribonucleoprotein,R</text>
+<text top="143" left="404" width="7" height="9" font="7">31</text>
+<text top="143" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="152" left="55" width="279" height="9" font="7">ZC3H11A_Band,A cDNA,FLJ59357,,highly,similar,to,Probable,ATP5dependent,RNA,helicase,DDX5</text>
+<text top="152" left="404" width="7" height="9" font="7">29</text>
+<text top="152" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="161" left="55" width="151" height="9" font="7">ZC3H11A_Band,A E3,ubiquitin/ISG15,ligase,TRIM25</text>
+<text top="161" left="404" width="7" height="9" font="7">28</text>
+<text top="161" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="170" left="55" width="233" height="9" font="7">ZC3H11A_Band,A insulin5like,growth,factor,2,mRNA5binding,protein,1,isoform,2</text>
+<text top="170" left="404" width="7" height="9" font="7">26</text>
+<text top="170" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="179" left="55" width="115" height="9" font="7">ZC3H11A_Band,A Nucleolar,protein,56</text>
+<text top="179" left="404" width="7" height="9" font="7">25</text>
+<text top="179" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="187" left="55" width="150" height="9" font="7">ZC3H11A_Band,A THO,complex,subunit,5,homolog</text>
+<text top="187" left="404" width="7" height="9" font="7">25</text>
+<text top="187" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="196" left="55" width="184" height="9" font="7">ZC3H11A_Band,A Isoform,2,of,Polyadenylate5binding,protein,1</text>
+<text top="196" left="404" width="7" height="9" font="7">22</text>
+<text top="196" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="205" left="55" width="82" height="9" font="7">ZC3H11A_Band,A Lamin5B1</text>
+<text top="205" left="404" width="7" height="9" font="7">18</text>
+<text top="205" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="214" left="55" width="283" height="9" font="7">ZC3H11A_Band,A cDNA,FLJ58652,,highly,similar,to,Probable,ATP5dependent,RNA,helicase,DDX17</text>
+<text top="214" left="404" width="7" height="9" font="7">17</text>
+<text top="214" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="223" left="55" width="97" height="9" font="7">ZC3H11A_Band,A HSPA5,protein</text>
+<text top="223" left="404" width="7" height="9" font="7">16</text>
+<text top="223" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="232" left="55" width="160" height="9" font="7">ZC3H11A_Band,A Isoform,1,of,RNA5binding,protein,14</text>
+<text top="232" left="404" width="7" height="9" font="7">16</text>
+<text top="232" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="240" left="55" width="277" height="9" font="7">ZC3H11A_Band,A cDNA,FLJ54020,,highly,similar,to,Heterogeneous,nuclear,ribonucleoprotein,U</text>
+<text top="240" left="404" width="7" height="9" font="7">15</text>
+<text top="240" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="249" left="55" width="148" height="9" font="7">ZC3H11A_Band,A Nucleolar,GTP5binding,protein,1</text>
+<text top="249" left="404" width="7" height="9" font="7">15</text>
+<text top="249" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="258" left="55" width="241" height="9" font="7">ZC3H11A_Band,A Isoform,1,of,Insulin5like,growth,factor,2,mRNA5binding,protein,3</text>
+<text top="258" left="404" width="7" height="9" font="7">13</text>
+<text top="258" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="267" left="55" width="259" height="9" font="7">ZC3H11A_Band,A X5ray,repair,complementing,defective,repair,in,Chinese,hamster,cells,6</text>
+<text top="267" left="404" width="7" height="9" font="7">13</text>
+<text top="267" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="276" left="55" width="137" height="9" font="7">ZC3H11A_Band,A Isoform,DPII,of,Desmoplakin</text>
+<text top="276" left="404" width="7" height="9" font="7">12</text>
+<text top="276" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="285" left="55" width="258" height="9" font="7">ZC3H11A_Band,A Poly(A),binding,protein,,cytoplasmic,4,(Inducible,form),,isoform,CRA_e</text>
+<text top="285" left="404" width="7" height="9" font="7">12</text>
+<text top="285" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="294" left="55" width="260" height="9" font="7">ZC3H11A_Band,A Putative,pre5mRNA5splicing,factor,ATP5dependent,RNA,helicase,DHX15</text>
+<text top="294" left="404" width="7" height="9" font="7">12</text>
+<text top="294" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="302" left="55" width="136" height="9" font="7">ZC3H11A_Band,A SYNCRIP,protein,(Fragment)</text>
+<text top="302" left="404" width="7" height="9" font="7">12</text>
+<text top="302" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="311" left="55" width="151" height="9" font="7">ZC3H11A_Band,A WD,repeat5containing,protein,46</text>
+<text top="311" left="404" width="7" height="9" font="7">12</text>
+<text top="311" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="320" left="55" width="231" height="9" font="7">ZC3H11A_Band,A cDNA,FLJ54408,,highly,similar,to,Heat,shock,70,kDa,protein,1</text>
+<text top="320" left="404" width="7" height="9" font="7">11</text>
+<text top="320" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="329" left="55" width="185" height="9" font="7">ZC3H11A_Band,A Crooked,neck,pre5mRNA,splicing,factor5like,1</text>
+<text top="329" left="404" width="7" height="9" font="7">11</text>
+<text top="329" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="338" left="55" width="164" height="9" font="7">ZC3H11A_Band,A Isoform,1,of,Nucleolar,RNA,helicase,2</text>
+<text top="338" left="404" width="7" height="9" font="7">11</text>
+<text top="338" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="347" left="55" width="156" height="9" font="7">ZC3H11A_Band,A Isoform,2,of,Protein,LAS1,homolog</text>
+<text top="347" left="404" width="7" height="9" font="7">11</text>
+<text top="347" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="356" left="55" width="115" height="9" font="7">ZC3H11A_Band,A Nucleolar,protein,11</text>
+<text top="356" left="404" width="7" height="9" font="7">11</text>
+<text top="356" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="364" left="55" width="142" height="9" font="7">ZC3H11A_Band,A Pre5mRNA5processing,factor,6</text>
+<text top="364" left="404" width="7" height="9" font="7">11</text>
+<text top="364" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="373" left="55" width="134" height="9" font="7">ZC3H11A_Band,A Splicing,factor,3A,subunit,1</text>
+<text top="373" left="404" width="7" height="9" font="7">11</text>
+<text top="373" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="382" left="55" width="209" height="9" font="7">ZC3H11A_Band,A heterogeneous,nuclear,ribonucleoprotein,L,isoform,b</text>
+<text top="382" left="404" width="7" height="9" font="7">10</text>
+<text top="382" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="391" left="55" width="226" height="9" font="7">ZC3H11A_Band,A Isoform,Short,of,TATA5binding,protein5associated,factor,2N</text>
+<text top="391" left="407" width="4" height="9" font="7">9</text>
+<text top="391" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="400" left="55" width="73" height="9" font="7">ZC3H11A_Band,A Seipin</text>
+<text top="400" left="407" width="4" height="9" font="7">9</text>
+<text top="400" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="409" left="55" width="210" height="9" font="7">ZC3H11A_Band,A Calcium5binding,mitochondrial,carrier,protein,Aralar2</text>
+<text top="409" left="407" width="4" height="9" font="7">7</text>
+<text top="409" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="417" left="55" width="240" height="9" font="7">ZC3H11A_Band,A cDNA,FLJ51295,,highly,similar,to,Cell,division,cycle,55like,protein</text>
+<text top="417" left="407" width="4" height="9" font="7">7</text>
+<text top="417" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="426" left="55" width="170" height="9" font="7">ZC3H11A_Band,A Isoform,1,of,Splicing,factor,3B,subunit,3</text>
+<text top="426" left="407" width="4" height="9" font="7">7</text>
+<text top="426" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="435" left="55" width="233" height="9" font="7">ZC3H11A_Band,A Isoform,2,of,Putative,ribosomal,RNA,methyltransferase,NOP2</text>
+<text top="435" left="407" width="4" height="9" font="7">7</text>
+<text top="435" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="444" left="55" width="166" height="9" font="7">ZC3H11A_Band,A Nuclear,pore,complex,protein,Nup205</text>
+<text top="444" left="407" width="4" height="9" font="7">7</text>
+<text top="444" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="453" left="55" width="160" height="9" font="7">ZC3H11A_Band,A ATP5dependent,RNA,helicase,DDX18</text>
+<text top="453" left="407" width="4" height="9" font="7">6</text>
+<text top="453" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="462" left="55" width="95" height="9" font="7">ZC3H11A_Band,A Desmoglein51</text>
+<text top="462" left="407" width="4" height="9" font="7">6</text>
+<text top="462" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="471" left="55" width="227" height="9" font="7">ZC3H11A_Band,A Isoform,7,of,Zinc,finger,CCCH,domain5containing,protein,14</text>
+<text top="471" left="407" width="4" height="9" font="7">6</text>
+<text top="471" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="479" left="55" width="194" height="9" font="7">ZC3H11A_Band,A Isoform,UBF2,of,Nucleolar,transcription,factor,1</text>
+<text top="479" left="407" width="4" height="9" font="7">6</text>
+<text top="479" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="488" left="55" width="122" height="9" font="7">ZC3H11A_Band,A THO,complex,subunit,2</text>
+<text top="488" left="407" width="4" height="9" font="7">6</text>
+<text top="488" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="497" left="55" width="151" height="9" font="7">ZC3H11A_Band,A WD,repeat5containing,protein,36</text>
+<text top="497" left="407" width="4" height="9" font="7">6</text>
+<text top="497" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="506" left="55" width="147" height="9" font="7">ZC3H11A_Band,A Heat,shock,protein,HSP,905beta</text>
+<text top="506" left="407" width="4" height="9" font="7">5</text>
+<text top="506" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="515" left="55" width="143" height="9" font="7">ZC3H11A_Band,A Pre5mRNA5splicing,factor,SYF1</text>
+<text top="515" left="407" width="4" height="9" font="7">5</text>
+<text top="515" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="524" left="55" width="181" height="9" font="7">ZC3H11A_Band,A X5ray,repair,cross5complementing,protein,5</text>
+<text top="524" left="407" width="4" height="9" font="7">5</text>
+<text top="524" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="533" left="55" width="186" height="9" font="7">ZC3H11A_Band,A Isoform,1,of,Heat,shock,protein,HSP,905alpha</text>
+<text top="533" left="407" width="4" height="9" font="7">4</text>
+<text top="533" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="541" left="55" width="115" height="9" font="7">ZC3H11A_Band,A Junction,plakoglobin</text>
+<text top="541" left="407" width="4" height="9" font="7">4</text>
+<text top="541" left="502" width="4" height="9" font="7">2</text>
+<text top="550" left="55" width="141" height="9" font="7">ZC3H11A_Band,A Scaffold,attachment,factor,B1</text>
+<text top="550" left="407" width="4" height="9" font="7">4</text>
+<text top="550" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="559" left="55" width="151" height="9" font="7">ZC3H11A_Band,A WD,repeat5containing,protein,43</text>
+<text top="559" left="407" width="4" height="9" font="7">4</text>
+<text top="559" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="568" left="55" width="250" height="9" font="7">ZC3H11A_Band,A cDNA,FLJ45706,fis,,clone,FEBRA2028457,,highly,similar,to,Nucleolin</text>
+<text top="568" left="407" width="4" height="9" font="7">3</text>
+<text top="568" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="577" left="55" width="118" height="9" font="7">ZC3H11A_Band,A DNA,topoisomerase,1</text>
+<text top="577" left="407" width="4" height="9" font="7">3</text>
+<text top="577" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="586" left="55" width="159" height="9" font="7">ZC3H11A_Band,A Isoform,1,of,THO,complex,subunit,1</text>
+<text top="586" left="407" width="4" height="9" font="7">3</text>
+<text top="586" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="594" left="55" width="188" height="9" font="7">ZC3H11A_Band,A Probable,ATP5dependent,RNA,helicase,DDX27</text>
+<text top="594" left="407" width="4" height="9" font="7">3</text>
+<text top="594" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="603" left="55" width="196" height="9" font="7">ZC3H11A_Band,A DNA,replication,licensing,factor,MCM7,isoform,2</text>
+<text top="603" left="407" width="4" height="9" font="7">2</text>
+<text top="603" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="612" left="55" width="118" height="9" font="7">ZC3H11A_Band,A DNA,topoisomerase,2</text>
+<text top="612" left="407" width="4" height="9" font="7">2</text>
+<text top="612" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="621" left="55" width="138" height="9" font="7">ZC3H11A_Band,A FACT,complex,subunit,SPT16</text>
+<text top="621" left="407" width="4" height="9" font="7">2</text>
+<text top="621" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="630" left="55" width="97" height="9" font="7">ZC3H11A_Band,A Histone,H2A.V</text>
+<text top="630" left="407" width="4" height="9" font="7">2</text>
+<text top="630" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="639" left="55" width="182" height="9" font="7">ZC3H11A_Band,A Isoform,3,of,Zinc,finger,MYM5type,protein,4</text>
+<text top="639" left="407" width="4" height="9" font="7">2</text>
+<text top="639" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="648" left="55" width="121" height="9" font="7">ZC3H11A_Band,A N5acetyltransferase,10</text>
+<text top="648" left="407" width="4" height="9" font="7">2</text>
+<text top="648" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="656" left="55" width="249" height="9" font="7">ZC3H11A_Band,A apoptotic,chromatin,condensation,inducer,in,the,nucleus,isoform,3</text>
+<text top="656" left="407" width="4" height="9" font="7">1</text>
+<text top="656" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="665" left="55" width="116" height="9" font="7">ZC3H11A_Band,A Histone,H2B,type,15L</text>
+<text top="665" left="407" width="4" height="9" font="7">1</text>
+<text top="665" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="674" left="55" width="93" height="9" font="7">ZC3H11A_Band,A Histone,H3.2</text>
+<text top="674" left="407" width="4" height="9" font="7">1</text>
+<text top="674" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="683" left="55" width="81" height="9" font="7">ZC3H11A_Band,A Hornerin</text>
+<text top="683" left="407" width="4" height="9" font="7">1</text>
+<text top="683" left="493" width="13" height="9" font="7">0.25</text>
+<text top="692" left="55" width="134" height="9" font="7">ZC3H11A_Band,A Splicing,factor,3B,subunit,1</text>
+<text top="692" left="407" width="4" height="9" font="7">1</text>
+<text top="692" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+<text top="701" left="55" width="192" height="9" font="7">ZC3H11A_Band,A Thyroid,hormone,receptor5associated,protein,3</text>
+<text top="701" left="407" width="4" height="9" font="7">1</text>
+<text top="701" left="448" width="57" height="9" font="7">NOT,IN,CONTROL,IP</text>
+</page>
+</pdf2xml>

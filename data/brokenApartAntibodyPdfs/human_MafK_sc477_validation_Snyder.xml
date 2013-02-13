@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="53" height="12" font="1">Sep 19, 2011</text>
+<text top="347" left="94" width="364" height="12" font="1">rabbit polyclonal IgG, epitope mapping at the C-terminus of NF-E2 p18 of mouse origin </text>
+<text top="359" left="94" width="448" height="12" font="1">recommended for detection of NF-E2 p18 (also designated MafK) of mouse, rat and human origin by WB, IP, </text>
+<text top="371" left="94" width="51" height="12" font="1">IF and ELISA</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="215" left="121" width="101" height="12" font="1">NF-E2 p18 (C-16): sc-477</text>
+<text top="215" left="339" width="67" height="12" font="1">MafK/NF-E2 p18</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="44" height="12" font="1">Santa Cruz</text>
+<text top="485" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="26" height="12" font="1">K1709</text>
+<text top="300" left="215" width="27" height="12" font="1">sc-477</text>
+<text top="521" left="395" width="19" height="12" font="2">ChIP</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="419" left="94" width="445" height="12" font="1">Small Mafs behave as transcriptional repressors when they dimerize among themselves and transcriptional </text>
+<text top="431" left="94" width="448" height="12" font="1">activators by dimerizing with other basic-zipper proteins and recruiting them to specific sites. NFE2 consists </text>
+<text top="443" left="94" width="340" height="12" font="1">of a heterodimer containing an 18-kD Maf protein (MafF, MafG, or MafK) and p45.  </text>
+<text top="599" left="238" width="180" height="12" font="1">http://www.scbt.com/datasheet-477-nf-e2-</text>
+<text top="611" left="238" width="99" height="12" font="1">p18-c-16-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="68" left="125" width="402" height="12" font="1">A: Immunoprecipitation was performed on nuclear lysates from K562 cells using antibody sc-477 </text>
+<text top="80" left="125" width="421" height="12" font="1">against MafK/NF-E2 p18. Lane1: Nuclear lysate.  Lane 2: Unbound material from immunoprecipitation </text>
+<text top="92" left="125" width="419" height="12" font="1">with sc-477.  Lane 3: Bound material from immunoprecipitation with sc-477.  Lane 4:  Bound material </text>
+<text top="104" left="125" width="431" height="12" font="1">from control immunoprecipitation with rabbit IgG.  Arrow indicates band of expected size (18kD) that is </text>
+<text top="116" left="125" width="430" height="12" font="1">highly enriched in the specifically immunoprecipitated fraction.  (Note that ~6x more material is loaded </text>
+<text top="128" left="125" width="416" height="12" font="1">in lanes 3 and 4, which explains the enrichment of the expected product in the immunoprecipitated </text>
+<text top="140" left="125" width="220" height="12" font="1">fraction relative to the input nuclear lysate in lane 1). </text>
+<text top="152" left="125" width="2" height="12" font="1"> </text>
+<text top="164" left="125" width="430" height="12" font="1">B:  Western blots on nuclear lysates from cell lines GM12878 (Lane1), K562 (Lane2), HeLaS3 (Lane3), and </text>
+<text top="176" left="125" width="66" height="12" font="1">HepG2 (Lane4). </text>
+<text top="188" left="125" width="2" height="12" font="1"> </text>
+<text top="200" left="125" width="429" height="12" font="1">COMMENT:  While we observe multiple bands in the Western blots for all cell lines, we see that only the </text>
+<text top="212" left="125" width="405" height="12" font="1">expected band is immunoprecipitated specifically and efficiently.  Furthermore, because we have </text>
+<text top="224" left="125" width="430" height="12" font="1">performed ChIP-Seq with a second antibody recognizing an independent epitope and our results show </text>
+<text top="236" left="125" width="390" height="12" font="1">a very high level of agreement (see second validation), we feel this antibody is  of high quality.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="63" left="130" width="367" height="12" font="1">Validation 2:  ChIP-Seq with alternate antibody: Abcam ab50322 (Immunogen is peptide </text>
+<text top="75" left="130" width="399" height="12" font="1">corresponding to amino acids 2-17 of Human MAFK conjugated to KLH by a C-terminal cysteine </text>
+<text top="87" left="130" width="61" height="12" font="1">residue linker) </text>
+<text top="99" left="130" width="2" height="12" font="1"> </text>
+<text top="111" left="130" width="399" height="12" font="1">Background/Comparison:  The small Maf family of proteins consists of three small, highly similar </text>
+<text top="123" left="130" width="419" height="12" font="1">proteins- MafF, MafG, and MafK.  An alignment of the three is shown here.  Due to the high degree of </text>
+<text top="135" left="130" width="425" height="12" font="1">similarity between these factors, we have used two antibodies to different regions of the MafK protein </text>
+<text top="147" left="130" width="419" height="12" font="1">to cross-validate our ChIP-Seq results.  The epitope for sc-477 is indicated in red and the immunogen </text>
+<text top="159" left="130" width="143" height="12" font="1">for ab50322 is indicated in yellow. </text>
+<text top="171" left="130" width="2" height="12" font="1"> </text>
+<text top="183" left="130" width="411" height="12" font="1">The lists of peaks called by PeakSeq obtained from the two ENCODE-submitted biological replicate </text>
+<text top="195" left="130" width="408" height="12" font="1">experiments done for each antibody in HepG2 cells were compared to one another.  Comparisons </text>
+<text top="207" left="130" width="403" height="12" font="1">were made using standard ENCODE replicate comparison parameters (the top 40% of each list of </text>
+<text top="219" left="130" width="416" height="12" font="1">peaks for a given false discovery rate (Q-value) were compared to the entire list peaks obtained with </text>
+<text top="231" left="130" width="411" height="12" font="1">the other antibody and the reciprocal comparison was also made).   Comparisons were made for Q-</text>
+<text top="243" left="130" width="420" height="12" font="1">values of .01 and .001 and the results are shown in the accompanying table.  In each case, the degree </text>
+<text top="255" left="130" width="414" height="12" font="1">of overlap between peak lists exceeds 97%.  Thus, these antibodies are considered validated by this </text>
+<text top="267" left="130" width="37" height="12" font="1">criteria.   </text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+</pdf2xml>

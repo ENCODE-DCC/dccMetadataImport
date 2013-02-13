@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>!&quot;#$%!&amp;%##&amp;'()*+,-.&amp;/01*-0)*,(&amp;%,2345()</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="412" left="95" width="436" height="12" font="1">This gene encodes the largest subunit of RNA polymerase II, the polymerase responsible for synthesizing </text>
+<text top="424" left="95" width="440" height="12" font="1">messenger RNA in eukaryotes. The product of this gene contains a carboxy terminal domain composed of </text>
+<text top="436" left="95" width="446" height="12" font="1">heptapeptide repeats that are essential for polymerase activity. These repeats contain serine and threonine </text>
+<text top="448" left="95" width="422" height="12" font="1">residues that are phosphorylated in actively transcribing RNA polymerase. In addition, this subunit, in </text>
+<text top="460" left="95" width="442" height="12" font="1">combination with several other polymerase subunits, forms the DNA binding domain of the polymerase, a </text>
+<text top="472" left="95" width="243" height="12" font="1">groove in which the DNA template is transcribed into RNA.</text>
+<text top="601" left="238" width="170" height="12" font="1">https://store.crpinc.com/datasheet.aspx?</text>
+<text top="613" left="238" width="92" height="12" font="1">catalogno=mms-126R</text>
+<text top="77" left="138" width="33" height="12" font="1">1/13/12</text>
+<text top="340" left="95" width="203" height="12" font="1">Monoclonal Antibody against RNA Polymerase II </text>
+<text top="352" left="95" width="446" height="12" font="1">Also Known As DNA-directed RNA polymerase II subunit RPB1; RNA polymerase II subunit B1; DNA-directed </text>
+<text top="364" left="95" width="448" height="12" font="1">RNA polymerase II subunit A; RNA-directed RNA polymerase II subunit RPB1; DNA-directed RNA polymerase </text>
+<text top="376" left="95" width="72" height="12" font="1">III largest subunit</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="201" height="12" font="1">RNA Polymerase II 8WG16 Monoclonal Antibody</text>
+<text top="214" left="339" width="124" height="12" font="1">POLR2A (EntrezGene ID 5430)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="36" height="12" font="1">Covance</text>
+<text top="484" left="361" width="28" height="12" font="1">Mouse</text>
+<text top="300" left="395" width="46" height="12" font="1">E11BF0034</text>
+<text top="300" left="215" width="45" height="12" font="1">MMS-126R</text>
+<text top="520" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="141" width="82" height="12" font="2">Crude (not purified)</text>
+<text top="561" left="356" width="50" height="12" font="2">Monoclonal</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="431" height="12" font="1">Comment:  A single band consistent with the mobility expected for POLR2A/RPB1 (~217kD) is observed </text>
+<text top="55" left="125" width="433" height="12" font="1">in nuclear extracts from cell lines K562 and HeLa S3 (Panel A) and cell line GM12878 (Panel B).  This band </text>
+<text top="67" left="125" width="433" height="12" font="1">is efficiently and specifically immunoprecipitated from GM12878 nuclear extract by antibody MMS-126R </text>
+<text top="79" left="125" width="423" height="12" font="1">(Panel B).  Analysis by mass spectrometry of material immunoprecipitated by MMS-126R from HeLaS3 </text>
+<text top="91" left="125" width="424" height="12" font="1">cells shows very strong enrichment for POLR2A and associated components of RNA polymerase II (see </text>
+<text top="103" left="125" width="321" height="12" font="1">validation assay #2).  Therefore, MMS-126R meets this criterion for validation. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+	<fontspec id="4" size="22" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+	<fontspec id="7" size="8" family="Times" color="#000000"/>
+	<fontspec id="8" size="8" family="Times" color="#ffffff"/>
+	<fontspec id="9" size="16" family="Times" color="#000000"/>
+<text top="46" left="287" width="222" height="16" font="3"><b>Immunoblot/Immunoprecipitation </b></text>
+<text top="62" left="196" width="406" height="16" font="3"><b>Antibody: RNA Polymerase II      Source: Covance MMS-126R </b></text>
+<text top="79" left="125" width="546" height="16" font="3"><b>Epitope:  The antibody 8WG16 was developed using RNA polymerase (RNA pol II) </b></text>
+<text top="96" left="123" width="550" height="16" font="3"><b>purified from wheat germ extract. It recognizes the C-terminal heptapeptide repeat </b></text>
+<text top="113" left="269" width="258" height="16" font="3"><b>present on the largest subunit of pol II.</b></text>
+<text top="104" left="521" width="7" height="27" font="4"> </text>
+<text top="436" left="72" width="203" height="15" font="5">Immunoblot analysis of extracts from cell </text>
+<text top="450" left="75" width="199" height="15" font="5">lines K562 (le8) and HeLaS3 (right) using </text>
+<text top="464" left="144" width="60" height="15" font="5">MMS‐126R. </text>
+<text top="250" left="334" width="0" height="15" font="6"><b>Nuclear Extr</b></text>
+<text top="189" left="334" width="0" height="15" font="6"><b>act </b></text>
+<text top="247" left="398" width="0" height="15" font="6"><b>Superna</b></text>
+<text top="206" left="398" width="0" height="15" font="6"><b>tan</b></text>
+<text top="190" left="398" width="0" height="15" font="6"><b>t, 1ug </b></text>
+<text top="250" left="427" width="0" height="15" font="6"><b>Superna</b></text>
+<text top="209" left="427" width="0" height="15" font="6"><b>tan</b></text>
+<text top="192" left="427" width="0" height="15" font="6"><b>t, 2ug </b></text>
+<text top="250" left="460" width="0" height="15" font="6"><b>Superna</b></text>
+<text top="209" left="460" width="0" height="15" font="6"><b>tan</b></text>
+<text top="192" left="460" width="0" height="15" font="6"><b>t, 4ug </b></text>
+<text top="250" left="492" width="0" height="15" font="6"><b>IgG, 1ug </b></text>
+<text top="250" left="525" width="0" height="15" font="6"><b>IgG, 2ug </b></text>
+<text top="250" left="557" width="0" height="15" font="6"><b>IgG, 4ug </b></text>
+<text top="250" left="590" width="0" height="15" font="6"><b>Pol II IP</b></text>
+<text top="214" left="590" width="0" height="15" font="6"><b>, 1ug </b></text>
+<text top="250" left="622" width="0" height="15" font="6"><b>Pol II IP</b></text>
+<text top="214" left="622" width="0" height="15" font="6"><b>, 2ug </b></text>
+<text top="250" left="655" width="0" height="15" font="6"><b>Pol II IP</b></text>
+<text top="214" left="655" width="0" height="15" font="6"><b>, 4ug </b></text>
+<text top="436" left="323" width="361" height="15" font="5">GM12878 nuclear extract was immunoprecipitated with 1,2 and 4ug Pol II </text>
+<text top="450" left="319" width="368" height="15" font="5">anNbody (Covance, MMS‐126R) or normal mouse IgG as a negaNve control. </text>
+<text top="464" left="318" width="371" height="15" font="5">Supernatant was checked to see the compleNon of IP.  Arrow indicates band </text>
+<text top="479" left="389" width="230" height="15" font="5">speciﬁcally immunoprecipitated by MMS‐126R </text>
+<text top="249" left="345" width="43" height="11" font="7"><b>MW (kD) </b></text>
+<text top="322" left="352" width="19" height="11" font="8"><b>100 </b></text>
+<text top="338" left="355" width="14" height="11" font="8"><b>75 </b></text>
+<text top="354" left="355" width="14" height="11" font="8"><b>50 </b></text>
+<text top="385" left="355" width="14" height="11" font="8"><b>38 </b></text>
+<text top="302" left="352" width="19" height="11" font="8"><b>150 </b></text>
+<text top="400" left="355" width="14" height="11" font="8"><b>25 </b></text>
+<text top="277" left="352" width="19" height="11" font="8"><b>250 </b></text>
+<text top="258" left="133" width="42" height="11" font="1">MW (kD) </text>
+<text top="329" left="146" width="19" height="11" font="1">100 </text>
+<text top="348" left="150" width="14" height="11" font="1">75 </text>
+<text top="377" left="150" width="14" height="11" font="1">50 </text>
+<text top="399" left="150" width="14" height="11" font="1">38 </text>
+<text top="304" left="146" width="19" height="11" font="1">150 </text>
+<text top="281" left="146" width="19" height="11" font="1">250 </text>
+<text top="231" left="108" width="22" height="20" font="9">A. </text>
+<text top="231" left="272" width="22" height="20" font="9">B. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="696" left="268" width="68" height="12" font="1">Submit by Email</text>
+<text top="43" left="130" width="422" height="12" font="1">Immunoprecipitation of POLR2A fromHeLa S3 cells using  MMS-126R followed by mass spectrometry: </text>
+<text top="55" left="130" width="420" height="12" font="1">Briefly, HeLaS3 whole cell lysates were immunoprecipitated using MMS-126R ,and the IP fraction was </text>
+<text top="67" left="130" width="190" height="12" font="1">loaded on a 10% polyacrylamide gel (NuPAGE</text>
+<text top="66" left="320" width="235" height="14" font="1">ｨ Bis-Tris Gel) and separated with an invitrogen NuPAGE </text>
+<text top="79" left="130" width="421" height="12" font="1">electrophoresis system. The gel was silver-stained, gel fragments corresponding the full length of the </text>
+<text top="91" left="130" width="219" height="12" font="1">gel were excised and destained using the SilverSNAP</text>
+<text top="90" left="349" width="184" height="14" font="1">ｨ Stain for Mass Spectrometry (Pierce). Then </text>
+<text top="103" left="130" width="412" height="12" font="1">proteins were trysinized using the in-gel digestion method. Digested proteins were analyzed on an </text>
+<text top="115" left="130" width="414" height="12" font="1">LTQ-Orbitrap (Thermo Scientific) by the  nanoLC-ESI-MS/MS technique. Peptides were identified by  </text>
+<text top="127" left="130" width="414" height="12" font="1">the SEQUEST algorithm and filtered with a high confidence threshold (Protein false discovery rate &lt; </text>
+<text top="139" left="130" width="391" height="12" font="1">1%, 2 peptides per protein minimum).  Samples were run twice and results from both runs are </text>
+<text top="152" left="130" width="45" height="12" font="1">presented </text>
+<text top="164" left="130" width="2" height="12" font="1"> </text>
+<text top="176" left="130" width="398" height="12" font="1">We report 158 proteins identified in this immunoprecipitation.  However, only  21 of these were </text>
+<text top="188" left="130" width="418" height="12" font="1">identified in the immunoprecipitation with MMS-126R, but not the control immunoprecipitation.  Of </text>
+<text top="200" left="130" width="406" height="12" font="1">these 21, POLR2A is the most abundant (highlighted in yellow) and all other abundantly identifed </text>
+<text top="212" left="130" width="360" height="12" font="1">proteins (highlighted in blue) are known to be part of the RNA polymerase II complex . </text>
+<text top="224" left="130" width="2" height="12" font="1"> </text>
+<text top="236" left="130" width="417" height="12" font="1">Based on these observations, MMS-126R meets the ENCODE standard for validation by this criterion. </text>
+<text top="248" left="130" width="2" height="12" font="1"> </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+<text top="81" left="203" width="64" height="11" font="7"><b>Protein name</b></text>
+<text top="57" left="423" width="86" height="11" font="7"><b>Peptide count       </b></text>
+<text top="69" left="429" width="59" height="11" font="7"><b>IgG control  </b></text>
+<text top="81" left="444" width="25" height="11" font="7"><b>Rep1</b></text>
+<text top="57" left="496" width="69" height="11" font="7"><b>Peptide count </b></text>
+<text top="69" left="503" width="59" height="11" font="7"><b>IgG control  </b></text>
+<text top="81" left="517" width="25" height="11" font="7"><b>Rep2</b></text>
+<text top="57" left="570" width="69" height="11" font="7"><b>Peptide count </b></text>
+<text top="69" left="580" width="53" height="11" font="7"><b>MMS126R  </b></text>
+<text top="81" left="591" width="25" height="11" font="7"><b>Rep1</b></text>
+<text top="57" left="644" width="69" height="11" font="7"><b>Peptide count </b></text>
+<text top="69" left="653" width="53" height="11" font="7"><b>MMS126R  </b></text>
+<text top="81" left="665" width="25" height="11" font="7"><b>Rep2</b></text>
+<text top="93" left="108" width="254" height="11" font="1">POLR2A DNA-directed RNA polymerase II subunit RPB1</text>
+<text top="93" left="453" width="6" height="11" font="1">0</text>
+<text top="93" left="527" width="6" height="11" font="1">0</text>
+<text top="93" left="595" width="17" height="11" font="1">160</text>
+<text top="93" left="669" width="17" height="11" font="1">233</text>
+<text top="105" left="108" width="254" height="11" font="1">POLR2B DNA-directed RNA polymerase II subunit RPB2</text>
+<text top="105" left="453" width="6" height="11" font="1">0</text>
+<text top="105" left="527" width="6" height="11" font="1">0</text>
+<text top="105" left="595" width="17" height="11" font="1">121</text>
+<text top="105" left="669" width="17" height="11" font="1">170</text>
+<text top="117" left="101" width="269" height="11" font="1">RPAP2 Isoform 1 of RNA polymerase II-associated protein 2</text>
+<text top="117" left="453" width="6" height="11" font="1">0</text>
+<text top="117" left="527" width="6" height="11" font="1">0</text>
+<text top="117" left="598" width="11" height="11" font="1">21</text>
+<text top="117" left="672" width="11" height="11" font="1">27</text>
+<text top="129" left="108" width="255" height="11" font="1">POLR2G DNA-directed RNA polymerase II subunit RPB7</text>
+<text top="129" left="453" width="6" height="11" font="1">0</text>
+<text top="129" left="527" width="6" height="11" font="1">0</text>
+<text top="129" left="598" width="11" height="11" font="1">18</text>
+<text top="129" left="672" width="11" height="11" font="1">27</text>
+<text top="141" left="78" width="315" height="11" font="1">POLR2H DNA-directed RNA polymerases I, II, and III subunit RPABC3</text>
+<text top="141" left="453" width="6" height="11" font="1">0</text>
+<text top="141" left="527" width="6" height="11" font="1">0</text>
+<text top="141" left="598" width="11" height="11" font="1">17</text>
+<text top="141" left="672" width="11" height="11" font="1">20</text>
+<text top="153" left="108" width="255" height="11" font="1">POLR2C DNA-directed RNA polymerase II subunit RPB3</text>
+<text top="153" left="453" width="6" height="11" font="1">0</text>
+<text top="153" left="527" width="6" height="11" font="1">0</text>
+<text top="153" left="598" width="11" height="11" font="1">13</text>
+<text top="153" left="672" width="11" height="11" font="1">20</text>
+<text top="165" left="180" width="111" height="11" font="1">POLR2J RPB11a protein</text>
+<text top="165" left="453" width="6" height="11" font="1">0</text>
+<text top="165" left="527" width="6" height="11" font="1">0</text>
+<text top="165" left="600" width="6" height="11" font="1">9</text>
+<text top="165" left="674" width="6" height="11" font="1">5</text>
+<text top="177" left="78" width="315" height="11" font="1">POLR2E DNA-directed RNA polymerases I, II, and III subunit RPABC1</text>
+<text top="177" left="453" width="6" height="11" font="1">0</text>
+<text top="177" left="527" width="6" height="11" font="1">0</text>
+<text top="177" left="600" width="6" height="11" font="1">8</text>
+<text top="177" left="674" width="6" height="11" font="1">8</text>
+<text top="189" left="110" width="250" height="11" font="1">POLR2I DNA-directed RNA polymerase II subunit RPB9</text>
+<text top="189" left="453" width="6" height="11" font="1">0</text>
+<text top="189" left="527" width="6" height="11" font="1">0</text>
+<text top="189" left="600" width="6" height="11" font="1">7</text>
+<text top="189" left="672" width="10" height="11" font="1">11</text>
+<text top="201" left="201" width="68" height="11" font="1">ALMS1 ALMS1</text>
+<text top="201" left="453" width="6" height="11" font="1">0</text>
+<text top="201" left="527" width="6" height="11" font="1">0</text>
+<text top="201" left="600" width="6" height="11" font="1">5</text>
+<text top="201" left="674" width="6" height="11" font="1">0</text>
+<text top="213" left="108" width="255" height="11" font="1">POLR2D DNA-directed RNA polymerase II subunit RPB4</text>
+<text top="213" left="453" width="6" height="11" font="1">0</text>
+<text top="213" left="527" width="6" height="11" font="1">0</text>
+<text top="213" left="600" width="6" height="11" font="1">3</text>
+<text top="213" left="674" width="6" height="11" font="1">8</text>
+<text top="225" left="125" width="221" height="11" font="1">GRINL1A;Gcom1 Isoform 12 of Protein GRINL1A</text>
+<text top="225" left="453" width="6" height="11" font="1">0</text>
+<text top="225" left="527" width="6" height="11" font="1">0</text>
+<text top="225" left="600" width="6" height="11" font="1">3</text>
+<text top="225" left="674" width="6" height="11" font="1">8</text>
+<text top="237" left="104" width="263" height="11" font="1">RECQL5 Isoform Beta of ATP-dependent DNA helicase Q5</text>
+<text top="237" left="453" width="6" height="11" font="1">0</text>
+<text top="237" left="527" width="6" height="11" font="1">0</text>
+<text top="237" left="600" width="6" height="11" font="1">3</text>
+<text top="237" left="674" width="6" height="11" font="1">3</text>
+<text top="249" left="78" width="313" height="11" font="1">POLR2L DNA-directed RNA polymerases I, II, and III subunit RPABC5</text>
+<text top="249" left="453" width="6" height="11" font="1">0</text>
+<text top="249" left="527" width="6" height="11" font="1">0</text>
+<text top="249" left="600" width="6" height="11" font="1">2</text>
+<text top="249" left="674" width="6" height="11" font="1">7</text>
+<text top="261" left="150" width="170" height="11" font="1">KRT6A Keratin, type II cytoskeletal 6A</text>
+<text top="261" left="453" width="6" height="11" font="1">0</text>
+<text top="261" left="527" width="6" height="11" font="1">0</text>
+<text top="261" left="600" width="6" height="11" font="1">2</text>
+<text top="261" left="674" width="6" height="11" font="1">3</text>
+<text top="273" left="78" width="315" height="11" font="1">POLR2K DNA-directed RNA polymerases I, II, and III subunit RPABC4</text>
+<text top="273" left="453" width="6" height="11" font="1">0</text>
+<text top="273" left="527" width="6" height="11" font="1">0</text>
+<text top="273" left="600" width="6" height="11" font="1">2</text>
+<text top="273" left="674" width="6" height="11" font="1">2</text>
+<text top="285" left="155" width="161" height="11" font="1">RFC4 Replication factor C subunit 4</text>
+<text top="285" left="453" width="6" height="11" font="1">0</text>
+<text top="285" left="527" width="6" height="11" font="1">0</text>
+<text top="285" left="600" width="6" height="11" font="1">2</text>
+<text top="285" left="674" width="6" height="11" font="1">0</text>
+<text top="297" left="127" width="217" height="11" font="1">RFC2 Isoform 1 of Replication factor C subunit 2</text>
+<text top="297" left="453" width="6" height="11" font="1">0</text>
+<text top="297" left="527" width="6" height="11" font="1">0</text>
+<text top="297" left="600" width="6" height="11" font="1">2</text>
+<text top="297" left="674" width="6" height="11" font="1">0</text>
+<text top="309" left="200" width="70" height="11" font="1">GAN Gigaxonin</text>
+<text top="309" left="453" width="6" height="11" font="1">0</text>
+<text top="309" left="527" width="6" height="11" font="1">0</text>
+<text top="309" left="600" width="6" height="11" font="1">1</text>
+<text top="309" left="674" width="6" height="11" font="1">0</text>
+<text top="321" left="78" width="314" height="11" font="1">POLR3E Isoform 3 of DNA-directed RNA polymerase III subunit RPC5</text>
+<text top="321" left="453" width="6" height="11" font="1">0</text>
+<text top="321" left="527" width="6" height="11" font="1">0</text>
+<text top="321" left="600" width="6" height="11" font="1">0</text>
+<text top="321" left="674" width="6" height="11" font="1">1</text>
+<text top="333" left="180" width="110" height="11" font="1">HIST1H1D Histone H1.3</text>
+<text top="333" left="453" width="6" height="11" font="1">0</text>
+<text top="333" left="527" width="6" height="11" font="1">0</text>
+<text top="333" left="600" width="6" height="11" font="1">0</text>
+<text top="333" left="674" width="6" height="11" font="1">1</text>
+<text top="345" left="160" width="151" height="11" font="1">RPL36 60S ribosomal protein L36</text>
+<text top="345" left="453" width="6" height="11" font="1">0</text>
+<text top="345" left="527" width="6" height="11" font="1">1</text>
+<text top="345" left="600" width="6" height="11" font="1">2</text>
+<text top="345" left="674" width="6" height="11" font="1">0</text>
+<text top="357" left="160" width="151" height="11" font="1">RPL31 60S ribosomal protein L31</text>
+<text top="357" left="453" width="6" height="11" font="1">0</text>
+<text top="357" left="527" width="6" height="11" font="1">2</text>
+<text top="357" left="600" width="6" height="11" font="1">1</text>
+<text top="357" left="674" width="6" height="11" font="1">1</text>
+<text top="369" left="170" width="130" height="11" font="1">PLEC1 Isoform 1 of Plectin-1</text>
+<text top="369" left="453" width="6" height="11" font="1">0</text>
+<text top="369" left="527" width="6" height="11" font="1">2</text>
+<text top="369" left="600" width="6" height="11" font="1">0</text>
+<text top="369" left="674" width="6" height="11" font="1">0</text>
+<text top="381" left="165" width="141" height="11" font="1">TUBB2C Tubulin beta-2C chain</text>
+<text top="381" left="453" width="6" height="11" font="1">0</text>
+<text top="381" left="527" width="6" height="11" font="1">2</text>
+<text top="381" left="600" width="6" height="11" font="1">0</text>
+<text top="381" left="674" width="6" height="11" font="1">0</text>
+<text top="393" left="130" width="211" height="11" font="1">GPSN2 Isoform 1 of Synaptic glycoprotein SC2</text>
+<text top="393" left="453" width="6" height="11" font="1">0</text>
+<text top="393" left="527" width="6" height="11" font="1">2</text>
+<text top="393" left="600" width="6" height="11" font="1">0</text>
+<text top="393" left="674" width="6" height="11" font="1">0</text>
+<text top="417" left="54" width="361" height="11" font="1">HNRPUL1 Isoform 1 of Heterogeneous nuclear ribonucleoprotein U-like protein 1</text>
+<text top="417" left="453" width="6" height="11" font="1">1</text>
+<text top="417" left="527" width="6" height="11" font="1">0</text>
+<text top="417" left="600" width="6" height="11" font="1">5</text>
+<text top="417" left="674" width="6" height="11" font="1">7</text>
+<text top="429" left="195" width="80" height="11" font="1">FLG2 Ifapsoriasin</text>
+<text top="429" left="453" width="6" height="11" font="1">1</text>
+<text top="429" left="527" width="6" height="11" font="1">0</text>
+<text top="429" left="600" width="6" height="11" font="1">2</text>
+<text top="429" left="674" width="6" height="11" font="1">2</text>
+<text top="441" left="102" width="266" height="11" font="1">RPS26 Novel protein similar to ribosomal protein 26 RPS26</text>
+<text top="441" left="453" width="6" height="11" font="1">1</text>
+<text top="441" left="527" width="6" height="11" font="1">0</text>
+<text top="441" left="600" width="6" height="11" font="1">1</text>
+<text top="441" left="674" width="6" height="11" font="1">2</text>
+<text top="453" left="161" width="149" height="11" font="1">- Similar to ribosomal protein S27</text>
+<text top="453" left="453" width="6" height="11" font="1">1</text>
+<text top="453" left="527" width="6" height="11" font="1">0</text>
+<text top="453" left="600" width="6" height="11" font="1">1</text>
+<text top="453" left="674" width="6" height="11" font="1">0</text>
+<text top="465" left="158" width="154" height="11" font="1">RPS23 40S ribosomal protein S23</text>
+<text top="465" left="453" width="6" height="11" font="1">1</text>
+<text top="465" left="527" width="6" height="11" font="1">0</text>
+<text top="465" left="600" width="6" height="11" font="1">0</text>
+<text top="465" left="674" width="6" height="11" font="1">2</text>
+<text top="477" left="82" width="306" height="11" font="1">PRKDC Isoform 1 of DNA-dependent protein kinase catalytic subunit</text>
+<text top="477" left="453" width="6" height="11" font="1">1</text>
+<text top="477" left="527" width="6" height="11" font="1">0</text>
+<text top="477" left="600" width="6" height="11" font="1">0</text>
+<text top="477" left="674" width="6" height="11" font="1">0</text>
+<text top="489" left="142" width="187" height="11" font="1">MSH3 DNA mismatch repair protein Msh3</text>
+<text top="489" left="453" width="6" height="11" font="1">1</text>
+<text top="489" left="527" width="6" height="11" font="1">0</text>
+<text top="489" left="600" width="6" height="11" font="1">0</text>
+<text top="489" left="674" width="6" height="11" font="1">0</text>
+<text top="501" left="62" width="346" height="11" font="1">APOBEC3B Isoform 1 of Probable DNA dC-&gt;dU-editing enzyme APOBEC-3B</text>
+<text top="501" left="453" width="6" height="11" font="1">1</text>
+<text top="501" left="527" width="6" height="11" font="1">0</text>
+<text top="501" left="600" width="6" height="11" font="1">0</text>
+<text top="501" left="674" width="6" height="11" font="1">0</text>
+<text top="513" left="160" width="151" height="11" font="1">RPL27 60S ribosomal protein L27</text>
+<text top="513" left="453" width="6" height="11" font="1">1</text>
+<text top="513" left="527" width="6" height="11" font="1">0</text>
+<text top="513" left="600" width="6" height="11" font="1">0</text>
+<text top="513" left="674" width="6" height="11" font="1">0</text>
+<text top="525" left="135" width="199" height="11" font="1">IGKC Immunoblobulin light chain (Fragment)</text>
+<text top="525" left="453" width="6" height="11" font="1">1</text>
+<text top="525" left="527" width="6" height="11" font="1">1</text>
+<text top="525" left="600" width="6" height="11" font="1">2</text>
+<text top="525" left="674" width="6" height="11" font="1">0</text>
+<text top="537" left="72" width="326" height="11" font="1">SLC25A3 Isoform A of Phosphate carrier protein, mitochondrial precursor</text>
+<text top="537" left="453" width="6" height="11" font="1">1</text>
+<text top="537" left="527" width="6" height="11" font="1">1</text>
+<text top="537" left="600" width="6" height="11" font="1">1</text>
+<text top="537" left="674" width="6" height="11" font="1">1</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="612" width="792">
+<text top="54" left="197" width="77" height="11" font="1">CETN2 Centrin-2</text>
+<text top="54" left="453" width="6" height="11" font="1">1</text>
+<text top="54" left="527" width="6" height="11" font="1">1</text>
+<text top="54" left="600" width="6" height="11" font="1">0</text>
+<text top="54" left="674" width="6" height="11" font="1">2</text>
+<text top="66" left="147" width="175" height="11" font="1">BANF1 Barrier-to-autointegration factor</text>
+<text top="66" left="453" width="6" height="11" font="1">1</text>
+<text top="66" left="527" width="6" height="11" font="1">1</text>
+<text top="66" left="600" width="6" height="11" font="1">0</text>
+<text top="66" left="674" width="6" height="11" font="1">1</text>
+<text top="78" left="158" width="154" height="11" font="1">RPS20 40S ribosomal protein S20</text>
+<text top="78" left="453" width="6" height="11" font="1">1</text>
+<text top="78" left="527" width="6" height="11" font="1">2</text>
+<text top="78" left="600" width="6" height="11" font="1">2</text>
+<text top="78" left="674" width="6" height="11" font="1">0</text>
+<text top="90" left="160" width="151" height="11" font="1">RPL28 60S ribosomal protein L28</text>
+<text top="90" left="453" width="6" height="11" font="1">1</text>
+<text top="90" left="527" width="6" height="11" font="1">2</text>
+<text top="90" left="600" width="6" height="11" font="1">1</text>
+<text top="90" left="674" width="6" height="11" font="1">2</text>
+<text top="102" left="158" width="155" height="11" font="1">HIST1H2AH Histone H2A type 1-H</text>
+<text top="102" left="453" width="6" height="11" font="1">1</text>
+<text top="102" left="527" width="6" height="11" font="1">3</text>
+<text top="102" left="600" width="6" height="11" font="1">4</text>
+<text top="102" left="674" width="6" height="11" font="1">3</text>
+<text top="114" left="160" width="151" height="11" font="1">RPL18 60S ribosomal protein L18</text>
+<text top="114" left="453" width="6" height="11" font="1">1</text>
+<text top="114" left="527" width="6" height="11" font="1">4</text>
+<text top="114" left="600" width="6" height="11" font="1">0</text>
+<text top="114" left="674" width="6" height="11" font="1">0</text>
+<text top="126" left="150" width="170" height="11" font="1">RALY RNA binding protein (Fragment)</text>
+<text top="126" left="453" width="6" height="11" font="1">2</text>
+<text top="126" left="527" width="6" height="11" font="1">0</text>
+<text top="126" left="600" width="6" height="11" font="1">1</text>
+<text top="126" left="674" width="6" height="11" font="1">0</text>
+<text top="138" left="140" width="189" height="11" font="1">RPL26L1 60S ribosomal protein L26-like 1</text>
+<text top="138" left="453" width="6" height="11" font="1">2</text>
+<text top="138" left="527" width="6" height="11" font="1">0</text>
+<text top="138" left="600" width="6" height="11" font="1">0</text>
+<text top="138" left="674" width="6" height="11" font="1">0</text>
+<text top="150" left="196" width="78" height="11" font="1">TFG Protein TFG</text>
+<text top="150" left="453" width="6" height="11" font="1">2</text>
+<text top="150" left="527" width="6" height="11" font="1">0</text>
+<text top="150" left="600" width="6" height="11" font="1">0</text>
+<text top="150" left="674" width="6" height="11" font="1">0</text>
+<text top="162" left="98" width="275" height="11" font="1">ATP5A1 ATP synthase subunit alpha, mitochondrial precursor</text>
+<text top="162" left="453" width="6" height="11" font="1">2</text>
+<text top="162" left="527" width="6" height="11" font="1">0</text>
+<text top="162" left="600" width="6" height="11" font="1">0</text>
+<text top="162" left="674" width="6" height="11" font="1">0</text>
+<text top="174" left="71" width="328" height="11" font="1">EWSR1 cDNA FLJ31747 fis, clone NT2RI2007377, highly similar to RNA-</text>
+<text top="186" left="178" width="115" height="11" font="1">BINDING PROTEIN EWS</text>
+<text top="186" left="453" width="6" height="11" font="1">2</text>
+<text top="186" left="527" width="6" height="11" font="1">1</text>
+<text top="186" left="600" width="6" height="11" font="1">8</text>
+<text top="186" left="674" width="6" height="11" font="1">8</text>
+<text top="198" left="144" width="183" height="11" font="1">PDCD6 Programmed cell death protein 6</text>
+<text top="198" left="453" width="6" height="11" font="1">2</text>
+<text top="198" left="527" width="6" height="11" font="1">1</text>
+<text top="198" left="600" width="6" height="11" font="1">1</text>
+<text top="198" left="674" width="6" height="11" font="1">1</text>
+<text top="210" left="158" width="154" height="11" font="1">RPS10 40S ribosomal protein S10</text>
+<text top="210" left="453" width="6" height="11" font="1">2</text>
+<text top="210" left="527" width="6" height="11" font="1">1</text>
+<text top="210" left="600" width="6" height="11" font="1">0</text>
+<text top="210" left="674" width="6" height="11" font="1">2</text>
+<text top="222" left="154" width="163" height="11" font="1">RPL37A 60S ribosomal protein L37a</text>
+<text top="222" left="453" width="6" height="11" font="1">2</text>
+<text top="222" left="527" width="6" height="11" font="1">1</text>
+<text top="222" left="600" width="6" height="11" font="1">0</text>
+<text top="222" left="674" width="6" height="11" font="1">1</text>
+<text top="234" left="114" width="243" height="11" font="1">TCEB2 Transcription elongation factor B polypeptide 2</text>
+<text top="234" left="453" width="6" height="11" font="1">2</text>
+<text top="234" left="527" width="6" height="11" font="1">1</text>
+<text top="234" left="600" width="6" height="11" font="1">0</text>
+<text top="234" left="674" width="6" height="11" font="1">0</text>
+<text top="246" left="165" width="140" height="11" font="1">RPL6 60S ribosomal protein L6</text>
+<text top="246" left="453" width="6" height="11" font="1">2</text>
+<text top="246" left="527" width="6" height="11" font="1">1</text>
+<text top="246" left="600" width="6" height="11" font="1">0</text>
+<text top="246" left="674" width="6" height="11" font="1">0</text>
+<text top="258" left="78" width="313" height="11" font="1">HNRPDL Isoform 1 of Heterogeneous nuclear ribonucleoprotein D-like</text>
+<text top="258" left="453" width="6" height="11" font="1">2</text>
+<text top="258" left="527" width="6" height="11" font="1">1</text>
+<text top="258" left="600" width="6" height="11" font="1">0</text>
+<text top="258" left="674" width="6" height="11" font="1">0</text>
+<text top="270" left="64" width="342" height="11" font="1">RBMS1 Isoform 2 of RNA-binding motif, single-stranded-interacting protein 1</text>
+<text top="270" left="453" width="6" height="11" font="1">2</text>
+<text top="270" left="527" width="6" height="11" font="1">1</text>
+<text top="270" left="600" width="6" height="11" font="1">0</text>
+<text top="270" left="674" width="6" height="11" font="1">0</text>
+<text top="282" left="152" width="166" height="11" font="1">KRT18 Keratin, type I cytoskeletal 18</text>
+<text top="282" left="453" width="6" height="11" font="1">2</text>
+<text top="282" left="527" width="6" height="11" font="1">1</text>
+<text top="282" left="600" width="6" height="11" font="1">0</text>
+<text top="282" left="674" width="6" height="11" font="1">0</text>
+<text top="294" left="160" width="151" height="11" font="1">PCBP1 Poly(rC)-binding protein 1</text>
+<text top="294" left="453" width="6" height="11" font="1">2</text>
+<text top="294" left="527" width="6" height="11" font="1">2</text>
+<text top="294" left="600" width="6" height="11" font="1">3</text>
+<text top="294" left="674" width="6" height="11" font="1">0</text>
+<text top="306" left="160" width="151" height="11" font="1">RPL30 60S ribosomal protein L30</text>
+<text top="306" left="453" width="6" height="11" font="1">2</text>
+<text top="306" left="527" width="6" height="11" font="1">2</text>
+<text top="306" left="600" width="6" height="11" font="1">2</text>
+<text top="306" left="674" width="6" height="11" font="1">3</text>
+<text top="318" left="132" width="206" height="11" font="1">RPL11 Isoform 1 of 60S ribosomal protein L11</text>
+<text top="318" left="453" width="6" height="11" font="1">2</text>
+<text top="318" left="527" width="6" height="11" font="1">2</text>
+<text top="318" left="600" width="6" height="11" font="1">2</text>
+<text top="318" left="674" width="6" height="11" font="1">2</text>
+<text top="330" left="147" width="176" height="11" font="1">RPLP1 60S acidic ribosomal protein P1</text>
+<text top="330" left="453" width="6" height="11" font="1">2</text>
+<text top="330" left="527" width="6" height="11" font="1">2</text>
+<text top="330" left="600" width="6" height="11" font="1">1</text>
+<text top="330" left="674" width="6" height="11" font="1">2</text>
+<text top="342" left="164" width="142" height="11" font="1">RPS5 40S ribosomal protein S5</text>
+<text top="342" left="453" width="6" height="11" font="1">2</text>
+<text top="342" left="527" width="6" height="11" font="1">2</text>
+<text top="342" left="600" width="6" height="11" font="1">1</text>
+<text top="342" left="674" width="6" height="11" font="1">1</text>
+<text top="354" left="125" width="221" height="11" font="1">RPL23A;hCG_16001 60S ribosomal protein L23a</text>
+<text top="354" left="453" width="6" height="11" font="1">2</text>
+<text top="354" left="527" width="6" height="11" font="1">2</text>
+<text top="354" left="600" width="6" height="11" font="1">1</text>
+<text top="354" left="674" width="6" height="11" font="1">1</text>
+<text top="366" left="87" width="297" height="11" font="1">FAU ubiquitin-like protein fubi and ribosomal protein S30 precursor</text>
+<text top="366" left="453" width="6" height="11" font="1">2</text>
+<text top="366" left="527" width="6" height="11" font="1">2</text>
+<text top="366" left="600" width="6" height="11" font="1">1</text>
+<text top="366" left="674" width="6" height="11" font="1">1</text>
+<text top="378" left="161" width="149" height="11" font="1">HNRNPA2B1 HNRPA2B1 protein</text>
+<text top="378" left="453" width="6" height="11" font="1">2</text>
+<text top="378" left="527" width="6" height="11" font="1">2</text>
+<text top="378" left="600" width="6" height="11" font="1">0</text>
+<text top="378" left="674" width="6" height="11" font="1">1</text>
+<text top="390" left="132" width="205" height="11" font="1">DDX3X ATP-dependent RNA helicase DDX3X</text>
+<text top="390" left="453" width="6" height="11" font="1">2</text>
+<text top="390" left="527" width="6" height="11" font="1">2</text>
+<text top="390" left="600" width="6" height="11" font="1">0</text>
+<text top="390" left="674" width="6" height="11" font="1">1</text>
+<text top="402" left="160" width="151" height="11" font="1">RPL35 60S ribosomal protein L35</text>
+<text top="402" left="453" width="6" height="11" font="1">2</text>
+<text top="402" left="527" width="6" height="11" font="1">2</text>
+<text top="402" left="600" width="6" height="11" font="1">0</text>
+<text top="402" left="674" width="6" height="11" font="1">1</text>
+<text top="414" left="88" width="294" height="11" font="1">SUB1 Activated RNA polymerase II transcriptional coactivator p15</text>
+<text top="414" left="453" width="6" height="11" font="1">2</text>
+<text top="414" left="527" width="6" height="11" font="1">2</text>
+<text top="414" left="600" width="6" height="11" font="1">0</text>
+<text top="414" left="674" width="6" height="11" font="1">0</text>
+<text top="426" left="130" width="211" height="11" font="1">PHGDH D-3-phosphoglycerate dehydrogenase</text>
+<text top="426" left="453" width="6" height="11" font="1">2</text>
+<text top="426" left="527" width="6" height="11" font="1">2</text>
+<text top="426" left="600" width="6" height="11" font="1">0</text>
+<text top="426" left="674" width="6" height="11" font="1">0</text>
+<text top="438" left="158" width="154" height="11" font="1">RPS25 40S ribosomal protein S25</text>
+<text top="438" left="453" width="6" height="11" font="1">2</text>
+<text top="438" left="527" width="6" height="11" font="1">2</text>
+<text top="438" left="600" width="6" height="11" font="1">0</text>
+<text top="438" left="674" width="6" height="11" font="1">0</text>
+<text top="450" left="155" width="161" height="11" font="1">EEF1A2 Elongation factor 1-alpha 2</text>
+<text top="450" left="453" width="6" height="11" font="1">2</text>
+<text top="450" left="527" width="6" height="11" font="1">2</text>
+<text top="450" left="600" width="6" height="11" font="1">0</text>
+<text top="450" left="674" width="6" height="11" font="1">0</text>
+<text top="462" left="115" width="240" height="11" font="1">GAPDH Glyceraldehyde-3-phosphate dehydrogenase</text>
+<text top="462" left="453" width="6" height="11" font="1">2</text>
+<text top="462" left="527" width="6" height="11" font="1">2</text>
+<text top="462" left="600" width="6" height="11" font="1">0</text>
+<text top="462" left="674" width="6" height="11" font="1">0</text>
+<text top="474" left="199" width="72" height="11" font="1">- 15 kDa protein</text>
+<text top="474" left="453" width="6" height="11" font="1">2</text>
+<text top="474" left="527" width="6" height="11" font="1">2</text>
+<text top="474" left="600" width="6" height="11" font="1">0</text>
+<text top="474" left="674" width="6" height="11" font="1">0</text>
+<text top="486" left="62" width="346" height="11" font="1">PCMT1 Isoform 1 of Protein-L-isoaspartate(D-aspartate) O-methyltransferase</text>
+<text top="486" left="453" width="6" height="11" font="1">2</text>
+<text top="486" left="527" width="6" height="11" font="1">2</text>
+<text top="486" left="600" width="6" height="11" font="1">0</text>
+<text top="486" left="674" width="6" height="11" font="1">0</text>
+<text top="498" left="159" width="152" height="11" font="1">RPS11 40S ribosomal protein S11</text>
+<text top="498" left="453" width="6" height="11" font="1">2</text>
+<text top="498" left="527" width="6" height="11" font="1">3</text>
+<text top="498" left="600" width="6" height="11" font="1">2</text>
+<text top="498" left="674" width="6" height="11" font="1">1</text>
+<text top="510" left="165" width="140" height="11" font="1">RPL8 60S ribosomal protein L8</text>
+<text top="510" left="453" width="6" height="11" font="1">2</text>
+<text top="510" left="527" width="6" height="11" font="1">3</text>
+<text top="510" left="600" width="6" height="11" font="1">2</text>
+<text top="510" left="674" width="6" height="11" font="1">1</text>
+<text top="522" left="130" width="210" height="11" font="1">RPS24 Isoform 1 of 40S ribosomal protein S24</text>
+<text top="522" left="453" width="6" height="11" font="1">2</text>
+<text top="522" left="527" width="6" height="11" font="1">3</text>
+<text top="522" left="600" width="6" height="11" font="1">1</text>
+<text top="522" left="674" width="6" height="11" font="1">1</text>
+<text top="534" left="160" width="151" height="11" font="1">RPL13 60S ribosomal protein L13</text>
+<text top="534" left="453" width="6" height="11" font="1">2</text>
+<text top="534" left="527" width="6" height="11" font="1">4</text>
+<text top="534" left="600" width="6" height="11" font="1">1</text>
+<text top="534" left="674" width="6" height="11" font="1">1</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="612" width="792">
+<text top="54" left="64" width="346" height="11" font="1">CPS1 Isoform 1 of Carbamoyl-phosphate synthase [ammonia], mitochondrial </text>
+<text top="66" left="214" width="43" height="11" font="1">precursor</text>
+<text top="66" left="453" width="6" height="11" font="1">3</text>
+<text top="66" left="527" width="6" height="11" font="1">0</text>
+<text top="66" left="600" width="6" height="11" font="1">1</text>
+<text top="66" left="674" width="6" height="11" font="1">1</text>
+<text top="78" left="187" width="97" height="11" font="1">TTN Isoform 2 of Titin</text>
+<text top="78" left="453" width="6" height="11" font="1">3</text>
+<text top="78" left="527" width="6" height="11" font="1">0</text>
+<text top="78" left="600" width="6" height="11" font="1">1</text>
+<text top="78" left="674" width="6" height="11" font="1">0</text>
+<text top="90" left="160" width="151" height="11" font="1">RPL24 60S ribosomal protein L24</text>
+<text top="90" left="453" width="6" height="11" font="1">3</text>
+<text top="90" left="527" width="6" height="11" font="1">1</text>
+<text top="90" left="600" width="6" height="11" font="1">2</text>
+<text top="90" left="674" width="6" height="11" font="1">2</text>
+<text top="102" left="182" width="107" height="11" font="1">TIAL1 Nucleolysin TIAR</text>
+<text top="102" left="453" width="6" height="11" font="1">3</text>
+<text top="102" left="527" width="6" height="11" font="1">1</text>
+<text top="102" left="600" width="6" height="11" font="1">1</text>
+<text top="102" left="674" width="6" height="11" font="1">0</text>
+<text top="114" left="74" width="322" height="11" font="1">HNRNPA1 Isoform A1-B of Heterogeneous nuclear ribonucleoprotein A1</text>
+<text top="114" left="453" width="6" height="11" font="1">3</text>
+<text top="114" left="527" width="6" height="11" font="1">1</text>
+<text top="114" left="600" width="6" height="11" font="1">1</text>
+<text top="114" left="674" width="6" height="11" font="1">0</text>
+<text top="126" left="92" width="286" height="11" font="1">RBMS2 RNA-binding motif, single-stranded-interacting protein 2</text>
+<text top="126" left="453" width="6" height="11" font="1">3</text>
+<text top="126" left="527" width="6" height="11" font="1">1</text>
+<text top="126" left="600" width="6" height="11" font="1">0</text>
+<text top="126" left="674" width="6" height="11" font="1">0</text>
+<text top="138" left="138" width="194" height="11" font="1">LOC284393 similar to QM protein isoform 1</text>
+<text top="138" left="453" width="6" height="11" font="1">3</text>
+<text top="138" left="527" width="6" height="11" font="1">1</text>
+<text top="138" left="600" width="6" height="11" font="1">0</text>
+<text top="138" left="674" width="6" height="11" font="1">0</text>
+<text top="150" left="151" width="168" height="11" font="1">KRT75 Keratin, type II cytoskeletal 75</text>
+<text top="150" left="453" width="6" height="11" font="1">3</text>
+<text top="150" left="527" width="6" height="11" font="1">2</text>
+<text top="150" left="600" width="6" height="11" font="1">5</text>
+<text top="150" left="674" width="6" height="11" font="1">1</text>
+<text top="162" left="160" width="151" height="11" font="1">RPL38 60S ribosomal protein L38</text>
+<text top="162" left="453" width="6" height="11" font="1">3</text>
+<text top="162" left="527" width="6" height="11" font="1">2</text>
+<text top="162" left="600" width="6" height="11" font="1">2</text>
+<text top="162" left="674" width="6" height="11" font="1">3</text>
+<text top="174" left="159" width="152" height="11" font="1">RPL7A 60S ribosomal protein L7a</text>
+<text top="174" left="453" width="6" height="11" font="1">3</text>
+<text top="174" left="527" width="6" height="11" font="1">2</text>
+<text top="174" left="600" width="6" height="11" font="1">1</text>
+<text top="174" left="674" width="6" height="11" font="1">3</text>
+<text top="186" left="154" width="163" height="11" font="1">RPL18A 60S ribosomal protein L18a</text>
+<text top="186" left="453" width="6" height="11" font="1">3</text>
+<text top="186" left="527" width="6" height="11" font="1">2</text>
+<text top="186" left="600" width="6" height="11" font="1">1</text>
+<text top="186" left="674" width="6" height="11" font="1">1</text>
+<text top="198" left="158" width="154" height="11" font="1">RPS16 40S ribosomal protein S16</text>
+<text top="198" left="453" width="6" height="11" font="1">3</text>
+<text top="198" left="527" width="6" height="11" font="1">2</text>
+<text top="198" left="600" width="6" height="11" font="1">1</text>
+<text top="198" left="674" width="6" height="11" font="1">1</text>
+<text top="210" left="98" width="273" height="11" font="1">TREX1;ATRIP Isoform 3 of Three prime repair exonuclease 1</text>
+<text top="210" left="453" width="6" height="11" font="1">3</text>
+<text top="210" left="527" width="6" height="11" font="1">2</text>
+<text top="210" left="600" width="6" height="11" font="1">1</text>
+<text top="210" left="674" width="6" height="11" font="1">0</text>
+<text top="222" left="134" width="202" height="11" font="1">hCG_21078 hypothetical protein LOC389435</text>
+<text top="222" left="453" width="6" height="11" font="1">3</text>
+<text top="222" left="527" width="6" height="11" font="1">3</text>
+<text top="222" left="600" width="6" height="11" font="1">3</text>
+<text top="222" left="674" width="6" height="11" font="1">3</text>
+<text top="234" left="137" width="197" height="11" font="1">RBM14 Isoform 1 of RNA-binding protein 14</text>
+<text top="234" left="453" width="6" height="11" font="1">3</text>
+<text top="234" left="527" width="6" height="11" font="1">3</text>
+<text top="234" left="600" width="6" height="11" font="1">2</text>
+<text top="234" left="674" width="6" height="11" font="1">2</text>
+<text top="246" left="61" width="349" height="11" font="1">APOBEC3C;APOBEC3D Probable DNA dC-&gt;dU-editing enzyme APOBEC-3C</text>
+<text top="246" left="453" width="6" height="11" font="1">3</text>
+<text top="246" left="527" width="6" height="11" font="1">3</text>
+<text top="246" left="600" width="6" height="11" font="1">1</text>
+<text top="246" left="674" width="6" height="11" font="1">2</text>
+<text top="258" left="105" width="260" height="11" font="1">GRPEL1 GrpE protein homolog 1, mitochondrial precursor</text>
+<text top="258" left="453" width="6" height="11" font="1">3</text>
+<text top="258" left="527" width="6" height="11" font="1">3</text>
+<text top="258" left="600" width="6" height="11" font="1">0</text>
+<text top="258" left="674" width="6" height="11" font="1">0</text>
+<text top="270" left="147" width="176" height="11" font="1">RPLP0 60S acidic ribosomal protein P0</text>
+<text top="270" left="453" width="6" height="11" font="1">3</text>
+<text top="270" left="527" width="6" height="11" font="1">4</text>
+<text top="270" left="600" width="6" height="11" font="1">4</text>
+<text top="270" left="674" width="6" height="11" font="1">2</text>
+<text top="282" left="160" width="151" height="11" font="1">RPL23 60S ribosomal protein L23</text>
+<text top="282" left="453" width="6" height="11" font="1">3</text>
+<text top="282" left="527" width="6" height="11" font="1">4</text>
+<text top="282" left="600" width="6" height="11" font="1">3</text>
+<text top="282" left="674" width="6" height="11" font="1">3</text>
+<text top="294" left="158" width="155" height="11" font="1">HIST2H2BE Histone H2B type 2-E</text>
+<text top="294" left="453" width="6" height="11" font="1">3</text>
+<text top="294" left="527" width="6" height="11" font="1">4</text>
+<text top="294" left="600" width="6" height="11" font="1">1</text>
+<text top="294" left="674" width="6" height="11" font="1">3</text>
+<text top="306" left="158" width="154" height="11" font="1">RPS19 40S ribosomal protein S19</text>
+<text top="306" left="453" width="6" height="11" font="1">3</text>
+<text top="306" left="527" width="6" height="11" font="1">4</text>
+<text top="306" left="600" width="6" height="11" font="1">0</text>
+<text top="306" left="674" width="6" height="11" font="1">0</text>
+<text top="318" left="164" width="142" height="11" font="1">RPS2 40S ribosomal protein S2</text>
+<text top="318" left="453" width="6" height="11" font="1">3</text>
+<text top="318" left="527" width="6" height="11" font="1">5</text>
+<text top="318" left="600" width="6" height="11" font="1">3</text>
+<text top="318" left="674" width="6" height="11" font="1">1</text>
+<text top="330" left="165" width="140" height="11" font="1">RPL7 60S ribosomal protein L7</text>
+<text top="330" left="453" width="6" height="11" font="1">3</text>
+<text top="330" left="527" width="6" height="11" font="1">5</text>
+<text top="330" left="600" width="6" height="11" font="1">2</text>
+<text top="330" left="674" width="6" height="11" font="1">1</text>
+<text top="342" left="148" width="175" height="11" font="1">- Anti-colorectal carcinoma heavy chain</text>
+<text top="342" left="453" width="6" height="11" font="1">3</text>
+<text top="342" left="527" width="6" height="11" font="1">8</text>
+<text top="342" left="598" width="10" height="11" font="1">11</text>
+<text top="342" left="672" width="11" height="11" font="1">15</text>
+<text top="354" left="152" width="166" height="11" font="1">KRT16 Keratin, type I cytoskeletal 16</text>
+<text top="354" left="453" width="6" height="11" font="1">4</text>
+<text top="354" left="527" width="6" height="11" font="1">0</text>
+<text top="354" left="600" width="6" height="11" font="1">6</text>
+<text top="354" left="674" width="6" height="11" font="1">6</text>
+<text top="366" left="132" width="207" height="11" font="1">CEBPB CCAAT/enhancer-binding protein beta</text>
+<text top="366" left="453" width="6" height="11" font="1">4</text>
+<text top="366" left="527" width="6" height="11" font="1">0</text>
+<text top="366" left="600" width="6" height="11" font="1">0</text>
+<text top="366" left="674" width="6" height="11" font="1">0</text>
+<text top="378" left="160" width="151" height="11" font="1">RPL12 60S ribosomal protein L12</text>
+<text top="378" left="453" width="6" height="11" font="1">4</text>
+<text top="378" left="527" width="6" height="11" font="1">2</text>
+<text top="378" left="600" width="6" height="11" font="1">3</text>
+<text top="378" left="674" width="6" height="11" font="1">3</text>
+<text top="390" left="147" width="176" height="11" font="1">RPLP2 60S acidic ribosomal protein P2</text>
+<text top="390" left="453" width="6" height="11" font="1">4</text>
+<text top="390" left="527" width="6" height="11" font="1">3</text>
+<text top="390" left="600" width="6" height="11" font="1">1</text>
+<text top="390" left="674" width="6" height="11" font="1">3</text>
+<text top="402" left="115" width="239" height="11" font="1">HNRPH1 Heterogeneous nuclear ribonucleoprotein H</text>
+<text top="402" left="453" width="6" height="11" font="1">4</text>
+<text top="402" left="527" width="6" height="11" font="1">3</text>
+<text top="402" left="600" width="6" height="11" font="1">0</text>
+<text top="402" left="674" width="6" height="11" font="1">0</text>
+<text top="414" left="164" width="142" height="11" font="1">RPS8 40S ribosomal protein S8</text>
+<text top="414" left="453" width="6" height="11" font="1">4</text>
+<text top="414" left="527" width="6" height="11" font="1">3</text>
+<text top="414" left="600" width="6" height="11" font="1">0</text>
+<text top="414" left="674" width="6" height="11" font="1">0</text>
+<text top="426" left="158" width="154" height="11" font="1">RPS13 40S ribosomal protein S13</text>
+<text top="426" left="453" width="6" height="11" font="1">4</text>
+<text top="426" left="527" width="6" height="11" font="1">4</text>
+<text top="426" left="600" width="6" height="11" font="1">4</text>
+<text top="426" left="674" width="6" height="11" font="1">4</text>
+<text top="438" left="142" width="187" height="11" font="1">MSH2 DNA mismatch repair protein Msh2</text>
+<text top="438" left="453" width="6" height="11" font="1">4</text>
+<text top="438" left="527" width="6" height="11" font="1">5</text>
+<text top="438" left="600" width="6" height="11" font="1">2</text>
+<text top="438" left="674" width="6" height="11" font="1">0</text>
+<text top="450" left="164" width="142" height="11" font="1">RPS6 40S ribosomal protein S6</text>
+<text top="450" left="453" width="6" height="11" font="1">4</text>
+<text top="450" left="527" width="6" height="11" font="1">7</text>
+<text top="450" left="600" width="6" height="11" font="1">2</text>
+<text top="450" left="674" width="6" height="11" font="1">1</text>
+<text top="462" left="113" width="244" height="11" font="1">RAD23B UV excision repair protein RAD23 homolog B</text>
+<text top="462" left="453" width="6" height="11" font="1">4</text>
+<text top="462" left="527" width="6" height="11" font="1">7</text>
+<text top="462" left="600" width="6" height="11" font="1">0</text>
+<text top="462" left="674" width="6" height="11" font="1">1</text>
+<text top="474" left="118" width="234" height="11" font="1">TOP3A Isoform Long of DNA topoisomerase 3-alpha</text>
+<text top="474" left="453" width="6" height="11" font="1">5</text>
+<text top="474" left="527" width="6" height="11" font="1">2</text>
+<text top="474" left="600" width="6" height="11" font="1">0</text>
+<text top="474" left="674" width="6" height="11" font="1">3</text>
+<text top="486" left="138" width="194" height="11" font="1">PCBP2 poly(rC)-binding protein 2 isoform b</text>
+<text top="486" left="453" width="6" height="11" font="1">5</text>
+<text top="486" left="527" width="6" height="11" font="1">3</text>
+<text top="486" left="600" width="6" height="11" font="1">4</text>
+<text top="486" left="674" width="6" height="11" font="1">4</text>
+<text top="498" left="78" width="315" height="11" font="1">HNRNPU Isoform Short of Heterogeneous nuclear ribonucleoprotein U</text>
+<text top="498" left="453" width="6" height="11" font="1">5</text>
+<text top="498" left="527" width="6" height="11" font="1">5</text>
+<text top="498" left="600" width="6" height="11" font="1">2</text>
+<text top="498" left="674" width="6" height="11" font="1">2</text>
+<text top="510" left="153" width="165" height="11" font="1">LOC388344 similar to RPL13 protein</text>
+<text top="510" left="453" width="6" height="11" font="1">5</text>
+<text top="510" left="527" width="6" height="11" font="1">8</text>
+<text top="510" left="600" width="6" height="11" font="1">1</text>
+<text top="510" left="674" width="6" height="11" font="1">2</text>
+<text top="522" left="122" width="226" height="11" font="1">HLTF Isoform 1 of Helicase-like transcription factor</text>
+<text top="522" left="453" width="6" height="11" font="1">6</text>
+<text top="522" left="527" width="6" height="11" font="1">2</text>
+<text top="522" left="600" width="6" height="11" font="1">5</text>
+<text top="522" left="674" width="6" height="11" font="1">4</text>
+<text top="534" left="164" width="142" height="11" font="1">RPS3 40S ribosomal protein S3</text>
+<text top="534" left="453" width="6" height="11" font="1">6</text>
+<text top="534" left="527" width="6" height="11" font="1">4</text>
+<text top="534" left="600" width="6" height="11" font="1">3</text>
+<text top="534" left="674" width="6" height="11" font="1">2</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="612" width="792">
+<text top="54" left="130" width="211" height="11" font="1">FUS Isoform Short of RNA-binding protein FUS</text>
+<text top="54" left="453" width="6" height="11" font="1">6</text>
+<text top="54" left="527" width="6" height="11" font="1">7</text>
+<text top="54" left="600" width="6" height="11" font="1">8</text>
+<text top="54" left="674" width="6" height="11" font="1">7</text>
+<text top="66" left="110" width="250" height="11" font="1">IGKV4-1 Similar to Ig kappa chain V-IV region precursor</text>
+<text top="66" left="453" width="6" height="11" font="1">7</text>
+<text top="66" left="527" width="6" height="11" font="1">5</text>
+<text top="66" left="600" width="6" height="11" font="1">4</text>
+<text top="66" left="674" width="6" height="11" font="1">2</text>
+<text top="78" left="54" width="363" height="11" font="1">HIST1H4E;HIST1H4A;HIST2H4B;HIST1H4L;HIST1H4F;HIST1H4C;HIST2H4A;H</text>
+<text top="90" left="68" width="338" height="11" font="1">IST1H4I;HIST1H4D;HIST4H4;HIST1H4K;HIST1H4J;HIST1H4B;HIST1H4H </text>
+<text top="102" left="210" width="50" height="11" font="1">Histone H4</text>
+<text top="102" left="453" width="6" height="11" font="1">7</text>
+<text top="102" left="527" width="6" height="11" font="1">7</text>
+<text top="102" left="600" width="6" height="11" font="1">5</text>
+<text top="102" left="674" width="6" height="11" font="1">5</text>
+<text top="114" left="165" width="140" height="11" font="1">RPL4 60S ribosomal protein L4</text>
+<text top="114" left="453" width="6" height="11" font="1">7</text>
+<text top="114" left="527" width="6" height="11" font="1">8</text>
+<text top="114" left="600" width="6" height="11" font="1">0</text>
+<text top="114" left="674" width="6" height="11" font="1">0</text>
+<text top="126" left="150" width="170" height="11" font="1">GRN Isoform 1 of Granulins precursor</text>
+<text top="126" left="453" width="6" height="11" font="1">7</text>
+<text top="126" left="527" width="6" height="11" font="1">9</text>
+<text top="126" left="600" width="6" height="11" font="1">3</text>
+<text top="126" left="674" width="6" height="11" font="1">5</text>
+<text top="138" left="111" width="249" height="11" font="1">HSPA8 Isoform 1 of Heat shock cognate 71 kDa protein</text>
+<text top="138" left="453" width="6" height="11" font="1">7</text>
+<text top="138" left="524" width="11" height="11" font="1">10</text>
+<text top="138" left="598" width="11" height="11" font="1">10</text>
+<text top="138" left="672" width="11" height="11" font="1">10</text>
+<text top="150" left="152" width="166" height="11" font="1">KRT14 Keratin, type I cytoskeletal 14</text>
+<text top="150" left="453" width="6" height="11" font="1">8</text>
+<text top="150" left="527" width="6" height="11" font="1">6</text>
+<text top="150" left="600" width="6" height="11" font="1">6</text>
+<text top="150" left="674" width="6" height="11" font="1">3</text>
+<text top="162" left="144" width="183" height="11" font="1">WDR76 WD repeat-containing protein 76</text>
+<text top="162" left="453" width="6" height="11" font="1">8</text>
+<text top="162" left="527" width="6" height="11" font="1">6</text>
+<text top="162" left="600" width="6" height="11" font="1">4</text>
+<text top="162" left="674" width="6" height="11" font="1">4</text>
+<text top="174" left="146" width="178" height="11" font="1">PARP1 Poly [ADP-ribose] polymerase 1</text>
+<text top="174" left="453" width="6" height="11" font="1">8</text>
+<text top="174" left="527" width="6" height="11" font="1">9</text>
+<text top="174" left="600" width="6" height="11" font="1">3</text>
+<text top="174" left="674" width="6" height="11" font="1">5</text>
+<text top="186" left="70" width="331" height="11" font="1">HNRNPC Isoform C1 of Heterogeneous nuclear ribonucleoproteins C1/C2</text>
+<text top="186" left="453" width="6" height="11" font="1">8</text>
+<text top="186" left="524" width="11" height="11" font="1">10</text>
+<text top="186" left="598" width="11" height="11" font="1">10</text>
+<text top="186" left="672" width="11" height="11" font="1">13</text>
+<text top="198" left="121" width="229" height="11" font="1">XPC DNA-repair protein complementing XP-C cells</text>
+<text top="198" left="453" width="6" height="11" font="1">8</text>
+<text top="198" left="524" width="11" height="11" font="1">14</text>
+<text top="198" left="600" width="6" height="11" font="1">3</text>
+<text top="198" left="674" width="6" height="11" font="1">6</text>
+<text top="210" left="164" width="142" height="11" font="1">RPS9 40S ribosomal protein S9</text>
+<text top="210" left="453" width="6" height="11" font="1">9</text>
+<text top="210" left="527" width="6" height="11" font="1">7</text>
+<text top="210" left="600" width="6" height="11" font="1">2</text>
+<text top="210" left="674" width="6" height="11" font="1">2</text>
+<text top="222" left="91" width="289" height="11" font="1">HNRPK Isoform 1 of Heterogeneous nuclear ribonucleoprotein K</text>
+<text top="222" left="453" width="6" height="11" font="1">9</text>
+<text top="222" left="527" width="6" height="11" font="1">8</text>
+<text top="222" left="600" width="6" height="11" font="1">1</text>
+<text top="222" left="674" width="6" height="11" font="1">0</text>
+<text top="234" left="160" width="150" height="11" font="1">SLC25A5 ADP/ATP translocase 2</text>
+<text top="234" left="453" width="6" height="11" font="1">9</text>
+<text top="234" left="524" width="11" height="11" font="1">12</text>
+<text top="234" left="600" width="6" height="11" font="1">6</text>
+<text top="234" left="674" width="6" height="11" font="1">6</text>
+<text top="246" left="115" width="241" height="11" font="1">IMPDH2 Inosine-5'-monophosphate dehydrogenase 2</text>
+<text top="246" left="450" width="11" height="11" font="1">10</text>
+<text top="246" left="527" width="6" height="11" font="1">6</text>
+<text top="246" left="600" width="6" height="11" font="1">0</text>
+<text top="246" left="674" width="6" height="11" font="1">0</text>
+<text top="258" left="121" width="227" height="11" font="1">RPS18;LOC100130553 40S ribosomal protein S18</text>
+<text top="258" left="450" width="11" height="11" font="1">10</text>
+<text top="258" left="527" width="6" height="11" font="1">8</text>
+<text top="258" left="600" width="6" height="11" font="1">3</text>
+<text top="258" left="674" width="6" height="11" font="1">3</text>
+<text top="270" left="163" width="145" height="11" font="1">TUBA1B Tubulin alpha-1B chain</text>
+<text top="270" left="450" width="11" height="11" font="1">10</text>
+<text top="270" left="524" width="11" height="11" font="1">12</text>
+<text top="270" left="600" width="6" height="11" font="1">2</text>
+<text top="270" left="674" width="6" height="11" font="1">4</text>
+<text top="282" left="124" width="222" height="11" font="1">XRCC5 ATP-dependent DNA helicase 2 subunit 2</text>
+<text top="282" left="451" width="10" height="11" font="1">11</text>
+<text top="282" left="527" width="6" height="11" font="1">7</text>
+<text top="282" left="600" width="6" height="11" font="1">7</text>
+<text top="282" left="674" width="6" height="11" font="1">7</text>
+<text top="294" left="63" width="345" height="11" font="1">HNRNPA2B1 Isoform B1 of Heterogeneous nuclear ribonucleoproteins A2/B1</text>
+<text top="294" left="451" width="10" height="11" font="1">11</text>
+<text top="294" left="527" width="6" height="11" font="1">8</text>
+<text top="294" left="600" width="6" height="11" font="1">4</text>
+<text top="294" left="674" width="6" height="11" font="1">3</text>
+<text top="306" left="127" width="217" height="11" font="1">PURA Transcriptional activator protein Pur-alpha</text>
+<text top="306" left="451" width="10" height="11" font="1">11</text>
+<text top="306" left="527" width="6" height="11" font="1">9</text>
+<text top="306" left="598" width="11" height="11" font="1">12</text>
+<text top="306" left="674" width="6" height="11" font="1">9</text>
+<text top="318" left="130" width="211" height="11" font="1">HSPA1A;HSPA1B Heat shock 70 kDa protein 1</text>
+<text top="318" left="450" width="11" height="11" font="1">12</text>
+<text top="318" left="527" width="6" height="11" font="1">5</text>
+<text top="318" left="600" width="6" height="11" font="1">9</text>
+<text top="318" left="674" width="6" height="11" font="1">7</text>
+<text top="330" left="185" width="101" height="11" font="1">HSPA5 HSPA5 protein</text>
+<text top="330" left="450" width="11" height="11" font="1">12</text>
+<text top="330" left="524" width="11" height="11" font="1">13</text>
+<text top="330" left="598" width="11" height="11" font="1">12</text>
+<text top="330" left="672" width="11" height="11" font="1">16</text>
+<text top="342" left="124" width="222" height="11" font="1">XRCC6 ATP-dependent DNA helicase 2 subunit 1</text>
+<text top="342" left="450" width="11" height="11" font="1">12</text>
+<text top="342" left="524" width="11" height="11" font="1">14</text>
+<text top="342" left="600" width="6" height="11" font="1">9</text>
+<text top="342" left="672" width="10" height="11" font="1">11</text>
+<text top="354" left="83" width="303" height="11" font="1">HNRPAB Isoform 4 of Heterogeneous nuclear ribonucleoprotein A/B</text>
+<text top="354" left="450" width="11" height="11" font="1">13</text>
+<text top="354" left="527" width="6" height="11" font="1">6</text>
+<text top="354" left="600" width="6" height="11" font="1">6</text>
+<text top="354" left="674" width="6" height="11" font="1">3</text>
+<text top="366" left="156" width="157" height="11" font="1">KRT5 Keratin, type II cytoskeletal 5</text>
+<text top="366" left="450" width="11" height="11" font="1">14</text>
+<text top="366" left="524" width="11" height="11" font="1">10</text>
+<text top="366" left="600" width="6" height="11" font="1">9</text>
+<text top="366" left="674" width="6" height="11" font="1">8</text>
+<text top="378" left="180" width="111" height="11" font="1">TUBB Tubulin beta chain</text>
+<text top="378" left="450" width="11" height="11" font="1">15</text>
+<text top="378" left="527" width="6" height="11" font="1">9</text>
+<text top="378" left="600" width="6" height="11" font="1">1</text>
+<text top="378" left="674" width="6" height="11" font="1">1</text>
+<text top="390" left="136" width="197" height="11" font="1">RPS4X 40S ribosomal protein S4, X isoform</text>
+<text top="390" left="450" width="11" height="11" font="1">17</text>
+<text top="390" left="524" width="11" height="11" font="1">13</text>
+<text top="390" left="600" width="6" height="11" font="1">5</text>
+<text top="390" left="674" width="6" height="11" font="1">8</text>
+<text top="402" left="160" width="150" height="11" font="1">ALB Uncharacterized protein ALB</text>
+<text top="402" left="450" width="11" height="11" font="1">19</text>
+<text top="402" left="527" width="6" height="11" font="1">5</text>
+<text top="402" left="600" width="6" height="11" font="1">4</text>
+<text top="402" left="674" width="6" height="11" font="1">1</text>
+<text top="414" left="129" width="212" height="11" font="1">PURB Transcriptional activator protein Pur-beta</text>
+<text top="414" left="450" width="11" height="11" font="1">19</text>
+<text top="414" left="524" width="11" height="11" font="1">20</text>
+<text top="414" left="598" width="11" height="11" font="1">15</text>
+<text top="414" left="672" width="11" height="11" font="1">13</text>
+<text top="426" left="88" width="295" height="11" font="1">HNRPD Isoform 1 of Heterogeneous nuclear ribonucleoprotein D0</text>
+<text top="426" left="450" width="11" height="11" font="1">20</text>
+<text top="426" left="524" width="11" height="11" font="1">18</text>
+<text top="426" left="598" width="11" height="11" font="1">13</text>
+<text top="426" left="674" width="6" height="11" font="1">9</text>
+<text top="438" left="142" width="186" height="11" font="1">CSDA Isoform 1 of DNA-binding protein A</text>
+<text top="438" left="450" width="11" height="11" font="1">20</text>
+<text top="438" left="524" width="11" height="11" font="1">21</text>
+<text top="438" left="600" width="6" height="11" font="1">4</text>
+<text top="438" left="674" width="6" height="11" font="1">6</text>
+<text top="450" left="140" width="190" height="11" font="1">RPA3 Replication protein A 14 kDa subunit</text>
+<text top="450" left="450" width="11" height="11" font="1">25</text>
+<text top="450" left="524" width="11" height="11" font="1">32</text>
+<text top="450" left="598" width="11" height="11" font="1">24</text>
+<text top="450" left="672" width="11" height="11" font="1">32</text>
+<text top="462" left="112" width="246" height="11" font="1">RPA2 Isoform 1 of Replication protein A 32 kDa subunit</text>
+<text top="462" left="450" width="11" height="11" font="1">29</text>
+<text top="462" left="524" width="11" height="11" font="1">55</text>
+<text top="462" left="598" width="11" height="11" font="1">23</text>
+<text top="462" left="672" width="11" height="11" font="1">23</text>
+<text top="474" left="158" width="154" height="11" font="1">KRT9 Keratin, type I cytoskeletal 9</text>
+<text top="474" left="450" width="11" height="11" font="1">46</text>
+<text top="474" left="524" width="11" height="11" font="1">35</text>
+<text top="474" left="598" width="11" height="11" font="1">17</text>
+<text top="474" left="672" width="11" height="11" font="1">12</text>
+<text top="486" left="80" width="310" height="11" font="1">SSBP1 Single-stranded DNA-binding protein, mitochondrial precursor</text>
+<text top="486" left="450" width="11" height="11" font="1">50</text>
+<text top="486" left="524" width="11" height="11" font="1">75</text>
+<text top="486" left="598" width="11" height="11" font="1">52</text>
+<text top="486" left="672" width="11" height="11" font="1">61</text>
+<text top="498" left="120" width="230" height="11" font="1">YBX1 Nuclease-sensitive element-binding protein 1</text>
+<text top="498" left="450" width="11" height="11" font="1">59</text>
+<text top="498" left="524" width="11" height="11" font="1">58</text>
+<text top="498" left="598" width="11" height="11" font="1">21</text>
+<text top="498" left="672" width="11" height="11" font="1">18</text>
+<text top="510" left="133" width="204" height="11" font="1">KRT2 Keratin, type II cytoskeletal 2 epidermal</text>
+<text top="510" left="450" width="11" height="11" font="1">73</text>
+<text top="510" left="524" width="11" height="11" font="1">60</text>
+<text top="510" left="598" width="11" height="11" font="1">54</text>
+<text top="510" left="672" width="11" height="11" font="1">59</text>
+<text top="522" left="152" width="166" height="11" font="1">KRT10 Keratin, type I cytoskeletal 10</text>
+<text top="522" left="450" width="11" height="11" font="1">85</text>
+<text top="522" left="524" width="11" height="11" font="1">83</text>
+<text top="522" left="598" width="11" height="11" font="1">69</text>
+<text top="522" left="672" width="11" height="11" font="1">89</text>
+<text top="534" left="156" width="157" height="11" font="1">KRT1 Keratin, type II cytoskeletal 1</text>
+<text top="534" left="448" width="17" height="11" font="1">103</text>
+<text top="534" left="524" width="11" height="11" font="1">96</text>
+<text top="534" left="598" width="11" height="11" font="1">77</text>
+<text top="534" left="672" width="11" height="11" font="1">81</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="612" width="792">
+<text top="54" left="110" width="250" height="11" font="1">RPA1 Replication protein A 70 kDa DNA-binding subunit</text>
+<text top="54" left="448" width="16" height="11" font="1">114</text>
+<text top="54" left="521" width="17" height="11" font="1">161</text>
+<text top="54" left="598" width="11" height="11" font="1">89</text>
+<text top="54" left="669" width="17" height="11" font="1">142</text>
+<text top="66" left="124" width="223" height="11" font="1">HSPA9 Stress-70 protein, mitochondrial precursor</text>
+<text top="66" left="448" width="17" height="11" font="1">142</text>
+<text top="66" left="521" width="17" height="11" font="1">176</text>
+<text top="66" left="595" width="17" height="11" font="1">106</text>
+<text top="66" left="669" width="17" height="11" font="1">136</text>
+</page>
+</pdf2xml>

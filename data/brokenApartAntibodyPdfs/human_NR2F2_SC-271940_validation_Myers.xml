@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="48" height="12" font="1">Dec 7, 2011</text>
+<text top="353" left="94" width="438" height="12" font="1">Mouse monoclonal IgG, specific for an epitope mapping between amino acids 13-44 at the N-terminus of </text>
+<text top="365" left="94" width="98" height="12" font="1">NR2F2 of human origin.</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="82" height="12" font="1">NR2F2_(SC-271940)</text>
+<text top="215" left="339" width="27" height="12" font="1">NR2F2</text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="28" height="12" font="1">Mouse</text>
+<text top="300" left="395" width="23" height="12" font="1">I1410</text>
+<text top="300" left="215" width="42" height="12" font="1">sc-271940</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="356" width="50" height="12" font="2">Monoclonal</text>
+<text top="419" left="94" width="122" height="12" font="1">Entrez gene ID: 7026 ; 45 kDa </text>
+<text top="431" left="94" width="450" height="12" font="1">This gene encodes a member of the steroid thyroid hormone superfamily of nuclear receptors. The encoded </text>
+<text top="443" left="94" width="436" height="12" font="1">protein is a ligand inducible transcription factor that is involved in the regulation of many different genes</text>
+<text top="599" left="238" width="171" height="12" font="1">http://www.scbt.com/datasheet-271940-</text>
+<text top="611" left="238" width="106" height="12" font="1">arp-1-e-11-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="74" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="86" left="125" width="428" height="12" font="1">Whole cell lysate was immunoprecipitated using primary antibody, and the IP fraction was loaded on a </text>
+<text top="98" left="125" width="422" height="12" font="1">12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. After separation, the samples </text>
+<text top="110" left="125" width="422" height="12" font="1">were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary </text>
+<text top="122" left="125" width="422" height="12" font="1">(same as that used for IP) and secondary HRP-conjugated antibodies was performed on an Invitrogen </text>
+<text top="134" left="125" width="414" height="12" font="1">BenchPro 4100 system. Visualization was achieved using SuperSignal West Femto solution (Thermo </text>
+<text top="146" left="125" width="47" height="12" font="1">Scientific).  </text>
+<text top="158" left="125" width="2" height="12" font="1"> </text>
+<text top="170" left="125" width="431" height="12" font="1">Results: Band of expected size visualized at ~47 kDa.  Upper bands also visualized. Both bands tested by </text>
+<text top="182" left="125" width="119" height="12" font="1">IP-mass spec in Validation 2. </text>
+<text top="194" left="125" width="2" height="12" font="1"> </text>
+<text top="206" left="125" width="418" height="12" font="1">Figure legend: IP-western with sc-271940 in whole cell lysate (WCL) of K562 and HepG2; PM=protein </text>
+<text top="218" left="125" width="336" height="12" font="1">marker. NR2F2 bands are indicated (as determined by mass spec in Validation 2). </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="93" left="130" width="144" height="12" font="1">IP followed by mass spectrometry: </text>
+<text top="105" left="130" width="419" height="12" font="1">Briefly, K562 whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="117" left="130" width="419" height="12" font="1">was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. The gel was </text>
+<text top="129" left="130" width="417" height="12" font="1">stained with Coomassie Blue in order to visualize marker bands. Gel fragments corresponding to the </text>
+<text top="141" left="130" width="420" height="12" font="1">bands indicated above in the western blot image were excised and sent to the University of Alabama </text>
+<text top="153" left="130" width="423" height="12" font="1">at Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the samples were </text>
+<text top="165" left="130" width="423" height="12" font="1">run on an LTQ XL Linear Ion Trap Mass Spectrometer by LC-ESI-MS/MS. Peptides were identified using </text>
+<text top="177" left="130" width="355" height="12" font="1">SEQUEST tandem mass spectra analysis, with probability based matching at p &lt; 0.05.  </text>
+<text top="189" left="130" width="2" height="12" font="1"> </text>
+<text top="201" left="130" width="268" height="12" font="1">As per ENCODE data standards, all SEQUEST results are attached </text>
+<text top="213" left="130" width="399" height="12" font="1">(ENCODE_HAIB_NR2F2_sc271940_12072011_MassSpec.pdf), including common contaminants. </text>
+<text top="225" left="130" width="418" height="12" font="1">Target protein is listed as entry number 15a with 0.9999% probability in the ~45 kDa band and is not </text>
+<text top="237" left="130" width="188" height="12" font="1">present in the upper (~80 and 90 kDa) bands.</text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="4" family="Times" color="#000000"/>
+	<fontspec id="4" size="4" family="Times" color="#000000"/>
+	<fontspec id="5" size="8" family="Times" color="#000000"/>
+	<fontspec id="6" size="5" family="Times" color="#000000"/>
+<text top="141" left="56" width="35" height="8" font="3"><b>Entry no.</b></text>
+<text top="141" left="101" width="28" height="8" font="3"><b>Protein</b></text>
+<text top="131" left="242" width="31" height="8" font="3"><b>Protein </b></text>
+<text top="141" left="242" width="42" height="8" font="3"><b>probability</b></text>
+<text top="131" left="294" width="67" height="8" font="3"><b>Percent share of </b></text>
+<text top="141" left="294" width="53" height="8" font="3"><b>spectrum id's</b></text>
+<text top="141" left="364" width="45" height="8" font="3"><b>Description</b></text>
+<text top="154" left="56" width="4" height="8" font="4">1</text>
+<text top="154" left="101" width="57" height="7" font="4">UniRef100_P49411</text>
+<text top="154" left="286" width="4" height="8" font="4">1</text>
+<text top="154" left="345" width="144" height="8" font="4">0.83 Elongation factor Tu, mitochondrial </text>
+<text top="176" left="56" width="9" height="8" font="4">6a</text>
+<text top="176" left="101" width="118" height="7" font="4">UniRef100_B2RA03,UniRef100_P05783</text>
+<text top="176" left="286" width="4" height="8" font="4">1</text>
+<text top="176" left="350" width="11" height="8" font="4">4.4</text>
+<text top="166" left="364" width="173" height="8" font="4">cDNA, FLJ94640, highly similar to Homo sapiens </text>
+<text top="176" left="364" width="96" height="8" font="4">keratin 18 (KRT18), mRNA </text>
+<text top="226" left="56" width="9" height="8" font="4">7a</text>
+<text top="193" left="101" width="136" height="7" font="4">UniRef100_B4DTC3,UniRef100_B9ZVU1,UniR</text>
+<text top="202" left="101" width="135" height="7" font="4">ef100_Q12771,UniRef100_Q14103,UniRef10</text>
+<text top="210" left="101" width="101" height="7" font="4">0_Q14103-2,UniRef100_Q14103-</text>
+<text top="218" left="101" width="67" height="7" font="4">3,UniRef100_Q14103-</text>
+<text top="226" left="101" width="91" height="7" font="4">4,UniRef100_UPI0001D3B53A</text>
+<text top="226" left="286" width="4" height="8" font="4">1</text>
+<text top="226" left="345" width="16" height="8" font="4">1.29</text>
+<text top="216" left="364" width="174" height="8" font="4">cDNA FLJ54150, highly similar to Heterogeneous </text>
+<text top="226" left="364" width="104" height="8" font="4">nuclear ribonucleoprotein D0 </text>
+<text top="248" left="56" width="9" height="8" font="4">8a</text>
+<text top="240" left="101" width="137" height="7" font="4">UniRef100_B4DTG2,UniRef100_B4DUP0,UniR</text>
+<text top="248" left="101" width="130" height="7" font="4">ef100_P26641,UniRef100_UPI0001AE71BA</text>
+<text top="248" left="286" width="4" height="8" font="4">1</text>
+<text top="248" left="345" width="16" height="8" font="4">0.66</text>
+<text top="238" left="364" width="188" height="8" font="4">cDNA FLJ56389, highly similar to Elongation factor 1-</text>
+<text top="248" left="364" width="29" height="8" font="4">gamma </text>
+<text top="261" left="56" width="9" height="8" font="4">9a</text>
+<text top="261" left="101" width="119" height="7" font="4">UniRef100_C5IWV5,UniRef100_P00761</text>
+<text top="261" left="286" width="4" height="8" font="4">1</text>
+<text top="261" left="345" width="63" height="8" font="4">7.74 Trypsinogen </text>
+<text top="291" left="56" width="13" height="8" font="4">10a</text>
+<text top="275" left="101" width="136" height="7" font="4">UniRef100_C9JAA5,UniRef100_Q3ZCM7,UniR</text>
+<text top="283" left="101" width="137" height="7" font="4">ef100_Q5SQY0,UniRef100_Q5SQY1,UniRef10</text>
+<text top="291" left="101" width="57" height="7" font="4">0_UPI0001B1A4B1</text>
+<text top="291" left="286" width="4" height="8" font="4">1</text>
+<text top="291" left="345" width="204" height="8" font="4">1.14 Putative uncharacterized protein ENSP00000418077 </text>
+<text top="304" left="56" width="13" height="8" font="4">11a</text>
+<text top="304" left="101" width="57" height="7" font="4">UniRef100_P02769</text>
+<text top="304" left="286" width="4" height="8" font="4">1</text>
+<text top="304" left="345" width="75" height="8" font="4">9.84 Serum albumin </text>
+<text top="317" left="56" width="13" height="8" font="4">12a</text>
+<text top="317" left="101" width="57" height="7" font="4">UniRef100_P04264</text>
+<text top="317" left="286" width="4" height="8" font="4">1</text>
+<text top="317" left="345" width="125" height="8" font="4">9.08 Keratin, type II cytoskeletal 1 </text>
+<text top="330" left="56" width="13" height="8" font="4">12b</text>
+<text top="330" left="101" width="57" height="7" font="4">UniRef100_P35908</text>
+<text top="330" left="286" width="4" height="8" font="4">1</text>
+<text top="330" left="345" width="162" height="8" font="4">6.08 Keratin, type II cytoskeletal 2 epidermal </text>
+<text top="343" left="56" width="12" height="8" font="4">12c</text>
+<text top="343" left="101" width="117" height="7" font="4">UniRef100_P05787,UniRef100_Q969I0</text>
+<text top="343" left="286" width="4" height="8" font="4">1</text>
+<text top="343" left="345" width="125" height="8" font="4">3.39 Keratin, type II cytoskeletal 8 </text>
+<text top="363" left="56" width="13" height="8" font="4">12d</text>
+<text top="355" left="101" width="136" height="7" font="4">UniRef100_B0YJC4,UniRef100_P08670,UniRe</text>
+<text top="363" left="101" width="42" height="7" font="4">f100_Q53HU8</text>
+<text top="363" left="286" width="4" height="8" font="4">1</text>
+<text top="363" left="345" width="86" height="8" font="4">1.35 Vimentin variant 3 </text>
+<text top="383" left="56" width="13" height="8" font="4">13a</text>
+<text top="375" left="101" width="136" height="7" font="4">UniRef100_P13645,UniRef100_UPI00017BCE</text>
+<text top="383" left="101" width="7" height="7" font="4">7F</text>
+<text top="383" left="286" width="4" height="8" font="4">1</text>
+<text top="383" left="345" width="127" height="8" font="4">9.64 Keratin, type I cytoskeletal 10 </text>
+<text top="396" left="56" width="13" height="8" font="4">13b</text>
+<text top="396" left="101" width="57" height="7" font="4">UniRef100_P35527</text>
+<text top="396" left="286" width="4" height="8" font="4">1</text>
+<text top="396" left="345" width="122" height="8" font="4">4.78 Keratin, type I cytoskeletal 9 </text>
+<text top="409" left="56" width="12" height="8" font="4">13c</text>
+<text top="409" left="101" width="57" height="7" font="4">UniRef100_P08727</text>
+<text top="409" left="286" width="4" height="8" font="4">1</text>
+<text top="409" left="345" width="127" height="8" font="4">1.12 Keratin, type I cytoskeletal 19 </text>
+<text top="422" left="56" width="13" height="8" font="4">13d</text>
+<text top="423" left="101" width="57" height="7" font="4">UniRef100_P08779</text>
+<text top="422" left="266" width="25" height="8" font="4">0.9998</text>
+<text top="422" left="345" width="127" height="8" font="4">0.36 Keratin, type I cytoskeletal 16 </text>
+<text top="435" left="56" width="13" height="8" font="4">13e</text>
+<text top="436" left="101" width="57" height="7" font="4">UniRef100_P02533</text>
+<text top="435" left="266" width="25" height="8" font="4">0.9987</text>
+<text top="435" left="345" width="127" height="8" font="4">0.36 Keratin, type I cytoskeletal 14 </text>
+<text top="448" left="56" width="13" height="8" font="4">14a</text>
+<text top="449" left="101" width="57" height="7" font="4">UniRef100_P19474</text>
+<text top="448" left="286" width="4" height="8" font="4">1</text>
+<text top="448" left="345" width="85" height="8" font="4">5.53 52 kDa Ro protein </text>
+<text top="468" left="56" width="15" height="8" font="3"><b>15a</b></text>
+<text top="460" left="101" width="137" height="7" font="3"><b>UniRef100_P24468,UniRef100_Q3KQR7,</b></text>
+<text top="469" left="101" width="67" height="7" font="3"><b>UniRef100_Q7YRQ3</b></text>
+<text top="468" left="263" width="27" height="8" font="3"><b>0.9999</b></text>
+<text top="468" left="343" width="80" height="8" font="3"><b>0.31 NR2F2 protein </b></text>
+<text top="481" left="56" width="13" height="8" font="4">16a</text>
+<text top="482" left="101" width="118" height="7" font="4">UniRef100_P31689,UniRef100_Q86TL9</text>
+<text top="481" left="286" width="4" height="8" font="4">1</text>
+<text top="481" left="345" width="153" height="8" font="4">0.82 DnaJ homolog subfamily A member 1 </text>
+<text top="503" left="56" width="13" height="8" font="4">17a</text>
+<text top="504" left="101" width="57" height="7" font="4">UniRef100_P52597</text>
+<text top="503" left="286" width="4" height="8" font="4">1</text>
+<text top="503" left="345" width="16" height="8" font="4">2.15</text>
+<text top="493" left="364" width="163" height="8" font="4">Heterogeneous nuclear ribonucleoprotein F, N-</text>
+<text top="503" left="364" width="75" height="8" font="4">terminally processed </text>
+<text top="516" left="56" width="13" height="8" font="4">18a</text>
+<text top="517" left="101" width="59" height="7" font="4">UniRef100_Q562R1</text>
+<text top="516" left="266" width="25" height="8" font="4">0.9996</text>
+<text top="516" left="345" width="106" height="8" font="4">0.72 Beta-actin-like protein 2 </text>
+<text top="529" left="56" width="13" height="8" font="4">19a</text>
+<text top="530" left="101" width="85" height="7" font="4">UniRef100_UPI0001AE6ACC</text>
+<text top="529" left="266" width="25" height="8" font="4">0.9997</text>
+<text top="529" left="345" width="132" height="8" font="4">0.98 UPI0001AE6ACC related cluster </text>
+<text top="609" left="56" width="9" height="8" font="4">20</text>
+<text top="560" left="101" width="135" height="7" font="4">UniRef100_A8K3B0,UniRef100_B4DUJ6,UniR</text>
+<text top="568" left="101" width="135" height="7" font="4">ef100_B7Z2X9,UniRef100_D3DTL2,UniRef10</text>
+<text top="577" left="101" width="138" height="7" font="4">0_P06733,UniRef100_P09104,UniRef100_P13</text>
+<text top="585" left="101" width="140" height="7" font="4">929,UniRef100_P13929-2,UniRef100_P13929-</text>
+<text top="593" left="101" width="138" height="7" font="4">3,UniRef100_UPI00015552D9,UniRef100_UPI</text>
+<text top="601" left="101" width="136" height="7" font="4">000186E3EE,UniRef100_UPI0001AE669E,Uni</text>
+<text top="610" left="101" width="74" height="7" font="4">Ref100_UPI0001AE669F</text>
+<text top="609" left="266" width="25" height="8" font="4">0.9887</text>
+<text top="609" left="345" width="48" height="8" font="4">0.17 Enolase </text>
+<text top="680" left="56" width="9" height="8" font="4">21</text>
+<text top="638" left="101" width="136" height="7" font="4">UniRef100_A9Z0R7,UniRef100_B0QYK0,UniR</text>
+<text top="647" left="101" width="137" height="7" font="4">ef100_B0QYK1,UniRef100_C3UMV2,UniRef10</text>
+<text top="655" left="101" width="137" height="7" font="4">0_C3UMV3,UniRef100_C3UMV4,UniRef100_Q</text>
+<text top="663" left="101" width="138" height="7" font="4">01844,UniRef100_Q4R3Q5,UniRef100_Q71E7</text>
+<text top="672" left="101" width="137" height="7" font="4">8,UniRef100_Q96FE8,UniRef100_Q96MN4,Un</text>
+<text top="680" left="101" width="115" height="7" font="4">iRef100_Q96MX4,UniRef100_Q9BWA2</text>
+<text top="680" left="266" width="25" height="8" font="4">0.9887</text>
+<text top="680" left="345" width="170" height="8" font="4">0.17 EWSR1/ZNF384 fusion protein (Fragment) </text>
+<text top="700" left="56" width="9" height="8" font="4">22</text>
+<text top="691" left="101" width="136" height="7" font="4">UniRef100_B3KNL2,UniRef100_B3KQ59,UniR</text>
+<text top="700" left="101" width="45" height="7" font="4">ef100_Q9Y230</text>
+<text top="700" left="266" width="25" height="8" font="4">0.9887</text>
+<text top="700" left="350" width="144" height="8" font="4">0.5 RuvB-like 2 (E. coli), isoform CRA_d </text>
+<text top="77" left="57" width="469" height="12" font="5"><b>Validation 2: NR2F2_(SC-271940)</b> IP-Mass Spec of the 45 kDa band and the 80-90 kDa </text>
+<text top="90" left="57" width="482" height="12" font="1">bands identified in IP-Western in Validation 1.  Target protein (NR2F2) was identified in the 45 </text>
+<text top="103" left="57" width="263" height="12" font="1">kDa in entry number 15a with 0.9999% probability.</text>
+<text top="118" left="56" width="194" height="10" font="6"><b>Table 1: Mass spec results for 45 kDa band.</b></text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+<text top="76" left="56" width="9" height="8" font="4">23</text>
+<text top="76" left="101" width="59" height="7" font="4">UniRef100_O60884</text>
+<text top="76" left="266" width="25" height="8" font="4">0.9887</text>
+<text top="76" left="345" width="153" height="8" font="4">0.33 DnaJ homolog subfamily A member 2 </text>
+<text top="106" left="56" width="9" height="8" font="4">24</text>
+<text top="98" left="101" width="135" height="7" font="4">UniRef100_B3KUN3,UniRef100_P23526,UniR</text>
+<text top="106" left="101" width="135" height="7" font="4">ef100_Q1RMG2,UniRef100_UPI000186D1CD</text>
+<text top="106" left="266" width="25" height="8" font="4">0.9754</text>
+<text top="106" left="345" width="109" height="8" font="4">0.17 Adenosylhomocysteinase </text>
+<text top="119" left="56" width="9" height="8" font="4">25</text>
+<text top="119" left="101" width="57" height="7" font="4">UniRef100_P00762</text>
+<text top="119" left="266" width="25" height="8" font="4">0.9678</text>
+<text top="119" left="345" width="81" height="8" font="4">0.31 Anionic trypsin-1 </text>
+<text top="169" left="56" width="9" height="8" font="4">26</text>
+<text top="136" left="101" width="135" height="7" font="4">UniRef100_B4DEI8,UniRef100_Q14CN4,UniR</text>
+<text top="144" left="101" width="49" height="7" font="4">ef100_Q14CN4-</text>
+<text top="153" left="101" width="138" height="7" font="4">2,UniRef100_Q3SY84,UniRef100_Q7RTS7,Uni</text>
+<text top="161" left="101" width="112" height="7" font="4">Ref100_Q86Y46,UniRef100_Q86Y46-</text>
+<text top="169" left="101" width="89" height="7" font="4">2,UniRef100_UPI00019912E7</text>
+<text top="169" left="266" width="25" height="8" font="4">0.9646</text>
+<text top="169" left="345" width="16" height="8" font="4">0.31</text>
+<text top="159" left="364" width="170" height="8" font="4">cDNA FLJ60438, highly similar to Homo sapiens </text>
+<text top="169" left="364" width="136" height="8" font="4">keratin protein K6irs (K6IRS2), mRNA </text>
+<text top="217" left="56" width="35" height="8" font="3"><b>Entry no.</b></text>
+<text top="217" left="101" width="28" height="8" font="3"><b>Protein</b></text>
+<text top="207" left="242" width="31" height="8" font="3"><b>Protein </b></text>
+<text top="217" left="242" width="42" height="8" font="3"><b>probability</b></text>
+<text top="207" left="294" width="67" height="8" font="3"><b>Percent share of </b></text>
+<text top="217" left="294" width="53" height="8" font="3"><b>spectrum id's</b></text>
+<text top="217" left="364" width="45" height="8" font="3"><b>Description</b></text>
+<text top="247" left="56" width="9" height="8" font="4">1a</text>
+<text top="239" left="101" width="136" height="7" font="4">UniRef100_A4D218,UniRef100_B3KR41,UniR</text>
+<text top="247" left="101" width="131" height="7" font="4">ef100_Q9Y6D9,UniRef100_UPI0001AE7041</text>
+<text top="247" left="287" width="4" height="8" font="4">1</text>
+<text top="247" left="346" width="171" height="8" font="4">3.58 MAD1 mitotic arrest deficient-like 1 (Yeast) </text>
+<text top="287" left="56" width="9" height="8" font="4">2a</text>
+<text top="263" left="101" width="137" height="7" font="4">UniRef100_B0QYK0,UniRef100_B0QYK1,UniR</text>
+<text top="271" left="101" width="136" height="7" font="4">ef100_Q01844,UniRef100_Q4R3Q5,UniRef10</text>
+<text top="279" left="101" width="135" height="7" font="4">0_Q96FE8,UniRef100_Q96MN4,UniRef100_Q</text>
+<text top="287" left="101" width="21" height="7" font="4">96MX4</text>
+<text top="287" left="287" width="4" height="8" font="4">1</text>
+<text top="287" left="346" width="144" height="8" font="4">2.61 Ewing sarcoma breakpoint region 1 </text>
+<text top="309" left="56" width="9" height="8" font="4">3a</text>
+<text top="309" left="101" width="61" height="7" font="4">UniRef100_B4DZW4</text>
+<text top="309" left="287" width="4" height="8" font="4">1</text>
+<text top="309" left="346" width="16" height="8" font="4">3.19</text>
+<text top="299" left="364" width="175" height="8" font="4">cDNA FLJ57246, highly similar to Poly(A)-binding </text>
+<text top="309" left="364" width="34" height="8" font="4">protein 1 </text>
+<text top="322" left="56" width="9" height="8" font="4">3b</text>
+<text top="322" left="101" width="121" height="7" font="4">UniRef100_Q3ZCS4,UniRef100_Q9H361</text>
+<text top="322" left="267" width="25" height="8" font="4">0.9674</text>
+<text top="322" left="346" width="154" height="8" font="4">1.17 Poly(A) binding protein, cytoplasmic 3 </text>
+<text top="335" left="56" width="9" height="8" font="4">4a</text>
+<text top="335" left="101" width="119" height="7" font="4">UniRef100_C5IWV5,UniRef100_P00761</text>
+<text top="335" left="287" width="4" height="8" font="4">1</text>
+<text top="335" left="342" width="67" height="8" font="4">19.69 Trypsinogen </text>
+<text top="348" left="56" width="9" height="8" font="4">5a</text>
+<text top="348" left="101" width="57" height="7" font="4">UniRef100_P02769</text>
+<text top="348" left="287" width="4" height="8" font="4">1</text>
+<text top="348" left="346" width="74" height="8" font="4">26.3 Serum albumin </text>
+<text top="361" left="56" width="9" height="8" font="4">6a</text>
+<text top="361" left="101" width="57" height="7" font="4">UniRef100_P04264</text>
+<text top="361" left="287" width="4" height="8" font="4">1</text>
+<text top="361" left="350" width="120" height="8" font="4">4.8 Keratin, type II cytoskeletal 1 </text>
+<text top="374" left="56" width="9" height="8" font="4">7a</text>
+<text top="375" left="101" width="57" height="7" font="4">UniRef100_P07900</text>
+<text top="374" left="287" width="4" height="8" font="4">1</text>
+<text top="374" left="342" width="141" height="8" font="4">14.08 Heat shock protein HSP 90-alpha </text>
+<text top="394" left="56" width="4" height="8" font="4">8</text>
+<text top="386" left="101" width="136" height="7" font="4">UniRef100_P13645,UniRef100_UPI00017BCE</text>
+<text top="394" left="101" width="7" height="7" font="4">7F</text>
+<text top="394" left="267" width="25" height="8" font="4">0.9914</text>
+<text top="394" left="346" width="126" height="8" font="4">0.81 Keratin, type I cytoskeletal 10 </text>
+<text top="407" left="56" width="4" height="8" font="4">9</text>
+<text top="408" left="101" width="83" height="7" font="4">UniRef100_UPI0000159167</text>
+<text top="407" left="267" width="25" height="8" font="4">0.9914</text>
+<text top="407" left="346" width="181" height="8" font="4">1.21 Immunoglobulin heavy chain V gene segment </text>
+<text top="420" left="56" width="9" height="8" font="4">10</text>
+<text top="421" left="101" width="84" height="7" font="4">UniRef100_UPI000186D037</text>
+<text top="420" left="267" width="25" height="8" font="4">0.9914</text>
+<text top="420" left="350" width="120" height="8" font="4">0.4 tubulin beta-2 chain, putative </text>
+<text top="442" left="56" width="9" height="8" font="4">11</text>
+<text top="443" left="101" width="121" height="7" font="4">UniRef100_Q59EK6,UniRef100_Q5CAQ4</text>
+<text top="442" left="267" width="25" height="8" font="4">0.9897</text>
+<text top="442" left="350" width="11" height="8" font="4">0.4</text>
+<text top="432" left="364" width="148" height="8" font="4">TNF receptor-associated protein 1 variant </text>
+<text top="442" left="364" width="42" height="8" font="4">(Fragment) </text>
+<text top="552" left="56" width="9" height="8" font="4">12</text>
+<text top="478" left="101" width="137" height="7" font="4">UniRef100_A8K9C4,UniRef100_B4DNE0,UniR</text>
+<text top="486" left="101" width="138" height="7" font="4">ef100_P68104,UniRef100_Q05639,UniRef100</text>
+<text top="495" left="101" width="136" height="7" font="4">_Q53G85,UniRef100_Q53GA1,UniRef100_Q5</text>
+<text top="503" left="101" width="137" height="7" font="4">3GE9,UniRef100_Q53HM9,UniRef100_Q53HQ</text>
+<text top="511" left="101" width="138" height="7" font="4">7,UniRef100_Q53HR5,UniRef100_Q5JR01,Uni</text>
+<text top="520" left="101" width="138" height="7" font="4">Ref100_Q5VTE0,UniRef100_Q6IPN6,UniRef10</text>
+<text top="528" left="101" width="136" height="7" font="4">0_Q6IPT9,UniRef100_Q6IQ15,UniRef100_Q6</text>
+<text top="536" left="101" width="135" height="7" font="4">NS35,UniRef100_Q6NSH7,UniRef100_Q9H2I</text>
+<text top="544" left="101" width="137" height="7" font="4">7,UniRef100_UPI00015E0621,UniRef100_UPI</text>
+<text top="553" left="101" width="125" height="7" font="4">00015E0622,UniRef100_UPI0001A5EEDA</text>
+<text top="552" left="267" width="25" height="8" font="4">0.9656</text>
+<text top="552" left="350" width="104" height="8" font="4">0.4 Elongation factor 1-alpha </text>
+<text top="572" left="56" width="9" height="8" font="4">13</text>
+<text top="564" left="101" width="137" height="7" font="4">UniRef100_P01871,UniRef100_P04220,UniRe</text>
+<text top="573" left="101" width="127" height="7" font="4">f100_Q86TT1,UniRef100_UPI000173A6A1</text>
+<text top="572" left="267" width="25" height="8" font="4">0.9656</text>
+<text top="572" left="350" width="90" height="8" font="4">0.4 Ig mu chain C region </text>
+<text top="194" left="56" width="213" height="10" font="6"><b>Table 2: Mass spec results for 80-90 kDa bands.</b></text>
+</page>
+</pdf2xml>

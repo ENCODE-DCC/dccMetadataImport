@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="185" height="12" font="1">http://www.novusbio.com/DRIL1-Antibody_</text>
+<text top="613" left="238" width="67" height="12" font="1">NB100-279.html</text>
+<text top="77" left="138" width="27" height="12" font="1">2/3/12</text>
+<text top="340" left="95" width="426" height="12" font="1">A synthetic peptide, which represented a portion of human Dead Ringer-Like 1 encoded within exon 8 </text>
+<text top="352" left="95" width="83" height="12" font="1">(LocusLink ID 1820).</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="119" height="12" font="1">DRIL1 Antibody (NB100-279)</text>
+<text top="214" left="339" width="112" height="12" font="1">ARID3A EntrezGeneID1820</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="73" height="12" font="1">Novus Biologicals</text>
+<text top="484" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="11" height="12" font="1">A1</text>
+<text top="300" left="215" width="46" height="12" font="1">NB100-279</text>
+<text top="520" left="395" width="19" height="12" font="2">ChIP</text>
+<text top="561" left="141" width="30" height="12" font="2">Affinity</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="434" height="12" font="1">This gene encodes a member of the ARID (AT-rich interaction domain) family of DNA binding proteins. It </text>
+<text top="424" left="95" width="447" height="12" font="1">was found by homology to the Drosophila dead ringer gene, which is important for normal embryogenesis. </text>
+<text top="436" left="95" width="428" height="12" font="1">Other ARID family members have roles in embryonic patterning, cell lineage gene regulation, cell cycle </text>
+<text top="448" left="95" width="438" height="12" font="1">control, transcriptional regulation, and possibly in chromatin structure modification. (provided by RefSeq)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="423" height="12" font="1">COMMENT:  Using antibody NB100-279, we observe a main band in Western blots on lysates from cell </text>
+<text top="55" left="125" width="431" height="12" font="1">lines K562 and HepG2 at a position consistent with a molecular weight of ~75kD (Panel A).   This band is </text>
+<text top="67" left="125" width="417" height="12" font="1">efficiently and specifically immunoprecipitated from K562 nuclear extracts (Panel B).  This mobility is </text>
+<text top="79" left="125" width="426" height="12" font="1">somewhat slower than expected given the predicted size of ARID3A (~63kD) but is consistent with the </text>
+<text top="91" left="125" width="422" height="12" font="1">electrophoretic mobility reported for ARID3A (see product literature for both antibodies and note the </text>
+<text top="103" left="125" width="433" height="12" font="1">consistent mobility observed with each antibody.  A band of ~75kD is also observed in Western blots on </text>
+<text top="115" left="125" width="418" height="12" font="1">lysates from cell lines K562 using antibody sc8821 (Panel C). Western blotting with this antibody was </text>
+<text top="127" left="125" width="415" height="12" font="1">made difficult by high background signal consistently observed on these blots (a problem routinely </text>
+<text top="139" left="125" width="407" height="12" font="1">encountered with antibodies raised in goats from this manufacturer).  To verify that this band was </text>
+<text top="152" left="125" width="418" height="12" font="1">ARID3A, we used sc8821 to perform an immunoprecipitation and then used NB100-279 in a Western </text>
+<text top="164" left="125" width="347" height="12" font="1">blot to analyze immunoprecipitated material (Panel D).  We observed a single band </text>
+<text top="176" left="125" width="425" height="12" font="1">immunoprecipitated from K562 cells at high efficiency that is consistent with the observed mobility of </text>
+<text top="188" left="125" width="392" height="12" font="1">ARID3A.  We conclude this antibody specifically recognizes ARID3A. Based on these data, both </text>
+<text top="200" left="125" width="156" height="12" font="1">antibodies validated by this criterion. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="34" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+	<fontspec id="7" size="16" family="Times" color="#000000"/>
+<text top="67" left="185" width="437" height="31" font="3">ARID3A (NB100-279) &amp; (sc-8821)  </text>
+<text top="100" left="185" width="422" height="31" font="3">Immunoblot / Immunoprecipitation</text>
+<text top="92" left="607" width="8" height="44" font="4"> </text>
+<text top="382" left="64" width="661" height="13" font="5"><b>A</b>. Western Blot using NB100-279 on nuclear lysates from cell lines GM12878 (Lane1), K562 (Lane2), HeLaS3 (Lane3), and </text>
+<text top="396" left="64" width="636" height="13" font="6">HepG2 (Lane4).<b> B. </b>Immunoprecipitation was performed on nuclear lysates from K562 cells using antibody NB100-279.  </text>
+<text top="410" left="64" width="652" height="13" font="6">Lane1: Nuclear lysate.  Lane 3: Bound material from control immunoprecipitation with rabbit IgG. .  Lane 2: Bound material </text>
+<text top="425" left="64" width="628" height="13" font="6">from immunoprecipitation with NB100-279. <b>C</b>. Western Blot using sc-8821 on nuclear lysates from cell lines GM12878 </text>
+<text top="439" left="64" width="650" height="13" font="6">(Lane1), K562 (Lane2).<b> D. </b>Immunoprecipitation was performed on nuclear lysates from K562 cells using antibody sc-8821 </text>
+<text top="454" left="64" width="650" height="13" font="6">and immunoblot with NB100-279.  Lane1: Nuclear lysate.  Lane 2: Bound material from immunoprecipitation with sc-8821. </text>
+<text top="468" left="64" width="666" height="13" font="6">Lane 3:  Bound material from control immunoprecipitation with Goat IgG.  Arrow indicates band of expected size (~80kD) that </text>
+<text top="488" left="64" width="341" height="13" font="6">is highly enriched in the specifically immunoprecipitated fraction.</text>
+<text top="482" left="405" width="8" height="22" font="7">  </text>
+<text top="356" left="72" width="100" height="13" font="6">Lane :   1   2   3   4</text>
+<text top="349" left="172" width="4" height="22" font="7"> </text>
+<text top="185" left="80" width="42" height="11" font="1">MW (kD) </text>
+<text top="225" left="87" width="19" height="11" font="1">100 </text>
+<text top="243" left="87" width="14" height="11" font="1">75 </text>
+<text top="273" left="87" width="14" height="11" font="1">50 </text>
+<text top="291" left="87" width="14" height="11" font="1">38 </text>
+<text top="206" left="87" width="19" height="11" font="1">150 </text>
+<text top="314" left="87" width="14" height="11" font="1">25 </text>
+<text top="336" left="87" width="14" height="11" font="1">15 </text>
+<text top="353" left="263" width="100" height="13" font="6">Lane : 1       2     3 </text>
+<text top="185" left="269" width="42" height="11" font="1">MW (kD) </text>
+<text top="225" left="276" width="19" height="11" font="1">100 </text>
+<text top="238" left="276" width="14" height="11" font="1">75 </text>
+<text top="260" left="276" width="14" height="11" font="1">50 </text>
+<text top="277" left="276" width="14" height="11" font="1">38 </text>
+<text top="206" left="276" width="19" height="11" font="1">150 </text>
+<text top="297" left="276" width="14" height="11" font="1">25 </text>
+<text top="309" left="276" width="14" height="11" font="1">20 </text>
+<text top="327" left="276" width="14" height="11" font="1">15 </text>
+<text top="345" left="577" width="4" height="22" font="7"> </text>
+<text top="351" left="581" width="130" height="13" font="6">Lane :  1           2         3 </text>
+<text top="185" left="593" width="42" height="11" font="1">MW (kD) </text>
+<text top="225" left="600" width="19" height="11" font="1">100 </text>
+<text top="238" left="600" width="14" height="11" font="1">75 </text>
+<text top="260" left="600" width="14" height="11" font="1">50 </text>
+<text top="277" left="600" width="14" height="11" font="1">38 </text>
+<text top="206" left="600" width="19" height="11" font="1">150 </text>
+<text top="297" left="600" width="14" height="11" font="1">25 </text>
+<text top="309" left="600" width="14" height="11" font="1">20 </text>
+<text top="327" left="600" width="14" height="11" font="1">15 </text>
+<text top="356" left="418" width="73" height="13" font="6"> Lane :  1     2</text>
+<text top="350" left="492" width="4" height="22" font="7"> </text>
+<text top="185" left="421" width="42" height="11" font="1">MW (kD) </text>
+<text top="225" left="428" width="19" height="11" font="1">100 </text>
+<text top="238" left="428" width="14" height="11" font="1">75 </text>
+<text top="260" left="428" width="14" height="11" font="1">50 </text>
+<text top="277" left="428" width="14" height="11" font="1">38 </text>
+<text top="206" left="428" width="19" height="11" font="1">150 </text>
+<text top="297" left="428" width="14" height="11" font="1">25 </text>
+<text top="309" left="428" width="14" height="11" font="1">20 </text>
+<text top="327" left="428" width="14" height="11" font="1">15 </text>
+<text top="184" left="56" width="22" height="20" font="7">A. </text>
+<text top="184" left="239" width="22" height="20" font="7">B. </text>
+<text top="184" left="399" width="23" height="20" font="7">C. </text>
+<text top="184" left="567" width="23" height="20" font="7">D. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="393" height="12" font="1">Comment: Because the overlap of the top 40% of peaks from datasets derived from antibodies </text>
+<text top="55" left="130" width="377" height="12" font="1">NB100-279 and sc-8821 (compared using standard ENCODE scoring methods) exceeds the </text>
+<text top="67" left="130" width="345" height="12" font="1">recommended threshold of 80%, both antibodies meet this criterion for validation. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="8" size="16" family="Times" color="#424242"/>
+	<fontspec id="9" size="10" family="Times" color="#d6d7ff"/>
+	<fontspec id="10" size="11" family="Times" color="#000000"/>
+	<fontspec id="11" size="14" family="Times" color="#e62400"/>
+	<fontspec id="12" size="18" family="Times" color="#000000"/>
+	<fontspec id="13" size="22" family="Times" color="#000000"/>
+<text top="306" left="77" width="3" height="13" font="6"> </text>
+<text top="320" left="77" width="147" height="13" font="5"><b>Antibodies/Immunogens:</b> </text>
+<text top="334" left="77" width="650" height="13" font="5"><b>NB100-279 :</b> Immunogen:A synthetic peptide, which represented a portion of human Dead Ringer-Like 1 encoded              </text>
+<text top="349" left="77" width="153" height="13" font="6">                        within exon 8 </text>
+<text top="363" left="77" width="400" height="13" font="5"><b>      sc-8821:</b> epitope mapping at the N-terminus of ARID3A of human origin</text>
+<text top="355" left="478" width="6" height="22" font="8"> </text>
+<text top="378" left="77" width="3" height="13" font="6"> </text>
+<text top="392" left="77" width="646" height="13" font="5"><b>Comparison</b>: K562 cells were used for ChIP-seq with antibody sc-8821 or antibody NB100-279.  Peaks were called from </text>
+<text top="406" left="77" width="628" height="13" font="6">replicate experiments using PeakSeq with a .01 q-value cut-off.  Comparisons between experiments were made using </text>
+<text top="421" left="77" width="423" height="13" font="6">these peaks according to standard ENCODE replicate comparison parameters (</text>
+<text top="435" left="77" width="548" height="13" font="9">http://genome.ucsc.edu/ENCODE/protocols/dataStandards/ChIP_DNase_FAIRE_DNAme_v2_2011.pdf</text>
+<text top="435" left="626" width="87" height="13" font="6">; reported is the </text>
+<text top="450" left="77" width="604" height="13" font="6">fraction of the  top 40% of peaks in one list that are found in the full list of peaks obtained with the other antibody.  </text>
+<text top="181" left="367" width="54" height="16" font="10">ARID3A </text>
+<text top="198" left="356" width="70" height="16" font="10">NB100-279</text>
+<text top="181" left="450" width="74" height="16" font="10">ARID3A      </text>
+<text top="198" left="450" width="50" height="16" font="10">sc-8821</text>
+<text top="219" left="299" width="35" height="16" font="10">Total </text>
+<text top="236" left="295" width="37" height="16" font="10">peaks</text>
+<text top="227" left="368" width="46" height="16" font="10">122875</text>
+<text top="227" left="455" width="39" height="16" font="10">48018</text>
+<text top="253" left="289" width="52" height="16" font="10">% Peak </text>
+<text top="270" left="290" width="50" height="16" font="10">overlap </text>
+<text top="261" left="376" width="31" height="18" font="11"><b>86.8</b></text>
+<text top="261" left="459" width="31" height="18" font="11"><b>86.5</b></text>
+<text top="111" left="88" width="621" height="22" font="12"><b>Validation 2: ChIPseq with alternate antibodies to the same factor</b></text>
+<text top="108" left="703" width="7" height="27" font="13"> </text>
+<text top="136" left="48" width="7" height="27" font="13"> </text>
+</page>
+</pdf2xml>

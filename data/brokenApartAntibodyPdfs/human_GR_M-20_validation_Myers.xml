@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="108" width="401" height="16" font="0"><b>Transcription factor: nuclear receptor subfamily 3, group C, </b></text>
+<text top="105" left="140" width="337" height="16" font="0"><b>member 1 (glucocorticoid receptor) (GeneID 2908) </b></text>
+<text top="121" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="134" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="148" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="162" left="77" width="3" height="13" font="2"> </text>
+<text top="176" left="77" width="3" height="13" font="2"> </text>
+<text top="190" left="77" width="276" height="13" font="1"><b>Transcription factor:</b> GR (GeneID 2908; ~86 kDa) </text>
+<text top="203" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="217" left="77" width="317" height="13" font="1"><b>Antibody:</b> GR (E-20), Santa Cruz Biotechnology (sc-1003) </text>
+<text top="231" left="77" width="439" height="13" font="2">Rabbit polyclonal, epitope mapping at the N-terminus of GR alpha of human origin </text>
+<text top="245" left="77" width="347" height="13" font="2">Web: http://www.scbt.com/datasheet-1003-gr-e-20-antibody.html </text>
+<text top="259" left="77" width="3" height="13" font="2"> </text>
+<text top="272" left="77" width="3" height="13" font="2"> </text>
+<text top="286" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="312" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="326" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="340" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="364" left="77" width="3" height="13" font="2"> </text>
+<text top="388" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="535" left="167" width="3" height="13" font="2"> </text>
+<text top="556" left="81" width="422" height="13" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  GR  expression  in  A-431  nuclear </text>
+<text top="570" left="81" width="43" height="13" font="2">extract. </text>
+<text top="594" left="81" width="3" height="13" font="2"> </text>
+<text top="618" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="642" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="665" left="90" width="3" height="13" font="1"><b> </b></text>
+<text top="689" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="96" left="77" width="467" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="110" left="77" width="467" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="124" left="77" width="467" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="138" left="77" width="467" height="13" font="2">using  a  Bio-Rad  Trans-Blot  Electrophoretic  Transfer  system.    Standard  western  blot </text>
+<text top="151" left="77" width="467" height="13" font="2">protocol was used to probe the membrane with the primary antibody (same antibody as </text>
+<text top="165" left="77" width="467" height="13" font="2">used  for  IP),  and  an  HRP-conjugated  secondary  antibody  and  SuperSignal  West </text>
+<text top="179" left="77" width="467" height="13" font="2">Femto  solution  (Thermo  Scientific)  were  used  to  detect  the  immunoprecipitated </text>
+<text top="193" left="77" width="59" height="13" font="2">proteins.    </text>
+<text top="602" left="77" width="3" height="13" font="2"> </text>
+<text top="602" left="244" width="3" height="13" font="2"> </text>
+<text top="623" left="122" width="354" height="13" font="1"><b>Figure  Legend:</b>  GR  immunoblot:  IP-western  with  sc-1003  GR </text>
+<text top="637" left="122" width="354" height="13" font="2">antibody in whole cell lysate of A549. Heavy chain and light chain </text>
+<text top="651" left="122" width="318" height="13" font="2">of IgG are indicated, and GR band is indicated at ~90 kDa.  </text>
+<text top="674" left="77" width="3" height="13" font="2"> </text>
+<text top="698" left="77" width="3" height="13" font="2"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="167" height="16" font="0"><b>Validation 2: In progress </b></text>
+</page>
+</pdf2xml>

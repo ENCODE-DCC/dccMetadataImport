@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="0" size="42" family="Times" color="#000000"/>
+	<fontspec id="1" size="30" family="Times" color="#000000"/>
+<text top="57" left="54" width="624" height="49" font="0">Dot blot validation of antibodies </text>
+<text top="110" left="74" width="573" height="49" font="0">used in the ENCODE project:</text>
+<text top="216" left="49" width="622" height="49" font="0">Broad Institute ChIP-Seq Group</text>
+<text top="402" left="138" width="444" height="36" font="1">Michael Coyne, Xiaolan Zhang,</text>
+<text top="448" left="142" width="435" height="36" font="1">Chuck Epstein, Brad Bernstein</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="2" size="13" family="Times" color="#000000"/>
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+<text top="43" left="279" width="162" height="49" font="0">Protocol</text>
+<text top="131" left="70" width="145" height="18" font="2">Dot Blot Fabrication:</text>
+<text top="153" left="102" width="492" height="16" font="3">Suitably modified peptides modeled on histone tails were obtained from Abcam.</text>
+<text top="173" left="102" width="571" height="16" font="3">Each peptide is added to Bio-Dot apparatus at 0.01 and 0.1 ug / 50uL total volume (BioRad) </text>
+<text top="193" left="102" width="175" height="16" font="3">Let sit on rocker 60 minutes.</text>
+<text top="214" left="102" width="521" height="16" font="3">Pull through with vacuum, wash once with 100uL TBS and twice with 200uL TBSTw.</text>
+<text top="234" left="102" width="502" height="16" font="3">Remove membrane from Bio-Dot and transfer to 10mL Pierce SuperBlock in tray.</text>
+<text top="254" left="102" width="193" height="16" font="3">Place on rocker for 30 minutes.</text>
+<text top="274" left="102" width="136" height="16" font="3">Dump off SuperBlock.</text>
+<text top="295" left="70" width="252" height="18" font="2">Antibody hybridization and imaging:</text>
+<text top="317" left="102" width="271" height="16" font="3">Add Primary Antibody in 10mL total volume.</text>
+<text top="337" left="102" width="193" height="16" font="3">Place on rocker for 30 minutes.</text>
+<text top="358" left="102" width="191" height="16" font="3">Wash 3 x 5 minutes in TBSTw.</text>
+<text top="378" left="102" width="421" height="16" font="3">Add secondary antibody diluted in SuperBlock in 10mL total volume.</text>
+<text top="398" left="102" width="193" height="16" font="3">Place on rocker for 30 minutes.</text>
+<text top="418" left="102" width="343" height="16" font="3">Wash 3 x 15 minutes in TBSTw, 1 x 10 minutes in TBS.</text>
+<text top="438" left="102" width="475" height="16" font="3">Image using ECL and a FluorChem Peltier-cooled camera (Cell Biosciences)</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="4" size="13" family="Times" color="#000000"/>
+	<fontspec id="5" size="6" family="Times" color="#000000"/>
+	<fontspec id="6" size="7" family="Times" color="#000000"/>
+<text top="132" left="70" width="160" height="36" font="1">H3K36me3</text>
+<text top="12" left="43" width="417" height="16" font="4"><b>Antibody: </b>Rabbit Polyclonal to Histone H3 (tri methyl K36)</text>
+<text top="32" left="43" width="115" height="16" font="4"><b>Vendor: </b>Abcam</text>
+<text top="51" left="43" width="622" height="16" font="4"><b>Immunogen: </b>Synthetic peptide conjugated to KLH derived from within residues 1 - 100 </text>
+<text top="68" left="43" width="317" height="18" font="2">of Human Histone H3, tri methylated at K36. </text>
+<text top="89" left="43" width="188" height="16" font="4"><b>Product Number: </b>ab9050</text>
+<text top="108" left="43" width="153" height="16" font="4"><b>Lot Number: </b>499302</text>
+<text top="365" left="606" width="101" height="9" font="5">Performed at Broad Institute</text>
+<text top="189" left="511" width="23" height="10" font="6">0.1ug</text>
+<text top="189" left="457" width="28" height="10" font="6">0.01ug</text>
+</page>
+</pdf2xml>

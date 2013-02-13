@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="15" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="66" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="336" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="348" left="39" width="52" height="12" font="1">Description: </text>
+<text top="360" left="39" width="2" height="12" font="1"> </text>
+<text top="474" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="510" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="123" left="291" width="25" height="12" font="1">Email:</text>
+<text top="123" left="48" width="27" height="12" font="1">Name:</text>
+<text top="204" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="204" left="300" width="29" height="12" font="1">Target:</text>
+<text top="159" left="192" width="15" height="12" font="1">Lab</text>
+<text top="238" left="183" width="44" height="12" font="1">Company/</text>
+<text top="250" left="183" width="31" height="12" font="1">Source:</text>
+<text top="474" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="289" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="283" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="295" left="39" width="2" height="12" font="1"> </text>
+<text top="510" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="544" left="84" width="50" height="12" font="1">Purification </text>
+<text top="556" left="84" width="33" height="12" font="1">Method</text>
+<text top="544" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="556" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="615" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="627" left="30" width="49" height="12" font="1">Publication </text>
+<text top="639" left="30" width="52" height="12" font="1">Information)</text>
+<text top="663" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="676" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="686" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="717" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="717" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="717" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="717" left="444" width="53" height="12" font="1">Modification</text>
+<text top="408" left="39" width="29" height="12" font="1">Target </text>
+<text top="420" left="39" width="52" height="12" font="1">Description: </text>
+<text top="432" left="39" width="2" height="12" font="1"> </text>
+<text top="588" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="66" left="138" width="34" height="10" font="1">9-14-12</text>
+<text top="324" left="95" width="434" height="10" font="1">Mouse monoclonal [4H8] to RNA polymerase II CTD repeat YSPTSPS synthetic peptide (human); </text>
+<text top="335" left="95" width="450" height="10" font="1">sequence repeated multiple times in C-terminal domain of RNA pol II largest subunit; recognizes both </text>
+<text top="346" left="95" width="198" height="10" font="1">unphosphorylated and phosphorylated forms</text>
+<text top="474" left="150" width="30" height="10" font="1">Mouse</text>
+<text top="510" left="178" width="57" height="10" font="1">Western Blot</text>
+<text top="122" left="326" width="78" height="10" font="1">cak142@psu.edu</text>
+<text top="122" left="83" width="57" height="10" font="1">Cheryl Keller</text>
+<text top="203" left="121" width="141" height="10" font="1">RNA polymerase II CTD repeat </text>
+<text top="203" left="339" width="26" height="10" font="1">POL2</text>
+<text top="159" left="230" width="40" height="10" font="1">Hardison</text>
+<text top="243" left="239" width="31" height="10" font="1">Abcam</text>
+<text top="474" left="361" width="30" height="10" font="1">Mouse</text>
+<text top="288" left="395" width="72" height="10" font="1">722997, 962594</text>
+<text top="288" left="215" width="33" height="10" font="1">ab5408</text>
+<text top="551" left="356" width="51" height="10" font="1">Monoclonal</text>
+<text top="396" left="95" width="312" height="10" font="1">Polymerase (RNA) II (DNA directed) polypeptide A, 220kDa; ~217kDa!</text>
+<text top="407" left="95" width="84" height="10" font="1">Entrez Gene: 5430</text>
+<text top="585" left="238" width="183" height="10" font="1">http://www.abcam.com/RNA-polymerase-</text>
+<text top="596" left="238" width="177" height="10" font="1">II-CTD-repeat-YSPTSPS-antibody-4H8-</text>
+<text top="607" left="238" width="112" height="10" font="1">ChIP-Grade-ab5408.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+	<fontspec id="4" size="8" family="Times" color="#000000"/>
+	<fontspec id="5" size="6" family="Times" color="#000000"/>
+	<fontspec id="6" size="6" family="Times" color="#000000"/>
+<text top="83" left="170" width="248" height="16" font="3"> Hardison Lab @ Penn State University </text>
+<text top="99" left="204" width="182" height="16" font="3">Pol2-4H8 antibody validation </text>
+<text top="383" left="85" width="231" height="11" font="1">Pol2-4H8 antibody: Abcam POL24H8, Cat# ab5408 </text>
+<text top="395" left="85" width="3" height="11" font="1"> </text>
+<text top="407" left="85" width="154" height="11" font="4"><b>Validation of Pol2-4H8 antibody. </b></text>
+<text top="419" left="85" width="3" height="11" font="1"> </text>
+<text top="431" left="85" width="338" height="11" font="4"><b>Western blot analysis of POL2 expression in various mouse cell lines.  </b></text>
+<text top="443" left="85" width="424" height="11" font="1">Whole cell extracts prepared from G1E, G1E-ER4+E2, MEL, and CH12 cells were separated by </text>
+<text top="455" left="85" width="376" height="11" font="1">SDS-PAGE and transferred to PVDF using standard immunoblotting methods. POL2 </text>
+<text top="467" left="85" width="424" height="11" font="1">expression was detected using mouse anti-POL24H81 (ab5408, 1:1000) followed by incubation </text>
+<text top="479" left="85" width="375" height="11" font="1">with anti-mouse secondary antibody (1:5000) and detected by ECL Plus (Amersham </text>
+<text top="491" left="85" width="410" height="11" font="1">Biosciences). As expected, a single band of approximately 260 kDa was detected (predicted </text>
+<text top="503" left="85" width="224" height="11" font="1">molecular weight: 217 kDa) in all cell lines tested.  </text>
+<text top="710" left="85" width="58" height="9" font="5">cak 03Sep2010 </text>
+<text top="198" left="259" width="0" height="9" font="6"><b>G</b></text>
+<text top="192" left="259" width="0" height="9" font="6"><b>1E </b></text>
+<text top="198" left="274" width="0" height="9" font="6"><b>G</b></text>
+<text top="192" left="274" width="0" height="9" font="6"><b>1E-ER</b></text>
+<text top="168" left="274" width="0" height="9" font="6"><b>4+E2</b></text>
+<text top="149" left="274" width="0" height="9" font="6"><b> </b></text>
+<text top="198" left="305" width="0" height="9" font="6"><b>CH12 </b></text>
+<text top="196" left="290" width="0" height="9" font="6"><b>MEL</b></text>
+<text top="180" left="290" width="0" height="9" font="6"><b> </b></text>
+<text top="339" left="257" width="46" height="8" font="5">α<b>-Pol2-4H8  </b></text>
+<text top="346" left="263" width="32" height="9" font="6"><b>(1:1000) </b></text>
+<text top="226" left="326" width="23" height="9" font="6"><b>POL2 </b></text>
+<text top="246" left="222" width="16" height="9" font="6"><b>170 </b></text>
+<text top="262" left="221" width="16" height="9" font="6"><b>135 </b></text>
+<text top="281" left="222" width="16" height="9" font="6"><b>100 </b></text>
+<text top="295" left="226" width="11" height="9" font="6"><b>72 </b></text>
+<text top="318" left="226" width="11" height="9" font="6"><b>55 </b></text>
+</page>
+</pdf2xml>

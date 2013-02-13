@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="108" width="399" height="16" font="0"><b>Transcription factor: GATA binding protein 2 (GeneID 2624) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="298" height="13" font="1"><b>Transcription factor:</b> GATA2 (GeneID 2624; ~50 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="348" height="13" font="1"><b>Antibody:</b> GATA2 (CG2-96), Santa Cruz Biotechnology (sc-267) </text>
+<text top="215" left="77" width="104" height="13" font="2">Mouse monoclonal </text>
+<text top="229" left="77" width="376" height="13" font="2">Web: http://www.scbt.com/datasheet-267-gata-2-cg2-96-antibody.html </text>
+<text top="243" left="77" width="3" height="13" font="2"> </text>
+<text top="256" left="77" width="3" height="13" font="2"> </text>
+<text top="270" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="296" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="310" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="324" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="348" left="77" width="3" height="13" font="2"> </text>
+<text top="371" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="569" left="238" width="3" height="13" font="2"> </text>
+<text top="590" left="81" width="422" height="13" font="1"><b>Figure Legend:</b> Western blot analysis of GATA2 expression in TtT-97 nuclear </text>
+<text top="604" left="81" width="43" height="13" font="2">extract. </text>
+<text top="628" left="81" width="3" height="13" font="2"> </text>
+<text top="652" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="675" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="699" left="81" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="96" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="120" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="144" left="77" width="467" height="13" font="2">Whole cell lysates or nuclear extracts were immunoprecipitated using primary antibody, </text>
+<text top="158" left="77" width="467" height="13" font="2">and the IP fraction was loaded on a 12% acrylamide gel and separated with a Bio-Rad </text>
+<text top="171" left="77" width="467" height="13" font="2">PROTEAN  II  xi  system.  After  separation,  the  samples  were  transferred  to  a </text>
+<text top="185" left="77" width="467" height="13" font="2">nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary (same </text>
+<text top="199" left="77" width="467" height="13" font="2">as that used for IP) and secondary HRP-conjugated antibodies was performed on an </text>
+<text top="213" left="77" width="467" height="13" font="2">Invitrogen BenchPro 4100 system. Visualization was achieved using SuperSignal West </text>
+<text top="227" left="77" width="193" height="13" font="2">Femto solution (Thermo Scientific).  </text>
+<text top="595" left="77" width="3" height="13" font="2"> </text>
+<text top="595" left="485" width="3" height="13" font="2"> </text>
+<text top="617" left="122" width="354" height="13" font="1"><b>Figure  Legend:</b>  GATA2  immunoblot:  IP-western  with  sc-267 </text>
+<text top="630" left="122" width="354" height="13" font="2">GATA2  antibody  in  nuclear  lysate  (NE)  or  whole  cell  lysates </text>
+<text top="644" left="122" width="354" height="13" font="2">(WCL)  of  K562,  GM12878,  and  HepG2.  Heavy  chain  of  IgG  is </text>
+<text top="658" left="122" width="354" height="13" font="2">indicated,  and  GATA2  band  is  indicated  at  ~50  kDa  in  K562 </text>
+<text top="672" left="122" width="354" height="13" font="2">nuclear  extract.  GATA2  is  expressed  at  very  low  levels  in </text>
+<text top="686" left="122" width="354" height="13" font="2">GM12878 and HepG2, and these lanes are included as negative </text>
+<text top="699" left="122" width="49" height="13" font="2">controls. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="5" family="Times" color="#000000"/>
+<text top="72" left="77" width="278" height="16" font="0"><b>Validation 2: Mass Spectrometry Analysis</b></text>
+<text top="74" left="354" width="3" height="13" font="2"> </text>
+<text top="98" left="77" width="467" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="112" left="77" width="467" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="126" left="77" width="467" height="13" font="2">spectrometry analysis. Briefly, K562 whole cell lysates were immunoprecipitated using </text>
+<text top="140" left="77" width="467" height="13" font="2">primary  antibody,  and  the  IP  fraction  was  loaded  on  a  12%  acrylamide  gel  and </text>
+<text top="154" left="77" width="467" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="167" left="77" width="467" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="181" left="77" width="467" height="13" font="2">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="195" left="77" width="467" height="13" font="2">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="209" left="77" width="467" height="13" font="2">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="223" left="77" width="467" height="13" font="2">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="236" left="77" width="467" height="13" font="2">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="250" left="77" width="467" height="13" font="2">As  per  ENCODE  data  standards,  all  MASCOT  results  are  listed  below,  including </text>
+<text top="264" left="77" width="344" height="13" font="2">common contaminants. Target protein is highlighted in bold font. </text>
+<text top="288" left="77" width="4" height="16" font="0"><b> </b></text>
+<text top="314" left="77" width="56" height="9" font="3">TBB5_HUMAN </text>
+<text top="314" left="162" width="224" height="9" font="3"> Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 SV=2 </text>
+<text top="333" left="77" width="62" height="9" font="3">TBB2C_HUMAN </text>
+<text top="333" left="162" width="247" height="9" font="3"> Tubulin beta-2C chain OS=Homo sapiens GN=TUBB2C PE=1 SV=1 </text>
+<text top="352" left="77" width="56" height="9" font="3">TBB4_HUMAN </text>
+<text top="352" left="162" width="235" height="9" font="3"> Tubulin beta-4 chain OS=Homo sapiens GN=TUBB4 PE=1 SV=2 </text>
+<text top="371" left="77" width="56" height="9" font="3">TBB3_HUMAN </text>
+<text top="371" left="162" width="235" height="9" font="3"> Tubulin beta-3 chain OS=Homo sapiens GN=TUBB3 PE=1 SV=2 </text>
+<text top="391" left="77" width="61" height="9" font="3">TBB2A_HUMAN </text>
+<text top="391" left="162" width="246" height="9" font="3"> Tubulin beta-2A chain OS=Homo sapiens GN=TUBB2A PE=1 SV=1 </text>
+<text top="410" left="77" width="56" height="9" font="3">K2C1_HUMAN </text>
+<text top="410" left="162" width="260" height="9" font="3"> Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6 </text>
+<text top="429" left="77" width="59" height="9" font="3"> ATPA_HUMAN </text>
+<text top="429" left="162" width="318" height="9" font="3"> ATP synthase subunit alpha, mitochondrial OS=Homo sapiens GN=ATP5A1 PE=1 SV=1 </text>
+<text top="448" left="77" width="57" height="9" font="3">ATPB_HUMAN </text>
+<text top="448" left="162" width="310" height="9" font="3"> ATP synthase subunit beta, mitochondrial OS=Homo sapiens GN=ATP5B PE=1 SV=3 </text>
+<text top="467" left="77" width="56" height="9" font="3">K2C8_HUMAN </text>
+<text top="467" left="162" width="260" height="9" font="3"> Keratin, type II cytoskeletal 8 OS=Homo sapiens GN=KRT8 PE=1 SV=7 </text>
+<text top="487" left="77" width="56" height="9" font="3">K1C9_HUMAN </text>
+<text top="487" left="162" width="257" height="9" font="3"> Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3 </text>
+<text top="506" left="77" width="60" height="9" font="3">K1C10_HUMAN </text>
+<text top="506" left="162" width="266" height="9" font="3"> Keratin, type I cytoskeletal 10 OS=Homo sapiens GN=KRT10 PE=1 SV=6 </text>
+<text top="525" left="77" width="59" height="9" font="3">ENOA_HUMAN </text>
+<text top="525" left="162" width="210" height="9" font="3"> Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2 </text>
+<text top="544" left="77" width="56" height="9" font="3">TBB6_HUMAN </text>
+<text top="544" left="162" width="235" height="9" font="3"> Tubulin beta-6 chain OS=Homo sapiens GN=TUBB6 PE=1 SV=1 </text>
+<text top="563" left="77" width="58" height="9" font="3">SYDC_HUMAN </text>
+<text top="563" left="162" width="297" height="9" font="3"> Aspartyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=DARS PE=1 SV=2 </text>
+<text top="583" left="77" width="62" height="9" font="3">TBA1C_HUMAN </text>
+<text top="583" left="162" width="251" height="9" font="3"> Tubulin alpha-1C chain OS=Homo sapiens GN=TUBA1C PE=1 SV=1 </text>
+<text top="602" left="77" width="63" height="9" font="3">POTEE_HUMAN </text>
+<text top="602" left="162" width="305" height="9" font="3"> POTE ankyrin domain family member E OS=Homo sapiens GN=POTEE PE=1 SV=3 </text>
+<text top="621" left="77" width="64" height="9" font="3">HNRH1_HUMAN </text>
+<text top="621" left="162" width="330" height="9" font="3"> Heterogeneous nuclear ribonucleoprotein H OS=Homo sapiens GN=HNRNPH1 PE=1 SV=4 </text>
+<text top="640" left="77" width="61" height="9" font="3">HS90B_HUMAN </text>
+<text top="640" left="162" width="292" height="9" font="3"> Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4 </text>
+<text top="659" left="77" width="56" height="9" font="3">K22E_HUMAN </text>
+<text top="659" left="162" width="297" height="9" font="3"> Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens GN=KRT2 PE=1 SV=2 </text>
+<text top="679" left="77" width="62" height="9" font="3">DDX39_HUMAN </text>
+<text top="679" left="162" width="297" height="9" font="3"> ATP-dependent RNA helicase DDX39 OS=Homo sapiens GN=DDX39 PE=1 SV=2 </text>
+<text top="698" left="77" width="59" height="9" font="3">ENOB_HUMAN </text>
+<text top="698" left="162" width="206" height="9" font="3"> Beta-enolase OS=Homo sapiens GN=ENO3 PE=1 SV=4 </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="62" height="9" font="3">TBA3C_HUMAN </text>
+<text top="72" left="162" width="259" height="9" font="3"> Tubulin alpha-3C/D chain OS=Homo sapiens GN=TUBA3C PE=1 SV=3 </text>
+<text top="91" left="77" width="61" height="9" font="3">UAP56_HUMAN </text>
+<text top="91" left="162" width="276" height="9" font="3"> Spliceosome RNA helicase BAT1 OS=Homo sapiens GN=BAT1 PE=1 SV=1 </text>
+<text top="111" left="77" width="56" height="9" font="3">ERF1_HUMAN </text>
+<text top="111" left="162" width="329" height="9" font="3"> Eukaryotic peptide chain release factor subunit 1 OS=Homo sapiens GN=ETF1 PE=1 SV=3 </text>
+<text top="130" left="77" width="61" height="9" font="3">TBA4A_HUMAN </text>
+<text top="130" left="162" width="250" height="9" font="3"> Tubulin alpha-4A chain OS=Homo sapiens GN=TUBA4A PE=1 SV=1 </text>
+<text top="149" left="77" width="61" height="9" font="3">K2C6B_HUMAN </text>
+<text top="149" left="162" width="270" height="9" font="3"> Keratin, type II cytoskeletal 6B OS=Homo sapiens GN=KRT6B PE=1 SV=5 </text>
+<text top="168" left="77" width="57" height="9" font="3">PUR2_HUMAN </text>
+<text top="168" left="162" width="345" height="9" font="3"> Trifunctional purine biosynthetic protein adenosine-3 OS=Homo sapiens GN=GART PE=1 SV=1 </text>
+<text top="187" left="77" width="62" height="9" font="3">RBBP4_HUMAN </text>
+<text top="187" left="162" width="274" height="9" font="3"> Histone-binding protein RBBP4 OS=Homo sapiens GN=RBBP4 PE=1 SV=3 </text>
+<text top="207" left="77" width="4" height="9" font="3">  </text>
+<text top="207" left="90" width="368" height="9" font="3"> HS90A_HUMAN   Heat shock protein HSP 90-alpha OS=Homo sapiens GN=HSP90AA1 PE=1 SV=5 </text>
+<text top="226" left="77" width="4" height="9" font="3">  </text>
+<text top="226" left="90" width="322" height="9" font="3"> TBA3E_HUMAN   Tubulin alpha-3E chain OS=Homo sapiens GN=TUBA3E PE=1 SV=2 </text>
+<text top="245" left="77" width="4" height="9" font="3">  </text>
+<text top="245" left="90" width="281" height="9" font="3"> RUVB1_HUMAN   RuvB-like 1 OS=Homo sapiens GN=RUVBL1 PE=1 SV=1 </text>
+<text top="264" left="77" width="4" height="9" font="3">  </text>
+<text top="264" left="90" width="61" height="9" font="3"> PDIA6_HUMAN </text>
+<text top="264" left="162" width="269" height="9" font="3"> Protein disulfide-isomerase A6 OS=Homo sapiens GN=PDIA6 PE=1 SV=1 </text>
+<text top="283" left="77" width="4" height="9" font="3">  </text>
+<text top="283" left="90" width="58" height="9" font="3"> TBA8_HUMAN </text>
+<text top="283" left="162" width="239" height="9" font="3"> Tubulin alpha-8 chain OS=Homo sapiens GN=TUBA8 PE=1 SV=1 </text>
+<text top="303" left="77" width="4" height="9" font="3">  </text>
+<text top="303" left="90" width="56" height="9" font="3"> IF2G_HUMAN </text>
+<text top="303" left="162" width="335" height="9" font="3"> Eukaryotic translation initiation factor 2 subunit 3 OS=Homo sapiens GN=EIF2S3 PE=1 SV=3 </text>
+<text top="322" left="77" width="4" height="9" font="3">  </text>
+<text top="322" left="90" width="381" height="9" font="3"> TRAP1_HUMAN   Heat shock protein 75 kDa, mitochondrial OS=Homo sapiens GN=TRAP1 PE=1 SV=3 </text>
+<text top="341" left="77" width="4" height="9" font="3">  </text>
+<text top="341" left="90" width="53" height="9" font="3"> RL4_HUMAN </text>
+<text top="341" left="162" width="246" height="9" font="3"> 60S ribosomal protein L4 OS=Homo sapiens GN=RPL4 PE=1 SV=5 </text>
+<text top="360" left="77" width="4" height="9" font="3">  </text>
+<text top="360" left="90" width="58" height="9" font="3"> K2C5_HUMAN </text>
+<text top="360" left="162" width="260" height="9" font="3"> Keratin, type II cytoskeletal 5 OS=Homo sapiens GN=KRT5 PE=1 SV=3 </text>
+<text top="379" left="77" width="4" height="9" font="3">  </text>
+<text top="379" left="90" width="63" height="9" font="3"> K1C16_HUMAN </text>
+<text top="379" left="162" width="266" height="9" font="3"> Keratin, type I cytoskeletal 16 OS=Homo sapiens GN=KRT16 PE=1 SV=4 </text>
+<text top="399" left="77" width="4" height="9" font="3">  </text>
+<text top="399" left="90" width="343" height="9" font="3"> SPTC1_HUMAN   Serine palmitoyltransferase 1 OS=Homo sapiens GN=SPTLC1 PE=1 SV=1 </text>
+<text top="418" left="77" width="4" height="9" font="3">  </text>
+<text top="418" left="90" width="60" height="9" font="3"> AMPL_HUMAN </text>
+<text top="418" left="162" width="242" height="9" font="3"> Cytosol aminopeptidase OS=Homo sapiens GN=LAP3 PE=1 SV=3 </text>
+<text top="437" left="77" width="4" height="9" font="3">  </text>
+<text top="437" left="90" width="404" height="9" font="3"> DDX17_HUMAN   Probable ATP-dependent RNA helicase DDX17 OS=Homo sapiens GN=DDX17 PE=1 SV=1 </text>
+<text top="456" left="77" width="4" height="9" font="3">  </text>
+<text top="456" left="90" width="326" height="9" font="3"> AP2M1_HUMAN   AP-2 complex subunit mu OS=Homo sapiens GN=AP2M1 PE=1 SV=2 </text>
+<text top="475" left="77" width="4" height="9" font="3">  </text>
+<text top="475" left="90" width="60" height="9" font="3"> TCPA_HUMAN </text>
+<text top="475" left="162" width="278" height="9" font="3"> T-complex protein 1 subunit alpha OS=Homo sapiens GN=TCP1 PE=1 SV=1 </text>
+<text top="495" left="77" width="4" height="9" font="3">  </text>
+<text top="495" left="90" width="423" height="9" font="3"> PSD12_HUMAN   26S proteasome non-ATPase regulatory subunit 12 OS=Homo sapiens GN=PSMD12 PE=1 SV=3 </text>
+<text top="514" left="77" width="4" height="9" font="3">  </text>
+<text top="514" left="90" width="63" height="9" font="3"> K2C79_HUMAN </text>
+<text top="514" left="162" width="269" height="9" font="3"> Keratin, type II cytoskeletal 79 OS=Homo sapiens GN=KRT79 PE=1 SV=2 </text>
+<text top="533" left="77" width="4" height="9" font="3">  </text>
+<text top="533" left="90" width="259" height="9" font="3"> FSCN1_HUMAN   Fascin OS=Homo sapiens GN=FSCN1 PE=1 SV=3 </text>
+<text top="552" left="77" width="4" height="9" font="3">  </text>
+<text top="552" left="90" width="357" height="9" font="3"> CNDP2_HUMAN   Cytosolic non-specific dipeptidase OS=Homo sapiens GN=CNDP2 PE=1 SV=2 </text>
+<text top="571" left="77" width="4" height="9" font="3">  </text>
+<text top="571" left="90" width="60" height="9" font="3"> DDX6_HUMAN </text>
+<text top="571" left="162" width="323" height="9" font="3"> Probable ATP-dependent RNA helicase DDX6 OS=Homo sapiens GN=DDX6 PE=1 SV=2 </text>
+<text top="591" left="77" width="4" height="9" font="3">  </text>
+<text top="591" left="90" width="379" height="9" font="3"> NAMPT_HUMAN   Nicotinamide phosphoribosyltransferase OS=Homo sapiens GN=NAMPT PE=1 SV=1 </text>
+<text top="610" left="77" width="4" height="9" font="3">  </text>
+<text top="610" left="90" width="324" height="9" font="3"> DNPEP_HUMAN   Aspartyl aminopeptidase OS=Homo sapiens GN=DNPEP PE=1 SV=1 </text>
+<text top="629" left="77" width="4" height="9" font="3">  </text>
+<text top="629" left="90" width="326" height="9" font="3"> FACR1_HUMAN   Fatty acyl-CoA reductase 1 OS=Homo sapiens GN=FAR1 PE=1 SV=1 </text>
+<text top="648" left="77" width="4" height="9" font="3">  </text>
+<text top="648" left="90" width="43" height="9" font="3"> REV_5682 </text>
+<text top="648" left="162" width="4" height="9" font="3">  </text>
+<text top="667" left="77" width="4" height="9" font="3">  </text>
+<text top="667" left="90" width="62" height="9" font="3"> ENOG_HUMAN </text>
+<text top="667" left="162" width="218" height="9" font="3"> Gamma-enolase OS=Homo sapiens GN=ENO2 PE=1 SV=3 </text>
+<text top="687" left="77" width="4" height="9" font="3">  </text>
+<text top="687" left="90" width="63" height="9" font="3"> CE192_HUMAN </text>
+<text top="687" left="162" width="280" height="9" font="3"> Centrosomal protein of 192 kDa OS=Homo sapiens GN=CEP192 PE=1 SV=2 </text>
+<text top="706" left="77" width="4" height="9" font="3">  </text>
+<text top="706" left="90" width="58" height="9" font="3"> K2C4_HUMAN </text>
+<text top="706" left="162" width="260" height="9" font="3"> Keratin, type II cytoskeletal 4 OS=Homo sapiens GN=KRT4 PE=1 SV=4 </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="4" size="5" family="Times" color="#000000"/>
+<text top="72" left="77" width="4" height="9" font="3">  </text>
+<text top="72" left="90" width="59" height="9" font="3"> EM55_HUMAN </text>
+<text top="72" left="162" width="293" height="9" font="3"> 55 kDa erythrocyte membrane protein OS=Homo sapiens GN=MPP1 PE=1 SV=2 </text>
+<text top="91" left="77" width="4" height="9" font="3">  </text>
+<text top="91" left="90" width="360" height="9" font="3"> HSP7C_HUMAN   Heat shock cognate 71 kDa protein OS=Homo sapiens GN=HSPA8 PE=1 SV=1 </text>
+<text top="111" left="77" width="4" height="9" font="3">  </text>
+<text top="111" left="90" width="378" height="9" font="3"> DCST1_HUMAN   DC-STAMP domain-containing protein 1 OS=Homo sapiens GN=DCST1 PE=2 SV=1 </text>
+<text top="130" left="77" width="4" height="9" font="3">  </text>
+<text top="130" left="90" width="60" height="9" font="3"> TCPB_HUMAN </text>
+<text top="130" left="162" width="274" height="9" font="3"> T-complex protein 1 subunit beta OS=Homo sapiens GN=CCT2 PE=1 SV=4 </text>
+<text top="149" left="77" width="4" height="9" font="3">  </text>
+<text top="149" left="90" width="390" height="9" font="4"><b> GATA2_HUMAN   Endothelial transcription factor GATA-2 OS=Homo sapiens GN=GATA2 PE=1 SV=3 </b></text>
+<text top="168" left="77" width="4" height="9" font="3">  </text>
+<text top="168" left="90" width="430" height="9" font="3"> GATA3_HUMAN   Trans-acting T-cell-specific transcription factor GATA-3 OS=Homo sapiens GN=GATA3 PE=1 SV=1 </text>
+<text top="187" left="77" width="4" height="9" font="3">  </text>
+<text top="187" left="90" width="63" height="9" font="3"> K2C80_HUMAN </text>
+<text top="187" left="162" width="269" height="9" font="3"> Keratin, type II cytoskeletal 80 OS=Homo sapiens GN=KRT80 PE=1 SV=2 </text>
+<text top="207" left="77" width="4" height="9" font="3">  </text>
+<text top="207" left="90" width="61" height="9" font="3"> UGPA_HUMAN </text>
+<text top="207" left="162" width="322" height="9" font="3"> UTP--glucose-1-phosphate uridylyltransferase OS=Homo sapiens GN=UGP2 PE=1 SV=5 </text>
+<text top="226" left="77" width="4" height="9" font="3">  </text>
+<text top="226" left="90" width="341" height="9" font="3"> K2C1B_HUMAN   Keratin, type II cytoskeletal 1b OS=Homo sapiens GN=KRT77 PE=1 SV=2 </text>
+<text top="245" left="77" width="4" height="9" font="3">  </text>
+<text top="245" left="90" width="414" height="9" font="3"> PSMD5_HUMAN   26S proteasome non-ATPase regulatory subunit 5 OS=Homo sapiens GN=PSMD5 PE=1 SV=3 </text>
+<text top="264" left="77" width="4" height="9" font="3">  </text>
+<text top="264" left="90" width="43" height="9" font="3"> REV_9826 </text>
+<text top="264" left="162" width="4" height="9" font="3">  </text>
+<text top="283" left="77" width="4" height="9" font="3">  </text>
+<text top="283" left="90" width="361" height="9" font="3"> PDC10_HUMAN   Programmed cell death protein 10 OS=Homo sapiens GN=PDCD10 PE=1 SV=1 </text>
+<text top="303" left="77" width="4" height="9" font="3">  </text>
+<text top="303" left="90" width="59" height="9" font="3"> BYST_HUMAN </text>
+<text top="303" left="162" width="179" height="9" font="3"> Bystin OS=Homo sapiens GN=BYSL PE=1 SV=3 </text>
+<text top="322" left="77" width="4" height="9" font="3">  </text>
+<text top="322" left="90" width="63" height="9" font="3"> K2C73_HUMAN </text>
+<text top="322" left="162" width="269" height="9" font="3"> Keratin, type II cytoskeletal 73 OS=Homo sapiens GN=KRT73 PE=1 SV=1 </text>
+<text top="341" left="77" width="4" height="9" font="3">  </text>
+<text top="341" left="90" width="313" height="9" font="3"> PLRG1_HUMAN   Pleiotropic regulator 1 OS=Homo sapiens GN=PLRG1 PE=1 SV=1 </text>
+<text top="360" left="77" width="4" height="9" font="3">  </text>
+<text top="360" left="90" width="53" height="9" font="3"> EF2_HUMAN </text>
+<text top="360" left="162" width="224" height="9" font="3"> Elongation factor 2 OS=Homo sapiens GN=EEF2 PE=1 SV=4 </text>
+<text top="379" left="77" width="4" height="9" font="3">  </text>
+<text top="379" left="90" width="61" height="9" font="3"> GLYM_HUMAN </text>
+<text top="379" left="162" width="333" height="9" font="3"> Serine hydroxymethyltransferase, mitochondrial OS=Homo sapiens GN=SHMT2 PE=1 SV=3 </text>
+<text top="399" left="77" width="4" height="9" font="3">  </text>
+<text top="399" left="90" width="60" height="9" font="3"> TCPD_HUMAN </text>
+<text top="399" left="162" width="276" height="9" font="3"> T-complex protein 1 subunit delta OS=Homo sapiens GN=CCT4 PE=1 SV=4 </text>
+<text top="418" left="77" width="4" height="9" font="3">  </text>
+<text top="418" left="90" width="416" height="9" font="3"> CX7A2_HUMAN   Cytochrome c oxidase subunit 7A2, mitochondrial OS=Homo sapiens GN=COX7A2 PE=1 SV=1 </text>
+<text top="437" left="77" width="4" height="9" font="3">  </text>
+<text top="437" left="90" width="60" height="9" font="3"> ACTA_HUMAN </text>
+<text top="437" left="162" width="261" height="9" font="3"> Actin, aortic smooth muscle OS=Homo sapiens GN=ACTA2 PE=1 SV=1 </text>
+<text top="456" left="77" width="4" height="9" font="3">  </text>
+<text top="456" left="90" width="63" height="9" font="3"> K1C17_HUMAN </text>
+<text top="456" left="162" width="266" height="9" font="3"> Keratin, type I cytoskeletal 17 OS=Homo sapiens GN=KRT17 PE=1 SV=2 </text>
+<text top="475" left="77" width="4" height="9" font="3">  </text>
+<text top="475" left="90" width="374" height="9" font="3"> POTEJ_HUMAN   POTE ankyrin domain family member J OS=Homo sapiens GN=POTEJ PE=3 SV=1 </text>
+<text top="495" left="77" width="4" height="9" font="3">  </text>
+<text top="495" left="90" width="408" height="9" font="3"> VP26B_HUMAN   Vacuolar protein sorting-associated protein 26B OS=Homo sapiens GN=VPS26B PE=1 SV=2 </text>
+<text top="514" left="77" width="4" height="9" font="3">  </text>
+<text top="514" left="90" width="273" height="9" font="3"> SEP14_HUMAN   Septin-14 OS=Homo sapiens GN=SEPT14 PE=1 SV=2 </text>
+<text top="533" left="77" width="4" height="9" font="3">  </text>
+<text top="533" left="90" width="264" height="9" font="3"> SEPT8_HUMAN   Septin-8 OS=Homo sapiens GN=SEPT8 PE=1 SV=4 </text>
+</page>
+</pdf2xml>

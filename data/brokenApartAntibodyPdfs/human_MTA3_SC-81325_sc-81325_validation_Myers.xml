@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="48" height="12" font="1">Sep 1, 2011</text>
+<text top="353" left="94" width="453" height="12" font="1">Mouse monoclonal IgG, raised against a recombinant protein corresponding to a region near the N-terminus </text>
+<text top="365" left="94" width="106" height="12" font="1">of MTA3 of human origin.</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="74" height="12" font="1">MTA3_(SC-81325)</text>
+<text top="215" left="339" width="24" height="12" font="1">MTA3</text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="28" height="12" font="1">Mouse</text>
+<text top="300" left="395" width="25" height="12" font="1">F1110</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-81325</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="356" width="50" height="12" font="2">Monoclonal</text>
+<text top="413" left="94" width="403" height="12" font="1">Plays a role in maintenance of the normal epithelial architecture through the repression of SNAI1 </text>
+<text top="425" left="94" width="428" height="12" font="1">transcription in a histone deacetylase-dependent manner, and thus the regulation of E-cadherin levels. </text>
+<text top="437" left="94" width="2" height="12" font="1"> </text>
+<text top="449" left="94" width="121" height="12" font="1">Entrez gene ID 57504; 60 kDa</text>
+<text top="599" left="238" width="165" height="12" font="1">http://www.scbt.com/datasheet-81325-</text>
+<text top="611" left="238" width="117" height="12" font="1">mta3-428c2a-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="74" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="86" left="125" width="428" height="12" font="1">Whole cell lysate was immunoprecipitated using primary antibody, and the IP fraction was loaded on a </text>
+<text top="98" left="125" width="422" height="12" font="1">12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. After separation, the samples </text>
+<text top="110" left="125" width="422" height="12" font="1">were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary </text>
+<text top="122" left="125" width="422" height="12" font="1">(same as that used for IP) and secondary HRP-conjugated antibodies was performed on an Invitrogen </text>
+<text top="134" left="125" width="414" height="12" font="1">BenchPro 4100 system. Visualization was achieved using SuperSignal West Femto solution (Thermo </text>
+<text top="146" left="125" width="47" height="12" font="1">Scientific).  </text>
+<text top="158" left="125" width="2" height="12" font="1"> </text>
+<text top="170" left="125" width="419" height="12" font="1">Results: Band of expected size visualized, representing strongest signal in the lane. Band tested by IP-</text>
+<text top="182" left="125" width="108" height="12" font="1">mass spec (validation #2). </text>
+<text top="194" left="125" width="2" height="12" font="1"> </text>
+<text top="206" left="125" width="431" height="12" font="1">Figure legend: IP-western with sc-81325 in whole cell lysate (WCL) of HepG2; PM=protein marker. MTA3 </text>
+<text top="218" left="125" width="76" height="12" font="1">band is indicated. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="99" left="130" width="144" height="12" font="1">IP followed by mass spectrometry: </text>
+<text top="111" left="130" width="392" height="12" font="1">Briefly, HepG2 whole cell lysates were immunoprecipitated using primary antibody, and the IP </text>
+<text top="123" left="130" width="418" height="12" font="1">fraction was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. Gel </text>
+<text top="135" left="130" width="419" height="12" font="1">was stained with Coomassie Blue in order to visualize marker bands. Gel fragments corresponding to </text>
+<text top="147" left="130" width="397" height="12" font="1">the bands indicated above in the western blot image were excised and sent to the University of </text>
+<text top="159" left="130" width="403" height="12" font="1">Alabama at Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="171" left="130" width="415" height="12" font="1">samples were run on an LTQ XL Linear Ion Trap Mass Spectrometer by LC-ESI-MS/MS. Peptides were </text>
+<text top="183" left="130" width="423" height="12" font="1">identified using SEQUEST tandem mass spectra analysis, with probability based matching at p &lt; 0.05.  </text>
+<text top="195" left="130" width="2" height="12" font="1"> </text>
+<text top="207" left="130" width="268" height="12" font="1">As per ENCODE data standards, all SEQUEST results are attached </text>
+<text top="219" left="130" width="420" height="12" font="1">(ENCODE_HAIB_MTA3_sc81325_09012011_MassSpec.pdf), including common contaminants. Target </text>
+<text top="231" left="130" width="194" height="12" font="1">protein is listed as hit 12a in the ~60 kDa band.</text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="4" family="Times" color="#000000"/>
+	<fontspec id="4" size="4" family="Times" color="#000000"/>
+<text top="73" left="56" width="123" height="7" font="3">19 entries (9 single hits) retrieved from</text>
+<text top="81" left="56" width="284" height="7" font="3">/home/TPP/tpp/20110617_Bowling/int-gb_20110617_LTQ_Bowling_MTA3-sequest.prot.xml</text>
+<text top="105" left="56" width="179" height="7" font="3">* corresponds to peptide is_nondegenerate_evidence flag</text>
+<text top="128" left="94" width="409" height="7" font="3">1 UniRef100_B4DHT9 UniRef100_B4DU71 UniRef100_P14625 UniRef100_Q59FC6 UniRef100_Q5CAQ5 UniRef100_UPI0001AE6A99 </text>
+<text top="136" left="140" width="4" height="7" font="3">1</text>
+<text top="144" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="144" left="147" width="65" height="7" font="3">max coverage: 5.3%</text>
+<text top="144" left="193" width="62" height="7" font="3">num unique peps: 2</text>
+<text top="144" left="239" width="61" height="7" font="3">tot indep spectra: 7</text>
+<text top="144" left="284" width="94" height="7" font="3">share of spectrum id's: 2.00%</text>
+<text top="152" left="102" width="441" height="7" font="3">&gt;cDNA FLJ58812, highly similar to Endoplasmin (Heat shock protein 90kDa beta member 1) n=1 Tax=Homo sapiens RepID=B4DHT9_HUMAN</text>
+<text top="152" left="467" width="45" height="7" font="3">Length: 468aa</text>
+<text top="160" left="102" width="443" height="7" font="3">&gt;cDNA FLJ58626, highly similar to Endoplasmin (Heat shock protein 90 kDa beta member 1) n=1 Tax=Homo sapiens RepID=B4DU71_HUMAN</text>
+<text top="168" left="102" width="189" height="7" font="3">&gt;Endoplasmin n=1 Tax=Homo sapiens RepID=ENPL_HUMAN</text>
+<text top="176" left="102" width="324" height="7" font="3">&gt;Tumor rejection antigen (Gp96) 1 variant (Fragment) n=1 Tax=Homo sapiens RepID=Q59FC6_HUMAN</text>
+<text top="184" left="102" width="264" height="7" font="3">&gt;Tumor rejection antigen (Gp96) 1 n=1 Tax=Homo sapiens RepID=Q5CAQ5_HUMAN</text>
+<text top="192" left="102" width="255" height="7" font="3">&gt;UPI0001AE6A99 related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE6A99</text>
+<text top="216" left="94" width="90" height="7" font="3">2 UniRef100_P35527 1.0000</text>
+<text top="223" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="223" left="147" width="53" height="7" font="3">coverage: 11.6%</text>
+<text top="223" left="193" width="62" height="7" font="3">num unique peps: 5</text>
+<text top="223" left="239" width="65" height="7" font="3">tot indep spectra: 13</text>
+<text top="223" left="284" width="94" height="7" font="3">share of spectrum id's: 3.72%</text>
+<text top="231" left="102" width="240" height="7" font="3">&gt;Keratin, type I cytoskeletal 9 n=1 Tax=Homo sapiens RepID=K1C9_HUMAN</text>
+<text top="231" left="467" width="45" height="7" font="3">Length: 623aa</text>
+<text top="255" left="56" width="8" height="7" font="3">4a</text>
+<text top="255" left="102" width="270" height="7" font="3">UniRef100_B3GQS7 UniRef100_B7Z597 UniRef100_B7Z5E7 UniRef100_P10809 1.0000</text>
+<text top="263" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="263" left="147" width="69" height="7" font="3">max coverage: 11.2%</text>
+<text top="263" left="193" width="62" height="7" font="3">num unique peps: 5</text>
+<text top="263" left="239" width="65" height="7" font="3">tot indep spectra: 13</text>
+<text top="263" left="284" width="94" height="7" font="3">share of spectrum id's: 3.68%</text>
+<text top="271" left="102" width="315" height="7" font="3">&gt;Mitochondrial heat shock 60kD protein 1 variant 1 n=1 Tax=Homo sapiens RepID=B3GQS7_HUMAN</text>
+<text top="271" left="467" width="45" height="7" font="3">Length: 569aa</text>
+<text top="279" left="102" width="391" height="7" font="3">&gt;cDNA FLJ54373, highly similar to 60 kDa heat shock protein, mitochondrial n=1 Tax=Homo sapiens RepID=B7Z597_HUMAN</text>
+<text top="287" left="102" width="391" height="7" font="3">&gt;cDNA FLJ51046, highly similar to 60 kDa heat shock protein, mitochondrial n=1 Tax=Homo sapiens RepID=B7Z5E7_HUMAN</text>
+<text top="295" left="102" width="279" height="7" font="3">&gt;60 kDa heat shock protein, mitochondrial n=1 Tax=Homo sapiens RepID=CH60_HUMAN</text>
+<text top="318" left="56" width="8" height="7" font="3">5a</text>
+<text top="318" left="102" width="146" height="7" font="3">UniRef100_B4DNL5 UniRef100_P07237 1.0000</text>
+<text top="326" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="326" left="147" width="69" height="7" font="3">max coverage: 13.8%</text>
+<text top="326" left="193" width="62" height="7" font="3">num unique peps: 6</text>
+<text top="326" left="239" width="65" height="7" font="3">tot indep spectra: 14</text>
+<text top="326" left="284" width="94" height="7" font="3">share of spectrum id's: 3.99%</text>
+<text top="326" left="330" width="64" height="7" font="3">subsumed entries: 6</text>
+<text top="334" left="102" width="388" height="7" font="3">&gt;cDNA FLJ59361, highly similar to Protein disulfide-isomerase (EC 5.3.4.1) n=1 Tax=Homo sapiens RepID=B4DNL5_HUMAN</text>
+<text top="334" left="467" width="45" height="7" font="3">Length: 492aa</text>
+<text top="342" left="102" width="237" height="7" font="3">&gt;Protein disulfide-isomerase n=1 Tax=Homo sapiens RepID=PDIA1_HUMAN</text>
+<text top="366" left="56" width="8" height="7" font="3">6a</text>
+<text top="366" left="102" width="146" height="7" font="3">UniRef100_C5IWV5 UniRef100_P00761 1.0000</text>
+<text top="374" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="374" left="147" width="69" height="7" font="3">max coverage: 26.0%</text>
+<text top="374" left="193" width="66" height="7" font="3">num unique peps: 34</text>
+<text top="374" left="239" width="65" height="7" font="3">tot indep spectra: 84</text>
+<text top="374" left="284" width="98" height="7" font="3">share of spectrum id's: 17.26%</text>
+<text top="374" left="330" width="64" height="7" font="3">subsumed entries: 1</text>
+<text top="382" left="102" width="173" height="7" font="3">&gt;Trypsinogen n=1 Tax=Sus scrofa RepID=C5IWV5_PIG</text>
+<text top="382" left="467" width="45" height="7" font="3">Length: 246aa</text>
+<text top="390" left="102" width="148" height="7" font="3">&gt;Trypsin n=1 Tax=Sus scrofa RepID=TRYP_PIG</text>
+<text top="414" left="56" width="8" height="7" font="3">7a</text>
+<text top="414" left="102" width="83" height="7" font="3">UniRef100_P02769 1.0000</text>
+<text top="421" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="421" left="147" width="53" height="7" font="3">coverage: 31.5%</text>
+<text top="421" left="193" width="66" height="7" font="3">num unique peps: 21</text>
+<text top="421" left="239" width="65" height="7" font="3">tot indep spectra: 49</text>
+<text top="421" left="284" width="98" height="7" font="3">share of spectrum id's: 13.50%</text>
+<text top="421" left="330" width="64" height="7" font="3">subsumed entries: 1</text>
+<text top="429" left="102" width="185" height="7" font="3">&gt;Serum albumin n=1 Tax=Bos taurus RepID=ALBU_BOVIN</text>
+<text top="429" left="467" width="45" height="7" font="3">Length: 607aa</text>
+<text top="453" left="56" width="8" height="7" font="3">8a</text>
+<text top="453" left="102" width="83" height="7" font="3">UniRef100_P04264 1.0000</text>
+<text top="461" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="461" left="147" width="53" height="7" font="3">coverage: 25.0%</text>
+<text top="461" left="193" width="66" height="7" font="3">num unique peps: 15</text>
+<text top="461" left="239" width="65" height="7" font="3">tot indep spectra: 35</text>
+<text top="461" left="284" width="94" height="7" font="3">share of spectrum id's: 9.99%</text>
+<text top="469" left="102" width="243" height="7" font="3">&gt;Keratin, type II cytoskeletal 1 n=1 Tax=Homo sapiens RepID=K2C1_HUMAN</text>
+<text top="469" left="467" width="45" height="7" font="3">Length: 644aa</text>
+<text top="493" left="56" width="8" height="7" font="3">8b</text>
+<text top="493" left="102" width="83" height="7" font="3">UniRef100_P35908 1.0000</text>
+<text top="501" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="501" left="147" width="53" height="7" font="3">coverage: 16.0%</text>
+<text top="501" left="193" width="62" height="7" font="3">num unique peps: 5</text>
+<text top="501" left="239" width="61" height="7" font="3">tot indep spectra: 6</text>
+<text top="501" left="284" width="94" height="7" font="3">share of spectrum id's: 2.37%</text>
+<text top="509" left="102" width="275" height="7" font="3">&gt;Keratin, type II cytoskeletal 2 epidermal n=1 Tax=Homo sapiens RepID=K22E_HUMAN</text>
+<text top="509" left="467" width="45" height="7" font="3">Length: 639aa</text>
+<text top="532" left="56" width="7" height="7" font="3">8c</text>
+<text top="532" left="102" width="83" height="7" font="3">UniRef100_P13647 1.0000</text>
+<text top="540" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="540" left="147" width="53" height="7" font="3">coverage: 12.2%</text>
+<text top="540" left="193" width="62" height="7" font="3">num unique peps: 3</text>
+<text top="540" left="239" width="61" height="7" font="3">tot indep spectra: 5</text>
+<text top="540" left="284" width="94" height="7" font="3">share of spectrum id's: 1.96%</text>
+<text top="540" left="330" width="64" height="7" font="3">subsumed entries: 2</text>
+<text top="548" left="102" width="243" height="7" font="3">&gt;Keratin, type II cytoskeletal 5 n=1 Tax=Homo sapiens RepID=K2C5_HUMAN</text>
+<text top="548" left="467" width="45" height="7" font="3">Length: 590aa</text>
+<text top="572" left="56" width="8" height="7" font="3">9a</text>
+<text top="572" left="102" width="171" height="7" font="3">UniRef100_P13645 UniRef100_UPI00017BCE7F 1.0000</text>
+<text top="580" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="580" left="147" width="69" height="7" font="3">max coverage: 22.1%</text>
+<text top="580" left="193" width="66" height="7" font="3">num unique peps: 13</text>
+<text top="580" left="239" width="65" height="7" font="3">tot indep spectra: 33</text>
+<text top="580" left="284" width="94" height="7" font="3">share of spectrum id's: 9.54%</text>
+<text top="580" left="330" width="64" height="7" font="3">subsumed entries: 1</text>
+<text top="588" left="102" width="248" height="7" font="3">&gt;Keratin, type I cytoskeletal 10 n=1 Tax=Homo sapiens RepID=K1C10_HUMAN</text>
+<text top="588" left="467" width="45" height="7" font="3">Length: 584aa</text>
+<text top="596" left="102" width="250" height="7" font="3">&gt;keratin, type I cytoskeletal 10 n=1 Tax=Homo sapiens RepID=UPI00017BCE7F</text>
+<text top="619" left="56" width="12" height="7" font="3">10a</text>
+<text top="619" left="102" width="83" height="7" font="3">UniRef100_P14618 1.0000</text>
+<text top="627" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="627" left="147" width="53" height="7" font="3">coverage: 10.0%</text>
+<text top="627" left="193" width="62" height="7" font="3">num unique peps: 5</text>
+<text top="627" left="239" width="65" height="7" font="3">tot indep spectra: 11</text>
+<text top="627" left="284" width="94" height="7" font="3">share of spectrum id's: 3.00%</text>
+<text top="627" left="330" width="64" height="7" font="3">subsumed entries: 9</text>
+<text top="635" left="102" width="243" height="7" font="3">&gt;Pyruvate kinase isozymes M1/M2 n=2 Tax=Homininae RepID=KPYM_HUMAN</text>
+<text top="635" left="467" width="45" height="7" font="3">Length: 531aa</text>
+<text top="659" left="56" width="13" height="7" font="4"><b>12a</b></text>
+<text top="659" left="102" width="371" height="7" font="4"><b>UniRef100_Q9BTC8 UniRef100_Q9BTC8-2 UniRef100_UPI0000D4CDC7 UniRef100_UPI0001881589 1.0000</b></text>
+<text top="667" left="102" width="57" height="7" font="4"><b>confidence: 1.00</b></text>
+<text top="667" left="147" width="76" height="7" font="4"><b>max coverage: 12.5%</b></text>
+<text top="667" left="193" width="68" height="7" font="4"><b>num unique peps: 8</b></text>
+<text top="667" left="239" width="72" height="7" font="4"><b>tot indep spectra: 17</b></text>
+<text top="667" left="284" width="105" height="7" font="4"><b>share of spectrum id's: 4.52%</b></text>
+<text top="667" left="330" width="70" height="7" font="4"><b>subsumed entries: 6</b></text>
+<text top="675" left="102" width="282" height="7" font="4"><b>&gt;Metastasis-associated protein MTA3 n=3 Tax=Homininae RepID=MTA3_HUMAN</b></text>
+<text top="675" left="467" width="50" height="7" font="4"><b>Length: 594aa</b></text>
+<text top="683" left="102" width="323" height="7" font="4"><b>&gt;Isoform 2 of Metastasis-associated protein MTA3 n=1 Tax=Homo sapiens RepID=Q9BTC8-2</b></text>
+<text top="691" left="102" width="288" height="7" font="4"><b>&gt;UPI0000D4CDC7 related cluster n=1 Tax=Homo sapiens RepID=UPI0000D4CDC7</b></text>
+<text top="699" left="102" width="284" height="7" font="4"><b>&gt;UPI0001881589 related cluster n=1 Tax=Homo sapiens RepID=UPI0001881589</b></text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+<text top="81" left="56" width="12" height="7" font="3">13a</text>
+<text top="81" left="102" width="289" height="7" font="3">UniRef100_UPI0000111654 UniRef100_UPI00017BDB3D UniRef100_UPI00017BDB42 1.0000</text>
+<text top="89" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="89" left="147" width="69" height="7" font="3">max coverage: 10.3%</text>
+<text top="89" left="193" width="62" height="7" font="3">num unique peps: 2</text>
+<text top="89" left="239" width="61" height="7" font="3">tot indep spectra: 2</text>
+<text top="89" left="284" width="94" height="7" font="3">share of spectrum id's: 0.56%</text>
+<text top="97" left="102" width="260" height="7" font="3">&gt;MONOCLONAL ANTIBODY MAK33 n=1 Tax=Homo sapiens RepID=UPI0000111654</text>
+<text top="97" left="467" width="45" height="7" font="3">Length: 213aa</text>
+<text top="105" left="102" width="260" height="7" font="3">&gt;FabOX108 Light Chain Fragment n=1 Tax=Homo sapiens RepID=UPI00017BDB3D</text>
+<text top="113" left="102" width="259" height="7" font="3">&gt;FabOX117 Light Chain Fragment n=1 Tax=Homo sapiens RepID=UPI00017BDB42</text>
+<text top="136" left="56" width="12" height="7" font="3">11a</text>
+<text top="136" left="102" width="83" height="7" font="3">UniRef100_P30101 0.9999</text>
+<text top="144" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="144" left="147" width="49" height="7" font="3">coverage: 5.3%</text>
+<text top="144" left="193" width="62" height="7" font="3">num unique peps: 2</text>
+<text top="144" left="239" width="61" height="7" font="3">tot indep spectra: 5</text>
+<text top="144" left="284" width="94" height="7" font="3">share of spectrum id's: 1.39%</text>
+<text top="144" left="330" width="64" height="7" font="3">subsumed entries: 2</text>
+<text top="152" left="102" width="237" height="7" font="3">&gt;Protein disulfide-isomerase A3 n=2 Tax=Hominidae RepID=PDIA3_HUMAN</text>
+<text top="152" left="467" width="45" height="7" font="3">Length: 505aa</text>
+<text top="176" left="56" width="8" height="7" font="3">6b</text>
+<text top="176" left="102" width="83" height="7" font="3">UniRef100_P06872 0.9998</text>
+<text top="184" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="184" left="147" width="49" height="7" font="3">coverage: 6.9%</text>
+<text top="184" left="193" width="62" height="7" font="3">num unique peps: 8</text>
+<text top="184" left="239" width="65" height="7" font="3">tot indep spectra: 17</text>
+<text top="184" left="284" width="94" height="7" font="3">share of spectrum id's: 1.82%</text>
+<text top="192" left="102" width="215" height="7" font="3">&gt;Anionic trypsin n=2 Tax=Canis lupus familiaris RepID=TRY2_CANFA</text>
+<text top="192" left="467" width="45" height="7" font="3">Length: 247aa</text>
+<text top="216" left="56" width="8" height="7" font="3">8d</text>
+<text top="216" left="102" width="377" height="7" font="3">UniRef100_A8K2I0 UniRef100_B2R853 UniRef100_B4DRR0 UniRef100_B4DRU6 UniRef100_B4DRY0 UniRef100_B4DWU6 </text>
+<text top="223" left="102" width="321" height="7" font="3">UniRef100_P02538 UniRef100_P48668 UniRef100_UPI0001AE6B0A UniRef100_UPI0001AE6B0B 0.9998</text>
+<text top="231" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="231" left="147" width="65" height="7" font="3">max coverage: 9.0%</text>
+<text top="231" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="231" left="239" width="61" height="7" font="3">tot indep spectra: 1</text>
+<text top="231" left="284" width="94" height="7" font="3">share of spectrum id's: 1.23%</text>
+<text top="239" left="102" width="391" height="7" font="3">&gt;cDNA FLJ78504, highly similar to Homo sapiens keratin 6A (KRT6A), mRNA n=1 Tax=Homo sapiens RepID=A8K2I0_HUMAN</text>
+<text top="239" left="467" width="45" height="7" font="3">Length: 564aa</text>
+<text top="247" left="102" width="393" height="7" font="3">&gt;cDNA, FLJ93744, highly similar to Homo sapiens keratin 6E (KRT6E), mRNA n=1 Tax=Homo sapiens RepID=B2R853_HUMAN</text>
+<text top="255" left="102" width="361" height="7" font="3">&gt;cDNA FLJ53910, highly similar to Keratin, type II cytoskeletal 6A n=1 Tax=Homo sapiens RepID=B4DRR0_HUMAN</text>
+<text top="263" left="102" width="361" height="7" font="3">&gt;cDNA FLJ54657, highly similar to Keratin, type II cytoskeletal 6A n=1 Tax=Homo sapiens RepID=B4DRU6_HUMAN</text>
+<text top="271" left="102" width="360" height="7" font="3">&gt;cDNA FLJ54379, highly similar to Keratin, type II cytoskeletal 6E n=1 Tax=Homo sapiens RepID=B4DRY0_HUMAN</text>
+<text top="279" left="102" width="363" height="7" font="3">&gt;cDNA FLJ51361, highly similar to Keratin, type II cytoskeletal 6A n=1 Tax=Homo sapiens RepID=B4DWU6_HUMAN</text>
+<text top="287" left="102" width="251" height="7" font="3">&gt;Keratin, type II cytoskeletal 6A n=1 Tax=Homo sapiens RepID=K2C6A_HUMAN</text>
+<text top="295" left="102" width="251" height="7" font="3">&gt;Keratin, type II cytoskeletal 6C n=1 Tax=Homo sapiens RepID=K2C6C_HUMAN</text>
+<text top="303" left="102" width="255" height="7" font="3">&gt;UPI0001AE6B0A related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE6B0A</text>
+<text top="311" left="102" width="255" height="7" font="3">&gt;UPI0001AE6B0B related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE6B0B</text>
+<text top="334" left="56" width="8" height="7" font="3">9b</text>
+<text top="334" left="102" width="83" height="7" font="3">UniRef100_P02533 0.9998</text>
+<text top="342" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="342" left="147" width="49" height="7" font="3">coverage: 7.0%</text>
+<text top="342" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="342" left="239" width="61" height="7" font="3">tot indep spectra: 3</text>
+<text top="342" left="284" width="94" height="7" font="3">share of spectrum id's: 1.42%</text>
+<text top="342" left="330" width="64" height="7" font="3">subsumed entries: 2</text>
+<text top="350" left="102" width="248" height="7" font="3">&gt;Keratin, type I cytoskeletal 14 n=1 Tax=Homo sapiens RepID=K1C14_HUMAN</text>
+<text top="350" left="467" width="45" height="7" font="3">Length: 472aa</text>
+<text top="374" left="56" width="7" height="7" font="3">9c</text>
+<text top="374" left="102" width="83" height="7" font="3">UniRef100_P08779 0.9998</text>
+<text top="382" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="382" left="147" width="49" height="7" font="3">coverage: 6.8%</text>
+<text top="382" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="382" left="239" width="61" height="7" font="3">tot indep spectra: 1</text>
+<text top="382" left="284" width="94" height="7" font="3">share of spectrum id's: 0.84%</text>
+<text top="390" left="102" width="248" height="7" font="3">&gt;Keratin, type I cytoskeletal 16 n=1 Tax=Homo sapiens RepID=K1C16_HUMAN</text>
+<text top="390" left="467" width="45" height="7" font="3">Length: 473aa</text>
+<text top="414" left="56" width="12" height="7" font="3">14a</text>
+<text top="414" left="102" width="109" height="7" font="3">UniRef100_UPI000186EE46 0.9998</text>
+<text top="421" left="102" width="52" height="7" font="3">confidence: 0.99</text>
+<text top="421" left="147" width="49" height="7" font="3">coverage: 4.9%</text>
+<text top="421" left="193" width="62" height="7" font="3">num unique peps: 2</text>
+<text top="421" left="239" width="61" height="7" font="3">tot indep spectra: 2</text>
+<text top="421" left="284" width="94" height="7" font="3">share of spectrum id's: 0.54%</text>
+<text top="421" left="330" width="64" height="7" font="3">subsumed entries: 1</text>
+<text top="429" left="102" width="324" height="7" font="3">&gt;UDP-glucose 6-dehydrogenase, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186EE46</text>
+<text top="429" left="467" width="45" height="7" font="3">Length: 473aa</text>
+<text top="453" left="90" width="389" height="7" font="3">15 UniRef100_B4DI25 UniRef100_B7Z2E9 UniRef100_B7Z9Y8 UniRef100_Q05BL1 UniRef100_Q13625 UniRef100_Q13625-2 </text>
+<text top="461" left="102" width="199" height="7" font="3">UniRef100_UPI0000D620BA UniRef100_UPI00015E0CE3 0.9911</text>
+<text top="469" left="102" width="52" height="7" font="3">confidence: 0.12</text>
+<text top="469" left="147" width="65" height="7" font="3">max coverage: 2.2%</text>
+<text top="469" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="469" left="239" width="61" height="7" font="3">tot indep spectra: 2</text>
+<text top="469" left="284" width="94" height="7" font="3">share of spectrum id's: 0.56%</text>
+<text top="477" left="102" width="381" height="7" font="3">&gt;cDNA FLJ51856, highly similar to Apoptosis-stimulating of p53 protein 2 n=1 Tax=Homo sapiens RepID=B4DI25_HUMAN</text>
+<text top="477" left="467" width="45" height="7" font="3">Length: 723aa</text>
+<text top="485" left="102" width="382" height="7" font="3">&gt;cDNA FLJ50500, highly similar to Apoptosis-stimulating of p53 protein 2 n=1 Tax=Homo sapiens RepID=B7Z2E9_HUMAN</text>
+<text top="493" left="102" width="384" height="7" font="3">&gt;cDNA, FLJ79002, highly similar to Apoptosis-stimulating of p53 protein 2 n=1 Tax=Homo sapiens RepID=B7Z9Y8_HUMAN</text>
+<text top="501" left="102" width="210" height="7" font="3">&gt;TP53BP2 protein n=1 Tax=Homo sapiens RepID=Q05BL1_HUMAN</text>
+<text top="509" left="102" width="273" height="7" font="3">&gt;Apoptosis-stimulating of p53 protein 2 n=2 Tax=Homo sapiens RepID=ASPP2_HUMAN</text>
+<text top="516" left="102" width="298" height="7" font="3">&gt;Isoform 2 of Apoptosis-stimulating of p53 protein 2 n=2 Tax=Homo sapiens RepID=Q13625-2</text>
+<text top="524" left="102" width="436" height="7" font="3">&gt;Apoptosis-stimulating of p53 protein 2 (Tumor suppressor p53-binding protein 2) (p53-binding protein 2) (p53BP2) (53BP2) (Bcl2-binding </text>
+<text top="532" left="147" width="320" height="7" font="3">protein) (Bbp) (Renal carcinoma antigen NY-REN-51). n=1 Tax=Homo sapiens RepID=UPI0000D620BA</text>
+<text top="540" left="102" width="436" height="7" font="3">&gt;Apoptosis-stimulating of p53 protein 2 (Tumor suppressor p53-binding protein 2) (p53-binding protein 2) (p53BP2) (53BP2) (Bcl2-binding </text>
+<text top="548" left="147" width="319" height="7" font="3">protein) (Bbp) (Renal carcinoma antigen NY-REN-51). n=1 Tax=Homo sapiens RepID=UPI00015E0CE3</text>
+<text top="564" left="90" width="120" height="7" font="3">16 UniRef100_UPI0000E1F682 0.9911</text>
+<text top="572" left="102" width="52" height="7" font="3">confidence: 0.10</text>
+<text top="572" left="147" width="49" height="7" font="3">coverage: 2.7%</text>
+<text top="572" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="572" left="239" width="61" height="7" font="3">tot indep spectra: 3</text>
+<text top="572" left="284" width="94" height="7" font="3">share of spectrum id's: 0.85%</text>
+<text top="580" left="102" width="517" height="7" font="3">&gt;PREDICTED: similar to [Human Ig rearranged gamma chain mRNA, V-J-C region and complete cds.], gene product n=1 Tax=Pan troglodytes RepID=UPI0000E1F682</text>
+<text top="580" left="467" width="45" height="7" font="3">Length: 415aa</text>
+<text top="604" left="90" width="122" height="7" font="3">17 UniRef100_UPI000186CD8C 0.9911</text>
+<text top="612" left="102" width="52" height="7" font="3">confidence: 0.07</text>
+<text top="612" left="147" width="49" height="7" font="3">coverage: 1.3%</text>
+<text top="612" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="612" left="239" width="61" height="7" font="3">tot indep spectra: 1</text>
+<text top="612" left="284" width="94" height="7" font="3">share of spectrum id's: 0.29%</text>
+<text top="619" left="102" width="314" height="7" font="3">&gt;protein disulfide isomerase, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186CD8C</text>
+<text top="619" left="467" width="45" height="7" font="3">Length: 630aa</text>
+<text top="643" left="90" width="155" height="7" font="3">18 UniRef100_A5JHP3 UniRef100_P81605 0.9893</text>
+<text top="651" left="102" width="52" height="7" font="3">confidence: 0.33</text>
+<text top="651" left="147" width="69" height="7" font="3">max coverage: 10.0%</text>
+<text top="651" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="651" left="239" width="61" height="7" font="3">tot indep spectra: 1</text>
+<text top="651" left="284" width="94" height="7" font="3">share of spectrum id's: 0.29%</text>
+<text top="659" left="102" width="220" height="7" font="3">&gt;Dermcidin isoform 2 n=1 Tax=Homo sapiens RepID=A5JHP3_HUMAN</text>
+<text top="659" left="467" width="45" height="7" font="3">Length: 121aa</text>
+<text top="667" left="102" width="177" height="7" font="3">&gt;DCD-1 n=3 Tax=Euarchontoglires RepID=DCD_HUMAN</text>
+<text top="691" left="90" width="388" height="7" font="3">19 UniRef100_A8K854 UniRef100_B2RBD5 UniRef100_B3KML9 UniRef100_B4DE77 UniRef100_B4DQN9 UniRef100_B4DY90 </text>
+<text top="699" left="102" width="369" height="7" font="3">UniRef100_B4E052 UniRef100_B7ZAF0 UniRef100_B7ZAK1 UniRef100_P04350 UniRef100_P07437 UniRef100_P68371 </text>
+<text top="707" left="102" width="374" height="7" font="3">UniRef100_Q13509 UniRef100_Q1KSF8 UniRef100_Q3ZCR3 UniRef100_Q53G92 UniRef100_Q5JP53 UniRef100_Q5ST81 </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+<text top="73" left="102" width="401" height="7" font="3">UniRef100_Q6LC01 UniRef100_Q7KZS6 UniRef100_Q8IWP6 UniRef100_Q8IZ29 UniRef100_Q8N6N5 UniRef100_UPI000186CB60 </text>
+<text top="81" left="102" width="110" height="7" font="3">UniRef100_UPI000186D036 0.9893</text>
+<text top="89" left="102" width="52" height="7" font="3">confidence: 0.20</text>
+<text top="89" left="147" width="65" height="7" font="3">max coverage: 3.2%</text>
+<text top="89" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="89" left="239" width="61" height="7" font="3">tot indep spectra: 2</text>
+<text top="89" left="284" width="94" height="7" font="3">share of spectrum id's: 0.57%</text>
+<text top="97" left="102" width="248" height="7" font="3">&gt;HCG1983504, isoform CRA_f n=1 Tax=Homo sapiens RepID=A8K854_HUMAN</text>
+<text top="97" left="467" width="45" height="7" font="3">Length: 378aa</text>
+<text top="105" left="102" width="412" height="7" font="3">&gt;cDNA, FLJ95457, highly similar to Homo sapiens tubulin, beta, 4 (TUBB4), mRNA n=1 Tax=Homo sapiens RepID=B2RBD5_HUMAN</text>
+<text top="113" left="102" width="413" height="7" font="3">&gt;cDNA FLJ11352 fis, clone HEMBA1000020, highly similar to Tubulin beta-2C chain n=1 Tax=Homo sapiens RepID=B3KML9_HUMAN</text>
+<text top="120" left="102" width="327" height="7" font="3">&gt;cDNA FLJ55189, highly similar to Tubulin beta-4 chain n=1 Tax=Homo sapiens RepID=B4DE77_HUMAN</text>
+<text top="128" left="102" width="328" height="7" font="3">&gt;cDNA FLJ50617, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B4DQN9_HUMAN</text>
+<text top="136" left="102" width="326" height="7" font="3">&gt;cDNA FLJ56903, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B4DY90_HUMAN</text>
+<text top="144" left="102" width="326" height="7" font="3">&gt;cDNA FLJ52378, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B4E052_HUMAN</text>
+<text top="152" left="102" width="328" height="7" font="3">&gt;cDNA, FLJ79164, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B7ZAF0_HUMAN</text>
+<text top="160" left="102" width="329" height="7" font="3">&gt;cDNA, FLJ79215, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B7ZAK1_HUMAN</text>
+<text top="168" left="102" width="196" height="7" font="3">&gt;Tubulin beta-4 chain n=5 Tax=Eutheria RepID=TBB4_HUMAN</text>
+<text top="176" left="102" width="193" height="7" font="3">&gt;Tubulin beta chain n=12 Tax=Amniota RepID=TBB5_HUMAN</text>
+<text top="184" left="102" width="204" height="7" font="3">&gt;Tubulin beta-2C chain n=3 Tax=Eutheria RepID=TBB2C_HUMAN</text>
+<text top="192" left="102" width="196" height="7" font="3">&gt;Tubulin beta-3 chain n=4 Tax=Eutheria RepID=TBB3_HUMAN</text>
+<text top="200" left="102" width="263" height="7" font="3">&gt;XTP3TPA-transactivated protein 1 n=1 Tax=Homo sapiens RepID=Q1KSF8_HUMAN</text>
+<text top="208" left="102" width="242" height="7" font="3">&gt;TUBB3 protein (Fragment) n=1 Tax=Homo sapiens RepID=Q3ZCR3_HUMAN</text>
+<text top="216" left="102" width="269" height="7" font="3">&gt;Tubulin, beta, 4 variant (Fragment) n=1 Tax=Homo sapiens RepID=Q53G92_HUMAN</text>
+<text top="223" left="102" width="233" height="7" font="3">&gt;Tubulin beta polypeptide n=1 Tax=Homo sapiens RepID=Q5JP53_HUMAN</text>
+<text top="231" left="102" width="224" height="7" font="3">&gt;Tubulin beta polypeptide n=3 Tax=Hominidae RepID=Q5ST81_HUMAN</text>
+<text top="239" left="102" width="357" height="7" font="3">&gt;MRNA encoding beta-tubulin. (from clone D-beta-1) (Fragment) n=1 Tax=Homo sapiens RepID=Q6LC01_HUMAN</text>
+<text top="247" left="102" width="201" height="7" font="3">&gt;HCG2042771 n=1 Tax=Homo sapiens RepID=Q7KZS6_HUMAN</text>
+<text top="255" left="102" width="227" height="7" font="3">&gt;Class IVb beta tubulin n=1 Tax=Homo sapiens RepID=Q8IWP6_HUMAN</text>
+<text top="263" left="102" width="208" height="7" font="3">&gt;Tubulin, beta 2C n=1 Tax=Homo sapiens RepID=Q8IZ29_HUMAN</text>
+<text top="271" left="102" width="210" height="7" font="3">&gt;Tubulin, beta 2C n=1 Tax=Homo sapiens RepID=Q8N6N5_HUMAN</text>
+<text top="279" left="102" width="286" height="7" font="3">&gt;tubulin beta chain, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186CB60</text>
+<text top="287" left="102" width="286" height="7" font="3">&gt;tubulin beta chain, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186D036</text>
+<text top="311" left="56" width="7" height="7" font="3">6c</text>
+<text top="311" left="102" width="348" height="7" font="3">UniRef100_P06871 UniRef100_UPI00004A5B07 UniRef100_UPI00005A2FD6 UniRef100_UPI00005A2FD7 0.9618</text>
+<text top="318" left="102" width="52" height="7" font="3">confidence: 1.00</text>
+<text top="318" left="147" width="69" height="7" font="3">max coverage: 16.4%</text>
+<text top="318" left="193" width="62" height="7" font="3">num unique peps: 1</text>
+<text top="318" left="239" width="61" height="7" font="3">tot indep spectra: 1</text>
+<text top="318" left="284" width="94" height="7" font="3">share of spectrum id's: 0.83%</text>
+<text top="318" left="330" width="64" height="7" font="3">subsumed entries: 1</text>
+<text top="326" left="102" width="218" height="7" font="3">&gt;Cationic trypsin n=1 Tax=Canis lupus familiaris RepID=TRY1_CANFA</text>
+<text top="326" left="467" width="45" height="7" font="3">Length: 246aa</text>
+<text top="334" left="102" width="326" height="7" font="3">&gt;PREDICTED: similar to trypsinogen 7 isoform 3 n=1 Tax=Canis lupus familiaris RepID=UPI00004A5B07</text>
+<text top="342" left="102" width="326" height="7" font="3">&gt;PREDICTED: similar to trypsinogen 7 isoform 5 n=1 Tax=Canis lupus familiaris RepID=UPI00005A2FD6</text>
+<text top="350" left="102" width="437" height="7" font="3">&gt;PREDICTED: similar to Cationic trypsin III precursor (Pretrypsinogen III) isoform 6 n=1 Tax=Canis lupus familiaris RepID=UPI00005A2FD7</text>
+</page>
+</pdf2xml>

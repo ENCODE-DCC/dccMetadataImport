@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="49" height="12" font="1">Aug 4, 2011</text>
+<text top="359" left="94" width="357" height="12" font="1">Rabbit polyclonal IgG, epitope mapping at the C-terminus of C/EBP δ of human origin.</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="68" height="12" font="1">CEBPD_(SC-636)</text>
+<text top="215" left="339" width="28" height="12" font="1">CEBPD</text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="26" height="12" font="1">C1010</text>
+<text top="300" left="215" width="27" height="12" font="1">sc-636</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="419" left="94" width="409" height="12" font="1">CEBPD CCAAT/enhancer binding protein (C/EBP), delta; 29 kD (has been detected at 35 and 40 kD) </text>
+<text top="431" left="94" width="2" height="12" font="1"> </text>
+<text top="443" left="94" width="85" height="12" font="1">Entrez gene ID: 1052</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="68" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="80" left="125" width="428" height="12" font="1">Whole cell lysate was immunoprecipitated using primary antibody, and the IP fraction was loaded on a </text>
+<text top="92" left="125" width="424" height="12" font="1">12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system.  After separation, the samples </text>
+<text top="104" left="125" width="422" height="12" font="1">were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary </text>
+<text top="116" left="125" width="422" height="12" font="1">(same as that used for IP) and secondary HRP-conjugated antibodies was performed on an Invitrogen </text>
+<text top="128" left="125" width="416" height="12" font="1">BenchPro 4100 system.  Visualization was achieved using SuperSignal West Femto solution (Thermo </text>
+<text top="140" left="125" width="47" height="12" font="1">Scientific).  </text>
+<text top="152" left="125" width="2" height="12" font="1"> </text>
+<text top="164" left="125" width="420" height="12" font="1">Results: Band of expected size visualized, representing strongest signal in the lane.  Upper bands also </text>
+<text top="176" left="125" width="429" height="12" font="1">visualized at ~120 kD.  Bands at ~35 kD and ~120+ kD tested by IP-mass spec.  Only the band at ~35 kD </text>
+<text top="188" left="125" width="97" height="12" font="1">was positive for CEBPD </text>
+<text top="200" left="125" width="2" height="12" font="1"> </text>
+<text top="212" left="125" width="402" height="12" font="1">Figure legend: IP-western with sc-636 in whole cell lysate (WCL) of HepG2 and HeLa; PM=protein </text>
+<text top="224" left="125" width="152" height="12" font="1">marker.  CEBPD bands are indicated. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="93" left="130" width="144" height="12" font="1">IP followed by mass spectrometry: </text>
+<text top="105" left="130" width="419" height="12" font="1">Briefly, HeLa whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="117" left="130" width="402" height="12" font="1">was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. Gel was </text>
+<text top="129" left="130" width="417" height="12" font="1">stained with Coomassie Blue in order to visualize marker bands. Gel fragments corresponding to the </text>
+<text top="141" left="130" width="420" height="12" font="1">bands indicated above in the western blot image were excised and sent to the University of Alabama </text>
+<text top="153" left="130" width="423" height="12" font="1">at Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the samples were </text>
+<text top="165" left="130" width="423" height="12" font="1">run on an LTQ XL Linear Ion Trap Mass Spectrometer by LC-ESI-MS/MS. Peptides were identified using </text>
+<text top="177" left="130" width="355" height="12" font="1">SEQUEST tandem mass spectra analysis, with probability based matching at p &lt; 0.05.  </text>
+<text top="189" left="130" width="2" height="12" font="1"> </text>
+<text top="201" left="130" width="405" height="12" font="1">As per ENCODE data standards, all SEQUEST results are attached (ENCODE_HAIB_CEBPD_(SC-636)</text>
+<text top="213" left="130" width="402" height="12" font="1">_07192011_MassSpec.pdf), including common contaminants.  Target protein is listed as hit 28 in </text>
+<text top="225" left="130" width="415" height="12" font="1">lower (~35 kDa) band and not detected in upper (~120 + kDa) bands.  No proteins with known DNA-</text>
+<text top="237" left="130" width="210" height="12" font="1">binding activity were detected in the upper bands.</text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="4" family="Times" color="#000000"/>
+	<fontspec id="4" size="6" family="Times" color="#e62400"/>
+	<fontspec id="5" size="4" family="Times" color="#0729dd"/>
+	<fontspec id="6" size="6" family="Times" color="#a31500"/>
+	<fontspec id="7" size="4" family="Times" color="#007414"/>
+	<fontspec id="8" size="4" family="Times" color="#e62400"/>
+<text top="73" left="56" width="72" height="7" font="3">Lower band MS results:</text>
+<text top="89" left="56" width="210" height="9" font="4">33 entries (11 single hits) retrieved from</text>
+<text top="99" left="56" width="290" height="7" font="5">/home/TPP/tpp/20110617_Bowling/int-gb_20110617_LTQ_Bowling_CEBPD-1-sequest.prot.xml</text>
+<text top="122" left="56" width="276" height="9" font="6">* corresponds to peptide is_nondegenerate_evidence flag</text>
+<text top="152" left="56" width="4" height="7" font="3">1</text>
+<text top="167" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="174" left="101" width="14" height="7" font="3">1.00</text>
+<text top="159" left="146" width="15" height="7" font="3">max </text>
+<text top="167" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="174" left="146" width="20" height="7" font="3">14.0%</text>
+<text top="167" left="191" width="38" height="7" font="3">num unique </text>
+<text top="174" left="191" width="23" height="7" font="3">peps: 2</text>
+<text top="167" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="174" left="236" width="31" height="7" font="3">spectra: 2</text>
+<text top="159" left="282" width="27" height="7" font="3">share of </text>
+<text top="167" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="174" left="282" width="35" height="7" font="3">id's: 0.65%</text>
+<text top="183" left="462" width="29" height="7" font="3">Length: </text>
+<text top="190" left="462" width="18" height="7" font="3">143aa</text>
+<text top="224" left="56" width="4" height="7" font="3">2</text>
+<text top="239" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="246" left="101" width="14" height="7" font="3">1.00</text>
+<text top="231" left="146" width="15" height="7" font="3">max </text>
+<text top="239" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="246" left="146" width="20" height="7" font="3">39.3%</text>
+<text top="239" left="191" width="38" height="7" font="3">num unique </text>
+<text top="246" left="191" width="23" height="7" font="3">peps: 2</text>
+<text top="239" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="246" left="236" width="31" height="7" font="3">spectra: 3</text>
+<text top="231" left="282" width="27" height="7" font="3">share of </text>
+<text top="239" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="246" left="282" width="35" height="7" font="3">id's: 0.95%</text>
+<text top="255" left="462" width="29" height="7" font="3">Length: </text>
+<text top="262" left="462" width="15" height="7" font="3">56aa</text>
+<text top="304" left="56" width="4" height="7" font="3">3</text>
+<text top="319" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="327" left="101" width="14" height="7" font="3">1.00</text>
+<text top="311" left="146" width="15" height="7" font="3">max </text>
+<text top="319" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="327" left="146" width="16" height="7" font="3">5.6%</text>
+<text top="319" left="191" width="38" height="7" font="3">num unique </text>
+<text top="327" left="191" width="23" height="7" font="3">peps: 2</text>
+<text top="319" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="327" left="236" width="31" height="7" font="3">spectra: 4</text>
+<text top="311" left="282" width="27" height="7" font="3">share of </text>
+<text top="319" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="327" left="282" width="35" height="7" font="3">id's: 1.32%</text>
+<text top="336" left="462" width="29" height="7" font="3">Length: </text>
+<text top="343" left="462" width="18" height="7" font="3">529aa</text>
+<text top="385" left="56" width="4" height="7" font="3">4</text>
+<text top="399" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="407" left="101" width="14" height="7" font="3">1.00</text>
+<text top="392" left="146" width="15" height="7" font="3">max </text>
+<text top="399" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="407" left="146" width="16" height="7" font="3">5.3%</text>
+<text top="399" left="191" width="38" height="7" font="3">num unique </text>
+<text top="407" left="191" width="23" height="7" font="3">peps: 2</text>
+<text top="399" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="407" left="236" width="31" height="7" font="3">spectra: 3</text>
+<text top="392" left="282" width="27" height="7" font="3">share of </text>
+<text top="399" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="407" left="282" width="35" height="7" font="3">id's: 1.00%</text>
+<text top="416" left="462" width="29" height="7" font="3">Length: </text>
+<text top="423" left="462" width="18" height="7" font="3">469aa</text>
+<text top="497" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="504" left="101" width="14" height="7" font="3">1.00</text>
+<text top="489" left="146" width="15" height="7" font="3">max </text>
+<text top="497" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="504" left="146" width="16" height="7" font="3">4.5%</text>
+<text top="497" left="191" width="38" height="7" font="3">num unique </text>
+<text top="504" left="191" width="23" height="7" font="3">peps: 3</text>
+<text top="497" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="504" left="236" width="31" height="7" font="3">spectra: 7</text>
+<text top="489" left="282" width="27" height="7" font="3">share of </text>
+<text top="497" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="504" left="282" width="35" height="7" font="3">id's: 2.20%</text>
+<text top="513" left="462" width="29" height="7" font="3">Length: </text>
+<text top="520" left="462" width="18" height="7" font="3">472aa</text>
+<text top="678" left="101" width="301" height="7" font="7">&gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69D</text>
+<text top="686" left="101" width="301" height="7" font="7">&gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69E</text>
+<text top="694" left="101" width="301" height="7" font="7">&gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69F</text>
+<text top="703" left="101" width="243" height="7" font="7">&gt;IG GAMMA-1 CHAIN C REGION n=1 Tax=Homo sapiens RepID=UPI000195C290</text>
+<text top="621" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686I15196 n=1 Tax=Homo sapiens RepID=Q6N096_HUMAN</text>
+<text top="630" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686H20196 n=1 Tax=Homo sapiens RepID=Q6N097_HUMAN</text>
+<text top="638" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686N02209 n=1 Tax=Homo sapiens RepID=Q7Z351_HUMAN</text>
+<text top="645" left="101" width="352" height="7" font="7">&gt;Full-length cDNA clone CS0DI019YF20 of Placenta of Homo sapiens (human) (Fragment) n=2 Tax=Homo </text>
+<text top="652" left="101" width="94" height="7" font="7">sapiens RepID=Q86TT2_HUMAN</text>
+<text top="661" left="101" width="247" height="7" font="7">&gt;FLJ00385 protein (Fragment) n=1 Tax=Homo sapiens RepID=Q8NF17_HUMAN</text>
+<text top="669" left="101" width="290" height="7" font="7">&gt;IGG1 MCG INTACT ANTIBODY (HEAVY CHAIN) n=1 Tax=Homo sapiens RepID=UPI00001125A4</text>
+<text top="571" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686G11190 n=1 Tax=Homo sapiens RepID=Q6MZQ6_HUMAN</text>
+<text top="579" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686C11235 n=1 Tax=Homo sapiens RepID=Q6MZV7_HUMAN</text>
+<text top="588" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686I15212 n=1 Tax=Homo sapiens RepID=Q6N030_HUMAN</text>
+<text top="596" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686P15220 n=1 Tax=Homo sapiens RepID=Q6N089_HUMAN</text>
+<text top="604" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686O01196 n=1 Tax=Homo sapiens RepID=Q6N094_HUMAN</text>
+<text top="613" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686K03196 n=1 Tax=Homo sapiens RepID=Q6N095_HUMAN</text>
+<text top="520" left="101" width="196" height="7" font="7">&gt;cDNA FLJ78387 n=1 Tax=Homo sapiens RepID=A8K008_HUMAN</text>
+<text top="529" left="101" width="236" height="7" font="7">&gt;Ig gamma-1 chain C region n=1 Tax=Homo sapiens RepID=IGHG1_HUMAN</text>
+<text top="537" left="101" width="236" height="7" font="7">&gt;Ig gamma-3 chain C region n=1 Tax=Homo sapiens RepID=IGHG3_HUMAN</text>
+<text top="546" left="101" width="265" height="7" font="7">&gt;Putative uncharacterized protein n=1 Tax=Homo sapiens RepID=Q5EBM2_HUMAN</text>
+<text top="554" left="101" width="305" height="7" font="7">&gt;Anti-RhD monoclonal T125 gamma1 heavy chain n=1 Tax=Homo sapiens RepID=Q5EFE5_HUMAN</text>
+<text top="562" left="101" width="192" height="7" font="7">&gt;IGH@ protein n=1 Tax=Homo sapiens RepID=Q6GMX6_HUMAN</text>
+<text top="482" left="56" width="7" height="7" font="3">6a</text>
+<text top="457" left="101" width="370" height="7" font="3">UniRef100_A8K008 UniRef100_P01857 UniRef100_P01860 UniRef100_Q5EBM2 UniRef100_Q5EFE5 UniRef100_Q6GMX6 </text>
+<text top="465" left="101" width="370" height="7" font="3">UniRef100_Q6MZQ6 UniRef100_Q6MZV7 UniRef100_Q6N030 UniRef100_Q6N089 UniRef100_Q6N094 UniRef100_Q6N095 </text>
+<text top="474" left="101" width="396" height="7" font="3">UniRef100_Q6N096 UniRef100_Q6N097 UniRef100_Q7Z351 UniRef100_Q86TT2 UniRef100_Q8NF17 UniRef100_UPI00001125A4 </text>
+<text top="482" left="101" width="348" height="7" font="3">UniRef100_UPI000173A69D UniRef100_UPI000173A69E UniRef100_UPI000173A69F UniRef100_UPI000195C290 </text>
+<text top="482" left="449" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="351" left="101" width="279" height="7" font="7">&gt;ATP synthase subunit beta (Fragment) n=1 Tax=Homo sapiens RepID=Q0QEN7_HUMAN</text>
+<text top="360" left="101" width="330" height="7" font="7">&gt;ATP synthase subunit beta, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186EDED</text>
+<text top="385" left="101" width="149" height="7" font="3">UniRef100_P08729 UniRef100_UPI000013CF9E </text>
+<text top="385" left="250" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="423" left="101" width="254" height="7" font="7">&gt;Keratin, type II cytoskeletal 7 n=1 Tax=Homo sapiens RepID=K2C7_HUMAN</text>
+<text top="432" left="101" width="265" height="7" font="7">&gt;keratin, type II cytoskeletal 7 n=1 Tax=Homo sapiens RepID=UPI000013CF9E</text>
+<text top="262" left="101" width="287" height="7" font="7">&gt;Putative uncharacterized protein SFXN1 n=1 Tax=Homo sapiens RepID=D6RAE9_HUMAN</text>
+<text top="271" left="101" width="276" height="7" font="7">&gt;Putative uncharacterized protein SFXN1 n=3 Tax=Hominidae RepID=D6RFI0_HUMAN</text>
+<text top="279" left="101" width="196" height="7" font="7">&gt;Sideroflexin-1 n=2 Tax=Homo sapiens RepID=SFXN1_HUMAN</text>
+<text top="304" left="101" width="210" height="7" font="3">UniRef100_P06576 UniRef100_Q0QEN7 UniRef100_UPI000186EDED </text>
+<text top="304" left="311" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="343" left="101" width="287" height="7" font="7">&gt;ATP synthase subunit beta, mitochondrial n=1 Tax=Homo sapiens RepID=ATPB_HUMAN</text>
+<text top="152" left="101" width="123" height="7" font="3">UniRef100_B4DFE6 UniRef100_P36542 </text>
+<text top="152" left="224" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="183" left="101" width="334" height="7" font="7">&gt;cDNA FLJ59861, highly similar to ATP synthase gamma chain, mitochondrial (EC 3.6.3.14) n=1 </text>
+<text top="190" left="101" width="127" height="7" font="7">Tax=Homo sapiens RepID=B4DFE6_HUMAN</text>
+<text top="199" left="101" width="290" height="7" font="7">&gt;ATP synthase subunit gamma, mitochondrial n=5 Tax=Homo sapiens RepID=ATPG_HUMAN</text>
+<text top="224" left="101" width="185" height="7" font="3">UniRef100_D6RAE9 UniRef100_D6RFI0 UniRef100_Q9H9B4 </text>
+<text top="224" left="286" width="22" height="7" font="8"><b>1.0000</b></text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+<text top="105" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="113" left="101" width="14" height="7" font="3">1.00</text>
+<text top="97" left="146" width="15" height="7" font="3">max </text>
+<text top="105" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="113" left="146" width="20" height="7" font="3">16.9%</text>
+<text top="105" left="191" width="38" height="7" font="3">num unique </text>
+<text top="113" left="191" width="23" height="7" font="3">peps: 3</text>
+<text top="105" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="113" left="236" width="31" height="7" font="3">spectra: 7</text>
+<text top="97" left="282" width="27" height="7" font="3">share of </text>
+<text top="105" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="113" left="282" width="35" height="7" font="3">id's: 2.32%</text>
+<text top="121" left="462" width="29" height="7" font="3">Length: </text>
+<text top="129" left="462" width="18" height="7" font="3">317aa</text>
+<text top="204" left="56" width="7" height="7" font="3">9a</text>
+<text top="219" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="227" left="101" width="14" height="7" font="3">1.00</text>
+<text top="211" left="146" width="15" height="7" font="3">max </text>
+<text top="219" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="227" left="146" width="16" height="7" font="3">4.9%</text>
+<text top="219" left="191" width="38" height="7" font="3">num unique </text>
+<text top="227" left="191" width="23" height="7" font="3">peps: 2</text>
+<text top="219" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="227" left="236" width="31" height="7" font="3">spectra: 4</text>
+<text top="211" left="282" width="27" height="7" font="3">share of </text>
+<text top="219" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="227" left="282" width="35" height="7" font="3">id's: 1.32%</text>
+<text top="235" left="462" width="29" height="7" font="3">Length: </text>
+<text top="243" left="462" width="18" height="7" font="3">430aa</text>
+<text top="276" left="56" width="11" height="7" font="3">11a</text>
+<text top="291" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="299" left="101" width="14" height="7" font="3">1.00</text>
+<text top="283" left="146" width="15" height="7" font="3">max </text>
+<text top="291" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="299" left="146" width="20" height="7" font="3">23.0%</text>
+<text top="291" left="191" width="38" height="7" font="3">num unique </text>
+<text top="299" left="191" width="23" height="7" font="3">peps: 8</text>
+<text top="291" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="299" left="236" width="35" height="7" font="3">spectra: 21</text>
+<text top="283" left="282" width="27" height="7" font="3">share of </text>
+<text top="291" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="299" left="282" width="35" height="7" font="3">id's: 7.09%</text>
+<text top="291" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="299" left="327" width="30" height="7" font="5">entries: 2</text>
+<text top="307" left="462" width="29" height="7" font="3">Length: </text>
+<text top="315" left="462" width="18" height="7" font="3">305aa</text>
+<text top="357" left="56" width="11" height="7" font="3">11b</text>
+<text top="371" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="379" left="101" width="14" height="7" font="3">1.00</text>
+<text top="371" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="379" left="146" width="20" height="7" font="3">12.6%</text>
+<text top="371" left="191" width="38" height="7" font="3">num unique </text>
+<text top="379" left="191" width="23" height="7" font="3">peps: 3</text>
+<text top="371" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="379" left="236" width="31" height="7" font="3">spectra: 5</text>
+<text top="363" left="282" width="27" height="7" font="3">share of </text>
+<text top="371" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="379" left="282" width="35" height="7" font="3">id's: 2.14%</text>
+<text top="388" left="462" width="29" height="7" font="3">Length: </text>
+<text top="395" left="462" width="18" height="7" font="3">334aa</text>
+<text top="420" left="56" width="11" height="7" font="3">13a</text>
+<text top="435" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="443" left="101" width="14" height="7" font="3">1.00</text>
+<text top="427" left="146" width="15" height="7" font="3">max </text>
+<text top="435" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="443" left="146" width="16" height="7" font="3">5.8%</text>
+<text top="435" left="191" width="38" height="7" font="3">num unique </text>
+<text top="443" left="191" width="23" height="7" font="3">peps: 2</text>
+<text top="435" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="443" left="236" width="31" height="7" font="3">spectra: 3</text>
+<text top="427" left="282" width="27" height="7" font="3">share of </text>
+<text top="435" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="443" left="282" width="35" height="7" font="3">id's: 0.99%</text>
+<text top="435" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="443" left="327" width="30" height="7" font="5">entries: 2</text>
+<text top="451" left="462" width="29" height="7" font="3">Length: </text>
+<text top="459" left="462" width="18" height="7" font="3">464aa</text>
+<text top="523" left="56" width="11" height="7" font="3">14a</text>
+<text top="538" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="546" left="101" width="14" height="7" font="3">1.00</text>
+<text top="530" left="146" width="15" height="7" font="3">max </text>
+<text top="538" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="546" left="146" width="20" height="7" font="3">25.1%</text>
+<text top="538" left="191" width="38" height="7" font="3">num unique </text>
+<text top="546" left="191" width="27" height="7" font="3">peps: 29</text>
+<text top="538" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="546" left="236" width="35" height="7" font="3">spectra: 72</text>
+<text top="530" left="282" width="27" height="7" font="3">share of </text>
+<text top="538" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="546" left="282" width="39" height="7" font="3">id's: 16.72%</text>
+<text top="555" left="462" width="29" height="7" font="3">Length: </text>
+<text top="562" left="462" width="18" height="7" font="3">246aa</text>
+<text top="595" left="56" width="11" height="7" font="3">15a</text>
+<text top="610" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="618" left="101" width="14" height="7" font="3">1.00</text>
+<text top="610" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="618" left="146" width="20" height="7" font="3">17.5%</text>
+<text top="610" left="191" width="38" height="7" font="3">num unique </text>
+<text top="618" left="191" width="23" height="7" font="3">peps: 4</text>
+<text top="610" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="618" left="236" width="35" height="7" font="3">spectra: 10</text>
+<text top="602" left="282" width="27" height="7" font="3">share of </text>
+<text top="610" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="618" left="282" width="35" height="7" font="3">id's: 3.15%</text>
+<text top="610" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="618" left="327" width="30" height="7" font="5">entries: 3</text>
+<text top="627" left="462" width="29" height="7" font="3">Length: </text>
+<text top="634" left="462" width="18" height="7" font="3">269aa</text>
+<text top="659" left="56" width="11" height="7" font="3">16a</text>
+<text top="674" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="681" left="101" width="14" height="7" font="3">1.00</text>
+<text top="666" left="146" width="15" height="7" font="3">max </text>
+<text top="674" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="681" left="146" width="20" height="7" font="3">17.6%</text>
+<text top="674" left="191" width="38" height="7" font="3">num unique </text>
+<text top="681" left="191" width="27" height="7" font="3">peps: 12</text>
+<text top="674" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="681" left="236" width="35" height="7" font="3">spectra: 27</text>
+<text top="666" left="282" width="27" height="7" font="3">share of </text>
+<text top="674" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="681" left="282" width="35" height="7" font="3">id's: 8.68%</text>
+<text top="674" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="681" left="327" width="30" height="7" font="5">entries: 5</text>
+<text top="690" left="462" width="29" height="7" font="3">Length: </text>
+<text top="697" left="462" width="18" height="7" font="3">607aa</text>
+<text top="706" left="101" width="323" height="7" font="7">&gt;Serum albumin precursor (Allergen Bos d 6) (BSA). n=1 Tax=Bos taurus RepID=UPI000179EC85</text>
+<text top="594" left="101" width="83" height="7" font="5">UniRef100_O95639 1.0000</text>
+<text top="634" left="101" width="352" height="7" font="7">&gt;Cleavage and polyadenylation specificity factor subunit 4 n=1 Tax=Homo sapiens RepID=CPSF4_HUMAN</text>
+<text top="659" left="101" width="149" height="7" font="3">UniRef100_P02769 UniRef100_UPI000179EC85 </text>
+<text top="659" left="250" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="697" left="101" width="181" height="7" font="7">&gt;Serum albumin n=1 Tax=Bos taurus RepID=ALBU_BOVIN</text>
+<text top="484" left="101" width="236" height="7" font="7">&gt;Tubulin beta polypeptide n=1 Tax=Homo sapiens RepID=Q5JP53_HUMAN</text>
+<text top="491" left="101" width="301" height="7" font="7">&gt;MRNA encoding beta-tubulin. (from clone D-beta-1) (Fragment) n=1 Tax=Homo sapiens </text>
+<text top="498" left="101" width="65" height="7" font="7">RepID=Q6LC01_HUMAN</text>
+<text top="523" left="101" width="123" height="7" font="3">UniRef100_C5IWV5 UniRef100_P00761 </text>
+<text top="523" left="224" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="562" left="101" width="174" height="7" font="7">&gt;Trypsinogen n=1 Tax=Sus scrofa RepID=C5IWV5_PIG</text>
+<text top="570" left="101" width="152" height="7" font="7">&gt;Trypsin n=1 Tax=Sus scrofa RepID=TRYP_PIG</text>
+<text top="395" left="101" width="247" height="7" font="7">&gt;L-lactate dehydrogenase B chain n=4 Tax=Catarrhini RepID=LDHB_HUMAN</text>
+<text top="420" left="101" width="308" height="7" font="3">UniRef100_B4DY90 UniRef100_B7ZAF0 UniRef100_P07437 UniRef100_Q5JP53 UniRef100_Q6LC01 </text>
+<text top="420" left="409" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="459" left="101" width="341" height="7" font="7">&gt;cDNA FLJ56903, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B4DY90_HUMAN</text>
+<text top="467" left="101" width="345" height="7" font="7">&gt;cDNA, FLJ79164, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B7ZAF0_HUMAN</text>
+<text top="475" left="101" width="192" height="7" font="7">&gt;Tubulin beta chain n=12 Tax=Amniota RepID=TBB5_HUMAN</text>
+<text top="276" left="101" width="210" height="7" font="3">UniRef100_B4DJI1 UniRef100_P00338 UniRef100_UPI0001AE6BAB </text>
+<text top="276" left="311" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="315" left="101" width="232" height="7" font="7">&gt;L-lactate dehydrogenase n=1 Tax=Homo sapiens RepID=B4DJI1_HUMAN</text>
+<text top="323" left="101" width="254" height="7" font="7">&gt;L-lactate dehydrogenase A chain n=3 Tax=Homo sapiens RepID=LDHA_HUMAN</text>
+<text top="331" left="101" width="258" height="7" font="7">&gt;UPI0001AE6BAB related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE6BAB</text>
+<text top="355" left="101" width="82" height="7" font="5">UniRef100_P07195 1.0000</text>
+<text top="179" left="101" width="276" height="7" font="7">&gt;60S acidic ribosomal protein P0-like n=1 Tax=Homo sapiens RepID=RLA0L_HUMAN</text>
+<text top="204" left="101" width="123" height="7" font="3">UniRef100_B2RA03 UniRef100_P05783 </text>
+<text top="204" left="224" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="235" left="101" width="341" height="7" font="7">&gt;cDNA, FLJ94640, highly similar to Homo sapiens keratin 18 (KRT18), mRNA n=1 Tax=Homo sapiens </text>
+<text top="243" left="101" width="65" height="7" font="7">RepID=B2RA03_HUMAN</text>
+<text top="251" left="101" width="258" height="7" font="7">&gt;Keratin, type I cytoskeletal 18 n=1 Tax=Homo sapiens RepID=K1C18_HUMAN</text>
+<text top="121" left="101" width="348" height="7" font="7">&gt;cDNA FLJ75549, highly similar to Homo sapiens ribosomal protein, large, P0 (RPLP0), transcript </text>
+<text top="129" left="101" width="200" height="7" font="7">variant 1, mRNA n=1 Tax=Homo sapiens RepID=A8K4Z4_HUMAN</text>
+<text top="137" left="101" width="254" height="7" font="7">&gt;60S acidic ribosomal protein P0 n=1 Tax=Homo sapiens RepID=RLA0_HUMAN</text>
+<text top="145" left="101" width="196" height="7" font="7">&gt;RPLP0 protein n=1 Tax=Homo sapiens RepID=Q3B7A4_HUMAN</text>
+<text top="154" left="101" width="290" height="7" font="7">&gt;Ribosomal protein P0 variant (Fragment) n=1 Tax=Homo sapiens RepID=Q53HK9_HUMAN</text>
+<text top="162" left="101" width="290" height="7" font="7">&gt;Ribosomal protein P0 variant (Fragment) n=1 Tax=Homo sapiens RepID=Q53HW2_HUMAN</text>
+<text top="171" left="101" width="196" height="7" font="7">&gt;RPLP0 protein n=1 Tax=Homo sapiens RepID=Q6NSF2_HUMAN</text>
+<text top="90" left="56" width="7" height="7" font="3">7a</text>
+<text top="82" left="101" width="370" height="7" font="3">UniRef100_A8K4Z4 UniRef100_P05388 UniRef100_Q3B7A4 UniRef100_Q53HK9 UniRef100_Q53HW2 UniRef100_Q6NSF2 </text>
+<text top="90" left="101" width="86" height="7" font="5">UniRef100_Q8NHW5 1.0000</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+<text top="91" left="56" width="11" height="7" font="3">17a</text>
+<text top="105" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="113" left="101" width="14" height="7" font="3">0.99</text>
+<text top="105" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="113" left="146" width="16" height="7" font="3">3.3%</text>
+<text top="105" left="191" width="38" height="7" font="3">num unique </text>
+<text top="113" left="191" width="23" height="7" font="3">peps: 2</text>
+<text top="105" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="113" left="236" width="31" height="7" font="3">spectra: 4</text>
+<text top="98" left="282" width="27" height="7" font="3">share of </text>
+<text top="105" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="113" left="282" width="35" height="7" font="3">id's: 1.30%</text>
+<text top="105" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="113" left="327" width="30" height="7" font="5">entries: 1</text>
+<text top="122" left="462" width="29" height="7" font="3">Length: </text>
+<text top="129" left="462" width="18" height="7" font="3">644aa</text>
+<text top="154" left="56" width="11" height="7" font="3">18a</text>
+<text top="169" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="177" left="101" width="14" height="7" font="3">1.00</text>
+<text top="161" left="146" width="15" height="7" font="3">max </text>
+<text top="169" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="177" left="146" width="20" height="7" font="3">16.5%</text>
+<text top="169" left="191" width="38" height="7" font="3">num unique </text>
+<text top="177" left="191" width="23" height="7" font="3">peps: 3</text>
+<text top="169" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="177" left="236" width="31" height="7" font="3">spectra: 7</text>
+<text top="161" left="282" width="27" height="7" font="3">share of </text>
+<text top="169" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="177" left="282" width="35" height="7" font="3">id's: 2.25%</text>
+<text top="169" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="177" left="327" width="30" height="7" font="5">entries: 3</text>
+<text top="186" left="462" width="29" height="7" font="3">Length: </text>
+<text top="193" left="462" width="18" height="7" font="3">335aa</text>
+<text top="241" left="56" width="11" height="7" font="3">19a</text>
+<text top="255" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="263" left="101" width="14" height="7" font="3">1.00</text>
+<text top="248" left="146" width="15" height="7" font="3">max </text>
+<text top="255" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="263" left="146" width="20" height="7" font="3">11.5%</text>
+<text top="255" left="191" width="38" height="7" font="3">num unique </text>
+<text top="263" left="191" width="23" height="7" font="3">peps: 3</text>
+<text top="255" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="263" left="236" width="31" height="7" font="3">spectra: 5</text>
+<text top="248" left="282" width="27" height="7" font="3">share of </text>
+<text top="255" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="263" left="282" width="35" height="7" font="3">id's: 1.66%</text>
+<text top="272" left="462" width="29" height="7" font="3">Length: </text>
+<text top="279" left="462" width="18" height="7" font="3">483aa</text>
+<text top="321" left="56" width="11" height="7" font="3">20a</text>
+<text top="336" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="344" left="101" width="14" height="7" font="3">1.00</text>
+<text top="328" left="146" width="15" height="7" font="3">max </text>
+<text top="336" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="344" left="146" width="20" height="7" font="3">30.3%</text>
+<text top="336" left="191" width="38" height="7" font="3">num unique </text>
+<text top="344" left="191" width="23" height="7" font="3">peps: 6</text>
+<text top="336" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="344" left="236" width="35" height="7" font="3">spectra: 15</text>
+<text top="328" left="282" width="27" height="7" font="3">share of </text>
+<text top="336" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="344" left="282" width="35" height="7" font="3">id's: 4.96%</text>
+<text top="336" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="344" left="327" width="30" height="7" font="5">entries: 2</text>
+<text top="352" left="462" width="29" height="7" font="3">Length: </text>
+<text top="360" left="462" width="18" height="7" font="3">261aa</text>
+<text top="402" left="56" width="11" height="7" font="3">21a</text>
+<text top="416" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="424" left="101" width="14" height="7" font="3">1.00</text>
+<text top="416" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="424" left="146" width="20" height="7" font="3">32.9%</text>
+<text top="416" left="191" width="38" height="7" font="3">num unique </text>
+<text top="424" left="191" width="23" height="7" font="3">peps: 7</text>
+<text top="416" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="424" left="236" width="35" height="7" font="3">spectra: 20</text>
+<text top="408" left="282" width="27" height="7" font="3">share of </text>
+<text top="416" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="424" left="282" width="35" height="7" font="3">id's: 6.55%</text>
+<text top="416" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="424" left="327" width="30" height="7" font="5">entries: 3</text>
+<text top="433" left="462" width="29" height="7" font="3">Length: </text>
+<text top="440" left="462" width="18" height="7" font="3">243aa</text>
+<text top="465" left="56" width="11" height="7" font="3">22a</text>
+<text top="480" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="488" left="101" width="14" height="7" font="3">1.00</text>
+<text top="472" left="146" width="15" height="7" font="3">max </text>
+<text top="480" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="488" left="146" width="20" height="7" font="3">30.8%</text>
+<text top="480" left="191" width="38" height="7" font="3">num unique </text>
+<text top="488" left="191" width="27" height="7" font="3">peps: 11</text>
+<text top="480" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="488" left="236" width="35" height="7" font="3">spectra: 27</text>
+<text top="472" left="282" width="27" height="7" font="3">share of </text>
+<text top="480" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="488" left="282" width="35" height="7" font="3">id's: 8.81%</text>
+<text top="480" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="488" left="327" width="30" height="7" font="5">entries: 1</text>
+<text top="496" left="462" width="29" height="7" font="3">Length: </text>
+<text top="504" left="462" width="18" height="7" font="3">299aa</text>
+<text top="543" left="56" width="7" height="7" font="3">23</text>
+<text top="558" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="566" left="101" width="14" height="7" font="3">0.06</text>
+<text top="558" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="566" left="146" width="16" height="7" font="3">2.6%</text>
+<text top="558" left="191" width="38" height="7" font="3">num unique </text>
+<text top="566" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="558" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="566" left="236" width="31" height="7" font="3">spectra: 3</text>
+<text top="550" left="282" width="27" height="7" font="3">share of </text>
+<text top="558" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="566" left="282" width="35" height="7" font="3">id's: 1.00%</text>
+<text top="574" left="462" width="29" height="7" font="3">Length: </text>
+<text top="582" left="462" width="18" height="7" font="3">623aa</text>
+<text top="607" left="56" width="7" height="7" font="3">24</text>
+<text top="621" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="629" left="101" width="14" height="7" font="3">0.40</text>
+<text top="614" left="146" width="15" height="7" font="3">max </text>
+<text top="621" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="629" left="146" width="20" height="7" font="3">19.7%</text>
+<text top="621" left="191" width="38" height="7" font="3">num unique </text>
+<text top="629" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="621" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="629" left="236" width="31" height="7" font="3">spectra: 1</text>
+<text top="614" left="282" width="27" height="7" font="3">share of </text>
+<text top="621" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="629" left="282" width="35" height="7" font="3">id's: 0.33%</text>
+<text top="638" left="462" width="29" height="7" font="3">Length: </text>
+<text top="645" left="462" width="18" height="7" font="3">507aa</text>
+<text top="693" left="56" width="7" height="7" font="3">25</text>
+<text top="607" left="101" width="185" height="7" font="3">UniRef100_Q01650 UniRef100_Q2MCL6 UniRef100_Q8IV97 </text>
+<text top="607" left="286" width="22" height="7" font="8"><b>0.9951</b></text>
+<text top="645" left="101" width="334" height="7" font="7">&gt;Large neutral amino acids transporter small subunit 1 n=1 Tax=Homo sapiens RepID=LAT1_HUMAN</text>
+<text top="654" left="101" width="330" height="7" font="7">&gt;Large neutral amino acids transporter 1 (Fragment) n=1 Tax=Homo sapiens RepID=Q2MCL6_HUMAN</text>
+<text top="661" left="101" width="337" height="7" font="7">&gt;Solute carrier family 7 (Cationic amino acid transporter, y+ system), member 5 n=1 Tax=Homo </text>
+<text top="668" left="101" width="94" height="7" font="7">sapiens RepID=Q8IV97_HUMAN</text>
+<text top="693" left="101" width="123" height="7" font="3">UniRef100_B8ZZ37 UniRef100_P22626 </text>
+<text top="693" left="224" width="22" height="7" font="8"><b>0.9937</b></text>
+<text top="504" left="101" width="200" height="7" font="7">&gt;Prohibitin-2 n=3 Tax=Euarchontoglires RepID=PHB2_HUMAN</text>
+<text top="511" left="101" width="359" height="7" font="7">&gt;Prohibitin-2 (B-cell receptor-associated protein BAP37) (Repressor of estrogen receptor activity) </text>
+<text top="518" left="101" width="203" height="7" font="7">(D-prohibitin). n=1 Tax=Homo sapiens RepID=UPI00015DFE52</text>
+<text top="542" left="101" width="82" height="7" font="5">UniRef100_P35527 0.9951</text>
+<text top="582" left="101" width="250" height="7" font="7">&gt;Keratin, type I cytoskeletal 9 n=1 Tax=Homo sapiens RepID=K1C9_HUMAN</text>
+<text top="376" left="101" width="272" height="7" font="7">&gt;Proliferating cell nuclear antigen n=1 Tax=Homo sapiens RepID=Q6FI35_HUMAN</text>
+<text top="400" left="101" width="82" height="7" font="5">UniRef100_P23396 1.0000</text>
+<text top="440" left="101" width="214" height="7" font="7">&gt;40S ribosomal protein S3 n=4 Tax=Eukaryota RepID=RS3_HUMAN</text>
+<text top="465" left="101" width="149" height="7" font="3">UniRef100_Q99623 UniRef100_UPI00015DFE52 </text>
+<text top="465" left="250" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="288" left="101" width="192" height="7" font="7">&gt;KRT8 protein n=1 Tax=Homo sapiens RepID=Q7L4M3_HUMAN</text>
+<text top="296" left="101" width="232" height="7" font="7">&gt;KRT8 protein (Fragment) n=1 Tax=Homo sapiens RepID=Q969I0_HUMAN</text>
+<text top="321" left="101" width="185" height="7" font="3">UniRef100_P12004 UniRef100_Q6FHF5 UniRef100_Q6FI35 </text>
+<text top="321" left="286" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="360" left="101" width="258" height="7" font="7">&gt;Proliferating cell nuclear antigen n=3 Tax=Catarrhini RepID=PCNA_HUMAN</text>
+<text top="368" left="101" width="312" height="7" font="7">&gt;Proliferating cell nuclear antigen (Fragment) n=1 Tax=Homo sapiens RepID=Q6FHF5_HUMAN</text>
+<text top="193" left="101" width="283" height="7" font="7">&gt;Glyceraldehyde-3-phosphate dehydrogenase n=1 Tax=Homo sapiens RepID=G3P_HUMAN</text>
+<text top="201" left="101" width="294" height="7" font="7">&gt;Glyceraldehyde-3-phosphate dehydrogenase n=1 Tax=Homo sapiens RepID=Q2TSD0_HUMAN</text>
+<text top="208" left="101" width="312" height="7" font="7">&gt;Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12) (GAPDH). n=1 Tax=Homo sapiens </text>
+<text top="216" left="101" width="69" height="7" font="7">RepID=UPI0000D4D340</text>
+<text top="241" left="101" width="185" height="7" font="3">UniRef100_P05787 UniRef100_Q7L4M3 UniRef100_Q969I0 </text>
+<text top="241" left="286" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="279" left="101" width="254" height="7" font="7">&gt;Keratin, type II cytoskeletal 8 n=1 Tax=Homo sapiens RepID=K2C8_HUMAN</text>
+<text top="89" left="101" width="82" height="7" font="5">UniRef100_P04264 1.0000</text>
+<text top="129" left="101" width="254" height="7" font="7">&gt;Keratin, type II cytoskeletal 1 n=1 Tax=Homo sapiens RepID=K2C1_HUMAN</text>
+<text top="154" left="101" width="210" height="7" font="3">UniRef100_P04406 UniRef100_Q2TSD0 UniRef100_UPI0000D4D340 </text>
+<text top="154" left="311" width="22" height="7" font="8"><b>1.0000</b></text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="792" width="612">
+<text top="80" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="88" left="101" width="14" height="7" font="3">0.12</text>
+<text top="72" left="146" width="15" height="7" font="3">max </text>
+<text top="80" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="88" left="146" width="16" height="7" font="3">3.2%</text>
+<text top="80" left="191" width="38" height="7" font="3">num unique </text>
+<text top="88" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="80" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="88" left="236" width="31" height="7" font="3">spectra: 1</text>
+<text top="72" left="282" width="27" height="7" font="3">share of </text>
+<text top="80" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="88" left="282" width="35" height="7" font="3">id's: 0.33%</text>
+<text top="97" left="462" width="29" height="7" font="3">Length: </text>
+<text top="104" left="462" width="18" height="7" font="3">317aa</text>
+<text top="138" left="56" width="7" height="7" font="3">26</text>
+<text top="152" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="160" left="101" width="14" height="7" font="3">0.37</text>
+<text top="144" left="146" width="15" height="7" font="3">max </text>
+<text top="152" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="160" left="146" width="20" height="7" font="3">15.2%</text>
+<text top="152" left="191" width="38" height="7" font="3">num unique </text>
+<text top="160" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="152" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="160" left="236" width="31" height="7" font="3">spectra: 3</text>
+<text top="144" left="282" width="27" height="7" font="3">share of </text>
+<text top="152" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="160" left="282" width="35" height="7" font="3">id's: 1.00%</text>
+<text top="169" left="462" width="29" height="7" font="3">Length: </text>
+<text top="176" left="462" width="18" height="7" font="3">249aa</text>
+<text top="218" left="56" width="7" height="7" font="3">27</text>
+<text top="233" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="240" left="101" width="14" height="7" font="3">0.11</text>
+<text top="225" left="146" width="15" height="7" font="3">max </text>
+<text top="233" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="240" left="146" width="16" height="7" font="3">3.2%</text>
+<text top="233" left="191" width="38" height="7" font="3">num unique </text>
+<text top="240" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="233" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="240" left="236" width="31" height="7" font="3">spectra: 2</text>
+<text top="225" left="282" width="27" height="7" font="3">share of </text>
+<text top="233" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="240" left="282" width="35" height="7" font="3">id's: 0.66%</text>
+<text top="249" left="462" width="29" height="7" font="3">Length: </text>
+<text top="256" left="462" width="18" height="7" font="3">339aa</text>
+<text top="290" left="56" width="7" height="7" font="3">28</text>
+<text top="305" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="312" left="101" width="14" height="7" font="3">0.14</text>
+<text top="305" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="312" left="146" width="16" height="7" font="3">3.7%</text>
+<text top="305" left="191" width="38" height="7" font="3">num unique </text>
+<text top="312" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="305" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="312" left="236" width="31" height="7" font="3">spectra: 2</text>
+<text top="297" left="282" width="27" height="7" font="3">share of </text>
+<text top="305" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="312" left="282" width="35" height="7" font="3">id's: 0.66%</text>
+<text top="321" left="462" width="29" height="7" font="3">Length: </text>
+<text top="328" left="462" width="18" height="7" font="3">269aa</text>
+<text top="354" left="56" width="7" height="7" font="3">29</text>
+<text top="368" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="376" left="101" width="14" height="7" font="3">0.07</text>
+<text top="360" left="146" width="15" height="7" font="3">max </text>
+<text top="368" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="376" left="146" width="16" height="7" font="3">2.3%</text>
+<text top="368" left="191" width="38" height="7" font="3">num unique </text>
+<text top="376" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="368" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="376" left="236" width="31" height="7" font="3">spectra: 1</text>
+<text top="360" left="282" width="27" height="7" font="3">share of </text>
+<text top="368" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="376" left="282" width="35" height="7" font="3">id's: 0.33%</text>
+<text top="385" left="462" width="29" height="7" font="3">Length: </text>
+<text top="392" left="462" width="18" height="7" font="3">531aa</text>
+<text top="449" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="456" left="101" width="14" height="7" font="3">0.16</text>
+<text top="441" left="146" width="15" height="7" font="3">max </text>
+<text top="449" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="456" left="146" width="16" height="7" font="3">5.0%</text>
+<text top="449" left="191" width="38" height="7" font="3">num unique </text>
+<text top="456" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="449" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="456" left="236" width="31" height="7" font="3">spectra: 3</text>
+<text top="441" left="282" width="27" height="7" font="3">share of </text>
+<text top="449" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="456" left="282" width="35" height="7" font="3">id's: 0.98%</text>
+<text top="465" left="462" width="29" height="7" font="3">Length: </text>
+<text top="472" left="462" width="18" height="7" font="3">588aa</text>
+<text top="569" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="576" left="101" width="14" height="7" font="3">0.41</text>
+<text top="561" left="146" width="15" height="7" font="3">max </text>
+<text top="569" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="576" left="146" width="20" height="7" font="3">13.8%</text>
+<text top="569" left="191" width="38" height="7" font="3">num unique </text>
+<text top="576" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="569" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="576" left="236" width="31" height="7" font="3">spectra: 2</text>
+<text top="561" left="282" width="27" height="7" font="3">share of </text>
+<text top="569" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="576" left="282" width="35" height="7" font="3">id's: 0.66%</text>
+<text top="585" left="462" width="29" height="7" font="3">Length: </text>
+<text top="592" left="462" width="18" height="7" font="3">264aa</text>
+<text top="649" left="101" width="225" height="7" font="7">&gt;Ribosomal protein S3A n=1 Tax=Homo sapiens RepID=Q6NXR8_HUMAN</text>
+<text top="657" left="101" width="258" height="7" font="7">&gt;UPI0001D3B8ED related cluster n=1 Tax=Homo sapiens RepID=UPI0001D3B8ED</text>
+<text top="666" left="101" width="258" height="7" font="7">&gt;UPI0001D3B8EF related cluster n=1 Tax=Homo sapiens RepID=UPI0001D3B8EF</text>
+<text top="732" left="56" width="7" height="7" font="3">32</text>
+<text top="691" left="101" width="370" height="7" font="3">UniRef100_A1E282 UniRef100_A6NL76 UniRef100_A8K3K1 UniRef100_B3KUD3 UniRef100_B3KW67 UniRef100_B4DUI8 </text>
+<text top="699" left="101" width="370" height="7" font="3">UniRef100_B4DVQ0 UniRef100_B4E335 UniRef100_B4E3A4 UniRef100_B7Z6P1 UniRef100_B8ZZJ2 UniRef100_C9JFL5 </text>
+<text top="708" left="101" width="370" height="7" font="3">UniRef100_P60709 UniRef100_P62736 UniRef100_P63261 UniRef100_P63267 UniRef100_P68032 UniRef100_P68133 </text>
+<text top="585" left="101" width="348" height="7" font="7">&gt;cDNA FLJ78591, highly similar to Homo sapiens ribosomal protein S3A (RPS3A), mRNA n=1 Tax=Homo </text>
+<text top="592" left="101" width="94" height="7" font="7">sapiens RepID=A8K4W0_HUMAN</text>
+<text top="600" left="101" width="294" height="7" font="7">&gt;cDNA FLJ51870, highly similar to 40S ribosomal protein S3a n=3 Tax=Homo sapiens </text>
+<text top="607" left="101" width="65" height="7" font="7">RepID=B7Z3M5_HUMAN</text>
+<text top="615" left="101" width="287" height="7" font="7">&gt;Putative uncharacterized protein RPS3A n=1 Tax=Homo sapiens RepID=D6RB09_HUMAN</text>
+<text top="624" left="101" width="287" height="7" font="7">&gt;Putative uncharacterized protein RPS3A n=1 Tax=Homo sapiens RepID=D6RG13_HUMAN</text>
+<text top="632" left="101" width="287" height="7" font="7">&gt;Putative uncharacterized protein RPS3A n=2 Tax=Homo sapiens RepID=D6RGE0_HUMAN</text>
+<text top="640" left="101" width="218" height="7" font="7">&gt;40S ribosomal protein S3a n=5 Tax=Eutheria RepID=RS3A_HUMAN</text>
+<text top="495" left="101" width="279" height="7" font="7">&gt;Pre-mRNA 3'-end-processing factor FIP1 n=1 Tax=Homo sapiens RepID=FIP1_HUMAN</text>
+<text top="504" left="101" width="319" height="7" font="7">&gt;Isoform 3 of Pre-mRNA 3'-end-processing factor FIP1 n=1 Tax=Homo sapiens RepID=Q6UN15-3</text>
+<text top="512" left="101" width="319" height="7" font="7">&gt;Isoform 4 of Pre-mRNA 3'-end-processing factor FIP1 n=1 Tax=Homo sapiens RepID=Q6UN15-4</text>
+<text top="520" left="101" width="229" height="7" font="7">&gt;FIP1 like 1 isoform 2 n=1 Tax=Homo sapiens RepID=UPI0000D9B14D</text>
+<text top="554" left="56" width="7" height="7" font="3">31</text>
+<text top="546" left="101" width="370" height="7" font="3">UniRef100_A8K4W0 UniRef100_B7Z3M5 UniRef100_D6RB09 UniRef100_D6RG13 UniRef100_D6RGE0 UniRef100_P61247 </text>
+<text top="554" left="101" width="236" height="7" font="3">UniRef100_Q6NXR8 UniRef100_UPI0001D3B8ED UniRef100_UPI0001D3B8EF </text>
+<text top="554" left="337" width="22" height="7" font="8"><b>0.9685</b></text>
+<text top="434" left="56" width="7" height="7" font="3">30</text>
+<text top="426" left="101" width="410" height="7" font="3">UniRef100_B4DIR3 UniRef100_B4DTW7 UniRef100_Q6UN15 UniRef100_Q6UN15-3 UniRef100_Q6UN15-4 UniRef100_UPI0000D9B14D </text>
+<text top="434" left="529" width="22" height="7" font="8"><b>0.9817</b></text>
+<text top="465" left="101" width="341" height="7" font="7">&gt;cDNA FLJ56493, highly similar to Pre-mRNA 3'-end-processing factor FIP1 n=1 Tax=Homo sapiens </text>
+<text top="472" left="101" width="65" height="7" font="7">RepID=B4DIR3_HUMAN</text>
+<text top="480" left="101" width="341" height="7" font="7">&gt;cDNA FLJ61400, highly similar to Pre-mRNA 3'-end-processing factor FIP1 n=1 Tax=Homo sapiens </text>
+<text top="487" left="101" width="65" height="7" font="7">RepID=B4DTW7_HUMAN</text>
+<text top="288" left="101" width="82" height="7" font="5">UniRef100_P49716 0.9932</text>
+<text top="328" left="101" width="276" height="7" font="7">&gt;CCAAT/enhancer-binding protein delta n=1 Tax=Homo sapiens RepID=CEBPD_HUMAN</text>
+<text top="354" left="101" width="123" height="7" font="3">UniRef100_B4DY56 UniRef100_P25705 </text>
+<text top="354" left="224" width="22" height="7" font="8"><b>0.9864</b></text>
+<text top="392" left="101" width="243" height="7" font="7">&gt;ATP synthase subunit alpha n=1 Tax=Homo sapiens RepID=B4DY56_HUMAN</text>
+<text top="400" left="101" width="279" height="7" font="7">&gt;ATP synthase subunit alpha, mitochondrial n=3 Tax=Homininae RepID=ATPA_HUMAN</text>
+<text top="193" left="101" width="174" height="7" font="7">&gt;PNAS-20 n=1 Tax=Homo sapiens RepID=Q9BZU1_HUMAN</text>
+<text top="218" left="101" width="123" height="7" font="3">UniRef100_A6NMY6 UniRef100_P07355 </text>
+<text top="218" left="224" width="22" height="7" font="8"><b>0.9932</b></text>
+<text top="256" left="101" width="261" height="7" font="7">&gt;Putative annexin A2-like protein n=1 Tax=Homo sapiens RepID=AXA2L_HUMAN</text>
+<text top="265" left="101" width="171" height="7" font="7">&gt;Annexin A2 n=3 Tax=Hominidae RepID=ANXA2_HUMAN</text>
+<text top="104" left="101" width="301" height="7" font="7">&gt;Putative uncharacterized protein HNRNPA2B1 n=1 Tax=Homo sapiens RepID=B8ZZ37_HUMAN</text>
+<text top="112" left="101" width="308" height="7" font="7">&gt;Heterogeneous nuclear ribonucleoproteins A2/B1 n=1 Tax=Homo sapiens RepID=ROA2_HUMAN</text>
+<text top="138" left="101" width="185" height="7" font="3">UniRef100_P62753 UniRef100_Q96DV6 UniRef100_Q9BZU1 </text>
+<text top="138" left="286" width="22" height="7" font="8"><b>0.9937</b></text>
+<text top="176" left="101" width="210" height="7" font="7">&gt;40S ribosomal protein S6 n=8 Tax=Eutheria RepID=RS6_HUMAN</text>
+<text top="184" left="101" width="221" height="7" font="7">&gt;Ribosomal protein S6 n=1 Tax=Homo sapiens RepID=Q96DV6_HUMAN</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="792" width="612">
+<text top="105" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="113" left="101" width="14" height="7" font="3">0.29</text>
+<text top="97" left="146" width="15" height="7" font="3">max </text>
+<text top="105" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="113" left="146" width="16" height="7" font="3">9.1%</text>
+<text top="105" left="191" width="38" height="7" font="3">num unique </text>
+<text top="113" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="105" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="113" left="236" width="31" height="7" font="3">spectra: 1</text>
+<text top="97" left="282" width="27" height="7" font="3">share of </text>
+<text top="105" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="113" left="282" width="35" height="7" font="3">id's: 0.33%</text>
+<text top="121" left="462" width="29" height="7" font="3">Length: </text>
+<text top="129" left="462" width="18" height="7" font="3">121aa</text>
+<text top="442" left="56" width="7" height="7" font="3">33</text>
+<text top="456" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="464" left="101" width="14" height="7" font="3">0.10</text>
+<text top="449" left="146" width="15" height="7" font="3">max </text>
+<text top="456" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="464" left="146" width="16" height="7" font="3">3.3%</text>
+<text top="456" left="191" width="38" height="7" font="3">num unique </text>
+<text top="464" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="456" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="464" left="236" width="31" height="7" font="3">spectra: 1</text>
+<text top="449" left="282" width="27" height="7" font="3">share of </text>
+<text top="456" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="464" left="282" width="35" height="7" font="3">id's: 0.33%</text>
+<text top="480" left="462" width="29" height="7" font="3">Length: </text>
+<text top="487" left="462" width="18" height="7" font="3">361aa</text>
+<text top="564" left="56" width="72" height="7" font="3">Upper band MS results:</text>
+<text top="572" left="56" width="200" height="9" font="4">8 entries (2 single hits) retrieved from</text>
+<text top="582" left="56" width="290" height="7" font="5">/home/TPP/tpp/20110617_Bowling/int-gb_20110617_LTQ_Bowling_CEBPD-2-sequest.prot.xml</text>
+<text top="606" left="56" width="276" height="9" font="6">* corresponds to peptide is_nondegenerate_evidence flag</text>
+<text top="635" left="96" width="4" height="7" font="3">1</text>
+<text top="650" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="657" left="101" width="14" height="7" font="3">1.00</text>
+<text top="650" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="657" left="146" width="20" height="7" font="3">19.4%</text>
+<text top="650" left="191" width="38" height="7" font="3">num unique </text>
+<text top="657" left="191" width="27" height="7" font="3">peps: 12</text>
+<text top="650" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="657" left="236" width="35" height="7" font="3">spectra: 26</text>
+<text top="642" left="282" width="27" height="7" font="3">share of </text>
+<text top="650" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="657" left="282" width="35" height="7" font="3">id's: 9.61%</text>
+<text top="666" left="462" width="29" height="7" font="3">Length: </text>
+<text top="673" left="462" width="18" height="7" font="3">623aa</text>
+<text top="724" left="56" width="7" height="7" font="3">2a</text>
+<text top="699" left="101" width="370" height="7" font="3">UniRef100_A8K008 UniRef100_P01857 UniRef100_P01860 UniRef100_Q5EBM2 UniRef100_Q5EFE5 UniRef100_Q6GMX6 </text>
+<text top="707" left="101" width="370" height="7" font="3">UniRef100_Q6MZQ6 UniRef100_Q6MZV7 UniRef100_Q6N030 UniRef100_Q6N089 UniRef100_Q6N094 UniRef100_Q6N095 </text>
+<text top="504" left="101" width="327" height="7" font="7">&gt;Isoform B of Phosphate carrier protein, mitochondrial n=1 Tax=Homo sapiens RepID=Q00325-2</text>
+<text top="511" left="101" width="308" height="7" font="7">&gt;Solute carrier family 25 member 3 isoform b variant (Fragment) n=1 Tax=Homo sapiens </text>
+<text top="519" left="101" width="65" height="7" font="7">RepID=Q53HC3_HUMAN</text>
+<text top="526" left="101" width="308" height="7" font="7">&gt;cDNA FLJ90278 fis, clone NT2RP1000325, highly similar to Phosphate carrier protein, </text>
+<text top="533" left="101" width="225" height="7" font="7">mitochondrialprecursor n=1 Tax=Homo sapiens RepID=Q8NCF7_HUMAN</text>
+<text top="633" left="101" width="82" height="7" font="5">UniRef100_P35527 1.0000</text>
+<text top="673" left="101" width="250" height="7" font="7">&gt;Keratin, type I cytoskeletal 9 n=1 Tax=Homo sapiens RepID=K1C9_HUMAN</text>
+<text top="408" left="101" width="232" height="7" font="7">&gt;Actin-5C n=1 Tax=Pediculus humanus corporis RepID=UPI000186E470</text>
+<text top="417" left="101" width="258" height="7" font="7">&gt;UPI00018815CC related cluster n=1 Tax=Homo sapiens RepID=UPI00018815CC</text>
+<text top="442" left="101" width="316" height="7" font="3">UniRef100_B2RE88 UniRef100_Q00325 UniRef100_Q00325-2 UniRef100_Q53HC3 UniRef100_Q8NCF7 </text>
+<text top="442" left="417" width="22" height="7" font="8"><b>0.9611</b></text>
+<text top="473" left="101" width="319" height="7" font="7">&gt;cDNA, FLJ96465, highly similar to Homo sapiens solute carrier family 25 (mitochondrial </text>
+<text top="480" left="101" width="334" height="7" font="7">carrier;phosphate carrier), member 3 (SLC25A3), nuclear gene encodingmitochondrial protein, </text>
+<text top="487" left="101" width="243" height="7" font="7">transcript variant 1b, mRNA n=1 Tax=Homo sapiens RepID=B2RE88_HUMAN</text>
+<text top="496" left="101" width="287" height="7" font="7">&gt;Phosphate carrier protein, mitochondrial n=1 Tax=Homo sapiens RepID=MPCP_HUMAN</text>
+<text top="358" left="101" width="261" height="7" font="7">&gt;Actin, alpha 1, skeletal muscle n=1 Tax=Homo sapiens RepID=Q5T8M8_HUMAN</text>
+<text top="366" left="101" width="305" height="7" font="7">&gt;Actin, alpha 2, smooth muscle, aorta (Fragment) n=2 Tax=Eutheria RepID=Q5T9N7_HUMAN</text>
+<text top="375" left="101" width="283" height="7" font="7">&gt;Actin alpha 1 skeletal muscle protein n=1 Tax=Homo sapiens RepID=Q7Z7J6_HUMAN</text>
+<text top="383" left="101" width="305" height="7" font="7">&gt;Putative uncharacterized protein (Fragment) n=1 Tax=Homo sapiens RepID=Q8WVW5_HUMAN</text>
+<text top="391" left="101" width="316" height="7" font="7">&gt;Actin, alpha skeletal muscle (Alpha-actin-1). n=1 Tax=Homo sapiens RepID=UPI000041FCA6</text>
+<text top="400" left="101" width="258" height="7" font="7">&gt;UPI0000E0A7CD related cluster n=1 Tax=Homo sapiens RepID=UPI0000E0A7CD</text>
+<text top="301" left="101" width="225" height="7" font="7">&gt;Actin, alpha skeletal muscle n=8 Tax=Amniota RepID=ACTS_HUMAN</text>
+<text top="309" left="101" width="319" height="7" font="7">&gt;Brain cDNA, clone: QflA-11253, similar to human actin, gamma 1 (ACTG1), n=1 Tax=Macaca </text>
+<text top="316" left="101" width="112" height="7" font="7">fascicularis RepID=Q4R4H6_MACFA</text>
+<text top="324" left="101" width="254" height="7" font="7">&gt;Beta actin variant (Fragment) n=1 Tax=Homo sapiens RepID=Q53G76_HUMAN</text>
+<text top="333" left="101" width="254" height="7" font="7">&gt;Beta actin variant (Fragment) n=1 Tax=Homo sapiens RepID=Q53G99_HUMAN</text>
+<text top="341" left="101" width="254" height="7" font="7">&gt;Beta actin variant (Fragment) n=1 Tax=Homo sapiens RepID=Q53GK6_HUMAN</text>
+<text top="349" left="101" width="261" height="7" font="7">&gt;Actin, alpha 1, skeletal muscle n=1 Tax=Homo sapiens RepID=Q5T8M7_HUMAN</text>
+<text top="251" left="101" width="287" height="7" font="7">&gt;Putative uncharacterized protein ACTG2 n=1 Tax=Homo sapiens RepID=C9JFL5_HUMAN</text>
+<text top="259" left="101" width="287" height="7" font="7">&gt;Actin, cytoplasmic 1, N-terminally processed n=24 Tax=Amniota RepID=ACTB_HUMAN</text>
+<text top="268" left="101" width="232" height="7" font="7">&gt;Actin, aortic smooth muscle n=12 Tax=Eukaryota RepID=ACTA_HUMAN</text>
+<text top="276" left="101" width="290" height="7" font="7">&gt;Actin, cytoplasmic 2, N-terminally processed n=9 Tax=Tetrapoda RepID=ACTG_HUMAN</text>
+<text top="285" left="101" width="247" height="7" font="7">&gt;Actin, gamma-enteric smooth muscle n=7 Tax=Amniota RepID=ACTH_HUMAN</text>
+<text top="293" left="101" width="240" height="7" font="7">&gt;Actin, alpha cardiac muscle 1 n=10 Tax=Tetrapoda RepID=ACTC_HUMAN</text>
+<text top="187" left="101" width="301" height="7" font="7">&gt;cDNA FLJ52761, highly similar to Actin, aortic smooth muscle n=2 Tax=Euteleostomi </text>
+<text top="195" left="101" width="65" height="7" font="7">RepID=B4DUI8_HUMAN</text>
+<text top="203" left="101" width="341" height="7" font="7">&gt;cDNA FLJ58286, highly similar to Actin, cytoplasmic 2 n=1 Tax=Homo sapiens RepID=B4DVQ0_HUMAN</text>
+<text top="211" left="101" width="341" height="7" font="7">&gt;cDNA FLJ52842, highly similar to Actin, cytoplasmic 1 n=1 Tax=Homo sapiens RepID=B4E335_HUMAN</text>
+<text top="220" left="101" width="341" height="7" font="7">&gt;cDNA FLJ57283, highly similar to Actin, cytoplasmic 2 n=1 Tax=Homo sapiens RepID=B4E3A4_HUMAN</text>
+<text top="227" left="101" width="305" height="7" font="7">&gt;cDNA FLJ53662, highly similar to Actin, alpha skeletal muscle n=1 Tax=Homo sapiens </text>
+<text top="234" left="101" width="65" height="7" font="7">RepID=B7Z6P1_HUMAN</text>
+<text top="243" left="101" width="287" height="7" font="7">&gt;Putative uncharacterized protein ACTG2 n=1 Tax=Homo sapiens RepID=B8ZZJ2_HUMAN</text>
+<text top="90" left="101" width="108" height="7" font="5">UniRef100_UPI00018815CC 0.9680</text>
+<text top="129" left="101" width="214" height="7" font="7">&gt;Beta-actin (Fragment) n=4 Tax=Coelomata RepID=A1E282_HUMAN</text>
+<text top="137" left="101" width="287" height="7" font="7">&gt;Putative uncharacterized protein ACTA1 n=1 Tax=Homo sapiens RepID=A6NL76_HUMAN</text>
+<text top="144" left="101" width="337" height="7" font="7">&gt;cDNA FLJ78096, highly similar to Homo sapiens actin, alpha, cardiac muscle (ACTC), mRNA n=1 </text>
+<text top="151" left="101" width="127" height="7" font="7">Tax=Homo sapiens RepID=A8K3K1_HUMAN</text>
+<text top="159" left="101" width="330" height="7" font="7">&gt;cDNA FLJ39583 fis, clone SKMUS2004897, highly similar to ACTIN, ALPHA SKELETAL MUSCLE n=1 </text>
+<text top="166" left="101" width="127" height="7" font="7">Tax=Homo sapiens RepID=B3KUD3_HUMAN</text>
+<text top="173" left="101" width="352" height="7" font="7">&gt;cDNA FLJ42347 fis, clone UTERU2003399, highly similar to Actin, gamma-enteric smooth muscle n=1 </text>
+<text top="180" left="101" width="127" height="7" font="7">Tax=Homo sapiens RepID=B3KW67_HUMAN</text>
+<text top="90" left="56" width="7" height="7" font="3">32</text>
+<text top="74" left="101" width="370" height="7" font="3">UniRef100_Q4R4H6 UniRef100_Q53G76 UniRef100_Q53G99 UniRef100_Q53GK6 UniRef100_Q5T8M7 UniRef100_Q5T8M8 </text>
+<text top="82" left="101" width="446" height="7" font="3">UniRef100_Q5T9N7 UniRef100_Q7Z7J6 UniRef100_Q8WVW5 UniRef100_UPI000041FCA6 UniRef100_UPI0000E0A7CD UniRef100_UPI000186E470 </text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="792" width="612">
+<text top="97" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="105" left="101" width="14" height="7" font="3">1.00</text>
+<text top="89" left="146" width="15" height="7" font="3">max </text>
+<text top="97" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="105" left="146" width="16" height="7" font="3">4.5%</text>
+<text top="97" left="191" width="38" height="7" font="3">num unique </text>
+<text top="105" left="191" width="23" height="7" font="3">peps: 3</text>
+<text top="97" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="105" left="236" width="31" height="7" font="3">spectra: 7</text>
+<text top="89" left="282" width="27" height="7" font="3">share of </text>
+<text top="97" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="105" left="282" width="35" height="7" font="3">id's: 2.54%</text>
+<text top="114" left="462" width="29" height="7" font="3">Length: </text>
+<text top="121" left="462" width="18" height="7" font="3">472aa</text>
+<text top="328" left="56" width="7" height="7" font="3">3a</text>
+<text top="343" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="351" left="101" width="14" height="7" font="3">1.00</text>
+<text top="335" left="146" width="15" height="7" font="3">max </text>
+<text top="343" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="351" left="146" width="20" height="7" font="3">25.1%</text>
+<text top="343" left="191" width="38" height="7" font="3">num unique </text>
+<text top="351" left="191" width="27" height="7" font="3">peps: 28</text>
+<text top="343" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="351" left="236" width="35" height="7" font="3">spectra: 59</text>
+<text top="335" left="282" width="27" height="7" font="3">share of </text>
+<text top="343" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="351" left="282" width="39" height="7" font="3">id's: 16.91%</text>
+<text top="343" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="351" left="327" width="30" height="7" font="5">entries: 1</text>
+<text top="360" left="462" width="29" height="7" font="3">Length: </text>
+<text top="367" left="462" width="18" height="7" font="3">246aa</text>
+<text top="400" left="56" width="7" height="7" font="3">4a</text>
+<text top="415" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="423" left="101" width="14" height="7" font="3">1.00</text>
+<text top="415" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="423" left="146" width="20" height="7" font="3">17.3%</text>
+<text top="415" left="191" width="38" height="7" font="3">num unique </text>
+<text top="423" left="191" width="27" height="7" font="3">peps: 12</text>
+<text top="415" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="423" left="236" width="35" height="7" font="3">spectra: 29</text>
+<text top="407" left="282" width="27" height="7" font="3">share of </text>
+<text top="415" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="423" left="282" width="39" height="7" font="3">id's: 11.42%</text>
+<text top="415" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="423" left="327" width="30" height="7" font="5">entries: 1</text>
+<text top="432" left="462" width="29" height="7" font="3">Length: </text>
+<text top="439" left="462" width="18" height="7" font="3">607aa</text>
+<text top="464" left="56" width="7" height="7" font="3">5a</text>
+<text top="479" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="486" left="101" width="14" height="7" font="3">1.00</text>
+<text top="479" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="486" left="146" width="20" height="7" font="3">28.3%</text>
+<text top="479" left="191" width="38" height="7" font="3">num unique </text>
+<text top="486" left="191" width="27" height="7" font="3">peps: 19</text>
+<text top="479" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="486" left="236" width="35" height="7" font="3">spectra: 47</text>
+<text top="471" left="282" width="27" height="7" font="3">share of </text>
+<text top="479" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="486" left="282" width="39" height="7" font="3">id's: 18.09%</text>
+<text top="479" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="486" left="327" width="30" height="7" font="5">entries: 1</text>
+<text top="495" left="462" width="29" height="7" font="3">Length: </text>
+<text top="502" left="462" width="18" height="7" font="3">644aa</text>
+<text top="528" left="56" width="7" height="7" font="3">5b</text>
+<text top="542" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="550" left="101" width="14" height="7" font="3">1.00</text>
+<text top="542" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="550" left="146" width="20" height="7" font="3">12.2%</text>
+<text top="542" left="191" width="38" height="7" font="3">num unique </text>
+<text top="550" left="191" width="23" height="7" font="3">peps: 4</text>
+<text top="542" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="550" left="236" width="31" height="7" font="3">spectra: 5</text>
+<text top="534" left="282" width="27" height="7" font="3">share of </text>
+<text top="542" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="550" left="282" width="35" height="7" font="3">id's: 3.34%</text>
+<text top="559" left="462" width="29" height="7" font="3">Length: </text>
+<text top="566" left="462" width="18" height="7" font="3">639aa</text>
+<text top="591" left="56" width="7" height="7" font="3">6a</text>
+<text top="606" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="614" left="101" width="14" height="7" font="3">1.00</text>
+<text top="598" left="146" width="15" height="7" font="3">max </text>
+<text top="606" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="614" left="146" width="20" height="7" font="3">18.2%</text>
+<text top="606" left="191" width="38" height="7" font="3">num unique </text>
+<text top="614" left="191" width="27" height="7" font="3">peps: 10</text>
+<text top="606" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="614" left="236" width="35" height="7" font="3">spectra: 24</text>
+<text top="598" left="282" width="27" height="7" font="3">share of </text>
+<text top="606" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="614" left="282" width="39" height="7" font="3">id's: 10.20%</text>
+<text top="606" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="614" left="327" width="30" height="7" font="5">entries: 2</text>
+<text top="622" left="462" width="29" height="7" font="3">Length: </text>
+<text top="630" left="462" width="18" height="7" font="3">584aa</text>
+<text top="663" left="56" width="7" height="7" font="3">7a</text>
+<text top="678" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="686" left="101" width="14" height="7" font="3">1.00</text>
+<text top="670" left="146" width="15" height="7" font="3">max </text>
+<text top="678" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="686" left="146" width="20" height="7" font="3">11.4%</text>
+<text top="678" left="191" width="38" height="7" font="3">num unique </text>
+<text top="686" left="191" width="27" height="7" font="3">peps: 16</text>
+<text top="678" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="686" left="236" width="35" height="7" font="3">spectra: 35</text>
+<text top="670" left="282" width="27" height="7" font="3">share of </text>
+<text top="678" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="686" left="282" width="39" height="7" font="3">id's: 14.46%</text>
+<text top="678" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="686" left="327" width="30" height="7" font="5">entries: 4</text>
+<text top="694" left="462" width="29" height="7" font="3">Length: </text>
+<text top="702" left="462" width="22" height="7" font="3">1500aa</text>
+<text top="710" left="101" width="334" height="7" font="7">&gt;Carbamoyl-phosphate synthetase 1 variant (Fragment) n=1 Tax=Homo sapiens RepID=Q59HF8_HUMAN</text>
+<text top="591" left="101" width="149" height="7" font="3">UniRef100_P13645 UniRef100_UPI00017BCE7F </text>
+<text top="591" left="250" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="630" left="101" width="258" height="7" font="7">&gt;Keratin, type I cytoskeletal 10 n=1 Tax=Homo sapiens RepID=K1C10_HUMAN</text>
+<text top="638" left="101" width="265" height="7" font="7">&gt;keratin, type I cytoskeletal 10 n=1 Tax=Homo sapiens RepID=UPI00017BCE7F</text>
+<text top="663" left="101" width="308" height="7" font="3">UniRef100_P31327 UniRef100_Q59HF8 UniRef100_Q5R206 UniRef100_Q5R208 UniRef100_Q5R210 </text>
+<text top="663" left="409" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="702" left="101" width="334" height="7" font="7">&gt;Carbamoyl-phosphate synthase [ammonia], mitochondrial n=4 Tax=Homo sapiens RepID=CPSM_HUMAN</text>
+<text top="462" left="101" width="82" height="7" font="5">UniRef100_P04264 1.0000</text>
+<text top="502" left="101" width="254" height="7" font="7">&gt;Keratin, type II cytoskeletal 1 n=1 Tax=Homo sapiens RepID=K2C1_HUMAN</text>
+<text top="526" left="101" width="82" height="7" font="5">UniRef100_P35908 1.0000</text>
+<text top="566" left="101" width="290" height="7" font="7">&gt;Keratin, type II cytoskeletal 2 epidermal n=1 Tax=Homo sapiens RepID=K22E_HUMAN</text>
+<text top="367" left="101" width="174" height="7" font="7">&gt;Trypsinogen n=1 Tax=Sus scrofa RepID=C5IWV5_PIG</text>
+<text top="375" left="101" width="152" height="7" font="7">&gt;Trypsin n=1 Tax=Sus scrofa RepID=TRYP_PIG</text>
+<text top="399" left="101" width="82" height="7" font="5">UniRef100_P02769 1.0000</text>
+<text top="439" left="101" width="181" height="7" font="7">&gt;Serum albumin n=1 Tax=Bos taurus RepID=ALBU_BOVIN</text>
+<text top="278" left="101" width="301" height="7" font="7">&gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69D</text>
+<text top="286" left="101" width="301" height="7" font="7">&gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69E</text>
+<text top="295" left="101" width="301" height="7" font="7">&gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69F</text>
+<text top="303" left="101" width="243" height="7" font="7">&gt;IG GAMMA-1 CHAIN C REGION n=1 Tax=Homo sapiens RepID=UPI000195C290</text>
+<text top="328" left="101" width="123" height="7" font="3">UniRef100_C5IWV5 UniRef100_P00761 </text>
+<text top="328" left="224" width="22" height="7" font="8"><b>1.0000</b></text>
+<text top="222" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686I15196 n=1 Tax=Homo sapiens RepID=Q6N096_HUMAN</text>
+<text top="230" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686H20196 n=1 Tax=Homo sapiens RepID=Q6N097_HUMAN</text>
+<text top="238" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686N02209 n=1 Tax=Homo sapiens RepID=Q7Z351_HUMAN</text>
+<text top="246" left="101" width="352" height="7" font="7">&gt;Full-length cDNA clone CS0DI019YF20 of Placenta of Homo sapiens (human) (Fragment) n=2 Tax=Homo </text>
+<text top="253" left="101" width="94" height="7" font="7">sapiens RepID=Q86TT2_HUMAN</text>
+<text top="261" left="101" width="247" height="7" font="7">&gt;FLJ00385 protein (Fragment) n=1 Tax=Homo sapiens RepID=Q8NF17_HUMAN</text>
+<text top="270" left="101" width="290" height="7" font="7">&gt;IGG1 MCG INTACT ANTIBODY (HEAVY CHAIN) n=1 Tax=Homo sapiens RepID=UPI00001125A4</text>
+<text top="171" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686G11190 n=1 Tax=Homo sapiens RepID=Q6MZQ6_HUMAN</text>
+<text top="180" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686C11235 n=1 Tax=Homo sapiens RepID=Q6MZV7_HUMAN</text>
+<text top="188" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686I15212 n=1 Tax=Homo sapiens RepID=Q6N030_HUMAN</text>
+<text top="196" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686P15220 n=1 Tax=Homo sapiens RepID=Q6N089_HUMAN</text>
+<text top="205" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686O01196 n=1 Tax=Homo sapiens RepID=Q6N094_HUMAN</text>
+<text top="213" left="101" width="319" height="7" font="7">&gt;Putative uncharacterized protein DKFZp686K03196 n=1 Tax=Homo sapiens RepID=Q6N095_HUMAN</text>
+<text top="121" left="101" width="196" height="7" font="7">&gt;cDNA FLJ78387 n=1 Tax=Homo sapiens RepID=A8K008_HUMAN</text>
+<text top="129" left="101" width="236" height="7" font="7">&gt;Ig gamma-1 chain C region n=1 Tax=Homo sapiens RepID=IGHG1_HUMAN</text>
+<text top="138" left="101" width="236" height="7" font="7">&gt;Ig gamma-3 chain C region n=1 Tax=Homo sapiens RepID=IGHG3_HUMAN</text>
+<text top="146" left="101" width="265" height="7" font="7">&gt;Putative uncharacterized protein n=1 Tax=Homo sapiens RepID=Q5EBM2_HUMAN</text>
+<text top="154" left="101" width="305" height="7" font="7">&gt;Anti-RhD monoclonal T125 gamma1 heavy chain n=1 Tax=Homo sapiens RepID=Q5EFE5_HUMAN</text>
+<text top="163" left="101" width="192" height="7" font="7">&gt;IGH@ protein n=1 Tax=Homo sapiens RepID=Q6GMX6_HUMAN</text>
+<text top="82" left="56" width="7" height="7" font="3">2a</text>
+<text top="74" left="101" width="396" height="7" font="3">UniRef100_Q6N096 UniRef100_Q6N097 UniRef100_Q7Z351 UniRef100_Q86TT2 UniRef100_Q8NF17 UniRef100_UPI00001125A4 </text>
+<text top="82" left="101" width="348" height="7" font="3">UniRef100_UPI000173A69D UniRef100_UPI000173A69E UniRef100_UPI000173A69F UniRef100_UPI000195C290 </text>
+<text top="82" left="449" width="22" height="7" font="8"><b>1.0000</b></text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="792" width="612">
+<text top="116" left="56" width="7" height="7" font="3">6b</text>
+<text top="131" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="138" left="101" width="14" height="7" font="3">1.00</text>
+<text top="131" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="138" left="146" width="16" height="7" font="3">5.1%</text>
+<text top="131" left="191" width="38" height="7" font="3">num unique </text>
+<text top="138" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="131" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="138" left="236" width="31" height="7" font="3">spectra: 2</text>
+<text top="123" left="282" width="27" height="7" font="3">share of </text>
+<text top="131" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="138" left="282" width="35" height="7" font="3">id's: 1.54%</text>
+<text top="131" left="327" width="33" height="7" font="5">subsumed </text>
+<text top="138" left="327" width="30" height="7" font="5">entries: 3</text>
+<text top="147" left="462" width="29" height="7" font="3">Length: </text>
+<text top="154" left="462" width="18" height="7" font="3">472aa</text>
+<text top="180" left="96" width="4" height="7" font="3">8</text>
+<text top="194" left="101" width="37" height="7" font="3">confidence: </text>
+<text top="202" left="101" width="14" height="7" font="3">0.12</text>
+<text top="194" left="146" width="32" height="7" font="3">coverage: </text>
+<text top="202" left="146" width="16" height="7" font="3">2.3%</text>
+<text top="194" left="191" width="38" height="7" font="3">num unique </text>
+<text top="202" left="191" width="23" height="7" font="3">peps: 1</text>
+<text top="194" left="236" width="29" height="7" font="3">tot indep </text>
+<text top="202" left="236" width="31" height="7" font="3">spectra: 1</text>
+<text top="186" left="282" width="27" height="7" font="3">share of </text>
+<text top="194" left="282" width="30" height="7" font="3">spectrum </text>
+<text top="202" left="282" width="35" height="7" font="3">id's: 0.42%</text>
+<text top="154" left="101" width="258" height="7" font="7">&gt;Keratin, type I cytoskeletal 14 n=1 Tax=Homo sapiens RepID=K1C14_HUMAN</text>
+<text top="178" left="101" width="108" height="7" font="5">UniRef100_UPI000186DEBF 0.9882</text>
+<text top="211" left="101" width="345" height="7" font="7">&gt;class A rhodopsin-like G-protein coupled receptor GPRnpy3, putative n=1 Tax=Pediculus humanus </text>
+<text top="218" left="101" width="102" height="7" font="7">corporis RepID=UPI000186DEBF</text>
+<text top="74" left="101" width="261" height="7" font="7">&gt;Carbamoylphosphate synthetase I n=1 Tax=Homo sapiens RepID=Q5R206_HUMAN</text>
+<text top="82" left="101" width="261" height="7" font="7">&gt;Carbamoylphosphate synthetase I n=1 Tax=Homo sapiens RepID=Q5R208_HUMAN</text>
+<text top="91" left="101" width="261" height="7" font="7">&gt;Carbamoylphosphate synthetase I n=2 Tax=Homo sapiens RepID=Q5R210_HUMAN</text>
+<text top="114" left="101" width="82" height="7" font="5">UniRef100_P02533 0.9998</text>
+</page>
+</pdf2xml>

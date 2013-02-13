@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+<text top="380" left="117" width="438" height="22" font="3">Western'Blot'analysis'of'nuclear'extracts'from'HepG2'using'</text>
+<text top="401" left="117" width="426" height="22" font="3">an8'GRp20'an8body'(sc1002).'Expected'protein'band'size'</text>
+<text top="423" left="117" width="51" height="22" font="3">90'KD.'</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="4" size="18" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+<text top="54" left="38" width="485" height="24" font="4">Immunoprecipita-on.assay.(IP).+..mass.spectrometry.assay.</text>
+<text top="106" left="188" width="179" height="20" font="5">GR(P720)(sc1002).(R).90.kD.</text>
+<text top="108" left="116" width="32" height="20" font="5">MW.</text>
+<text top="172" left="117" width="28" height="20" font="5">250.</text>
+<text top="199" left="117" width="28" height="20" font="5">150.</text>
+<text top="220" left="117" width="28" height="20" font="5">100.</text>
+<text top="239" left="125" width="20" height="20" font="5">75.</text>
+<text top="265" left="116" width="31" height="20" font="5">...50.</text>
+<text top="289" left="126" width="20" height="20" font="5">37.</text>
+<text top="314" left="126" width="20" height="20" font="5">25.</text>
+<text top="353" left="125" width="20" height="20" font="5">10.</text>
+<text top="408" left="125" width="34" height="20" font="5">Lane.</text>
+<text top="409" left="212" width="122" height="20" font="5">1...............2...........3.</text>
+<text top="305" left="442" width="126" height="20" font="5">Lane.1.Input.lysate.</text>
+<text top="324" left="442" width="4" height="20" font="5">.</text>
+<text top="343" left="442" width="201" height="20" font="5">Lane.2.Bound.material.from.IP.</text>
+<text top="362" left="442" width="4" height="20" font="5">.</text>
+<text top="381" left="442" width="241" height="20" font="5">Lane.3.Bound.material.from.IP............</text>
+<text top="401" left="442" width="145" height="20" font="5">using.non7speciﬁc.IgG.</text>
+<text top="228" left="369" width="50" height="20" font="5">Band.A.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="6" size="5" family="Times" color="#000000"/>
+	<fontspec id="7" size="5" family="Times" color="#000000"/>
+<text top="41" left="109" width="29" height="9" font="6"><b>Spectrum)</b></text>
+<text top="41" left="169" width="49" height="9" font="6"><b>Name)of)Protein)</b></text>
+<text top="41" left="459" width="53" height="9" font="6"><b>Count)of)Pep2des)</b></text>
+<text top="41" left="523" width="67" height="9" font="6"><b>Ra2o)(GR/IgG)Control))</b></text>
+<text top="53" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="53" left="169" width="115" height="9" font="7">Isoform.Beta.of.Glucocor-coid.receptor.</text>
+<text top="53" left="481" width="9" height="9" font="7">99.</text>
+<text top="53" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="65" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="65" left="169" width="94" height="9" font="7">Stress770.protein,.mitochondrial.</text>
+<text top="65" left="481" width="9" height="9" font="7">96.</text>
+<text top="65" left="523" width="39" height="9" font="7">1.103448276.</text>
+<text top="76" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="76" left="169" width="43" height="9" font="7">HSPA5.protein.</text>
+<text top="76" left="481" width="9" height="9" font="7">68.</text>
+<text top="76" left="523" width="39" height="9" font="7">1.114754098.</text>
+<text top="88" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="88" left="169" width="117" height="9" font="7">Isoform.3.of.Ribosome7binding.protein.1.</text>
+<text top="88" left="481" width="9" height="9" font="7">61.</text>
+<text top="88" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="100" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="100" left="169" width="117" height="9" font="7">Isoform.2.of.Ribosome7binding.protein.1.</text>
+<text top="100" left="481" width="9" height="9" font="7">57.</text>
+<text top="100" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="112" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="112" left="169" width="137" height="9" font="7">Isoform.1.of.Heat.shock.cognate.71.kDa.protein.</text>
+<text top="112" left="481" width="9" height="9" font="7">38.</text>
+<text top="112" left="523" width="39" height="9" font="7">1.583333333.</text>
+<text top="124" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="124" left="169" width="130" height="9" font="7">Isoform.2.of.Pericentriolar.material.1.protein.</text>
+<text top="124" left="481" width="9" height="9" font="7">33.</text>
+<text top="124" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="136" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="136" left="169" width="86" height="9" font="7">Scaﬀold.aYachment.factor.B1.</text>
+<text top="136" left="481" width="9" height="9" font="7">22.</text>
+<text top="136" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="148" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="148" left="169" width="115" height="9" font="7">Puta-ve.uncharacterized.protein.SAFB2.</text>
+<text top="148" left="481" width="9" height="9" font="7">21.</text>
+<text top="148" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="160" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="160" left="169" width="145" height="9" font="7">Trifunc-onal.enzyme.subunit.alpha,.mitochondrial.</text>
+<text top="160" left="481" width="9" height="9" font="7">21.</text>
+<text top="160" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="171" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="171" left="169" width="166" height="9" font="7">cDNA.FLJ58049,.highly.similar.to.RNA7binding.protein.FUS.</text>
+<text top="171" left="481" width="9" height="9" font="7">20.</text>
+<text top="171" left="523" width="5" height="9" font="7">2.</text>
+<text top="183" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="183" left="169" width="169" height="9" font="7">Isoform.3.of.Probable.ATP7dependent.RNA.helicase.DDX17.</text>
+<text top="183" left="481" width="9" height="9" font="7">15.</text>
+<text top="183" left="523" width="18" height="9" font="7">1.875.</text>
+<text top="195" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="195" left="169" width="154" height="9" font="7">Calcium7binding.mitochondrial.carrier.protein.Aralar2.</text>
+<text top="195" left="481" width="9" height="9" font="7">14.</text>
+<text top="195" left="523" width="39" height="9" font="7">1.272727273.</text>
+<text top="207" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="207" left="169" width="45" height="9" font="7">HNRPU.protein.</text>
+<text top="207" left="481" width="9" height="9" font="7">13.</text>
+<text top="207" left="523" width="14" height="9" font="7">3.25.</text>
+<text top="219" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="219" left="169" width="203" height="9" font="7">Isoform.1.of.Phosphoenolpyruvate.carboxykinase.[GTP],.mitochondrial.</text>
+<text top="219" left="481" width="9" height="9" font="7">13.</text>
+<text top="219" left="523" width="10" height="9" font="7">2.6.</text>
+<text top="231" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="231" left="169" width="105" height="9" font="7">ATP7dependent.RNA.helicase.DDX3Y.</text>
+<text top="231" left="481" width="9" height="9" font="7">12.</text>
+<text top="231" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="243" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="243" left="169" width="127" height="9" font="7">Isoform.2.of.Cell.cycle.progression.protein.1.</text>
+<text top="243" left="481" width="9" height="9" font="7">12.</text>
+<text top="243" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="255" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="255" left="169" width="165" height="9" font="7">Isoform.2.of.Heterogeneous.nuclear.ribonucleoprotein.M.</text>
+<text top="255" left="481" width="9" height="9" font="7">12.</text>
+<text top="255" left="523" width="10" height="9" font="7">1.5.</text>
+<text top="266" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="266" left="169" width="92" height="9" font="7">Heat.shock.protein.HSP.907beta.</text>
+<text top="266" left="481" width="9" height="9" font="7">11.</text>
+<text top="266" left="523" width="9" height="9" font="7">11.</text>
+<text top="278" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="278" left="169" width="77" height="9" font="7">NOP56.protein.(Fragment).</text>
+<text top="278" left="481" width="9" height="9" font="7">11.</text>
+<text top="278" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="290" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="290" left="169" width="101" height="9" font="7">Isoform.2.of.Protein.LAS1.homolog.</text>
+<text top="290" left="481" width="9" height="9" font="7">10.</text>
+<text top="290" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="302" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="302" left="169" width="127" height="9" font="7">Isoform.2.of.Zinc.ﬁnger.MYM7type.protein.3.</text>
+<text top="302" left="481" width="9" height="9" font="7">10.</text>
+<text top="302" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="314" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="314" left="169" width="128" height="9" font="7">Rhabdomyosarcoma.an-gen.MU7RMS740.12.</text>
+<text top="314" left="481" width="9" height="9" font="7">10.</text>
+<text top="314" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="326" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="326" left="169" width="120" height="9" font="7">Heat.shock.protein.75.kDa,.mitochondrial.</text>
+<text top="326" left="483" width="5" height="9" font="7">9.</text>
+<text top="326" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="338" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="338" left="169" width="45" height="9" font="7">LMNB1.protein.</text>
+<text top="338" left="483" width="5" height="9" font="7">9.</text>
+<text top="338" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="350" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="350" left="169" width="100" height="9" font="7">Long7chain7faYy7acid77CoA.ligase.3.</text>
+<text top="350" left="483" width="5" height="9" font="7">9.</text>
+<text top="350" left="523" width="18" height="9" font="7">1.125.</text>
+<text top="361" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="361" left="169" width="127" height="9" font="7">Zinc.ﬁnger.BED.domain7containing.protein.1.</text>
+<text top="361" left="483" width="5" height="9" font="7">9.</text>
+<text top="361" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="373" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="373" left="169" width="105" height="9" font="7">Isoform.1.of.RNA7binding.protein.14.</text>
+<text top="373" left="483" width="5" height="9" font="7">8.</text>
+<text top="373" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="385" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="385" left="169" width="166" height="9" font="7">Isoform.Short.of.Delta717pyrroline757carboxylate.synthase.</text>
+<text top="385" left="483" width="5" height="9" font="7">8.</text>
+<text top="385" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="397" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="397" left="169" width="160" height="9" font="7">Complement.protein.C4B.frameshif.mutant.(Fragment).</text>
+<text top="397" left="483" width="5" height="9" font="7">7.</text>
+<text top="397" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="409" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="409" left="169" width="38" height="9" font="7">Endoplasmin.</text>
+<text top="409" left="483" width="5" height="9" font="7">6.</text>
+<text top="409" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="421" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="421" left="169" width="96" height="9" font="7">protein.transport.protein.Sec16A.</text>
+<text top="421" left="483" width="5" height="9" font="7">5.</text>
+<text top="421" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="433" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="433" left="169" width="81" height="9" font="7">Isoform.2.of.Serum.albumin.</text>
+<text top="433" left="483" width="5" height="9" font="7">3.</text>
+<text top="433" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="445" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="445" left="169" width="144" height="9" font="7">Isoform.5.of.Interleukin.enhancer7binding.factor.3.</text>
+<text top="445" left="483" width="5" height="9" font="7">3.</text>
+<text top="445" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="456" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="456" left="169" width="88" height="9" font="7">Nuclear.receptor.coac-vator.5.</text>
+<text top="456" left="483" width="5" height="9" font="7">2.</text>
+<text top="456" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="468" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="468" left="169" width="141" height="9" font="7">oxoglutarate.dehydrogenase.isoform.3.precursor.</text>
+<text top="468" left="483" width="5" height="9" font="7">2.</text>
+<text top="468" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="480" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="480" left="169" width="133" height="9" font="7">Isoform.2.of.Telomere7associated.protein.RIF1.</text>
+<text top="480" left="483" width="5" height="9" font="7">1.</text>
+<text top="480" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+<text top="492" left="109" width="32" height="9" font="7">GR.Band.A.</text>
+<text top="492" left="169" width="88" height="9" font="7">PDZ.and.LIM.domain.protein.1.</text>
+<text top="492" left="483" width="5" height="9" font="7">1.</text>
+<text top="492" left="523" width="58" height="9" font="7">NOT.IN.CONTROL.IP.</text>
+</page>
+</pdf2xml>

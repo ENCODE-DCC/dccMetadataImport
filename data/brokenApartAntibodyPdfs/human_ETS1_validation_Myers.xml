@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="169" width="277" height="16" font="0"><b>Transcription factor: ETS1 (GeneID 2113) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="288" height="13" font="1"><b>Transcription factor:</b> ETS1 (GeneID 2113; ~55 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="323" height="13" font="1"><b>Antibody:</b> ETS1 (C-20), Santa Cruz Biotechnology (sc-350) </text>
+<text top="215" left="77" width="418" height="13" font="2">Rabbit polyclonal, epitope mapping at the C-terminus of ETS1 of human origin </text>
+<text top="229" left="77" width="356" height="13" font="2">Web: http://www.scbt.com/datasheet-350-ets-1-c-20-antibody.html </text>
+<text top="243" left="77" width="3" height="13" font="2"> </text>
+<text top="256" left="77" width="3" height="13" font="2"> </text>
+<text top="270" left="77" width="3" height="13" font="2"> </text>
+<text top="284" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="310" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="324" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="338" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="361" left="77" width="3" height="13" font="2"> </text>
+<text top="385" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="638" left="250" width="3" height="13" font="2"> </text>
+<text top="659" left="81" width="422" height="13" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  ETS1  expression  in  KNRK  nuclear </text>
+<text top="673" left="81" width="43" height="13" font="2">extract. </text>
+<text top="697" left="81" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="96" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="120" left="77" width="467" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="134" left="77" width="467" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="148" left="77" width="467" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="161" left="77" width="467" height="13" font="2">with an Invitrogen iBlot system.  Blotting with primary (same as that used for IP) and </text>
+<text top="175" left="77" width="467" height="13" font="2">secondary HRP-conjugated antibodies was performed on an Invitrogen BenchPro 4100 </text>
+<text top="189" left="77" width="467" height="13" font="2">system.  Visualization  was  achieved  using  SuperSignal  West  Femto  solution  (Thermo </text>
+<text top="203" left="77" width="62" height="13" font="2">Scientific).  </text>
+<text top="227" left="77" width="10" height="13" font="2">   </text>
+<text top="564" left="77" width="53" height="13" font="2">                </text>
+<text top="564" left="287" width="3" height="13" font="2"> </text>
+<text top="585" left="122" width="354" height="13" font="1"><b>Figure Legend:</b> ETS1 immunoblot: IP-western with sc-350 ETS1 </text>
+<text top="599" left="122" width="354" height="13" font="2">antibody in whole cell lysate of GM12878. ETS1 band is indicated </text>
+<text top="613" left="122" width="65" height="13" font="2">at ~52 kDa. </text>
+<text top="636" left="77" width="3" height="13" font="2"> </text>
+<text top="660" left="77" width="3" height="13" font="2"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="7" family="Times" color="#000000"/>
+	<fontspec id="4" size="7" family="Times" color="#000000"/>
+<text top="72" left="77" width="282" height="16" font="0"><b>Validation 2: Mass Spectrometry Analysis </b></text>
+<text top="98" left="77" width="467" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="112" left="77" width="467" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="126" left="77" width="467" height="13" font="2">spectrometry  analysis.  Briefly,  GM12878  whole  cell  lysates  were  immunoprecipitated </text>
+<text top="140" left="77" width="467" height="13" font="2">using primary antibody, and the IP fraction was loaded on a 12% acrylamide gel and </text>
+<text top="154" left="77" width="467" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="167" left="77" width="467" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="181" left="77" width="467" height="13" font="2">above in the western blot image at ~52 kDa was excised and sent to the University of </text>
+<text top="195" left="77" width="467" height="13" font="2">Alabama  at  Birmingham  Cancer  Center  Mass  Spectrometry/Proteomics  Shared </text>
+<text top="209" left="77" width="467" height="13" font="2">Facility. There the sample was run on an LTQ XL Linear Ion Trap Mass Spectrometer </text>
+<text top="223" left="77" width="467" height="13" font="2">with  alternating  collision-induced  dissociation  and  electron-transfer  dissociation. </text>
+<text top="236" left="77" width="467" height="13" font="2">Peptides  were  identified  using  MASCOT  (Matrix  Science),  with  probability  based </text>
+<text top="250" left="77" width="467" height="13" font="2">matching  at  p  &lt;  0.05.  Subsequent  analysis  was  performed  in  Scaffold  (Proteome </text>
+<text top="264" left="77" width="467" height="13" font="2">Software,  Inc.)  at  0.0%  protein  FDR  and  1.7%  peptide  FDR.  As  per  ENCODE  data </text>
+<text top="278" left="77" width="467" height="13" font="2">standards, all Scaffold results are listed below, including common contaminants. Target </text>
+<text top="292" left="77" width="467" height="13" font="2">protein  is  highlighted  in  bold  font.  [No  match  for  ETS1  was  found  by  mass  spec </text>
+<text top="305" left="77" width="178" height="13" font="2">analysis in the band at ~80 kDa.] </text>
+<text top="329" left="77" width="3" height="13" font="2"> </text>
+<text top="353" left="77" width="390" height="11" font="3">ATP synthase subunit alpha, mitochondrial n=3 Tax=Homininae RepID=ATPA_HUMAN </text>
+<text top="353" left="486" width="50" height="11" font="3">P25705 13 </text>
+<text top="375" left="77" width="360" height="11" font="3">Tubulin beta-2C chain n=3 Tax=Eutheria RepID=TBB2C_HUMAN  P68371 (+2) </text>
+<text top="375" left="450" width="14" height="11" font="3">13 </text>
+<text top="396" left="77" width="459" height="11" font="3">ATP synthase subunit beta, mitochondrial n=1 Tax=Homo sapiens RepID=ATPB_HUMAN  P06576 12 </text>
+<text top="418" left="77" width="391" height="11" font="3">Aspartyl-tRNA synthetase, cytoplasmic n=4 Tax=Homo sapiens RepID=SYDC_HUMAN </text>
+<text top="418" left="486" width="50" height="11" font="3">P14868 11 </text>
+<text top="439" left="77" width="466" height="11" font="3">cDNA  FLJ32131  fis,  clone  PEBLM2000267,  highly  similar  to  Tubulin  alpha-ubiquitous  chain  n=1 </text>
+<text top="451" left="77" width="206" height="11" font="3">Tax=Homo sapiens RepID=B3KPS3_HUMAN </text>
+<text top="451" left="306" width="80" height="11" font="3">B3KPS3 (+2)  9 </text>
+<text top="472" left="77" width="283" height="11" font="3">Alpha-enolase n=1 Tax=Homo sapiens RepID=ENOA_HUMAN </text>
+<text top="472" left="378" width="44" height="11" font="3">P06733 9 </text>
+<text top="494" left="77" width="463" height="11" font="3">cDNA FLJ52842, highly similar to Actin, cytoplasmic 1 n=1 Tax=Homo sapiens RepID=B4E335_HUMAN</text>
+<text top="505" left="77" width="73" height="11" font="3">  B4E335 (+7) </text>
+<text top="505" left="162" width="8" height="11" font="3">5 </text>
+<text top="526" left="77" width="466" height="11" font="3">Heterogeneous  nuclear  ribonucleoprotein  H,  N-terminally  processed  n=2  Tax=Homo  sapiens </text>
+<text top="538" left="77" width="180" height="11" font="3">RepID=HNRH1_HUMAN  P31943 (+1) </text>
+<text top="538" left="270" width="8" height="11" font="3">4 </text>
+<text top="559" left="77" width="466" height="11" font="3">cDNA FLJ16143 fis, clone BRAMY2038516, highly similar to Protein disulfide-isomerase A6 (EC 5.3.4.1) </text>
+<text top="571" left="77" width="290" height="11" font="3">n=1 Tax=Homo sapiens RepID=B3KY95_HUMAN  B3KY95 (+4) </text>
+<text top="571" left="378" width="8" height="11" font="3">3 </text>
+<text top="592" left="77" width="30" height="11" font="4"><b>cDNA </b></text>
+<text top="592" left="120" width="51" height="11" font="4"><b>FLJ59231, </b></text>
+<text top="592" left="184" width="32" height="11" font="4"><b>highly </b></text>
+<text top="592" left="229" width="35" height="11" font="4"><b>similar </b></text>
+<text top="592" left="277" width="12" height="11" font="4"><b>to </b></text>
+<text top="592" left="303" width="37" height="11" font="4"><b>C-ets-1 </b></text>
+<text top="592" left="352" width="37" height="11" font="4"><b>protein </b></text>
+<text top="592" left="402" width="20" height="11" font="4"><b>n=1 </b></text>
+<text top="592" left="435" width="54" height="11" font="4"><b>Tax=Homo </b></text>
+<text top="592" left="503" width="40" height="11" font="4"><b>sapiens </b></text>
+<text top="604" left="77" width="202" height="11" font="4"><b>RepID=B4DW78_HUMAN B4DW78 (+2)  3 </b></text>
+<text top="625" left="77" width="276" height="11" font="3">Tubulin beta chain n=12 Tax=Amniota RepID=TBB5_HUMAN </text>
+<text top="625" left="378" width="44" height="11" font="3">P07437 3 </text>
+</page>
+</pdf2xml>

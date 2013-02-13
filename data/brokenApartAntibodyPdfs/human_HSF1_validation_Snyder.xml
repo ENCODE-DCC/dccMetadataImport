@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="186" height="12" font="1">http://www.scbt.com/datasheet-17756-hsf1-</text>
+<text top="613" left="238" width="75" height="12" font="1">c-5-antibody.html</text>
+<text top="78" left="138" width="38" height="12" font="1">10/20/11</text>
+<text top="340" left="95" width="157" height="12" font="1">mouse monoclonal IgG2b; 200 µg/ml </text>
+<text top="352" left="95" width="391" height="12" font="1">raised against amino acids 219-529 of heat shock transcription factor 1 (HSF1) of human origin</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="126" height="12" font="1">HSF1 (C-5) Antibody: sc-17756</text>
+<text top="214" left="339" width="111" height="12" font="1">HSF1 (EntrezGene ID 3297)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="484" left="361" width="28" height="12" font="1">Mouse</text>
+<text top="300" left="395" width="25" height="12" font="1">E1905</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-17756</text>
+<text top="520" left="395" width="73" height="12" font="2">Motif Enrichment</text>
+<text top="561" left="141" width="30" height="12" font="2">Affinity</text>
+<text top="561" left="356" width="50" height="12" font="2">Monoclonal</text>
+<text top="412" left="95" width="434" height="12" font="1">The product of this gene is a heat-shock transcription factor. Transcription of heat-shock genes is rapidly </text>
+<text top="424" left="95" width="436" height="12" font="1">induced after temperature stress. Hsp90, by itself and/or associated with multichaperone complexes, is a </text>
+<text top="436" left="95" width="208" height="12" font="1">major repressor of this gene. (provided by RefSeq)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="430" height="12" font="1">Comment:  In Western blotting experiments, we observe a single primary band of ~70kD in HepG2 cells </text>
+<text top="55" left="125" width="381" height="12" font="1">stimulated with forskolin, similar to the predicted size of 70kD and consistent with previous </text>
+<text top="67" left="125" width="385" height="12" font="1">observations (see product literature).  In panel B, we demonstrate that this band is efficiently </text>
+<text top="79" left="125" width="424" height="12" font="1">immunoprecipitated for forskolin-stimulated HepG2 cells (indicated by arrow), while additional bands </text>
+<text top="91" left="125" width="428" height="12" font="1">present at lower levels are not immunoprecipitated. Therefore, this antibody meets ENCODE standards </text>
+<text top="103" left="125" width="131" height="12" font="1">for validation by this criterion.   </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+	<fontspec id="4" size="22" family="Times" color="#000000"/>
+	<fontspec id="5" size="8" family="Times" color="#000000"/>
+<text top="86" left="212" width="426" height="16" font="3"><b>Antibody: HSF1      Source: Santa Cruz Biotechnology sc-17756 </b></text>
+<text top="117" left="266" width="335" height="16" font="3"><b>Validation 1: Immunoblotting/Immunoprecipitation</b></text>
+<text top="108" left="601" width="7" height="27" font="4"> </text>
+<text top="291" left="538" width="8" height="11" font="5"><b>3 </b></text>
+<text top="291" left="463" width="29" height="11" font="5"><b>Lane: </b></text>
+<text top="179" left="460" width="42" height="11" font="1">MW (kD) </text>
+<text top="209" left="472" width="19" height="11" font="1">100 </text>
+<text top="221" left="474" width="14" height="11" font="1">75 </text>
+<text top="238" left="474" width="14" height="11" font="1">50 </text>
+<text top="250" left="474" width="14" height="11" font="1">38 </text>
+<text top="196" left="472" width="19" height="11" font="1">150 </text>
+<text top="261" left="474" width="14" height="11" font="1">25 </text>
+<text top="291" left="500" width="25" height="11" font="5"><b>1  2 </b></text>
+<text top="291" left="565" width="8" height="11" font="5"><b>4 </b></text>
+<text top="181" left="416" width="29" height="27" font="4">B. </text>
+<text top="327" left="71" width="581" height="11" font="5"><b>A.</b>  Western blot using sc-17756.Both shown lanes contain nuclear lysates from HepG2 cells stimulated with forskolin. (Lane 1), <b>B.  </b></text>
+<text top="339" left="71" width="644" height="11" font="1">Immunoprecipitation of HSF1 from forskolin-stimulated HepG2 cells using sc-17756.  Lane 1: input nuclear lysate, Lane 2: unbound material from </text>
+<text top="351" left="71" width="645" height="11" font="1">immunoprecipitation with sc-17756, Lane3: material immunoprecipitated with sc-17756, Lane 3: material immunoprecipitated using control IgG.     </text>
+<text top="181" left="214" width="29" height="27" font="4">A. </text>
+<text top="179" left="276" width="42" height="11" font="1">MW (kD) </text>
+<text top="213" left="288" width="19" height="11" font="1">100 </text>
+<text top="227" left="290" width="14" height="11" font="1">75 </text>
+<text top="248" left="290" width="14" height="11" font="1">50 </text>
+<text top="262" left="290" width="14" height="11" font="1">38 </text>
+<text top="195" left="288" width="19" height="11" font="1">150 </text>
+<text top="280" left="290" width="14" height="11" font="1">25 </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="386" height="12" font="1">Calculations were done by Pouya Kheradpour using a collection of known motifs available at </text>
+<text top="55" left="130" width="422" height="12" font="1">http://www.broadinstitute.org/%7Epouyak/motif-disc/human/.   Table 1 shows the fold-enrichments, </text>
+<text top="67" left="130" width="411" height="12" font="1">enrichment p-values and fraction of peaks which contain the motif.  The motif which produced the </text>
+<text top="79" left="130" width="404" height="12" font="1">largest value for each criterion is shown in Table 1.  Note that while the maximally enriched motif </text>
+<text top="91" left="130" width="402" height="12" font="1">differs from the motif with the highest enrichment p-values and the most represented motif, the </text>
+<text top="103" left="130" width="341" height="12" font="1">motifs are highly similar (Figure 1) and thus all values are similar between motifs.   </text>
+<text top="115" left="130" width="2" height="12" font="1"> </text>
+<text top="127" left="130" width="418" height="12" font="1">Motifs were identified using a matching stringency corresponding to 4-6 (6-mer). Peaks identified by </text>
+<text top="139" left="130" width="375" height="12" font="1">IDR (1% cutoff) were used in the analysis and +/-50bp from peak centers were considered. </text>
+<text top="152" left="130" width="400" height="12" font="1">Enrichments are for a given motif vs. a background consisting of +/- 50bp from the centers of all </text>
+<text top="164" left="130" width="398" height="12" font="1">DnaseI hypersensitive peaks.  Repeat mask/simple repeats from UCSC and all gencode v7 exons </text>
+<text top="176" left="130" width="421" height="12" font="1">(including non-protein coding genes) were excluded from the analysis.  Comparison to shuffle motifs </text>
+<text top="188" left="130" width="380" height="12" font="1">were used to correct for compositional bias.  Enrichment is the corrected # of motifs in ChIP </text>
+<text top="200" left="130" width="186" height="12" font="1">peaks/corrected # of motifs in DNaseI peaks. </text>
+<text top="212" left="130" width="2" height="12" font="1"> </text>
+<text top="224" left="130" width="408" height="12" font="1">The current ENCODE standard calls for &gt;4-fold enrichment and &gt;10% motif representation for this </text>
+<text top="236" left="130" width="419" height="12" font="1">criteria to be used for validation.  The HSF1 dataset presented here exceeds these thresholds and the </text>
+<text top="248" left="130" width="140" height="12" font="1">antibody is considered validated. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="14" family="Times" color="#000000"/>
+	<fontspec id="9" size="14" family="Times" color="#000000"/>
+<text top="224" left="141" width="484" height="15" font="6"><b>Figure 2.  </b>Mo#f consensus sequences and posi#on weight matrices for highly enriched HSF1 mo#f.  </text>
+<text top="220" left="624" width="4" height="20" font="8"> </text>
+<text top="108" left="145" width="43" height="12" font="1">Cell Line</text>
+<text top="108" left="230" width="120" height="12" font="1">Motif Enrichment (log2)</text>
+<text top="102" left="384" width="160" height="12" font="1">Enrichment p-value                 </text>
+<text top="115" left="412" width="42" height="12" font="1">(-log10)</text>
+<text top="102" left="507" width="146" height="12" font="1">Fraction of peaks containing </text>
+<text top="115" left="565" width="26" height="12" font="1">motif</text>
+<text top="128" left="121" width="90" height="12" font="1">HepG2 (forskolin)</text>
+<text top="128" left="230" width="121" height="12" font="1">2.65737  (Hsf_known3)</text>
+<text top="128" left="373" width="121" height="12" font="1">55.9022  (Hsf_known2)</text>
+<text top="128" left="514" width="127" height="12" font="1">0.160602  (Hsf_known2)</text>
+<text top="63" left="314" width="165" height="15" font="6"><b>Table 1.  </b>HSF1 mo#f enrichment.  </text>
+<text top="59" left="479" width="4" height="20" font="8"> </text>
+<text top="262" left="159" width="98" height="20" font="9"><b>HSF1_known2 </b></text>
+<text top="362" left="70" width="40" height="12" font="5"><b>Posi8on/ </b></text>
+<text top="374" left="67" width="46" height="12" font="5"><b>Consensus </b></text>
+<text top="364" left="157" width="12" height="17" font="3"><b>A </b></text>
+<text top="364" left="203" width="11" height="17" font="3"><b>C </b></text>
+<text top="364" left="250" width="12" height="17" font="3"><b>G </b></text>
+<text top="364" left="297" width="10" height="17" font="3"><b>T </b></text>
+<text top="362" left="421" width="40" height="12" font="5"><b>Posi8on/ </b></text>
+<text top="374" left="418" width="46" height="12" font="5"><b>Consensus </b></text>
+<text top="364" left="508" width="12" height="17" font="3"><b>A </b></text>
+<text top="364" left="554" width="11" height="17" font="3"><b>C </b></text>
+<text top="364" left="601" width="12" height="17" font="3"><b>G </b></text>
+<text top="364" left="648" width="10" height="17" font="3"><b>T </b></text>
+<text top="262" left="523" width="98" height="20" font="9"><b>HSF1_known3 </b></text>
+<text top="351" left="128" width="189" height="9" font="2">&gt;Hsf_known2  HSF_transfac_M00641 -</text>
+<text top="361" left="128" width="5" height="9" font="2"></text>
+<text top="372" left="128" width="5" height="9" font="2"></text>
+<text top="383" left="128" width="205" height="9" font="2">G 0.000000 0.000000 1.000000 0.000000</text>
+<text top="394" left="128" width="205" height="9" font="2">A 1.000000 0.000000 0.000000 0.000000</text>
+<text top="404" left="128" width="205" height="9" font="2">A 1.000000 0.000000 0.000000 0.000000</text>
+<text top="415" left="128" width="205" height="9" font="2">R 0.600000 0.000000 0.400000 0.000000</text>
+<text top="426" left="128" width="205" height="9" font="2">C 0.000000 1.000000 0.000000 0.000000</text>
+<text top="437" left="128" width="205" height="9" font="2">Y 0.000000 0.600000 0.000000 0.400000</text>
+<text top="448" left="128" width="205" height="9" font="2">B 0.000000 0.200000 0.200000 0.600000</text>
+<text top="459" left="128" width="205" height="9" font="2">C 0.000000 1.000000 0.000000 0.000000</text>
+<text top="469" left="128" width="205" height="9" font="2">K 0.000000 0.000000 0.400000 0.600000</text>
+<text top="480" left="128" width="205" height="9" font="2">V 0.200000 0.200000 0.600000 0.000000</text>
+<text top="491" left="128" width="205" height="9" font="2">G 0.000000 0.000000 1.000000 0.000000</text>
+<text top="502" left="128" width="205" height="9" font="2">A 1.000000 0.000000 0.000000 0.000000</text>
+<text top="513" left="128" width="205" height="9" font="2">A 1.000000 0.000000 0.000000 0.000000</text>
+<text top="355" left="487" width="189" height="9" font="2">&gt;Hsf_known3 HSF1_transfac_M00146 +</text>
+<text top="365" left="487" width="5" height="9" font="2"></text>
+<text top="376" left="487" width="5" height="9" font="2"></text>
+<text top="387" left="487" width="205" height="9" font="2">R 0.533333 0.088889 0.266667 0.111111</text>
+<text top="398" left="487" width="205" height="9" font="2">G 0.000000 0.000000 1.000000 0.000000</text>
+<text top="408" left="487" width="205" height="9" font="2">A 0.844445 0.022222 0.044444 0.088889</text>
+<text top="419" left="487" width="205" height="9" font="2">A 0.800001 0.022222 0.044444 0.133333</text>
+<text top="430" left="487" width="205" height="9" font="2">B 0.155556 0.311111 0.200000 0.333333</text>
+<text top="441" left="487" width="205" height="9" font="2">D 0.295455 0.045455 0.477273 0.181818</text>
+<text top="452" left="487" width="205" height="9" font="2">T 0.133333 0.088889 0.133333 0.644445</text>
+<text top="463" left="487" width="205" height="9" font="2">T 0.111111 0.088889 0.111111 0.688889</text>
+<text top="473" left="487" width="205" height="9" font="2">C 0.000000 1.000000 0.000000 0.000000</text>
+<text top="484" left="487" width="205" height="9" font="2">K 0.133333 0.155556 0.466667 0.244444</text>
+</page>
+</pdf2xml>

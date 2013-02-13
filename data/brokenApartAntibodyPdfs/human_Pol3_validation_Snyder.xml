@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="189" height="12" font="1">lhttp://www.scbt.com/datasheet-21754-pol-ii</text>
+<text top="613" left="238" width="117" height="12" font="1">i-rpc32-c32-1-antibody.html</text>
+<text top="77" left="138" width="27" height="12" font="1">1/4/12</text>
+<text top="340" left="95" width="151" height="12" font="1">mouse monoclonal IgG1; 200 µg/ml </text>
+<text top="352" left="95" width="301" height="12" font="1">raised against recombinant human RPC32 subunit of RNA polymerase III </text>
+<text top="364" left="95" width="415" height="12" font="1">recommended for detection of RPC32 subunit of RNA polymerase III of mouse, rat and human origin</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="166" height="12" font="1">Pol III RPC32 (C32-1) Antibody: sc-21754</text>
+<text top="214" left="339" width="161" height="12" font="1"> POLR3G/RPC32 (EntrezGene ID 10622)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="484" left="361" width="28" height="12" font="1">Mouse</text>
+<text top="300" left="395" width="27" height="12" font="1">D4104</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-21754</text>
+<text top="520" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="141" width="109" height="12" font="2">Other Purification Method</text>
+<text top="561" left="356" width="50" height="12" font="2">Monoclonal</text>
+<text top="412" left="95" width="426" height="12" font="1">Function: DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four </text>
+<text top="424" left="95" width="430" height="12" font="1">ribonucleoside triphosphates as substrates. Specific peripheric component of RNA polymerase III which </text>
+<text top="436" left="95" width="375" height="12" font="1">synthesizes small RNAs, such as 5S rRNA and tRNAs. May direct with other members of the </text>
+<text top="448" left="95" width="442" height="12" font="1">RPC3/POLR3C-RPC6/POLR3F-RPC7/POLR3G subcomplex RNA Pol III binding to the TFIIIB-DNA complex via </text>
+<text top="460" left="95" width="309" height="12" font="1">the interactions between TFIIIB and POLR3F. May be involved either in the </text>
+<text top="472" left="95" width="420" height="12" font="1">recruitment and stabilization of the subcomplex within RNA polymerase III, or in stimulating catalytic </text>
+<text top="484" left="95" width="451" height="12" font="1">functions of other subunits during initiation. Plays a key role in sensing and limiting infection by intracellular </text>
+<text top="496" left="95" width="436" height="12" font="1">bacteria and DNA viruses. Acts as nuclear and cytosolic DNA sensor involved in innate immune response. </text>
+<text top="508" left="95" width="403" height="12" font="1">Can sense non-self dsDNA that serves as template for transcription into dsRNA. The non-self RNA </text>
+<text top="521" left="95" width="447" height="12" font="1">polymerase III transcripts, such as Epstein-Barr virus-encoded RNAs (EBERs) induce type I interferon and NF- </text>
+<text top="533" left="95" width="147" height="12" font="1">Kappa-B through the RIG-I pathway</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="414" height="12" font="1">Comment: A single immunoreactive band consistent with the expected size of PolIII/RPC32 (~26kD, </text>
+<text top="55" left="125" width="430" height="12" font="1">note that the IgG  band in the figure marks ~55kD) is specifically immunoprecipitated by sc-21754 from </text>
+<text top="67" left="125" width="400" height="12" font="1">K562 cells.  Mass spectrometry confirms the presence of RPC32 in this immunoprecipitation (see </text>
+<text top="79" left="125" width="236" height="12" font="1">validation 2).  Thus, sc-21754 is validated by this criteria.  </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="10" family="Times" color="#000000"/>
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+	<fontspec id="5" size="5" family="Times" color="#000000"/>
+	<fontspec id="6" size="22" family="Times" color="#000000"/>
+<text top="384" left="208" width="445" height="12" font="3"><b>Fig. S1.</b> Validation of Pol III antibody by IP/Western blot. Nuclear proteins extracted </text>
+<text top="398" left="208" width="460" height="12" font="4">from K562 cells were immunoprecipitated by using either anti-Pol III antibody sc21754  </text>
+<text top="412" left="208" width="458" height="12" font="4">or normal IgG. Immunoprecipitated proteins were separated by SDS/PAGE and Pol III </text>
+<text top="427" left="208" width="201" height="12" font="4">protein was detected by Western blot.</text>
+<text top="431" left="409" width="2" height="7" font="5"></text>
+<text top="60" left="203" width="471" height="27" font="6">Antibody sc-21754 (PolIII/POLR3G/RPC32) </text>
+<text top="88" left="330" width="216" height="27" font="6">Immunoprecipitation </text>
+<text top="117" left="432" width="7" height="27" font="6"> </text>
+<text top="461" left="226" width="417" height="13" font="4">Taken from Raha et.al, Proc Natl Acad Sci U S A. 2010 Feb 23;107(8):3639-44</text>
+<text top="450" left="643" width="7" height="27" font="6"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="2" height="12" font="1"> </text>
+<text top="55" left="130" width="425" height="12" font="1">Comment:  For the mass spectrometry experiments, the immunoprecipitated (using sc21754) samples </text>
+<text top="67" left="130" width="404" height="12" font="1">from two separate experiments were fractionated in a 4–15% polyacrylamide gels along with IgG </text>
+<text top="79" left="130" width="400" height="12" font="1">control samples. Tryptic peptides were extracted from 12 to 15 gel pieces from each sample and </text>
+<text top="91" left="130" width="424" height="12" font="1">analyzed by using an Orbitrap mass spectrometer. The shared subunits of polymerases were detected </text>
+<text top="103" left="130" width="411" height="12" font="1">by both anti-polymerase antibodies; however, multiple subunits specific for each polymerase were </text>
+<text top="115" left="130" width="425" height="12" font="1">detected only in the IP product of that polymerase.  Based on the abundance of RPC32/POLR3G in this </text>
+<text top="127" left="130" width="399" height="12" font="1">immunoprecipitation (highlighted in green) and the observation that other proteins specifically </text>
+<text top="139" left="130" width="385" height="12" font="1">immunoprecipitated by sc21754 are part of the known PolIII complex, sc21754 is considered </text>
+<text top="152" left="130" width="43" height="12" font="1">validated. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="7" size="7" family="Times" color="#000000"/>
+	<fontspec id="8" size="18" family="Times" color="#000000"/>
+<text top="98" left="118" width="54" height="12" font="4">T abl e S ! </text>
+<text top="110" left="118" width="2" height="9" font="2"> </text>
+<text top="120" left="192" width="63" height="10" font="7"><b>Protein  name </b></text>
+<text top="120" left="332" width="51" height="10" font="7"><b>Accession  </b></text>
+<text top="121" left="500" width="65" height="10" font="7"><b>Peptide Count </b></text>
+<text top="132" left="220" width="5" height="10" font="7"><b>  </b></text>
+<text top="132" left="336" width="43" height="10" font="7"><b>numbers </b></text>
+<text top="132" left="394" width="86" height="10" font="7"><b>IP with normal IgG  </b></text>
+<text top="132" left="494" width="79" height="10" font="7"><b>IP with anti-Pol  II </b></text>
+<text top="132" left="589" width="81" height="10" font="7"><b>IP with anti-Pol  III </b></text>
+<text top="154" left="122" width="5" height="10" font="7"><b>  </b></text>
+<text top="154" left="329" width="5" height="10" font="7"><b>  </b></text>
+<text top="143" left="391" width="40" height="10" font="7"><b>replicate </b></text>
+<text top="154" left="408" width="8" height="10" font="7"><b>1 </b></text>
+<text top="143" left="440" width="40" height="10" font="7"><b>replicate </b></text>
+<text top="154" left="456" width="8" height="10" font="7"><b>2 </b></text>
+<text top="143" left="488" width="40" height="10" font="7"><b>replicate </b></text>
+<text top="154" left="504" width="8" height="10" font="7"><b>1 </b></text>
+<text top="143" left="536" width="40" height="10" font="7"><b>replicate </b></text>
+<text top="154" left="552" width="8" height="10" font="7"><b>2 </b></text>
+<text top="143" left="584" width="40" height="10" font="7"><b>replicate </b></text>
+<text top="154" left="600" width="8" height="10" font="7"><b>1 </b></text>
+<text top="143" left="632" width="40" height="10" font="7"><b>replicate </b></text>
+<text top="154" left="648" width="8" height="10" font="7"><b>2 </b></text>
+<text top="165" left="122" width="33" height="10" font="2">ALMS1 </text>
+<text top="165" left="329" width="57" height="10" font="2">IPI00178743 </text>
+<text top="165" left="408" width="8" height="10" font="2">0 </text>
+<text top="165" left="456" width="8" height="10" font="2">0 </text>
+<text top="165" left="504" width="8" height="10" font="2">5 </text>
+<text top="165" left="552" width="8" height="10" font="2">4 </text>
+<text top="165" left="600" width="8" height="10" font="2">0 </text>
+<text top="165" left="648" width="8" height="10" font="2">0 </text>
+<text top="177" left="122" width="165" height="10" font="2">ATP-binding domain 1 family member C </text>
+<text top="177" left="329" width="57" height="10" font="2">IPI00470580 </text>
+<text top="177" left="408" width="8" height="10" font="2">0 </text>
+<text top="177" left="456" width="8" height="10" font="2">0 </text>
+<text top="177" left="504" width="8" height="10" font="2">3 </text>
+<text top="177" left="552" width="8" height="10" font="2">0 </text>
+<text top="177" left="600" width="8" height="10" font="2">0 </text>
+<text top="177" left="648" width="8" height="10" font="2">0 </text>
+<text top="189" left="122" width="136" height="10" font="2">Hypothetical protein LOC158293 </text>
+<text top="189" left="329" width="57" height="10" font="2">IPI00747666 </text>
+<text top="189" left="408" width="8" height="10" font="2">0 </text>
+<text top="189" left="456" width="8" height="10" font="2">0 </text>
+<text top="189" left="504" width="8" height="10" font="2">2 </text>
+<text top="189" left="552" width="8" height="10" font="2">0 </text>
+<text top="189" left="600" width="8" height="10" font="2">0 </text>
+<text top="189" left="648" width="8" height="10" font="2">0 </text>
+<text top="201" left="122" width="92" height="10" font="2">GRINL1A(Isoform 12) </text>
+<text top="201" left="329" width="57" height="10" font="2">IPI00552141 </text>
+<text top="201" left="408" width="8" height="10" font="2">2 </text>
+<text top="201" left="456" width="8" height="10" font="2">0 </text>
+<text top="201" left="501" width="13" height="10" font="2">18 </text>
+<text top="201" left="550" width="13" height="10" font="2">10 </text>
+<text top="201" left="600" width="8" height="10" font="2">0 </text>
+<text top="201" left="648" width="8" height="10" font="2">0 </text>
+<text top="213" left="122" width="171" height="10" font="2">LIM domain-binding protein 1 (Isoform  3) </text>
+<text top="213" left="329" width="57" height="10" font="2">IPI00428954 </text>
+<text top="213" left="408" width="8" height="10" font="2">0 </text>
+<text top="213" left="456" width="8" height="10" font="2">0 </text>
+<text top="213" left="504" width="8" height="10" font="2">7 </text>
+<text top="213" left="552" width="8" height="10" font="2">2 </text>
+<text top="213" left="600" width="8" height="10" font="2">0 </text>
+<text top="213" left="648" width="8" height="10" font="2">0 </text>
+<text top="225" left="122" width="137" height="10" font="2">L-lactate dehydrogenase A chain </text>
+<text top="225" left="329" width="57" height="10" font="2">IPI00217966 </text>
+<text top="225" left="408" width="8" height="10" font="2">2 </text>
+<text top="225" left="456" width="8" height="10" font="2">0 </text>
+<text top="225" left="504" width="8" height="10" font="2">0 </text>
+<text top="225" left="552" width="8" height="10" font="2">0 </text>
+<text top="225" left="600" width="8" height="10" font="2">4 </text>
+<text top="225" left="648" width="8" height="10" font="2">2 </text>
+<text top="236" left="122" width="178" height="10" font="2">POLR1C, RNA pol I and III subunit RPAC1 </text>
+<text top="236" left="329" width="57" height="10" font="2">IPI00005179 </text>
+<text top="236" left="408" width="8" height="10" font="2">0 </text>
+<text top="236" left="456" width="8" height="10" font="2">0 </text>
+<text top="236" left="504" width="8" height="10" font="2">0 </text>
+<text top="236" left="552" width="8" height="10" font="2">0 </text>
+<text top="236" left="598" width="13" height="10" font="2">18 </text>
+<text top="236" left="646" width="13" height="10" font="2">17 </text>
+<text top="248" left="122" width="178" height="10" font="2">POLR1D, RNA pol I and III subunit RPAC2 </text>
+<text top="248" left="329" width="57" height="10" font="2">IPI00032439 </text>
+<text top="248" left="408" width="8" height="10" font="2">0 </text>
+<text top="248" left="456" width="8" height="10" font="2">0 </text>
+<text top="248" left="504" width="8" height="10" font="2">0 </text>
+<text top="248" left="552" width="8" height="10" font="2">0 </text>
+<text top="248" left="600" width="8" height="10" font="2">4 </text>
+<text top="248" left="648" width="8" height="10" font="2">4 </text>
+<text top="260" left="122" width="143" height="10" font="2">POLR2A RNA pol II subunit RPB1 </text>
+<text top="260" left="329" width="57" height="10" font="2">IPI00031627 </text>
+<text top="260" left="408" width="8" height="10" font="2">3 </text>
+<text top="260" left="456" width="8" height="10" font="2">0 </text>
+<text top="260" left="499" width="19" height="10" font="2">334 </text>
+<text top="260" left="547" width="19" height="10" font="2">363 </text>
+<text top="260" left="600" width="8" height="10" font="2">0 </text>
+<text top="260" left="648" width="8" height="10" font="2">0 </text>
+<text top="272" left="122" width="143" height="10" font="2">POLR2B RNA pol II subunit RPB2 </text>
+<text top="272" left="329" width="57" height="10" font="2">IPI00027808 </text>
+<text top="272" left="408" width="8" height="10" font="2">2 </text>
+<text top="272" left="456" width="8" height="10" font="2">0 </text>
+<text top="272" left="499" width="19" height="10" font="2">175 </text>
+<text top="272" left="547" width="19" height="10" font="2">188 </text>
+<text top="272" left="600" width="8" height="10" font="2">0 </text>
+<text top="272" left="648" width="8" height="10" font="2">0 </text>
+<text top="284" left="122" width="146" height="10" font="2">POLR2C, RNA pol II subunit RPB3 </text>
+<text top="284" left="329" width="57" height="10" font="2">IPI00018288 </text>
+<text top="284" left="408" width="8" height="10" font="2">0 </text>
+<text top="284" left="456" width="8" height="10" font="2">0 </text>
+<text top="284" left="501" width="13" height="10" font="2">49 </text>
+<text top="284" left="550" width="13" height="10" font="2">15 </text>
+<text top="284" left="600" width="8" height="10" font="2">0 </text>
+<text top="284" left="648" width="8" height="10" font="2">0 </text>
+<text top="296" left="122" width="146" height="10" font="2">POLR2D, RNA pol II subunit RPB4 </text>
+<text top="296" left="329" width="57" height="10" font="2">IPI00007283 </text>
+<text top="296" left="408" width="8" height="10" font="2">0 </text>
+<text top="296" left="456" width="8" height="10" font="2">0 </text>
+<text top="296" left="501" width="13" height="10" font="2">23 </text>
+<text top="296" left="550" width="13" height="10" font="2">17 </text>
+<text top="296" left="600" width="8" height="10" font="2">2 </text>
+<text top="296" left="648" width="8" height="10" font="2">1 </text>
+<text top="307" left="122" width="175" height="10" font="2">POLR2E, pol I, II, and III subunit RPABC1 </text>
+<text top="307" left="329" width="57" height="10" font="2">IPI00291093 </text>
+<text top="307" left="408" width="8" height="10" font="2">1 </text>
+<text top="307" left="456" width="8" height="10" font="2">0 </text>
+<text top="307" left="501" width="13" height="10" font="2">14 </text>
+<text top="307" left="550" width="13" height="10" font="2">15 </text>
+<text top="307" left="600" width="8" height="10" font="2">3 </text>
+<text top="307" left="648" width="8" height="10" font="2">3 </text>
+<text top="319" left="122" width="148" height="10" font="2">POLR2G, RNA pol II subunit  RPB7 </text>
+<text top="319" left="329" width="57" height="10" font="2">IPI00218895 </text>
+<text top="319" left="408" width="8" height="10" font="2">0 </text>
+<text top="319" left="456" width="8" height="10" font="2">0 </text>
+<text top="319" left="501" width="13" height="10" font="2">32 </text>
+<text top="319" left="550" width="13" height="10" font="2">26 </text>
+<text top="319" left="600" width="8" height="10" font="2">0 </text>
+<text top="319" left="648" width="8" height="10" font="2">0 </text>
+<text top="331" left="122" width="196" height="10" font="2">POLR2H RNA Pol I, II, and III subunit RPABC3 </text>
+<text top="331" left="329" width="57" height="10" font="2">IPI00003309 </text>
+<text top="331" left="408" width="8" height="10" font="2">0 </text>
+<text top="331" left="456" width="8" height="10" font="2">0 </text>
+<text top="331" left="501" width="13" height="10" font="2">37 </text>
+<text top="331" left="550" width="13" height="10" font="2">42 </text>
+<text top="331" left="598" width="13" height="10" font="2">11 </text>
+<text top="331" left="646" width="13" height="10" font="2">19 </text>
+<text top="343" left="122" width="140" height="10" font="2">POLR2I RNA Pol II subunit RPB9 </text>
+<text top="343" left="329" width="57" height="10" font="2">IPI00006113 </text>
+<text top="343" left="408" width="8" height="10" font="2">0 </text>
+<text top="343" left="456" width="8" height="10" font="2">0 </text>
+<text top="343" left="501" width="13" height="10" font="2">13 </text>
+<text top="343" left="550" width="13" height="10" font="2">18 </text>
+<text top="343" left="600" width="8" height="10" font="2">0 </text>
+<text top="343" left="648" width="8" height="10" font="2">0 </text>
+<text top="355" left="122" width="156" height="10" font="2">POLR2J RNA Pol II subunit RPB11-a </text>
+<text top="355" left="329" width="57" height="10" font="2">IPI00740443 </text>
+<text top="355" left="408" width="8" height="10" font="2">0 </text>
+<text top="355" left="456" width="8" height="10" font="2">0 </text>
+<text top="355" left="501" width="13" height="10" font="2">14 </text>
+<text top="355" left="550" width="13" height="10" font="2">17 </text>
+<text top="355" left="600" width="8" height="10" font="2">0 </text>
+<text top="355" left="648" width="8" height="10" font="2">0 </text>
+<text top="367" left="122" width="193" height="10" font="2">POLR2L RNA Pol I, II, and III subunit RPABC5 </text>
+<text top="367" left="329" width="57" height="10" font="2">IPI00003311 </text>
+<text top="367" left="408" width="8" height="10" font="2">0 </text>
+<text top="367" left="456" width="8" height="10" font="2">0 </text>
+<text top="367" left="504" width="8" height="10" font="2">5 </text>
+<text top="367" left="552" width="8" height="10" font="2">5 </text>
+<text top="367" left="600" width="8" height="10" font="2">0 </text>
+<text top="367" left="648" width="8" height="10" font="2">0 </text>
+<text top="378" left="122" width="147" height="10" font="2">POLR3A RNA Pol III subunit RPC1 </text>
+<text top="378" left="329" width="57" height="10" font="2">IPI00024163 </text>
+<text top="378" left="408" width="8" height="10" font="2">0 </text>
+<text top="378" left="456" width="8" height="10" font="2">0 </text>
+<text top="378" left="504" width="8" height="10" font="2">0 </text>
+<text top="378" left="552" width="8" height="10" font="2">0 </text>
+<text top="378" left="598" width="13" height="10" font="2">84 </text>
+<text top="378" left="646" width="13" height="10" font="2">89 </text>
+<text top="390" left="122" width="147" height="10" font="2">POLR3B RNA Pol III subunit RPC2 </text>
+<text top="390" left="329" width="57" height="10" font="2">IPI00301346 </text>
+<text top="390" left="408" width="8" height="10" font="2">0 </text>
+<text top="390" left="456" width="8" height="10" font="2">0 </text>
+<text top="390" left="504" width="8" height="10" font="2">0 </text>
+<text top="390" left="552" width="8" height="10" font="2">0 </text>
+<text top="390" left="598" width="13" height="10" font="2">31 </text>
+<text top="390" left="646" width="13" height="10" font="2">32 </text>
+<text top="402" left="122" width="148" height="10" font="2">POLR3C RNA Pol III subunit RPC3 </text>
+<text top="402" left="329" width="57" height="10" font="2">IPI00007948 </text>
+<text top="402" left="408" width="8" height="10" font="2">0 </text>
+<text top="402" left="456" width="8" height="10" font="2">0 </text>
+<text top="402" left="504" width="8" height="10" font="2">0 </text>
+<text top="402" left="552" width="8" height="10" font="2">0 </text>
+<text top="402" left="598" width="13" height="10" font="2">47 </text>
+<text top="402" left="646" width="13" height="10" font="2">43 </text>
+<text top="414" left="122" width="148" height="10" font="2">POLR3D RNA Pol III subunit RPC4 </text>
+<text top="414" left="329" width="57" height="10" font="2">IPI00215978 </text>
+<text top="414" left="408" width="8" height="10" font="2">0 </text>
+<text top="414" left="456" width="8" height="10" font="2">0 </text>
+<text top="414" left="504" width="8" height="10" font="2">0 </text>
+<text top="414" left="552" width="8" height="10" font="2">0 </text>
+<text top="414" left="600" width="8" height="10" font="2">0 </text>
+<text top="414" left="648" width="8" height="10" font="2">4 </text>
+<text top="426" left="122" width="264" height="10" font="2">POLR3E Isoform 1 of RNA Pol III subunit RPC5  IPI00220045 </text>
+<text top="426" left="408" width="8" height="10" font="2">0 </text>
+<text top="426" left="456" width="8" height="10" font="2">0 </text>
+<text top="426" left="504" width="8" height="10" font="2">0 </text>
+<text top="426" left="552" width="8" height="10" font="2">0 </text>
+<text top="426" left="600" width="8" height="10" font="2">8 </text>
+<text top="426" left="648" width="8" height="10" font="2">9 </text>
+<text top="438" left="122" width="264" height="10" font="2">POLR3E Isoform 3 of RNA Pol III subunit RPC5  IPI00018245 </text>
+<text top="438" left="408" width="8" height="10" font="2">0 </text>
+<text top="438" left="456" width="8" height="10" font="2">0 </text>
+<text top="438" left="504" width="8" height="10" font="2">0 </text>
+<text top="438" left="552" width="8" height="10" font="2">0 </text>
+<text top="438" left="598" width="13" height="10" font="2">29 </text>
+<text top="438" left="646" width="13" height="10" font="2">32 </text>
+<text top="450" left="122" width="147" height="10" font="2">POLR3F RNA Pol III subunit RPC6 </text>
+<text top="450" left="329" width="57" height="10" font="2">IPI00100245 </text>
+<text top="450" left="408" width="8" height="10" font="2">0 </text>
+<text top="450" left="456" width="8" height="10" font="2">0 </text>
+<text top="450" left="504" width="8" height="10" font="2">0 </text>
+<text top="450" left="552" width="8" height="10" font="2">0 </text>
+<text top="450" left="598" width="13" height="10" font="2">30 </text>
+<text top="450" left="646" width="13" height="10" font="2">29 </text>
+<text top="461" left="122" width="148" height="10" font="2">POLR3G RNA Pol III subunit RPC7 </text>
+<text top="461" left="329" width="57" height="10" font="2">IPI00007947 </text>
+<text top="461" left="408" width="8" height="10" font="2">0 </text>
+<text top="461" left="456" width="8" height="10" font="2">0 </text>
+<text top="461" left="504" width="8" height="10" font="2">0 </text>
+<text top="461" left="552" width="8" height="10" font="2">0 </text>
+<text top="461" left="598" width="13" height="10" font="2">22 </text>
+<text top="461" left="646" width="13" height="10" font="2">21 </text>
+<text top="473" left="122" width="150" height="10" font="2">POLR3H, RNA Pol III subunit RPC8 </text>
+<text top="473" left="329" width="57" height="10" font="2">IPI00289667 </text>
+<text top="473" left="408" width="8" height="10" font="2">0 </text>
+<text top="473" left="456" width="8" height="10" font="2">0 </text>
+<text top="473" left="504" width="8" height="10" font="2">0 </text>
+<text top="473" left="552" width="8" height="10" font="2">0 </text>
+<text top="473" left="600" width="8" height="10" font="2">5 </text>
+<text top="473" left="646" width="13" height="10" font="2">10 </text>
+<text top="485" left="122" width="152" height="10" font="2">POLR3K RNA Pol III subunit RPC10 </text>
+<text top="485" left="329" width="57" height="10" font="2">IPI00008461 </text>
+<text top="485" left="408" width="8" height="10" font="2">0 </text>
+<text top="485" left="456" width="8" height="10" font="2">0 </text>
+<text top="485" left="504" width="8" height="10" font="2">0 </text>
+<text top="485" left="552" width="8" height="10" font="2">0 </text>
+<text top="485" left="600" width="8" height="10" font="2">4 </text>
+<text top="485" left="648" width="8" height="10" font="2">3 </text>
+<text top="497" left="122" width="181" height="10" font="2">Heterogeneous nuclear ribonucleoprotein G </text>
+<text top="497" left="329" width="57" height="10" font="2">IPI00304692 </text>
+<text top="497" left="408" width="8" height="10" font="2">0 </text>
+<text top="497" left="456" width="8" height="10" font="2">0 </text>
+<text top="497" left="504" width="8" height="10" font="2">5 </text>
+<text top="497" left="552" width="8" height="10" font="2">9 </text>
+<text top="497" left="600" width="8" height="10" font="2">0 </text>
+<text top="497" left="648" width="8" height="10" font="2">0 </text>
+<text top="509" left="122" width="170" height="10" font="2">ATP-dependent DNA helicase Q5  (Beta) </text>
+<text top="509" left="329" width="57" height="10" font="2">IPI00185769 </text>
+<text top="509" left="408" width="8" height="10" font="2">0 </text>
+<text top="509" left="456" width="8" height="10" font="2">0 </text>
+<text top="509" left="501" width="13" height="10" font="2">10 </text>
+<text top="509" left="550" width="13" height="10" font="2">12 </text>
+<text top="509" left="600" width="8" height="10" font="2">0 </text>
+<text top="509" left="648" width="8" height="10" font="2">0 </text>
+<text top="520" left="122" width="165" height="10" font="2">RPAP2, RNA pol II-associated protein 2 </text>
+<text top="520" left="329" width="57" height="10" font="2">IPI00293375 </text>
+<text top="520" left="408" width="8" height="10" font="2">0 </text>
+<text top="520" left="456" width="8" height="10" font="2">0 </text>
+<text top="520" left="501" width="13" height="10" font="2">43 </text>
+<text top="520" left="550" width="13" height="10" font="2">49 </text>
+<text top="520" left="600" width="8" height="10" font="2">0 </text>
+<text top="520" left="648" width="8" height="10" font="2">0 </text>
+<text top="532" left="122" width="160" height="10" font="2">Single-stranded DNA-binding protein 3 </text>
+<text top="532" left="329" width="57" height="10" font="2">IPI00157304 </text>
+<text top="532" left="408" width="8" height="10" font="2">0 </text>
+<text top="532" left="456" width="8" height="10" font="2">0 </text>
+<text top="532" left="504" width="8" height="10" font="2">6 </text>
+<text top="532" left="552" width="8" height="10" font="2">6 </text>
+<text top="532" left="600" width="8" height="10" font="2">0 </text>
+<text top="532" left="648" width="8" height="10" font="2">0 </text>
+<text top="544" left="118" width="2" height="9" font="2"> </text>
+<text top="557" left="277" width="417" height="13" font="4">Taken from Raha et.al, Proc Natl Acad Sci U S A. 2010 Feb 23;107(8):3639-44</text>
+<text top="546" left="694" width="7" height="27" font="6"> </text>
+<text top="60" left="122" width="554" height="22" font="8">sc-21754 (PolIII/POLR3G/RPC32) Immunoprecipitation/ Mass </text>
+<text top="88" left="341" width="116" height="22" font="8">spectrometry</text>
+<text top="84" left="450" width="7" height="27" font="6"> </text>
+<text top="112" left="393" width="7" height="27" font="6"> </text>
+</page>
+</pdf2xml>

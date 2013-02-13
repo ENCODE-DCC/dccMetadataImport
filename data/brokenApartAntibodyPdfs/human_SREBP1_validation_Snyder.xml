@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="598" left="238" width="150" height="10" font="1">http://www.scbt.com/product.php?</text>
+<text top="603" left="238" width="72" height="10" font="1">datasheet=8984</text>
+<text top="78" left="138" width="39" height="10" font="1">09/12/12</text>
+<text top="337" left="95" width="398" height="10" font="1">Rabbit ploclonal antibody raised against amino acids 41-200 of SREBP-1 of human origin.</text>
+<text top="485" left="150" width="32" height="10" font="1">Human</text>
+<text top="521" left="178" width="57" height="10" font="1">Western Blot</text>
+<text top="134" left="326" width="88" height="10" font="1">trupti@stanford.edu</text>
+<text top="134" left="83" width="52" height="10" font="1">Trupti Kawli</text>
+<text top="215" left="121" width="84" height="10" font="1">SREBP1 (sc-8984)</text>
+<text top="215" left="339" width="42" height="10" font="1">SREBP1 </text>
+<text top="170" left="230" width="32" height="10" font="1">Snyder</text>
+<text top="256" left="239" width="116" height="10" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="29" height="10" font="1">Rabbit</text>
+<text top="301" left="395" width="27" height="10" font="1">10211</text>
+<text top="301" left="215" width="36" height="10" font="1">sc-8984</text>
+<text top="521" left="395" width="62" height="10" font="1">IP-Mass Spec</text>
+<text top="562" left="141" width="30" height="10" font="1">Afﬁnity</text>
+<text top="562" left="356" width="46" height="10" font="1">Polyclonal</text>
+<text top="409" left="95" width="438" height="10" font="1">Transcriptional activator required for lipid homeostasis. Regulates transcription of the LDL receptor </text>
+<text top="414" left="95" width="451" height="10" font="1">gene as well as the fatty acid and to a lesser degree the cholesterol synthesis pathway (By similarity). </text>
+<text top="420" left="95" width="407" height="10" font="1">Binds to the sterol regulatory element 1 (SRE-1) (5'-ATCACCCCAC-3'). Has dual sequence </text>
+<text top="425" left="95" width="434" height="10" font="1">speciﬁcity binding to both an E-box motif (5'-ATCACGTGA-3') and to SRE-1 (5'-ATCACCCCAC-3')</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="40" left="125" width="426" height="10" font="1">Western blot of HelaS3 and HepG2 nuclear extracts using the anti SREBP1 (sc-8984) detects a </text>
+<text top="45" left="125" width="430" height="10" font="1">single high molecular weight protein of about 125kD. This band was further analyzed by IP-Mass </text>
+<text top="51" left="125" width="26" height="10" font="1">Spec.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+<text top="385" left="154" width="396" height="22" font="3">Western'Blot'analysis'of'nuclear'extracts'from'HelaS3'</text>
+<text top="406" left="154" width="365" height="22" font="3">and'HepG2'using'an;'SREBP1'an;body'(scB8984).'</text>
+<text top="428" left="154" width="229" height="22" font="3">Expected'protein'band'125'kD.'</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="40" left="130" width="394" height="10" font="1">Immunoprecipitation of SREBP1 from HepG2 cells using sc-8984 antibody. Lane 1: input </text>
+<text top="45" left="130" width="368" height="10" font="1">nuclear lysate, Lane 2: material immunoprecipitated with sc-8984, Lane 3: material </text>
+<text top="51" left="130" width="395" height="10" font="1">immunoprecipitated using control IgG. Band A was excised from the gel and subjected to </text>
+<text top="56" left="130" width="142" height="10" font="1">analysis by mass spectrometry.!</text>
+<text top="61" left="130" width="410" height="10" font="1">IP followed by masspectrometry: Brieﬂy, protein was immunoprecipitated from HepG2 whole </text>
+<text top="67" left="130" width="387" height="10" font="1">cell lysates using sc-8984, and the IP fraction was loaded on a 10% polyacrylamide gel </text>
+<text top="72" left="130" width="422" height="10" font="1">(NuPAGE Bis-Tris Gel) and separated with an Invitrogen NuPAGE electrophoresis system. The </text>
+<text top="78" left="130" width="412" height="10" font="1">gel was silver-stained, gel fragments corresponding to the bands indicated were excised and </text>
+<text top="83" left="130" width="402" height="10" font="1">destained using the SilverSNAP Stain for Mass Spectrometry (Pierce). Then proteins were </text>
+<text top="88" left="130" width="401" height="10" font="1">trypsinized using the in-gel digestion method. Digested proteins were analyzed on an LTQ-</text>
+<text top="94" left="130" width="420" height="10" font="1">Orbitrap (Thermo Scientiﬁc) by the nanoLC-ESI-MS/MS technique. Peptides were identiﬁed by </text>
+<text top="99" left="130" width="416" height="10" font="1">the SEQUEST algorithm and ﬁltered with a high conﬁdence threshold (Protein false discovery </text>
+<text top="105" left="130" width="198" height="10" font="1">rate &lt; 1%, 2 peptides per protein minimum).!</text>
+<text top="110" left="130" width="400" height="10" font="1">We report 27proteins identiﬁed in band A, although 3 of these are also present in a control </text>
+<text top="115" left="130" width="412" height="10" font="1">immunoprecipitation and are thus likely to present due to non-speciﬁc association with the IP </text>
+<text top="121" left="130" width="400" height="10" font="1">matrix. Of the speciﬁcally immunoprecipitated proteins, SREBP1 is the most abundant (40 </text>
+<text top="126" left="130" width="47" height="10" font="1">peptides).!</text>
+<text top="132" left="130" width="405" height="10" font="1">Based on these observations, this band is likely due to the presence of immunoprecipitated </text>
+<text top="137" left="130" width="364" height="10" font="1">SREBP1 and sc-8984 meets the ENCODE standard for validation by this criterion.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="4" size="18" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+<text top="54" left="38" width="485" height="24" font="4">Immunoprecipita-on.assay.(IP).+..mass.spectrometry.assay.</text>
+<text top="106" left="188" width="178" height="20" font="5">SREBP1(sc8984).(R).125.kD.</text>
+<text top="108" left="116" width="32" height="20" font="5">MW.</text>
+<text top="172" left="117" width="28" height="20" font="5">250.</text>
+<text top="199" left="117" width="28" height="20" font="5">150.</text>
+<text top="220" left="117" width="28" height="20" font="5">100.</text>
+<text top="239" left="125" width="20" height="20" font="5">75.</text>
+<text top="265" left="116" width="31" height="20" font="5">...50.</text>
+<text top="289" left="126" width="20" height="20" font="5">37.</text>
+<text top="314" left="126" width="20" height="20" font="5">25.</text>
+<text top="353" left="125" width="20" height="20" font="5">10.</text>
+<text top="408" left="125" width="34" height="20" font="5">Lane.</text>
+<text top="409" left="212" width="136" height="20" font="5">1................2..............3.</text>
+<text top="305" left="442" width="126" height="20" font="5">Lane.1.Input.lysate.</text>
+<text top="324" left="442" width="4" height="20" font="5">.</text>
+<text top="343" left="442" width="201" height="20" font="5">Lane.2.Bound.material.from.IP.</text>
+<text top="362" left="442" width="4" height="20" font="5">.</text>
+<text top="381" left="442" width="241" height="20" font="5">Lane.3.Bound.material.from.IP............</text>
+<text top="401" left="442" width="145" height="20" font="5">using.nonKspeciﬁc.IgG.</text>
+<text top="211" left="387" width="50" height="20" font="5">Band.A.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="6" size="8" family="Times" color="#000000"/>
+<text top="48" left="61" width="42" height="12" font="6"><b>Spectrum)</b></text>
+<text top="48" left="146" width="71" height="12" font="6"><b>Name)of)Protein)</b></text>
+<text top="48" left="447" width="194" height="12" font="6"><b>Count)of)pep2des) Ra2o(SREBP1/IgG)Control))</b></text>
+<text top="64" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="64" left="146" width="231" height="12" font="1">Isoform.4.of.Sterol.regulatory.elementKbinding.protein.1.</text>
+<text top="64" left="479" width="12" height="12" font="1">40.</text>
+<text top="64" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="80" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="80" left="146" width="107" height="12" font="1">OxysterolKbinding.protein.</text>
+<text top="80" left="479" width="12" height="12" font="1">31.</text>
+<text top="80" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="96" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="96" left="146" width="167" height="12" font="1">Puta-ve.uncharacterized.protein.SFRS14.</text>
+<text top="96" left="479" width="12" height="12" font="1">21.</text>
+<text top="96" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="111" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="111" left="146" width="174" height="12" font="1">10Kformyltetrahydrofolate.dehydrogenase.</text>
+<text top="111" left="479" width="12" height="12" font="1">18.</text>
+<text top="111" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="127" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="127" left="146" width="234" height="12" font="1">Formyltetrahydrofolate.dehydrogenase.isoform.a.variant.</text>
+<text top="127" left="479" width="12" height="12" font="1">18.</text>
+<text top="127" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="143" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="143" left="146" width="175" height="12" font="1">Isoform.1.of.NKterminal.kinaseKlike.protein.</text>
+<text top="143" left="479" width="12" height="12" font="1">18.</text>
+<text top="143" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="159" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="159" left="146" width="105" height="12" font="1">Hemoglobin.subunit.beta.</text>
+<text top="159" left="479" width="12" height="12" font="1">17.</text>
+<text top="159" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="175" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="175" left="146" width="175" height="12" font="1">Isoform.5.of.NKterminal.kinaseKlike.protein.</text>
+<text top="175" left="479" width="12" height="12" font="1">17.</text>
+<text top="175" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="191" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="191" left="146" width="230" height="12" font="1">Isoform.2.of.OxysterolKbinding.proteinKrelated.protein.8.</text>
+<text top="191" left="479" width="12" height="12" font="1">15.</text>
+<text top="191" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="206" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="206" left="146" width="195" height="12" font="1">interleukin.enhancerKbinding.factor.3.isoform.d.</text>
+<text top="206" left="479" width="12" height="12" font="1">14.</text>
+<text top="206" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="222" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="222" left="146" width="206" height="12" font="1">Isoform.1.of.Interleukin.enhancerKbinding.factor.3.</text>
+<text top="222" left="479" width="12" height="12" font="1">14.</text>
+<text top="222" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="238" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="238" left="146" width="55" height="12" font="1">Endoplasmin.</text>
+<text top="238" left="479" width="12" height="12" font="1">10.</text>
+<text top="238" left="528" width="55" height="12" font="1">0.833333333.</text>
+<text top="254" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="254" left="146" width="64" height="12" font="1">HNRPU.protein.</text>
+<text top="254" left="481" width="7" height="12" font="1">9.</text>
+<text top="254" left="528" width="55" height="12" font="1">0.529411765.</text>
+<text top="270" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="270" left="146" width="248" height="12" font="1">Isoform.Long.of.Heterogeneous.nuclear.ribonucleoprotein.U.</text>
+<text top="270" left="481" width="7" height="12" font="1">9.</text>
+<text top="270" left="528" width="55" height="12" font="1">0.529411765.</text>
+<text top="286" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="286" left="146" width="246" height="12" font="1">Isoform.RF1/RF2.of.RetrotransposonKderived.protein.PEG10.</text>
+<text top="286" left="481" width="7" height="12" font="1">9.</text>
+<text top="286" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="301" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="301" left="146" width="38" height="12" font="1">MatrinK3.</text>
+<text top="301" left="481" width="7" height="12" font="1">9.</text>
+<text top="301" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="317" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="317" left="146" width="168" height="12" font="1">Puta-ve.uncharacterized.protein.MATR3.</text>
+<text top="317" left="481" width="7" height="12" font="1">9.</text>
+<text top="317" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="333" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="333" left="146" width="204" height="12" font="1">retrotransposonKderived.protein.PEG10.isoform.3.</text>
+<text top="333" left="481" width="7" height="12" font="1">9.</text>
+<text top="333" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="364" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="364" left="146" width="256" height="12" font="1">Aldehyde.dehydrogenase.1.family,.member.L1,.isoform.CRA_a.</text>
+<text top="364" left="481" width="7" height="12" font="1">7.</text>
+<text top="364" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="380" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="380" left="146" width="164" height="12" font="1">Isoform.1.of.Splicing.factor.3B.subunit.3.</text>
+<text top="380" left="481" width="7" height="12" font="1">7.</text>
+<text top="380" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="395" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="395" left="146" width="116" height="12" font="1">Isoform.1.of.Serum.albumin.</text>
+<text top="395" left="481" width="7" height="12" font="1">4.</text>
+<text top="395" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="411" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="411" left="146" width="119" height="12" font="1">FACT.complex.subunit.SPT16.</text>
+<text top="411" left="481" width="7" height="12" font="1">3.</text>
+<text top="411" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="427" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="427" left="146" width="227" height="12" font="1">Isoform.RF1.of.RetrotransposonKderived.protein.PEG10.</text>
+<text top="427" left="481" width="7" height="12" font="1">3.</text>
+<text top="427" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="443" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="443" left="146" width="204" height="12" font="1">retrotransposonKderived.protein.PEG10.isoform.4.</text>
+<text top="443" left="481" width="7" height="12" font="1">3.</text>
+<text top="443" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="459" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="459" left="146" width="65" height="12" font="1">Desmoplakin.Ia.</text>
+<text top="459" left="481" width="7" height="12" font="1">2.</text>
+<text top="459" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="475" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="475" left="146" width="115" height="12" font="1">Isoform.DPI.of.Desmoplakin.</text>
+<text top="475" left="481" width="7" height="12" font="1">2.</text>
+<text top="475" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+<text top="490" left="61" width="64" height="12" font="1">SREBP1.Band.A.</text>
+<text top="490" left="146" width="118" height="12" font="1">Isoform.DPII.of.Desmoplakin.</text>
+<text top="490" left="481" width="7" height="12" font="1">2.</text>
+<text top="490" left="528" width="83" height="12" font="1">NOT.IN.CONTROL.IP.</text>
+</page>
+</pdf2xml>

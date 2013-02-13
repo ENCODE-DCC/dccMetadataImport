@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="598" left="238" width="174" height="10" font="1">http://www.abcam.com/Zinc-ﬁnger-MIZ-</text>
+<text top="603" left="238" width="169" height="10" font="1">domain-containing-protein-1-antibody-</text>
+<text top="609" left="238" width="61" height="10" font="1">ab65767.html</text>
+<text top="78" left="138" width="33" height="10" font="1">9/13/12</text>
+<text top="337" left="95" width="437" height="10" font="1">This is a rabbit polyclonal antibody generated using a synthetic peptide conjugated to KLH derived </text>
+<text top="342" left="95" width="379" height="10" font="1">from within residues 200 - 300 of Human Zinc ﬁnger MIZ domain-containing protein 1.</text>
+<text top="485" left="150" width="30" height="10" font="1">Mouse</text>
+<text top="521" left="178" width="90" height="10" font="1">Immunoprecipitation</text>
+<text top="134" left="326" width="88" height="10" font="1">trupti@stanford.edu</text>
+<text top="134" left="83" width="52" height="10" font="1">Trupti Kawli</text>
+<text top="215" left="121" width="77" height="10" font="1">ZMIZ1 (an65676)</text>
+<text top="215" left="339" width="29" height="10" font="1">ZMIZ1</text>
+<text top="170" left="230" width="32" height="10" font="1">Snyder</text>
+<text top="256" left="239" width="31" height="10" font="1">Abcam</text>
+<text top="485" left="361" width="29" height="10" font="1">Rabbit</text>
+<text top="301" left="395" width="52" height="10" font="1">GR30927-1</text>
+<text top="301" left="215" width="39" height="10" font="1">ab65767</text>
+<text top="521" left="395" width="62" height="10" font="1">IP-Mass Spec</text>
+<text top="562" left="141" width="30" height="10" font="1">Afﬁnity</text>
+<text top="562" left="356" width="46" height="10" font="1">Polyclonal</text>
+<text top="409" left="95" width="435" height="11" font="1">￼Zinc ﬁnger MIZ domain-containing protein 1that has been shown to increases ligand-dependent </text>
+<text top="416" left="95" width="362" height="10" font="1">transcriptional activity of AR and promotes AR sumoylation. The stimulation of AR!</text>
+<text top="421" left="95" width="177" height="10" font="1">activity is dependent upon sumoylation.!</text>
+<text top="427" left="95" width="10" height="11" font="1">￼</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="40" left="125" width="415" height="10" font="1">Immunoprecipitation of CH12 and MEL nuclear extracts using anti-ZMIZ1 antibody (ab65767) </text>
+<text top="45" left="125" width="409" height="10" font="1">speciﬁcally and efﬁciently enriched a single band of the expected molecular weight of ZNIZ1 </text>
+<text top="51" left="125" width="47" height="10" font="1">(~100 kD).</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="15" family="Times" color="#000000"/>
+	<fontspec id="4" size="17" family="Times" color="#000000"/>
+	<fontspec id="5" size="17" family="Times" color="#000000"/>
+	<fontspec id="6" size="13" family="Times" color="#000000"/>
+	<fontspec id="7" size="8" family="Times" color="#000000"/>
+	<fontspec id="8" size="11" family="Times" color="#000000"/>
+<text top="404" left="361" width="0" height="18" font="3">Ar</text>
+<text top="420" left="361" width="0" height="23" font="3">ro</text>
+<text top="435" left="361" width="0" height="18" font="3">w </text>
+<text top="452" left="361" width="0" height="22" font="3">in</text>
+<text top="465" left="361" width="0" height="18" font="3">di</text>
+<text top="479" left="361" width="0" height="25" font="3">ca</text>
+<text top="494" left="361" width="0" height="23" font="3">tes</text>
+<text top="516" left="361" width="0" height="25" font="3"> imm</text>
+<text top="552" left="361" width="0" height="18" font="3">unopr</text>
+<text top="594" left="361" width="0" height="18" font="3">ec</text>
+<text top="610" left="361" width="0" height="22" font="3">ip</text>
+<text top="624" left="361" width="0" height="27" font="3">ita</text>
+<text top="642" left="361" width="0" height="23" font="3">ted</text>
+<text top="666" left="361" width="0" height="21" font="3"> band</text>
+<text top="706" left="361" width="0" height="18" font="3"> of </text>
+<text top="404" left="340" width="0" height="26" font="3">ex</text>
+<text top="420" left="340" width="0" height="18" font="3">pect</text>
+<text top="451" left="340" width="0" height="18" font="3">ed </text>
+<text top="473" left="340" width="0" height="18" font="3">si</text>
+<text top="484" left="340" width="0" height="24" font="3">ze </text>
+<text top="504" left="340" width="0" height="18" font="3">of </text>
+<text top="522" left="340" width="0" height="18" font="3">Zm</text>
+<text top="544" left="340" width="0" height="22" font="3">iz</text>
+<text top="556" left="340" width="0" height="18" font="3">1</text>
+<text top="564" left="340" width="0" height="26" font="3"> in </text>
+<text top="586" left="340" width="0" height="18" font="3">bot</text>
+<text top="610" left="340" width="0" height="18" font="3">h CH12</text>
+<text top="661" left="340" width="0" height="22" font="3"> an</text>
+<text top="683" left="340" width="0" height="18" font="3">d </text>
+<text top="696" left="340" width="0" height="18" font="3">MEL</text>
+<text top="727" left="340" width="0" height="22" font="3"> ce</text>
+<text top="747" left="340" width="0" height="26" font="3">ll </text>
+<text top="404" left="319" width="0" height="26" font="3">lines </text>
+<text top="441" left="319" width="0" height="18" font="3">(~</text>
+<text top="455" left="319" width="0" height="18" font="3">1</text>
+<text top="464" left="319" width="0" height="18" font="3">0</text>
+<text top="473" left="319" width="0" height="18" font="3">0</text>
+<text top="481" left="319" width="0" height="22" font="3"> k</text>
+<text top="494" left="319" width="0" height="18" font="3">Da</text>
+<text top="513" left="319" width="0" height="18" font="3">).  </text>
+<text top="531" left="319" width="0" height="18" font="3"> </text>
+<text top="404" left="298" width="0" height="18" font="3"> </text>
+<text top="404" left="277" width="0" height="18" font="3">NE:</text>
+<text top="429" left="277" width="0" height="22" font="3"> nucl</text>
+<text top="463" left="277" width="0" height="18" font="3">ear </text>
+<text top="490" left="277" width="0" height="26" font="3">ex</text>
+<text top="506" left="277" width="0" height="29" font="3">tract</text>
+<text top="539" left="277" width="0" height="18" font="3"> </text>
+<text top="404" left="256" width="0" height="18" font="3">S: su</text>
+<text top="437" left="256" width="0" height="18" font="3">per</text>
+<text top="461" left="256" width="0" height="18" font="3">na</text>
+<text top="478" left="256" width="0" height="23" font="3">tan</text>
+<text top="502" left="256" width="0" height="23" font="3">t a</text>
+<text top="520" left="256" width="0" height="29" font="3">fter</text>
+<text top="546" left="256" width="0" height="26" font="3"> IP</text>
+<text top="564" left="256" width="0" height="18" font="3"> </text>
+<text top="404" left="234" width="0" height="22" font="3">IP:</text>
+<text top="422" left="234" width="0" height="26" font="3"> IP </text>
+<text top="444" left="234" width="0" height="18" font="3">wi</text>
+<text top="460" left="234" width="0" height="24" font="3">th t</text>
+<text top="485" left="234" width="0" height="18" font="3">es</text>
+<text top="501" left="234" width="0" height="23" font="3">ted </text>
+<text top="528" left="234" width="0" height="18" font="3">an</text>
+<text top="546" left="234" width="0" height="18" font="3">ti</text>
+<text top="556" left="234" width="0" height="18" font="3">body</text>
+<text top="591" left="234" width="0" height="18" font="3"> </text>
+<text top="404" left="213" width="0" height="22" font="3">IgG</text>
+<text top="428" left="213" width="0" height="31" font="3">: IP </text>
+<text top="454" left="213" width="0" height="18" font="3">wi</text>
+<text top="471" left="213" width="0" height="24" font="3">th c</text>
+<text top="497" left="213" width="0" height="18" font="3">on</text>
+<text top="515" left="213" width="0" height="29" font="3">trol</text>
+<text top="540" left="213" width="0" height="26" font="3"> IgG</text>
+<text top="568" left="213" width="0" height="18" font="3"> </text>
+<text top="66" left="449" width="0" height="20" font="4"><b>V</b></text>
+<text top="76" left="449" width="0" height="20" font="4"><b>alid</b></text>
+<text top="107" left="449" width="0" height="29" font="4"><b>ati</b></text>
+<text top="128" left="449" width="0" height="20" font="4"><b>on </b></text>
+<text top="153" left="449" width="0" height="20" font="4"><b>1:</b></text>
+<text top="169" left="449" width="0" height="24" font="4"><b> Immu</b></text>
+<text top="221" left="449" width="0" height="20" font="4"><b>n</b></text>
+<text top="232" left="449" width="0" height="20" font="4"><b>op</b></text>
+<text top="253" left="449" width="0" height="27" font="4"><b>re</b></text>
+<text top="270" left="449" width="0" height="28" font="4"><b>cipit</b></text>
+<text top="305" left="449" width="0" height="29" font="4"><b>ati</b></text>
+<text top="326" left="449" width="0" height="20" font="4"><b>on</b></text>
+<text top="348" left="449" width="0" height="24" font="4"><b> (IP)</b></text>
+<text top="380" left="449" width="0" height="20" font="4"><b> in</b></text>
+<text top="400" left="449" width="0" height="24" font="4"><b> b</b></text>
+<text top="415" left="449" width="0" height="20" font="4"><b>oth</b></text>
+<text top="443" left="449" width="0" height="24" font="4"><b> CH12 </b></text>
+<text top="495" left="449" width="0" height="20" font="4"><b>and</b></text>
+<text top="526" left="449" width="0" height="24" font="4"><b> MEL</b></text>
+<text top="566" left="449" width="0" height="24" font="4"><b> ce</b></text>
+<text top="589" left="449" width="0" height="20" font="4"><b>ll </b></text>
+<text top="603" left="449" width="0" height="20" font="4"><b>lin</b></text>
+<text top="623" left="449" width="0" height="20" font="4"><b>e</b></text>
+<text top="633" left="449" width="0" height="28" font="4"><b>s</b> </text>
+<text top="66" left="561" width="0" height="20" font="4"><b>An</b></text>
+<text top="88" left="561" width="0" height="20" font="4"><b>tib</b></text>
+<text top="111" left="561" width="0" height="20" font="4"><b>o</b></text>
+<text top="121" left="561" width="0" height="20" font="4"><b>d</b></text>
+<text top="132" left="561" width="0" height="29" font="4"><b>y: </b></text>
+<text top="151" left="561" width="0" height="20" font="4"><b>ZN</b></text>
+<text top="173" left="561" width="0" height="29" font="4"><b>F-</b></text>
+<text top="189" left="561" width="0" height="20" font="4"><b>MIZD</b></text>
+<text top="233" left="561" width="0" height="26" font="4"><b>-CP1 (Zm</b></text>
+<text top="307" left="561" width="0" height="20" font="4"><b>iz</b></text>
+<text top="319" left="561" width="0" height="20" font="4"><b>1) </b></text>
+<text top="340" left="561" width="0" height="20" font="4"><b>Sou</b></text>
+<text top="371" left="561" width="0" height="27" font="4"><b>rce</b></text>
+<text top="396" left="561" width="0" height="30" font="4"><b>: </b>Abc</text>
+<text top="436" left="561" width="0" height="20" font="5">am</text>
+<text top="461" left="561" width="0" height="24" font="5"> ab65767</text>
+<text top="536" left="561" width="0" height="20" font="5"> </text>
+<text top="66" left="537" width="0" height="20" font="4"><b>Epit</b></text>
+<text top="98" left="537" width="0" height="20" font="4"><b>op</b></text>
+<text top="119" left="537" width="0" height="30" font="4"><b>e:</b></text>
+<text top="134" left="537" width="0" height="24" font="4"><b> ZNF</b></text>
+<text top="170" left="537" width="0" height="26" font="4"><b>-MIZD</b></text>
+<text top="221" left="537" width="0" height="26" font="4"><b>-C</b></text>
+<text top="237" left="537" width="0" height="20" font="4"><b>P1</b></text>
+<text top="258" left="537" width="0" height="24" font="5"> an</text>
+<text top="282" left="537" width="0" height="20" font="5">ti</text>
+<text top="293" left="537" width="0" height="20" font="5">body </text>
+<text top="338" left="537" width="0" height="24" font="5">is </text>
+<text top="355" left="537" width="0" height="20" font="5">a </text>
+<text top="369" left="537" width="0" height="26" font="5">rabbi</text>
+<text top="410" left="537" width="0" height="31" font="5">t pol</text>
+<text top="447" left="537" width="0" height="29" font="5">yc</text>
+<text top="464" left="537" width="0" height="24" font="5">lonal</text>
+<text top="503" left="537" width="0" height="25" font="5"> IgG</text>
+<text top="535" left="537" width="0" height="25" font="5">, epi</text>
+<text top="569" left="537" width="0" height="26" font="5">tope </text>
+<text top="611" left="537" width="0" height="20" font="5">mapi</text>
+<text top="651" left="537" width="0" height="20" font="5">ng</text>
+<text top="671" left="537" width="0" height="24" font="5"> a</text>
+<text top="685" left="537" width="0" height="20" font="5">t </text>
+<text top="66" left="513" width="0" height="20" font="5">200 </text>
+<text top="100" left="513" width="0" height="30" font="5">- 300 of </text>
+<text top="167" left="513" width="0" height="20" font="5">H</text>
+<text top="179" left="513" width="0" height="20" font="5">uma</text>
+<text top="215" left="513" width="0" height="20" font="5">n </text>
+<text top="230" left="513" width="0" height="20" font="5">Zi</text>
+<text top="243" left="513" width="0" height="20" font="5">nc </text>
+<text top="267" left="513" width="0" height="20" font="5">fi</text>
+<text top="277" left="513" width="0" height="20" font="5">ng</text>
+<text top="297" left="513" width="0" height="20" font="5">er MIZ domai</text>
+<text top="405" left="513" width="0" height="20" font="5">n</text>
+<text top="415" left="513" width="0" height="26" font="5">-c</text>
+<text top="429" left="513" width="0" height="20" font="5">on</text>
+<text top="450" left="513" width="0" height="26" font="5">tai</text>
+<text top="471" left="513" width="0" height="20" font="5">ni</text>
+<text top="485" left="513" width="0" height="20" font="5">ng</text>
+<text top="505" left="513" width="0" height="25" font="5"> pr</text>
+<text top="527" left="513" width="0" height="20" font="5">ot</text>
+<text top="544" left="513" width="0" height="20" font="5">ei</text>
+<text top="558" left="513" width="0" height="20" font="5">n </text>
+<text top="573" left="513" width="0" height="20" font="5">1</text>
+<text top="583" left="513" width="0" height="20" font="5"> </text>
+<text top="41" left="387" width="0" height="15" font="6"><b>kDa</b></text>
+<text top="66" left="387" width="0" height="15" font="6"><b> </b></text>
+<text top="54" left="368" width="0" height="15" font="6"><b> </b></text>
+<text top="54" left="350" width="0" height="15" font="6"><b> </b></text>
+<text top="54" left="331" width="0" height="15" font="6"><b> </b></text>
+<text top="54" left="313" width="0" height="15" font="6"><b> </b></text>
+<text top="42" left="294" width="0" height="15" font="6"><b>130</b></text>
+<text top="65" left="294" width="0" height="15" font="6"><b> </b></text>
+<text top="50" left="272" width="0" height="20" font="4"><b> </b></text>
+<text top="46" left="252" width="0" height="15" font="6"><b>70</b></text>
+<text top="62" left="252" width="0" height="15" font="6"><b> </b></text>
+<text top="54" left="233" width="0" height="15" font="6"><b> </b></text>
+<text top="54" left="215" width="0" height="15" font="6"><b> </b></text>
+<text top="57" left="201" width="0" height="11" font="7"><b> </b></text>
+<text top="46" left="183" width="0" height="15" font="6"><b>25</b></text>
+<text top="62" left="183" width="0" height="15" font="6"><b> </b></text>
+<text top="-7" left="281" width="0" height="20" font="5">ZM</text>
+<text top="18" left="281" width="0" height="20" font="5">IZ1</text>
+<text top="43" left="281" width="0" height="20" font="5"> </text>
+<text top="116" left="381" width="0" height="13" font="8">N</text>
+<text top="124" left="381" width="0" height="13" font="8">E </text>
+<text top="134" left="381" width="0" height="22" font="8">    </text>
+<text top="146" left="381" width="0" height="13" font="8">S </text>
+<text top="155" left="381" width="0" height="22" font="8">    </text>
+<text top="167" left="381" width="0" height="16" font="8"> IP </text>
+<text top="183" left="381" width="0" height="22" font="8">   Ig</text>
+<text top="202" left="381" width="0" height="13" font="8">G</text>
+<text top="210" left="381" width="0" height="13" font="8"> </text>
+<text top="228" left="381" width="0" height="19" font="8">      </text>
+<text top="246" left="381" width="0" height="13" font="8">N</text>
+<text top="254" left="381" width="0" height="13" font="8">E </text>
+<text top="264" left="381" width="0" height="22" font="8">    </text>
+<text top="276" left="381" width="0" height="13" font="8">S </text>
+<text top="285" left="381" width="0" height="22" font="8">    </text>
+<text top="297" left="381" width="0" height="16" font="8"> IP </text>
+<text top="313" left="381" width="0" height="22" font="8">   Ig</text>
+<text top="332" left="381" width="0" height="13" font="8">G</text>
+<text top="340" left="381" width="0" height="13" font="8"> </text>
+<text top="132" left="403" width="0" height="20" font="5">CH1</text>
+<text top="165" left="403" width="0" height="20" font="5">2 </text>
+<text top="180" left="403" width="0" height="24" font="5">   </text>
+<text top="193" left="403" width="0" height="20" font="5">   </text>
+<text top="207" left="403" width="0" height="20" font="5">   </text>
+<text top="221" left="403" width="0" height="29" font="5">     </text>
+<text top="243" left="403" width="0" height="20" font="5">   </text>
+<text top="257" left="403" width="0" height="20" font="5">ME</text>
+<text top="283" left="403" width="0" height="28" font="5">L </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="40" left="130" width="424" height="10" font="1">This antibody has been validated by IP-Mass Spec in multiple human cell lines.  Please see the </text>
+<text top="45" left="130" width="296" height="10" font="1">validation document for this antibody in human cell lines for details.</text>
+</page>
+</pdf2xml>

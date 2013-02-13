@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="0" size="42" family="Times" color="#000000"/>
+	<fontspec id="1" size="30" family="Times" color="#000000"/>
+<text top="57" left="54" width="624" height="49" font="0">Dot blot validation of antibodies </text>
+<text top="110" left="74" width="573" height="49" font="0">used in the ENCODE project:</text>
+<text top="216" left="49" width="622" height="49" font="0">Broad Institute ChIP-Seq Group</text>
+<text top="402" left="138" width="444" height="36" font="1">Michael Coyne, Xiaolan Zhang,</text>
+<text top="448" left="142" width="435" height="36" font="1">Chuck Epstein, Brad Bernstein</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="2" size="13" family="Times" color="#000000"/>
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+<text top="43" left="279" width="162" height="49" font="0">Protocol</text>
+<text top="131" left="70" width="145" height="18" font="2">Dot Blot Fabrication:</text>
+<text top="153" left="102" width="492" height="16" font="3">Suitably modified peptides modeled on histone tails were obtained from Abcam.</text>
+<text top="173" left="102" width="571" height="16" font="3">Each peptide is added to Bio-Dot apparatus at 0.01 and 0.1 ug / 50uL total volume (BioRad) </text>
+<text top="193" left="102" width="175" height="16" font="3">Let sit on rocker 60 minutes.</text>
+<text top="214" left="102" width="521" height="16" font="3">Pull through with vacuum, wash once with 100uL TBS and twice with 200uL TBSTw.</text>
+<text top="234" left="102" width="502" height="16" font="3">Remove membrane from Bio-Dot and transfer to 10mL Pierce SuperBlock in tray.</text>
+<text top="254" left="102" width="193" height="16" font="3">Place on rocker for 30 minutes.</text>
+<text top="274" left="102" width="136" height="16" font="3">Dump off SuperBlock.</text>
+<text top="295" left="70" width="252" height="18" font="2">Antibody hybridization and imaging:</text>
+<text top="317" left="102" width="271" height="16" font="3">Add Primary Antibody in 10mL total volume.</text>
+<text top="337" left="102" width="193" height="16" font="3">Place on rocker for 30 minutes.</text>
+<text top="358" left="102" width="191" height="16" font="3">Wash 3 x 5 minutes in TBSTw.</text>
+<text top="378" left="102" width="421" height="16" font="3">Add secondary antibody diluted in SuperBlock in 10mL total volume.</text>
+<text top="398" left="102" width="193" height="16" font="3">Place on rocker for 30 minutes.</text>
+<text top="418" left="102" width="343" height="16" font="3">Wash 3 x 15 minutes in TBSTw, 1 x 10 minutes in TBS.</text>
+<text top="438" left="102" width="475" height="16" font="3">Image using ECL and a FluorChem Peltier-cooled camera (Cell Biosciences)</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="4" size="4" family="Times" color="#000000"/>
+	<fontspec id="5" size="3" family="Times" color="#000000"/>
+	<fontspec id="6" size="3" family="Times" color="#000000"/>
+	<fontspec id="7" size="6" family="Times" color="#000000"/>
+	<fontspec id="8" size="13" family="Times" color="#000000"/>
+<text top="177" left="485" width="68" height="7" font="4"><b>H3K9me3 Lot 484088</b></text>
+<text top="322" left="360" width="3" height="6" font="5">0</text>
+<text top="301" left="342" width="21" height="6" font="5">500,000</text>
+<text top="280" left="337" width="26" height="6" font="5">1,000,000</text>
+<text top="259" left="337" width="26" height="6" font="5">1,500,000</text>
+<text top="238" left="337" width="26" height="6" font="5">2,000,000</text>
+<text top="217" left="337" width="26" height="6" font="5">2,500,000</text>
+<text top="196" left="337" width="26" height="6" font="5">3,000,000</text>
+<text top="347" left="350" width="5" height="6" font="5">H3</text>
+<text top="342" left="355" width="5" height="6" font="5">K4</text>
+<text top="337" left="360" width="6" height="6" font="5">me</text>
+<text top="332" left="366" width="2" height="6" font="5">1</text>
+<text top="347" left="364" width="5" height="6" font="5">H3</text>
+<text top="342" left="370" width="5" height="6" font="5">K4</text>
+<text top="337" left="375" width="6" height="6" font="5">me</text>
+<text top="332" left="380" width="2" height="6" font="5">2</text>
+<text top="347" left="379" width="5" height="6" font="5">H3</text>
+<text top="342" left="384" width="5" height="6" font="5">K4</text>
+<text top="337" left="389" width="6" height="6" font="5">me</text>
+<text top="332" left="394" width="2" height="6" font="5">3</text>
+<text top="347" left="393" width="5" height="6" font="5">H3</text>
+<text top="342" left="398" width="5" height="6" font="5">K9</text>
+<text top="337" left="403" width="6" height="6" font="5">me</text>
+<text top="332" left="409" width="2" height="6" font="5">1</text>
+<text top="347" left="407" width="5" height="6" font="5">H3</text>
+<text top="342" left="412" width="5" height="6" font="5">K9</text>
+<text top="337" left="417" width="6" height="6" font="5">me</text>
+<text top="332" left="423" width="2" height="6" font="5">2</text>
+<text top="347" left="421" width="5" height="6" font="5">H3</text>
+<text top="342" left="426" width="5" height="6" font="5">K9</text>
+<text top="337" left="432" width="6" height="6" font="5">me</text>
+<text top="332" left="437" width="2" height="6" font="5">3</text>
+<text top="350" left="434" width="5" height="6" font="5">H3</text>
+<text top="345" left="439" width="5" height="6" font="5">K3</text>
+<text top="340" left="444" width="8" height="6" font="5">6me</text>
+<text top="332" left="452" width="2" height="6" font="5">1</text>
+<text top="350" left="448" width="5" height="6" font="5">H3</text>
+<text top="345" left="453" width="5" height="6" font="5">K3</text>
+<text top="340" left="458" width="8" height="6" font="5">6me</text>
+<text top="332" left="466" width="2" height="6" font="5">2</text>
+<text top="350" left="462" width="5" height="6" font="5">H3</text>
+<text top="345" left="467" width="5" height="6" font="5">K3</text>
+<text top="340" left="472" width="8" height="6" font="5">6me</text>
+<text top="332" left="480" width="2" height="6" font="5">3</text>
+<text top="350" left="476" width="5" height="6" font="5">H3</text>
+<text top="345" left="482" width="5" height="6" font="5">K7</text>
+<text top="340" left="487" width="8" height="6" font="5">9me</text>
+<text top="332" left="494" width="2" height="6" font="5">1</text>
+<text top="350" left="491" width="5" height="6" font="5">H3</text>
+<text top="345" left="496" width="5" height="6" font="5">K7</text>
+<text top="340" left="501" width="8" height="6" font="5">9me</text>
+<text top="332" left="508" width="2" height="6" font="5">2</text>
+<text top="350" left="505" width="5" height="6" font="5">H3</text>
+<text top="345" left="510" width="5" height="6" font="5">K7</text>
+<text top="340" left="515" width="8" height="6" font="5">9me</text>
+<text top="332" left="523" width="2" height="6" font="5">3</text>
+<text top="350" left="520" width="5" height="6" font="5">H4</text>
+<text top="345" left="525" width="5" height="6" font="5">K2</text>
+<text top="340" left="530" width="8" height="6" font="5">0me</text>
+<text top="332" left="537" width="2" height="6" font="5">1</text>
+<text top="350" left="534" width="5" height="6" font="5">H4</text>
+<text top="345" left="539" width="5" height="6" font="5">K2</text>
+<text top="340" left="544" width="8" height="6" font="5">0me</text>
+<text top="332" left="552" width="2" height="6" font="5">2</text>
+<text top="350" left="548" width="5" height="6" font="5">H4</text>
+<text top="345" left="553" width="5" height="6" font="5">K2</text>
+<text top="340" left="558" width="8" height="6" font="5">0me</text>
+<text top="332" left="566" width="2" height="6" font="5">3</text>
+<text top="346" left="566" width="5" height="6" font="5">H3</text>
+<text top="341" left="571" width="5" height="6" font="5">K9</text>
+<text top="336" left="576" width="7" height="6" font="5">ace</text>
+<text top="350" left="577" width="5" height="6" font="5">H3</text>
+<text top="345" left="582" width="5" height="6" font="5">K2</text>
+<text top="340" left="587" width="8" height="6" font="5">7me</text>
+<text top="332" left="594" width="2" height="6" font="5">1</text>
+<text top="350" left="591" width="5" height="6" font="5">H3</text>
+<text top="345" left="596" width="5" height="6" font="5">K2</text>
+<text top="340" left="601" width="8" height="6" font="5">7me</text>
+<text top="332" left="609" width="2" height="6" font="5">2</text>
+<text top="350" left="606" width="5" height="6" font="5">H3</text>
+<text top="345" left="611" width="5" height="6" font="5">K2</text>
+<text top="340" left="616" width="8" height="6" font="5">7me</text>
+<text top="332" left="623" width="2" height="6" font="5">3</text>
+<text top="348" left="622" width="5" height="6" font="5">H3</text>
+<text top="343" left="627" width="5" height="6" font="5">K2</text>
+<text top="338" left="632" width="5" height="6" font="5">7a</text>
+<text top="334" left="636" width="4" height="6" font="5">ce</text>
+<text top="339" left="645" width="5" height="6" font="5">He</text>
+<text top="334" left="650" width="5" height="6" font="5">La</text>
+<text top="335" left="664" width="5" height="6" font="5">H3</text>
+<text top="335" left="678" width="5" height="6" font="5">H4</text>
+<text top="337" left="690" width="8" height="6" font="5">TBS</text>
+<text top="361" left="530" width="20" height="6" font="6"><b>Peptide</b></text>
+<text top="295" left="333" width="0" height="6" font="6"><b>B</b></text>
+<text top="290" left="333" width="0" height="6" font="6"><b>a</b></text>
+<text top="287" left="333" width="0" height="6" font="6"><b>c</b></text>
+<text top="284" left="333" width="0" height="6" font="6"><b>k</b></text>
+<text top="280" left="333" width="0" height="6" font="6"><b>g</b></text>
+<text top="277" left="333" width="0" height="6" font="6"><b>ro</b></text>
+<text top="271" left="333" width="0" height="6" font="6"><b>u</b></text>
+<text top="268" left="333" width="0" height="6" font="6"><b>n</b></text>
+<text top="265" left="333" width="0" height="6" font="6"><b>d</b></text>
+<text top="262" left="333" width="0" height="6" font="6"><b> C</b></text>
+<text top="256" left="333" width="0" height="6" font="6"><b>o</b></text>
+<text top="253" left="333" width="0" height="6" font="6"><b>rr</b></text>
+<text top="248" left="333" width="0" height="6" font="6"><b>e</b></text>
+<text top="245" left="333" width="0" height="6" font="6"><b>c</b></text>
+<text top="241" left="333" width="0" height="6" font="6"><b>te</b></text>
+<text top="236" left="333" width="0" height="6" font="6"><b>d</b></text>
+<text top="233" left="333" width="0" height="6" font="6"><b> Su</b></text>
+<text top="224" left="333" width="0" height="6" font="6"><b>m</b></text>
+<text top="132" left="70" width="142" height="36" font="1">H3K9me3</text>
+<text top="191" left="463" width="20" height="9" font="7">0.1ug</text>
+<text top="191" left="415" width="24" height="9" font="7">0.01ug</text>
+<text top="12" left="43" width="508" height="16" font="8"><b>Antibody: </b>Rabbit polyclonal to Histone H3 (tri methyl K9)  ChIP Grade</text>
+<text top="32" left="43" width="119" height="16" font="8"><b>Vendor: </b>Abcam </text>
+<text top="51" left="43" width="622" height="16" font="8"><b>Immunogen: </b>Synthetic peptide conjugated to KLH derived from within residues 1 - 100 </text>
+<text top="68" left="43" width="308" height="18" font="2">of Human Histone H3, tri methylated at K9. </text>
+<text top="89" left="43" width="188" height="16" font="8"><b>Product Number: </b>ab8898</text>
+<text top="108" left="43" width="153" height="16" font="8"><b>Lot Number: </b>484088</text>
+<text top="376" left="606" width="101" height="9" font="7">Performed at Broad Institute</text>
+</page>
+</pdf2xml>

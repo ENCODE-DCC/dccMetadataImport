@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="186" height="12" font="1">http://www.abcam.com/Rad21-antibody-ChI</text>
+<text top="613" left="238" width="84" height="12" font="1">P-Grade-ab992.html</text>
+<text top="77" left="138" width="38" height="12" font="1">10/28/11</text>
+<text top="340" left="95" width="430" height="12" font="1">Synthetic peptide (Human) conjugated to KLH - which represented a portion of human Rad21 encoded </text>
+<text top="352" left="95" width="147" height="12" font="1">within exon 14 (LocusLink ID 5885).</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="174" height="12" font="1">Anti-Rad21 antibody - ChIP Grade (ab992)</text>
+<text top="214" left="339" width="26" height="12" font="1">Rad21</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="29" height="12" font="1">Abcam</text>
+<text top="484" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="31" height="12" font="1">734371</text>
+<text top="300" left="215" width="26" height="12" font="1">ab992</text>
+<text top="520" left="395" width="24" height="12" font="2">siRNA</text>
+<text top="561" left="141" width="30" height="12" font="2">Affinity</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="430" height="12" font="1">The protein encoded by this gene is highly similar to the gene product of Schizosaccharomyces pombe </text>
+<text top="424" left="95" width="440" height="12" font="1">rad21, a gene involved in the repair of DNA double-strand breaks, as well as in chromatid cohesion during </text>
+<text top="436" left="95" width="429" height="12" font="1">mitosis. This protein is a nuclear phospho-protein, which becomes hyperphosphorylated in cell cycle M </text>
+<text top="448" left="95" width="449" height="12" font="1">phase. The highly regulated association of this protein with mitotic chromatin specifically at the centromere </text>
+<text top="460" left="95" width="369" height="12" font="1">region suggests its role in sister chromatid cohesion in mitotic cells. (provided by RefSeq)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="427" height="12" font="1">Comment: While the predicted size of Rad21 is ~72kD, according to product characterization literature </text>
+<text top="55" left="125" width="426" height="12" font="1">(found at manufacturer’s website), the bands at ~70kD are of unknown origin while a band of ~140kD, </text>
+<text top="67" left="125" width="407" height="12" font="1">similar to the one observed here, is identified as Rad21.  In support of this, siRNAs targeting Rad21 </text>
+<text top="79" left="125" width="433" height="12" font="1">dramatically reduce levels of the 140kD band, while levels of the 70kD band are unaffected (see Figure 2 </text>
+<text top="91" left="125" width="80" height="12" font="1">of this document).  </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+<text top="362" left="74" width="640" height="12" font="1">Western blot using ab992. Lane 1: nuclear lysate from K562 cells, Lane 2: nuclear lysate from GM12878 cells, Lane 3: nuclear lysate from HeLaS3 cells, Lane 4: </text>
+<text top="374" left="74" width="137" height="12" font="1">nuclear lysate from HepG2 cells.   </text>
+<text top="149" left="334" width="24" height="17" font="3"><b>250 </b></text>
+<text top="173" left="334" width="24" height="17" font="3"><b>150 </b></text>
+<text top="193" left="333" width="24" height="17" font="3"><b>100 </b></text>
+<text top="208" left="338" width="17" height="17" font="3"><b>75 </b></text>
+<text top="231" left="340" width="17" height="17" font="3"><b>50 </b></text>
+<text top="92" left="252" width="205" height="22" font="4">ab992 (Rad21) Immunoblot </text>
+<text top="343" left="337" width="107" height="15" font="5"><b>Lane     1      2     3    4  </b></text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="424" height="12" font="1">Comment:  Transfection with siRNA 7, and to a lesser extent, siRNA 6 significantly reduces levels of the </text>
+<text top="55" left="130" width="378" height="12" font="1">~145kD band seen by Western blotting with ab992 in all cell lines, while levels of the lower </text>
+<text top="67" left="130" width="387" height="12" font="1">abundance ~70kD band are unaffected.  As a loading control, blots were also probed with an </text>
+<text top="79" left="130" width="409" height="12" font="1">antibody to GAPDH, which was also unaffected by siRNA treatment (indicated by arrow). Based on </text>
+<text top="91" left="130" width="267" height="12" font="1">these observations, ab992 is validated by this ENCODE criterion. </text>
+<text top="103" left="130" width="2" height="12" font="1"> </text>
+<text top="115" left="130" width="413" height="12" font="1">We also note that an additional validation assay, ChIP with an antibody against SMC3 (a member of </text>
+<text top="127" left="130" width="399" height="12" font="1">the same protein complex as Rad21) has been carried out and very high levels of agreement are </text>
+<text top="139" left="130" width="396" height="12" font="1">observed between ChIP experiments.  Data is available in the validation document for ENCODE </text>
+<text top="152" left="130" width="75" height="12" font="1">antibody ab9263. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+	<fontspec id="7" size="6" family="Times" color="#000000"/>
+<text top="342" left="264" width="132" height="15" font="5"><b>Lane     1         2        3       4  </b></text>
+<text top="154" left="266" width="24" height="17" font="3"><b>250 </b></text>
+<text top="174" left="266" width="24" height="17" font="3"><b>150 </b></text>
+<text top="194" left="266" width="24" height="17" font="3"><b>100 </b></text>
+<text top="210" left="271" width="17" height="17" font="3"><b>75 </b></text>
+<text top="232" left="272" width="17" height="17" font="3"><b>50 </b></text>
+<text top="74" left="136" width="279" height="22" font="4">Figure 2    siRNA knockdown of Rad21 </text>
+<text top="427" left="43" width="78" height="15" font="6">K562 cells (1x10</text>
+<text top="427" left="121" width="4" height="10" font="7">6</text>
+<text top="427" left="125" width="626" height="15" font="6"> cells), grown according to ENCODE protocols (hFp://genome.ucsc.edu/ENCODE/dataStandards.html) were transfected with 100 </text>
+<text top="441" left="43" width="692" height="15" font="6">pmol siRNA using the DharmaFECT 1 transfecMon reagent (Cat# T‐2001‐03) according to manufacturer s instrucMons.  Cells were harvested 72 </text>
+<text top="455" left="43" width="661" height="15" font="6">hours aSer transfecMon.  Cells were transfected with a control, non‐targeMng siRNA (Lane 1), untransfected (Lane 2), Dharmacon siRNA  </text>
+<text top="470" left="43" width="688" height="15" font="6">J‐006832‐06 from siRNA set LU‐006832‐00‐0002  against Rad21 (Lane 3), Dharmacon siRNA  J‐006832‐07 from siRNA set LU‐006832‐00‐0002  </text>
+<text top="484" left="43" width="121" height="15" font="6">against Rad21 (Lane 4).   </text>
+<text top="236" left="445" width="39" height="15" font="5"><b>GAPDH </b></text>
+<text top="167" left="444" width="34" height="15" font="5"><b>Rad21 </b></text>
+</page>
+</pdf2xml>

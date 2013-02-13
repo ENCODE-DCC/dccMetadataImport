@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="189" height="12" font="1">http://www.scbt.com/datasheet-13125-ubf-f-</text>
+<text top="613" left="238" width="67" height="12" font="1">9-antibody.html</text>
+<text top="77" left="138" width="27" height="12" font="1">2/3/12</text>
+<text top="340" left="95" width="315" height="12" font="1">UBF (F-9) is a mouse monoclonal antibody raised against amino acids 1-220 </text>
+<text top="352" left="95" width="101" height="12" font="1">of UBF of human origin. </text>
+<text top="364" left="95" width="2" height="12" font="1"> </text>
+<text top="376" left="95" width="307" height="12" font="1">Genetic locus: UBTF (human) mapping to 17q21.3; Ubtf (mouse) mapping </text>
+<text top="388" left="95" width="34" height="12" font="1">to 11 D. </text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="120" height="12" font="1">UBF (F-9) Antibody: sc-13125</text>
+<text top="214" left="339" width="104" height="12" font="1">UBTF EntrezGeneID:7343</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="124" height="12" font="1">Santa Cruz Biotechnology Inc.</text>
+<text top="484" left="361" width="28" height="12" font="1">Mouse</text>
+<text top="300" left="395" width="26" height="12" font="1">B1804</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-13125</text>
+<text top="520" left="395" width="19" height="12" font="2">ChIP</text>
+<text top="561" left="141" width="109" height="12" font="2">Other Purification Method</text>
+<text top="561" left="356" width="50" height="12" font="2">Monoclonal</text>
+<text top="412" left="95" width="427" height="12" font="1">Upstream binding factor (UBF) is a transcription factor required for expression of the 18S, 5.8S, and 28S </text>
+<text top="424" left="95" width="430" height="12" font="1">ribosomal RNAs, along with SL1 (a complex of TBP (MIM 600075) and multiple TBP-associated factors or </text>
+<text top="436" left="95" width="448" height="12" font="1">'TAFs'). Two UBF polypeptides, of 94 and 97 kD, exist in the human (Bell et al., 1988 (PubMed 3413483)). UBF </text>
+<text top="448" left="95" width="447" height="12" font="1">is a nucleolar phosphoprotein with both DNA binding and transactivation domains. Sequence-specific DNA </text>
+<text top="460" left="95" width="426" height="12" font="1">binding to the core and upstream control elements of the human rRNA promoter is mediated through </text>
+<text top="472" left="95" width="331" height="12" font="1">several HMG boxes (Jantzen et al., 1990 (PubMed 2330041)).(supplied by OMIM)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="414" height="12" font="1">COMMENT:  Using antibody SAB1404509 or sc-13125, we observe a major band in Western blots on </text>
+<text top="55" left="125" width="401" height="12" font="1">lysates from cell lines K562, HeLa S3, HepG2, and, at lower intensity, GM12878  that migrates at a </text>
+<text top="67" left="125" width="424" height="12" font="1">position consistent with the predicted size (~89kD) of UBF/UBTF  (Panels A,B).  This band is specifically </text>
+<text top="79" left="125" width="424" height="12" font="1">immunoprecipitated from K562 lysates by each antibody (Panels C,D). Based on this, SAB1404509 and </text>
+<text top="91" left="125" width="164" height="12" font="1">sc-13125 are validated by this criterion. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="10" family="Times" color="#000000"/>
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+	<fontspec id="5" size="22" family="Times" color="#000000"/>
+	<fontspec id="6" size="8" family="Times" color="#000000"/>
+	<fontspec id="7" size="14" family="Times" color="#000000"/>
+	<fontspec id="8" size="16" family="Times" color="#000000"/>
+<text top="324" left="70" width="625" height="13" font="3"><b>A.  </b>Western blot using antibody sc13125 on nuclear lysates from cell lines GM12878 (Lane1), K562 (Lane2), HeLaS3 </text>
+<text top="338" left="70" width="636" height="13" font="4">(Lane3), and HepG2 (Lane4).<b> B.  </b>Western blot using antibody SAB1404509 on nuclear lysates from cell lines GM12878 </text>
+<text top="352" left="70" width="607" height="13" font="4">(Lane1), K562 (Lane2), HeLaS3 (Lane3), and HepG2 (Lane4).<b>  C.</b> Immunoprecipitation was performed on nuclear </text>
+<text top="367" left="70" width="558" height="13" font="4">lysates from K562 cells using antibody sc13125.  Lane1: Nuclear lysate.  Lane 2: Unbound material from </text>
+<text top="381" left="70" width="621" height="13" font="4">immunoprecipitation with sc13125.  Lane 3: Bound material from immunoprecipitation with sc13125.  Lane 4:  Bound </text>
+<text top="396" left="70" width="623" height="13" font="4">material from control immunoprecipitation with mouse IgG. <b>D.</b> Immunoprecipitation was performed on nuclear lysates </text>
+<text top="410" left="70" width="542" height="13" font="4">from K562 cells using antibody SAB1404509.  Lane1: Nuclear lysate.  Lane 2: Unbound material from </text>
+<text top="424" left="70" width="634" height="13" font="4">immunoprecipitation with SAB1404509.  Lane 3: Bound material from immunoprecipitation with SAB1404509.  Lane 4:  </text>
+<text top="439" left="70" width="631" height="13" font="4">Bound material from control immunoprecipitation with mouse IgG. Arrow indicates band of expected size (97kD) that is </text>
+<text top="453" left="70" width="335" height="13" font="4">highly enriched in the specifically immunoprecipitated fraction.  </text>
+<text top="468" left="70" width="3" height="13" font="4"> </text>
+<text top="64" left="96" width="542" height="27" font="5">Antibody sc13125 (UBF) and SAB1404509 (UBTF) </text>
+<text top="92" left="190" width="353" height="27" font="5"> Immunoblot/immunoprecipitation</text>
+<text top="103" left="540" width="3" height="13" font="4"> </text>
+<text top="158" left="67" width="42" height="11" font="1">MW (kD) </text>
+<text top="188" left="74" width="19" height="11" font="1">100 </text>
+<text top="198" left="74" width="14" height="11" font="1">75 </text>
+<text top="215" left="74" width="14" height="11" font="1">50 </text>
+<text top="229" left="74" width="14" height="11" font="1">38 </text>
+<text top="174" left="74" width="19" height="11" font="1">150 </text>
+<text top="244" left="74" width="14" height="11" font="1">25 </text>
+<text top="253" left="74" width="14" height="11" font="1">20 </text>
+<text top="267" left="74" width="14" height="11" font="1">15 </text>
+<text top="282" left="66" width="91" height="11" font="6"><b>Lane:    1    2   3   4 </b></text>
+<text top="158" left="43" width="20" height="18" font="7">A. </text>
+<text top="282" left="383" width="102" height="11" font="6"><b>Lane:     1   2   3       4 </b></text>
+<text top="159" left="384" width="42" height="11" font="1">MW (kD) </text>
+<text top="189" left="386" width="19" height="11" font="1">100 </text>
+<text top="201" left="386" width="14" height="11" font="1">75 </text>
+<text top="219" left="386" width="14" height="11" font="1">50 </text>
+<text top="234" left="386" width="14" height="11" font="1">38 </text>
+<text top="173" left="386" width="19" height="11" font="1">150 </text>
+<text top="250" left="386" width="14" height="11" font="1">25 </text>
+<text top="269" left="386" width="14" height="11" font="1">15 </text>
+<text top="159" left="360" width="23" height="20" font="8">C. </text>
+<text top="158" left="214" width="42" height="11" font="1">MW (kD) </text>
+<text top="188" left="221" width="19" height="11" font="1">100 </text>
+<text top="198" left="221" width="14" height="11" font="1">75 </text>
+<text top="215" left="221" width="14" height="11" font="1">50 </text>
+<text top="229" left="221" width="14" height="11" font="1">38 </text>
+<text top="174" left="221" width="19" height="11" font="1">150 </text>
+<text top="244" left="221" width="14" height="11" font="1">25 </text>
+<text top="253" left="221" width="14" height="11" font="1">20 </text>
+<text top="267" left="221" width="14" height="11" font="1">15 </text>
+<text top="282" left="213" width="99" height="11" font="6"><b>Lane:       1    2   3   4 </b></text>
+<text top="158" left="190" width="20" height="18" font="7">B. </text>
+<text top="155" left="553" width="42" height="11" font="1">MW (kD) </text>
+<text top="185" left="560" width="19" height="11" font="1">100 </text>
+<text top="195" left="560" width="14" height="11" font="1">75 </text>
+<text top="212" left="560" width="14" height="11" font="1">50 </text>
+<text top="226" left="560" width="14" height="11" font="1">38 </text>
+<text top="171" left="560" width="19" height="11" font="1">150 </text>
+<text top="241" left="560" width="14" height="11" font="1">25 </text>
+<text top="250" left="560" width="14" height="11" font="1">20 </text>
+<text top="264" left="560" width="14" height="11" font="1">15 </text>
+<text top="279" left="552" width="105" height="11" font="6"><b>Lane:    1    2   3        4 </b></text>
+<text top="155" left="529" width="20" height="18" font="7">D. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="393" height="12" font="1">Comment: Because the overlap of the top 40% of peaks from datasets derived from antibodies </text>
+<text top="55" left="130" width="389" height="12" font="1">sc-13125 and SAB1404509 (compared using standard ENCODE scoring methods) exceeds the </text>
+<text top="67" left="130" width="345" height="12" font="1">recommended threshold of 80%, both antibodies meet this criterion for validation. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="9" size="10" family="Times" color="#424242"/>
+	<fontspec id="10" size="10" family="Times" color="#77716b"/>
+	<fontspec id="11" size="10" family="Times" color="#00a8a9"/>
+	<fontspec id="12" size="11" family="Times" color="#000000"/>
+	<fontspec id="13" size="14" family="Times" color="#e62400"/>
+	<fontspec id="14" size="18" family="Times" color="#000000"/>
+<text top="306" left="77" width="3" height="13" font="4"> </text>
+<text top="320" left="77" width="147" height="13" font="3"><b>Antibodies/Immunogens:</b> </text>
+<text top="334" left="77" width="61" height="13" font="3"><b>sc-13125 :</b> </text>
+<text top="334" left="139" width="303" height="13" font="9">raised against amino acids 1-220 of UBF of human origin</text>
+<text top="334" left="442" width="3" height="13" font="4"> </text>
+<text top="349" left="77" width="161" height="13" font="3"><b>SAB1404509:  </b>Immunogen is<b> </b></text>
+<text top="349" left="239" width="431" height="13" font="10">UBTF (NP_055048, 551 a.a. ~ 651 a.a) partial recombinant protein with GST tag.</text>
+<text top="349" left="670" width="3" height="13" font="4"> </text>
+<text top="363" left="77" width="3" height="13" font="4"> </text>
+<text top="378" left="77" width="635" height="13" font="3"><b>Comparison</b>: K562 cells were used for ChIP-seq with antibody SAB1404509 or antibody sc-13125.  Peaks were called </text>
+<text top="392" left="91" width="623" height="13" font="4">from replicate experiments using PeakSeq with a .01 q-value cut-off.  Comparisons between experiments were made </text>
+<text top="406" left="91" width="456" height="13" font="4">using these peaks according to standard ENCODE replicate comparison parameters (</text>
+<text top="421" left="91" width="548" height="13" font="11">http://genome.ucsc.edu/ENCODE/protocols/dataStandards/ChIP_DNase_FAIRE_DNAme_v2_2011.pdf</text>
+<text top="421" left="640" width="87" height="13" font="4">; reported is the </text>
+<text top="435" left="91" width="604" height="13" font="4">fraction of the  top 40% of peaks in one list that are found in the full list of peaks obtained with the other antibody.  </text>
+<text top="191" left="375" width="94" height="16" font="12">UBTF               </text>
+<text top="208" left="364" width="57" height="16" font="12">sc-13125</text>
+<text top="191" left="476" width="40" height="16" font="12">UBTF </text>
+<text top="208" left="453" width="82" height="16" font="12">SAB1404509</text>
+<text top="229" left="285" width="35" height="16" font="12">Total </text>
+<text top="246" left="281" width="37" height="16" font="12">peaks</text>
+<text top="238" left="374" width="39" height="16" font="12">34443</text>
+<text top="238" left="474" width="39" height="16" font="12">66880</text>
+<text top="264" left="275" width="52" height="16" font="12">% Peak </text>
+<text top="281" left="277" width="50" height="16" font="12">overlap </text>
+<text top="271" left="377" width="31" height="18" font="13"><b>99.2</b></text>
+<text top="271" left="478" width="31" height="18" font="13"><b>99.7</b></text>
+<text top="111" left="88" width="621" height="22" font="14"><b>Validation 2: ChIPseq with alternate antibodies to the same factor</b></text>
+<text top="108" left="703" width="7" height="27" font="5"> </text>
+<text top="136" left="48" width="7" height="27" font="5"> </text>
+</page>
+</pdf2xml>

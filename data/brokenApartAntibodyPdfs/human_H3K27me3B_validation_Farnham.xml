@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="15" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="9" family="Times" color="#000000"/>
+<text top="76" left="122" width="372" height="16" font="0">H3K27me3 antibody validation performed by CST </text>
+<text top="97" left="219" width="178" height="16" font="0">CST  Cat#: 9733  Lot#1 </text>
+<text top="117" left="175" width="265" height="13" font="1">http://www.cellsignal.com/products/9733.html </text>
+<text top="133" left="72" width="4" height="13" font="1"> </text>
+<text top="149" left="72" width="4" height="13" font="1"> </text>
+<text top="165" left="72" width="4" height="13" font="1"> </text>
+<text top="301" left="172" width="4" height="13" font="1"> </text>
+<text top="313" left="72" width="468" height="11" font="2">Fig1. Western blot analysis of various cell lines using Tri-Methyl-Histone H3 (Lys27) (C36B11) </text>
+<text top="327" left="72" width="65" height="11" font="2">Rabbit mAb. </text>
+<text top="341" left="72" width="3" height="11" font="2"> </text>
+<text top="355" left="72" width="3" height="11" font="2"> </text>
+<text top="368" left="72" width="3" height="11" font="2"> </text>
+<text top="487" left="344" width="3" height="11" font="2"> </text>
+<text top="497" left="72" width="3" height="11" font="2"> </text>
+<text top="511" left="72" width="443" height="11" font="2">Fig2. Tri-Methyl Histone H3 (Lys27) (C36B11) Rabbit mAb specificity was determined by </text>
+<text top="525" left="72" width="455" height="11" font="2">peptide ELISA. The graph depicts the binding of the antibody to pre-coated tri-methyl histone </text>
+<text top="539" left="72" width="462" height="11" font="2">H3 (Lys27) peptide in the presence of increasing concentrations of various competitor peptides. </text>
+<text top="553" left="72" width="429" height="11" font="2">As shown, only the tri-methyl histone H3 (Lys27) peptide competed away binding of the </text>
+<text top="566" left="72" width="48" height="11" font="2">antibody. </text>
+<text top="580" left="72" width="3" height="11" font="2"> </text>
+</page>
+</pdf2xml>

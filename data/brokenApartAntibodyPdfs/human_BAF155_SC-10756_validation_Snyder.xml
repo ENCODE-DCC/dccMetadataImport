@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="38" height="12" font="1">12/31/11</text>
+<text top="340" left="95" width="316" height="12" font="1">epitope corresponding to amino acids 998-1073 of BAF155 of human origin </text>
+<text top="352" left="95" width="449" height="12" font="1">recommended for detection of BAF155 of mouse, rat and human origin by WB, IP, IF and ELISA; also reactive </text>
+<text top="364" left="95" width="218" height="12" font="1">with additional species, including equine and canine</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="142" height="12" font="1">BAF155 (H-76) Antibody: sc-10756</text>
+<text top="214" left="339" width="120" height="12" font="1">BAF155 (EntrezGeneID 6599)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="484" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="27" height="12" font="1">A2004</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-10756</text>
+<text top="520" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="141" width="109" height="12" font="2">Other Purification Method</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="440" height="12" font="1">The protein encoded by this gene is a member of the SWI/SNF family of proteins, whose members display </text>
+<text top="424" left="95" width="54" height="12" font="1">helicase and </text>
+<text top="436" left="95" width="449" height="12" font="1">ATPase activities and which are thought to regulate transcription of certain genes by altering the chromatin </text>
+<text top="448" left="95" width="40" height="12" font="1">structure </text>
+<text top="460" left="95" width="418" height="12" font="1">around those genes. The encoded protein is part of the large ATP-dependent chromatin remodeling </text>
+<text top="472" left="95" width="94" height="12" font="1">complex SNF/SWI and </text>
+<text top="484" left="95" width="322" height="12" font="1">contains a predicted leucine zipper motif typical of many transcription factors</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="422" height="12" font="1">Comment: A band consistent with the commonly observed mobility of BAF155/SMARCC1 (~155kD) is </text>
+<text top="55" left="125" width="390" height="12" font="1">immunoprecipitated from HeLaS3 nuclear lysate using sc-10756.  An additional band of lesser </text>
+<text top="67" left="125" width="422" height="12" font="1">abundance is observed at ~120kD.    Mass spectrometry confirms that both bands contains BAF155 in </text>
+<text top="79" left="125" width="154" height="12" font="1">high abundance (see validation #2).   </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="10" family="Times" color="#000000"/>
+	<fontspec id="4" size="22" family="Times" color="#000000"/>
+<text top="374" left="281" width="302" height="13" font="3">IP was performed with nuclear extract from HeLaS3 cells</text>
+<text top="364" left="582" width="7" height="27" font="4"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="59" height="12" font="1">Methodology </text>
+<text top="55" left="130" width="423" height="12" font="1">HeLaS3 whole cell lysates were immunoprecipitated using sc10756, and the IP fraction was loaded on </text>
+<text top="67" left="130" width="146" height="12" font="1">a 10% polyacrylamide gel (NuPAGE</text>
+<text top="66" left="276" width="235" height="14" font="1">ｨ Bis-Tris Gel) and separated with an invitrogen NuPAGE </text>
+<text top="79" left="130" width="389" height="12" font="1">electrophoresis system. The gel was silver-stained, gel fragments corresponding to the bands </text>
+<text top="91" left="130" width="245" height="12" font="1">indicated were excised and destained using the SilverSNAP</text>
+<text top="90" left="375" width="161" height="14" font="1">ｨ Stain for Mass Spectrometry (Pierce). </text>
+<text top="103" left="130" width="402" height="12" font="1">Then proteins were trysinized using the in-gel digestion method. The samples were subjected to </text>
+<text top="115" left="130" width="407" height="12" font="1">nanoflow chromatography using the nanoAcquity UPLC system (Waters Inc.) prior to introduction </text>
+<text top="127" left="130" width="409" height="12" font="1">into the mass spectrometer for further analysis. Mass spectrometry was performed on a hybrid ion </text>
+<text top="139" left="130" width="406" height="12" font="1">trap LTQ Orbitrap mass spectrometer (Thermo Fisher Scientific) in positive electrospray ionization </text>
+<text top="152" left="130" width="410" height="12" font="1">(ESI) mode. The spectra was acquired in a data dependent fashion consisting of full mass spectrum </text>
+<text top="164" left="130" width="421" height="12" font="1">scan (300–2000 m/z) followed by MS/MS scan of the 3 most abundant parent ions. For the full scan in </text>
+<text top="176" left="130" width="416" height="12" font="1">the orbitrap the automatic gain control (AGC) was set to 16106 and the resolving power for 400 m/z </text>
+<text top="188" left="130" width="383" height="12" font="1">of 30,000. The MS/MS scans were done using the ion trap part of the mass spectrometer at a </text>
+<text top="200" left="130" width="414" height="12" font="1">normalized collision energy of 24 V. Dynamic exclusion time was set to 100 s to avoid loss of MS/MS </text>
+<text top="212" left="130" width="406" height="12" font="1">spectral information due to repeated sampling of the most abundant peaks.  Sequence data from </text>
+<text top="224" left="130" width="386" height="12" font="1">MS/MS spectra was processed using the SEQUEST database search algorithm (Thermo Fisher </text>
+<text top="236" left="130" width="420" height="12" font="1">Scientific).  The resulting protein identifications were brought into the Scaffold visualization software </text>
+<text top="248" left="130" width="400" height="12" font="1">(Proteome Software) where the information was further refined resulting in improved protein id </text>
+<text top="260" left="130" width="401" height="12" font="1">conformation.  Scaffold search criteria were set at 98% probability and required at least 2 unique </text>
+<text top="272" left="130" width="67" height="12" font="1">peptides per id. </text>
+<text top="284" left="130" width="2" height="12" font="1"> </text>
+<text top="296" left="130" width="44" height="12" font="1">Comment </text>
+<text top="308" left="130" width="367" height="12" font="1">Mass spectrometry identifies BAF155/SMARCC1 as the major component of the material </text>
+<text top="320" left="130" width="412" height="12" font="1">immunoprecipitated with antibody sc-10756 and excised from the bands indicated in the figure.  A </text>
+<text top="332" left="130" width="419" height="12" font="1">more detailed presentation of this data has been published (Euskirchen et.al., (2011) PLoS Genetics, 7</text>
+<text top="344" left="130" width="396" height="12" font="1">(3):1-20), where an analysis of all associated proteins in presented.  This work confirms previous </text>
+<text top="356" left="130" width="420" height="12" font="1">observations that many components of the SWI/SNF complex are associated with BAF155/SMARCC1, </text>
+<text top="368" left="130" width="405" height="12" font="1">including three additional members, BAF170/SMARCC2 , Brg1/SMARCA4 , and Ini1/SMARCB1 , for </text>
+<text top="380" left="130" width="237" height="12" font="1">which ENCODE ChIP-seq datasets are currently available. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="5" size="6" family="Times" color="#000000"/>
+	<fontspec id="6" size="6" family="Times" color="#000000"/>
+<text top="144" left="316" width="34" height="10" font="5"><b>Gel Cut</b></text>
+<text top="144" left="452" width="34" height="10" font="5"><b>Protein</b></text>
+<text top="144" left="589" width="148" height="10" font="5"><b>Accession # # unique peptides</b></text>
+<text top="155" left="318" width="492" height="10" font="6">Slice_5 SMARCC1 SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily C member 1</text>
+<text top="155" left="590" width="54" height="10" font="6">IPI00234252</text>
+<text top="155" left="690" width="11" height="10" font="6">34</text>
+<text top="165" left="318" width="546" height="10" font="6">Slice_5 SMARCC2 Isoform 2 of SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily C member 2</text>
+<text top="165" left="590" width="54" height="10" font="6">IPI00150057</text>
+<text top="165" left="692" width="5" height="10" font="6">9</text>
+<text top="175" left="318" width="327" height="10" font="6">Slice_5 SYNE1 Spectrin repeat containing, nuclear envelope 1 IPI00747907</text>
+<text top="175" left="692" width="5" height="10" font="6">3</text>
+<text top="186" left="318" width="30" height="10" font="6">Slice_5</text>
+<text top="186" left="434" width="69" height="10" font="6">PCNT Pericentrin</text>
+<text top="186" left="590" width="54" height="10" font="6">IPI00479143</text>
+<text top="186" left="692" width="5" height="10" font="6">2</text>
+<text top="228" left="318" width="492" height="10" font="6">Slice_6 SMARCC1 SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily C member 1</text>
+<text top="228" left="590" width="54" height="10" font="6">IPI00234252</text>
+<text top="228" left="690" width="11" height="10" font="6">14</text>
+<text top="399" left="132" width="302" height="13" font="3">IP was performed with nuclear extract from HeLaS3 cells</text>
+<text top="388" left="434" width="7" height="27" font="4"> </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="20" family="Times" color="#000000"/>
+	<fontspec id="1" size="7" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+<text top="46" left="246" width="80" height="21" font="0"><b>
+</b></text>
+<text top="46" left="359" width="79" height="21" font="0"><b> </b></text>
+<text top="46" left="461" width="93" height="21" font="0"><b></b></text>
+<text top="90" left="67" width="75" height="11" font="1">Date of Submission</text>
+<text top="339" left="58" width="38" height="11" font="1">Antibody </text>
+<text top="350" left="58" width="48" height="11" font="1">Description: </text>
+<text top="362" left="58" width="2" height="11" font="1"> </text>
+<text top="467" left="100" width="56" height="11" font="1">Species Target</text>
+<text top="501" left="100" width="83" height="11" font="1">Validation Method #1</text>
+<text top="142" left="292" width="23" height="11" font="1">Email:</text>
+<text top="142" left="67" width="25" height="11" font="1">Name:</text>
+<text top="217" left="67" width="63" height="11" font="1">Antibody Name:</text>
+<text top="217" left="300" width="27" height="11" font="1">Target:</text>
+<text top="175" left="200" width="14" height="11" font="1">Lab</text>
+<text top="249" left="192" width="41" height="11" font="1">Company/</text>
+<text top="260" left="192" width="29" height="11" font="1">Source:</text>
+<text top="467" left="300" width="49" height="11" font="1">Species Host</text>
+<text top="296" left="334" width="46" height="11" font="1">Lot Number</text>
+<text top="291" left="58" width="159" height="11" font="1">Catalog Number, database ID, laboratory </text>
+<text top="302" left="58" width="2" height="11" font="1"> </text>
+<text top="501" left="300" width="83" height="11" font="1">Validation Method #2</text>
+<text top="533" left="100" width="46" height="11" font="1">Purification </text>
+<text top="544" left="100" width="31" height="11" font="1">Method</text>
+<text top="533" left="300" width="45" height="11" font="1">Polyclonal/ </text>
+<text top="544" left="300" width="46" height="11" font="1">Monoclonal</text>
+<text top="598" left="50" width="54" height="11" font="1">Reference (PI/</text>
+<text top="610" left="50" width="46" height="11" font="1">Publication </text>
+<text top="621" left="50" width="48" height="11" font="1">Information)</text>
+<text top="643" left="49" width="272" height="11" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="654" left="49" width="190" height="10" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="664" left="49" width="144" height="10" font="2">please write-in the appropriate information</text>
+<text top="692" left="50" width="55" height="11" font="1">Histone Name</text>
+<text top="692" left="167" width="48" height="11" font="1">AA modified</text>
+<text top="692" left="325" width="45" height="11" font="1">AA Position</text>
+<text top="692" left="434" width="49" height="11" font="1">Modification</text>
+<text top="406" left="58" width="27" height="11" font="1">Target </text>
+<text top="417" left="58" width="48" height="11" font="1">Description: </text>
+<text top="428" left="58" width="2" height="11" font="1"> </text>
+<text top="573" left="175" width="48" height="11" font="1">Vendor URL:</text>
+<text top="575" left="243" width="168" height="11" font="1">http://www.abcam.com/Zinc-finger-MIZ-do</text>
+<text top="89" left="150" width="44" height="11" font="1">06/15/2012</text>
+<text top="333" left="110" width="403" height="11" font="1">This is a rabbit polyclonal antibody generated using a synthetic peptide conjugated to KLH derived from </text>
+<text top="345" left="110" width="310" height="11" font="1">within residues 200 - 300 of Human Zinc finger MIZ domain-containing protein 1</text>
+<text top="467" left="162" width="28" height="11" font="1">Human</text>
+<text top="500" left="187" width="83" height="11" font="1">Immunoprecipitation</text>
+<text top="142" left="324" width="78" height="11" font="1">trupti@stanford.edu</text>
+<text top="142" left="99" width="46" height="11" font="1">Trupti Kawli</text>
+<text top="217" left="134" width="65" height="11" font="1">ZMIZ1 (ab65767)</text>
+<text top="217" left="336" width="104" height="11" font="1">ZMIZ1 (Entrez Gene 57178)</text>
+<text top="254" left="244" width="27" height="11" font="1">Abcam</text>
+<text top="467" left="357" width="25" height="11" font="1">Rabbit</text>
+<text top="296" left="389" width="42" height="11" font="1">GR30927-1</text>
+<text top="296" left="221" width="35" height="11" font="1">Ab65767</text>
+<text top="500" left="388" width="50" height="11" font="1">IP-Mass Spec</text>
+<text top="538" left="153" width="28" height="11" font="1">Affinity</text>
+<text top="538" left="352" width="40" height="11" font="1">Polyclonal</text>
+<text top="400" left="110" width="376" height="11" font="1">Zinc finger MIZ domain-containing protein 1that has been shown to  increases ligand-dependent </text>
+<text top="411" left="110" width="316" height="11" font="1">transcriptional activity of AR and promotes AR sumoylation. The stimulation of AR </text>
+<text top="422" left="110" width="155" height="11" font="1">activity is dependent upon sumoylation.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="153" left="71" width="52" height="11" font="1">Validation #1 </text>
+<text top="164" left="71" width="31" height="11" font="1">Analysis</text>
+<text top="630" left="68" width="133" height="11" font="1">Insert Validation Image (click here)</text>
+<text top="58" left="138" width="397" height="11" font="1">A. Western blots on nuclear lysates from cell lines GM12878 (Lane1), K562 (Lane2), HeLaS3 (Lane3), and </text>
+<text top="69" left="138" width="61" height="11" font="1">HepG2 (Lane4). </text>
+<text top="80" left="138" width="2" height="11" font="1"> </text>
+<text top="92" left="138" width="381" height="11" font="1">B. Immunoprecipitation was performed on nuclear lysates from K562 cells using antibody ab65767 </text>
+<text top="103" left="138" width="370" height="11" font="1">against ZMIZ1. Lane1: Nuclear lysate. Lane 2: Unbound material from immunoprecipitation with </text>
+<text top="114" left="138" width="346" height="11" font="1">ab65767. Lane 3: Bound material from immunoprecipitation with ab65767. Lane 4: Bound </text>
+<text top="125" left="138" width="379" height="11" font="1">material from control immunoprecipitation with rabbit IgG. Arrow indicates band of expected size </text>
+<text top="136" left="138" width="370" height="11" font="1">(115kD) that is enriched in the specifically immunoprecipitated fraction. Smaller bands could be </text>
+<text top="147" left="138" width="397" height="11" font="1">possibly degradation products of ZMIZ1 protein. Band indicated by * in K562 immunoprecipitate is IgG </text>
+<text top="158" left="138" width="48" height="11" font="1">light chains. </text>
+<text top="170" left="138" width="2" height="11" font="1"> </text>
+<text top="181" left="138" width="338" height="11" font="1">Comment: A band of ~115 kD is detected by Western blotting with ab65767 in multiple </text>
+<text top="192" left="138" width="391" height="11" font="1">human cell lines.  Immunoprecipitation from K562 nuclear lysate enriches a protein of ~115KD. Based </text>
+<text top="203" left="138" width="253" height="11" font="1">on these observations, this antibody meets this ENCODE criterion.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="17" family="Times" color="#000000"/>
+<text top="158" left="279" width="0" height="24" font="3">!!1!!!2!!3!!4!!</text>
+<text top="83" left="444" width="0" height="24" font="3">A.</text>
+<text top="99" left="444" width="0" height="29" font="3">!!</text>
+<text top="297" left="444" width="0" height="24" font="3">B.</text>
+<text top="313" left="444" width="0" height="24" font="3">!!</text>
+<text top="373" left="279" width="0" height="24" font="3">!1!!!2!!3!!!!!!4!!</text>
+<text top="434" left="319" width="0" height="24" font="3">*!</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="166" left="75" width="52" height="11" font="1">Validation #2 </text>
+<text top="177" left="75" width="31" height="11" font="1">Analysis</text>
+<text top="614" left="72" width="134" height="11" font="1">Insert Validation Image (Click here)</text>
+<text top="663" left="271" width="63" height="11" font="1">Submit by Email</text>
+<text top="58" left="143" width="380" height="11" font="1">Immunoprecipitation of ZMIZ1 from K562 cells using ab65767. Lane 1: input nuclear lysate, Lane 2: </text>
+<text top="69" left="143" width="388" height="11" font="1">material immunoprecipitated with ab65767, Lane 3: material immunoprecipitated using control IgG. </text>
+<text top="80" left="143" width="379" height="11" font="1">Bands A was excised from the gel and subject to analysis by mass spectrometry. This antibody was </text>
+<text top="92" left="143" width="368" height="11" font="1">raised against an immunogen that is predicted to cross react with both isoform 1 (115 kDa) and </text>
+<text top="103" left="143" width="364" height="11" font="1">isoform 2 (107 kDa) of ZMIZ1. The bands we observe at ~115 kDa and ~105 kDa could possibly </text>
+<text top="114" left="143" width="162" height="11" font="1">correspond to teh two isoforms of ZMIZ1. </text>
+<text top="125" left="143" width="2" height="11" font="1"> </text>
+<text top="136" left="143" width="374" height="11" font="1">IP followed by mass spectrometry: Briefly, protein was immunoprecipitated from K562 whole cell </text>
+<text top="147" left="143" width="357" height="11" font="1">lysates using ab65767, and the IP fraction was loaded on a 10% polyacrylamide gel (NuPAGE </text>
+<text top="158" left="143" width="351" height="11" font="1">Bis-Tris Gel) and separated with an Invitrogen NuPAGE electrophoresis system. The gel was </text>
+<text top="170" left="143" width="391" height="11" font="1">silver-stained, gel fragments corresponding to the bands indicated were excised and destained using </text>
+<text top="181" left="143" width="385" height="11" font="1">the SilverSNAP Stain for Mass Spectrometry (Pierce). Then proteins were trypsinized using the in-gel </text>
+<text top="192" left="143" width="379" height="11" font="1">digestion method. Digested proteins were analyzed on an LTQ-Orbitrap (Thermo Scientific) by the </text>
+<text top="203" left="143" width="391" height="11" font="1">nanoLC-ESI-MS/MS technique. Peptides were identified by the SEQUEST algorithm and filtered with a </text>
+<text top="214" left="143" width="368" height="11" font="1">high confidence threshold (Protein false discovery rate &lt; 1%, 2 peptides per protein minimum). </text>
+<text top="225" left="143" width="379" height="11" font="1">We report 22 different proteins identified in band A, of which 9 were detected in the control IgG IP </text>
+<text top="236" left="143" width="390" height="11" font="1">too, indicating a non specific enrichment of these proteons during immunoprecipitation. 3 out of the </text>
+<text top="248" left="143" width="340" height="11" font="1">top 5 hits were enriched in both the ab65767 as well as control IgG IP. Of the specifically </text>
+<text top="259" left="143" width="391" height="11" font="1">immunoprecipitated proteins, ZMIZ1 is the most abundant protein. Based on these observations, this </text>
+<text top="270" left="143" width="377" height="11" font="1">band is likely due to the presence of immunoprecipitated ZMIZ1 and ab65767 meets the ENCODE </text>
+<text top="281" left="143" width="151" height="11" font="1">standard for validation by this criterion.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="4" size="20" family="Times" color="#000000"/>
+	<fontspec id="5" size="15" family="Times" color="#000000"/>
+<text top="21" left="522" width="0" height="27" font="4">Im</text>
+<text top="44" left="522" width="0" height="27" font="4">m</text>
+<text top="61" left="522" width="0" height="38" font="4">un</text>
+<text top="84" left="522" width="0" height="38" font="4">op</text>
+<text top="108" left="522" width="0" height="35" font="4">re</text>
+<text top="126" left="522" width="0" height="41" font="4">cip</text>
+<text top="152" left="522" width="0" height="32" font="4">ita-</text>
+<text top="187" left="522" width="0" height="38" font="4">on</text>
+<text top="211" left="522" width="0" height="32" font="4">.as</text>
+<text top="235" left="522" width="0" height="35" font="4">say</text>
+<text top="264" left="522" width="0" height="39" font="4">.(IP</text>
+<text top="292" left="522" width="0" height="39" font="4">).+.</text>
+<text top="320" left="522" width="0" height="32" font="4">.m</text>
+<text top="342" left="522" width="0" height="27" font="4">as</text>
+<text top="362" left="522" width="0" height="40" font="4">s.s</text>
+<text top="384" left="522" width="0" height="38" font="4">pe</text>
+<text top="406" left="522" width="0" height="36" font="4">ctr</text>
+<text top="431" left="522" width="0" height="38" font="4">om</text>
+<text top="460" left="522" width="0" height="38" font="4">etr</text>
+<text top="486" left="522" width="0" height="42" font="4">y.as</text>
+<text top="520" left="522" width="0" height="35" font="4">say</text>
+<text top="549" left="522" width="0" height="27" font="4">.</text>
+<text top="190" left="469" width="0" height="30" font="5">ZMIZ</text>
+<text top="226" left="469" width="0" height="34" font="5">1.(</text>
+<text top="244" left="469" width="0" height="21" font="5">ab</text>
+<text top="261" left="469" width="0" height="30" font="5">65</text>
+<text top="279" left="469" width="0" height="30" font="5">76</text>
+<text top="297" left="469" width="0" height="36" font="5">7))</text>
+<text top="317" left="469" width="0" height="31" font="5">.(R)</text>
+<text top="341" left="469" width="0" height="25" font="5">.1</text>
+<text top="354" left="469" width="0" height="30" font="5">15</text>
+<text top="372" left="469" width="0" height="33" font="5">.kD</text>
+<text top="394" left="469" width="0" height="21" font="5">.</text>
+<text top="111" left="468" width="0" height="21" font="5">MW</text>
+<text top="142" left="468" width="0" height="21" font="5">.</text>
+<text top="112" left="398" width="0" height="21" font="5">250.</text>
+<text top="112" left="368" width="0" height="21" font="5">150.</text>
+<text top="112" left="344" width="0" height="21" font="5">100.</text>
+<text top="121" left="323" width="0" height="21" font="5">75.</text>
+<text top="111" left="294" width="0" height="21" font="5">...50.</text>
+<text top="122" left="268" width="0" height="21" font="5">37.</text>
+<text top="122" left="240" width="0" height="21" font="5">25.</text>
+<text top="121" left="198" width="0" height="21" font="5">10.</text>
+<text top="121" left="137" width="0" height="29" font="5">Lan</text>
+<text top="146" left="137" width="0" height="30" font="5">e.</text>
+<text top="197" left="136" width="0" height="21" font="5">1..............2................3.</text>
+<text top="446" left="272" width="0" height="29" font="5">Lan</text>
+<text top="472" left="272" width="0" height="34" font="5">e.1</text>
+<text top="493" left="272" width="0" height="25" font="5">.In</text>
+<text top="511" left="272" width="0" height="31" font="5">pu</text>
+<text top="529" left="272" width="0" height="35" font="5">t.ly</text>
+<text top="551" left="272" width="0" height="28" font="5">sate</text>
+<text top="581" left="272" width="0" height="21" font="5">.</text>
+<text top="446" left="251" width="0" height="21" font="5">.</text>
+<text top="446" left="230" width="0" height="29" font="5">Lan</text>
+<text top="472" left="230" width="0" height="34" font="5">e.2</text>
+<text top="493" left="230" width="0" height="25" font="5">.B</text>
+<text top="507" left="230" width="0" height="31" font="5">ou</text>
+<text top="525" left="230" width="0" height="31" font="5">nd</text>
+<text top="544" left="230" width="0" height="25" font="5">.m</text>
+<text top="562" left="230" width="0" height="21" font="5">ate</text>
+<text top="585" left="230" width="0" height="32" font="5">rial</text>
+<text top="608" left="230" width="0" height="31" font="5">.fr</text>
+<text top="623" left="230" width="0" height="31" font="5">om</text>
+<text top="646" left="230" width="0" height="25" font="5">.IP</text>
+<text top="664" left="230" width="0" height="21" font="5">.</text>
+<text top="446" left="209" width="0" height="21" font="5">.</text>
+<text top="446" left="188" width="0" height="29" font="5">Lan</text>
+<text top="472" left="188" width="0" height="34" font="5">e.3</text>
+<text top="493" left="188" width="0" height="25" font="5">.B</text>
+<text top="507" left="188" width="0" height="31" font="5">ou</text>
+<text top="525" left="188" width="0" height="31" font="5">nd</text>
+<text top="544" left="188" width="0" height="25" font="5">.m</text>
+<text top="562" left="188" width="0" height="21" font="5">ate</text>
+<text top="585" left="188" width="0" height="32" font="5">rial</text>
+<text top="608" left="188" width="0" height="31" font="5">.fr</text>
+<text top="623" left="188" width="0" height="31" font="5">om</text>
+<text top="646" left="188" width="0" height="25" font="5">.IP</text>
+<text top="664" left="188" width="0" height="37" font="5">.....</text>
+<text top="684" left="188" width="0" height="37" font="5">.....</text>
+<text top="704" left="188" width="0" height="25" font="5">..</text>
+<text top="446" left="166" width="0" height="31" font="5">us</text>
+<text top="463" left="166" width="0" height="26" font="5">in</text>
+<text top="476" left="166" width="0" height="34" font="5">g.n</text>
+<text top="497" left="166" width="0" height="31" font="5">on</text>
+<text top="516" left="166" width="0" height="34" font="5">Isp</text>
+<text top="537" left="166" width="0" height="30" font="5">ec</text>
+<text top="554" left="166" width="0" height="26" font="5">iﬁ</text>
+<text top="567" left="166" width="0" height="33" font="5">c.Ig</text>
+<text top="591" left="166" width="0" height="21" font="5">G</text>
+<text top="602" left="166" width="0" height="21" font="5">.</text>
+<text top="398" left="340" width="0" height="31" font="5">Ban</text>
+<text top="425" left="340" width="0" height="35" font="5">d.A</text>
+<text top="449" left="340" width="0" height="21" font="5">.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="6" size="9" family="Times" color="#000000"/>
+	<fontspec id="7" size="9" family="Times" color="#000000"/>
+<text top="42" left="561" width="0" height="13" font="6"><b>Spe</b></text>
+<text top="59" left="561" width="0" height="18" font="6"><b>ctr</b></text>
+<text top="71" left="561" width="0" height="13" font="6"><b>um</b></text>
+<text top="86" left="561" width="0" height="13" font="6"><b>)</b></text>
+<text top="119" left="561" width="0" height="13" font="6"><b>Nam</b></text>
+<text top="140" left="561" width="0" height="19" font="6"><b>e)of</b></text>
+<text top="158" left="561" width="0" height="13" font="6"><b>)pr</b></text>
+<text top="170" left="561" width="0" height="13" font="6"><b>ote</b></text>
+<text top="185" left="561" width="0" height="13" font="6"><b>in)</b></text>
+<text top="509" left="561" width="0" height="13" font="6"><b>Co</b></text>
+<text top="521" left="561" width="0" height="19" font="6"><b>un</b></text>
+<text top="533" left="561" width="0" height="17" font="6"><b>t)o</b></text>
+<text top="545" left="561" width="0" height="13" font="6"><b>f)p</b></text>
+<text top="557" left="561" width="0" height="13" font="6"><b>ep</b></text>
+<text top="568" left="561" width="0" height="13" font="6"><b>1d</b></text>
+<text top="581" left="561" width="0" height="13" font="6"><b>es)</b></text>
+<text top="594" left="561" width="0" height="13" font="6"><b>Ra</b></text>
+<text top="605" left="561" width="0" height="20" font="6"><b>1o</b></text>
+<text top="618" left="561" width="0" height="19" font="6"><b>)(ZMI</b></text>
+<text top="641" left="561" width="0" height="13" font="6"><b>Z1</b></text>
+<text top="652" left="561" width="0" height="21" font="6"><b>/Ig</b></text>
+<text top="665" left="561" width="0" height="13" font="6"><b>G</b></text>
+<text top="672" left="561" width="0" height="16" font="6"><b>)C</b></text>
+<text top="681" left="561" width="0" height="19" font="6"><b>on</b></text>
+<text top="692" left="561" width="0" height="21" font="6"><b>tro</b></text>
+<text top="706" left="561" width="0" height="20" font="6"><b>l))</b></text>
+<text top="42" left="537" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="537" width="0" height="21" font="7">1.B</text>
+<text top="78" left="537" width="0" height="13" font="7">an</text>
+<text top="90" left="537" width="0" height="22" font="7">d.A</text>
+<text top="104" left="537" width="0" height="13" font="7">.</text>
+<text top="119" left="537" width="0" height="13" font="7">Is</text>
+<text top="126" left="537" width="0" height="23" font="7">ofo</text>
+<text top="141" left="537" width="0" height="17" font="7">rm</text>
+<text top="153" left="537" width="0" height="16" font="7">.5</text>
+<text top="161" left="537" width="0" height="16" font="7">.o</text>
+<text top="170" left="537" width="0" height="19" font="7">f.In</text>
+<text top="184" left="537" width="0" height="13" font="7">te</text>
+<text top="193" left="537" width="0" height="20" font="7">rle</text>
+<text top="205" left="537" width="0" height="19" font="7">uk</text>
+<text top="216" left="537" width="0" height="16" font="7">in</text>
+<text top="224" left="537" width="0" height="16" font="7">.e</text>
+<text top="232" left="537" width="0" height="19" font="7">nh</text>
+<text top="244" left="537" width="0" height="13" font="7">an</text>
+<text top="255" left="537" width="0" height="18" font="7">ce</text>
+<text top="265" left="537" width="0" height="21" font="7">rIb</text>
+<text top="278" left="537" width="0" height="16" font="7">in</text>
+<text top="286" left="537" width="0" height="22" font="7">din</text>
+<text top="300" left="537" width="0" height="21" font="7">g.f</text>
+<text top="311" left="537" width="0" height="13" font="7">ac</text>
+<text top="321" left="537" width="0" height="13" font="7">to</text>
+<text top="331" left="537" width="0" height="20" font="7">r.3</text>
+<text top="343" left="537" width="0" height="13" font="7">.</text>
+<text top="509" left="537" width="0" height="13" font="7">33.</text>
+<text top="594" left="537" width="0" height="13" font="7">11.</text>
+<text top="42" left="514" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="514" width="0" height="21" font="7">1.B</text>
+<text top="78" left="514" width="0" height="13" font="7">an</text>
+<text top="90" left="514" width="0" height="22" font="7">d.A</text>
+<text top="104" left="514" width="0" height="13" font="7">.</text>
+<text top="119" left="514" width="0" height="13" font="7">Is</text>
+<text top="126" left="514" width="0" height="23" font="7">ofo</text>
+<text top="141" left="514" width="0" height="17" font="7">rm</text>
+<text top="153" left="514" width="0" height="16" font="7">.1</text>
+<text top="161" left="514" width="0" height="16" font="7">.o</text>
+<text top="170" left="514" width="0" height="19" font="7">f.He</text>
+<text top="188" left="514" width="0" height="13" font="7">at.</text>
+<text top="199" left="514" width="0" height="18" font="7">sh</text>
+<text top="209" left="514" width="0" height="19" font="7">oc</text>
+<text top="220" left="514" width="0" height="21" font="7">k.c</text>
+<text top="232" left="514" width="0" height="19" font="7">og</text>
+<text top="243" left="514" width="0" height="19" font="7">nate</text>
+<text top="263" left="514" width="0" height="16" font="7">.7</text>
+<text top="271" left="514" width="0" height="21" font="7">1.k</text>
+<text top="284" left="514" width="0" height="13" font="7">D</text>
+<text top="291" left="514" width="0" height="13" font="7">a.</text>
+<text top="299" left="514" width="0" height="19" font="7">pr</text>
+<text top="308" left="514" width="0" height="19" font="7">ote</text>
+<text top="323" left="514" width="0" height="16" font="7">in</text>
+<text top="332" left="514" width="0" height="13" font="7">.</text>
+<text top="509" left="514" width="0" height="13" font="7">20.</text>
+<text top="594" left="514" width="0" height="13" font="7">4.</text>
+<text top="42" left="490" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="490" width="0" height="21" font="7">1.B</text>
+<text top="78" left="490" width="0" height="13" font="7">an</text>
+<text top="90" left="490" width="0" height="22" font="7">d.A</text>
+<text top="104" left="490" width="0" height="13" font="7">.</text>
+<text top="119" left="490" width="0" height="13" font="7">Is</text>
+<text top="126" left="490" width="0" height="23" font="7">ofo</text>
+<text top="141" left="490" width="0" height="17" font="7">rm</text>
+<text top="153" left="490" width="0" height="16" font="7">.1</text>
+<text top="161" left="490" width="0" height="16" font="7">.o</text>
+<text top="170" left="490" width="0" height="19" font="7">f.Z</text>
+<text top="181" left="490" width="0" height="16" font="7">in</text>
+<text top="189" left="490" width="0" height="21" font="7">c.ﬁ</text>
+<text top="202" left="490" width="0" height="19" font="7">ng</text>
+<text top="213" left="490" width="0" height="23" font="7">er.</text>
+<text top="225" left="490" width="0" height="13" font="7">MIZ</text>
+<text top="242" left="490" width="0" height="16" font="7">.d</text>
+<text top="250" left="490" width="0" height="19" font="7">om</text>
+<text top="265" left="490" width="0" height="13" font="7">ai</text>
+<text top="273" left="490" width="0" height="23" font="7">nIc</text>
+<text top="286" left="490" width="0" height="19" font="7">on</text>
+<text top="298" left="490" width="0" height="13" font="7">tai</text>
+<text top="310" left="490" width="0" height="22" font="7">nin</text>
+<text top="324" left="490" width="0" height="21" font="7">g.p</text>
+<text top="337" left="490" width="0" height="17" font="7">ro</text>
+<text top="347" left="490" width="0" height="13" font="7">te</text>
+<text top="356" left="490" width="0" height="16" font="7">in</text>
+<text top="364" left="490" width="0" height="16" font="7">.1</text>
+<text top="372" left="490" width="0" height="13" font="7">.</text>
+<text top="509" left="490" width="0" height="13" font="7">16.</text>
+<text top="594" left="490" width="0" height="13" font="7">N</text>
+<text top="601" left="490" width="0" height="13" font="7">O</text>
+<text top="608" left="490" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="490" width="0" height="16" font="7">.C</text>
+<text top="634" left="490" width="0" height="13" font="7">O</text>
+<text top="642" left="490" width="0" height="13" font="7">N</text>
+<text top="649" left="490" width="0" height="19" font="7">TRO</text>
+<text top="667" left="490" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="490" width="0" height="13" font="7">.</text>
+<text top="42" left="466" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="466" width="0" height="21" font="7">1.B</text>
+<text top="78" left="466" width="0" height="13" font="7">an</text>
+<text top="90" left="466" width="0" height="22" font="7">d.A</text>
+<text top="104" left="466" width="0" height="13" font="7">.</text>
+<text top="119" left="466" width="0" height="20" font="7">AT</text>
+<text top="130" left="466" width="0" height="22" font="7">PId</text>
+<text top="145" left="466" width="0" height="19" font="7">ep</text>
+<text top="156" left="466" width="0" height="19" font="7">en</text>
+<text top="168" left="466" width="0" height="19" font="7">de</text>
+<text top="179" left="466" width="0" height="19" font="7">nt.</text>
+<text top="191" left="466" width="0" height="13" font="7">RN</text>
+<text top="204" left="466" width="0" height="22" font="7">A.h</text>
+<text top="219" left="466" width="0" height="24" font="7">elic</text>
+<text top="234" left="466" width="0" height="13" font="7">as</text>
+<text top="243" left="466" width="0" height="21" font="7">e.A</text>
+<text top="258" left="466" width="0" height="13" font="7">.</text>
+<text top="509" left="466" width="0" height="13" font="7">15.</text>
+<text top="594" left="466" width="0" height="13" font="7">15.</text>
+<text top="42" left="442" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="442" width="0" height="21" font="7">1.B</text>
+<text top="78" left="442" width="0" height="13" font="7">an</text>
+<text top="90" left="442" width="0" height="22" font="7">d.A</text>
+<text top="104" left="442" width="0" height="13" font="7">.</text>
+<text top="119" left="442" width="0" height="13" font="7">Is</text>
+<text top="126" left="442" width="0" height="23" font="7">ofo</text>
+<text top="141" left="442" width="0" height="17" font="7">rm</text>
+<text top="153" left="442" width="0" height="16" font="7">.2</text>
+<text top="161" left="442" width="0" height="16" font="7">.o</text>
+<text top="170" left="442" width="0" height="19" font="7">f.He</text>
+<text top="188" left="442" width="0" height="13" font="7">te</text>
+<text top="197" left="442" width="0" height="17" font="7">ro</text>
+<text top="207" left="442" width="0" height="19" font="7">ge</text>
+<text top="217" left="442" width="0" height="19" font="7">ne</text>
+<text top="229" left="442" width="0" height="19" font="7">ou</text>
+<text top="240" left="442" width="0" height="20" font="7">s.n</text>
+<text top="253" left="442" width="0" height="19" font="7">uc</text>
+<text top="263" left="442" width="0" height="16" font="7">le</text>
+<text top="271" left="442" width="0" height="13" font="7">ar</text>
+<text top="280" left="442" width="0" height="22" font="7">.rib</text>
+<text top="295" left="442" width="0" height="19" font="7">on</text>
+<text top="306" left="442" width="0" height="19" font="7">uc</text>
+<text top="317" left="442" width="0" height="16" font="7">le</text>
+<text top="325" left="442" width="0" height="19" font="7">op</text>
+<text top="336" left="442" width="0" height="17" font="7">ro</text>
+<text top="346" left="442" width="0" height="13" font="7">te</text>
+<text top="355" left="442" width="0" height="16" font="7">in</text>
+<text top="364" left="442" width="0" height="16" font="7">.M.</text>
+<text top="509" left="442" width="0" height="13" font="7">15.</text>
+<text top="594" left="442" width="0" height="13" font="7">N</text>
+<text top="601" left="442" width="0" height="13" font="7">O</text>
+<text top="608" left="442" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="442" width="0" height="16" font="7">.C</text>
+<text top="634" left="442" width="0" height="13" font="7">O</text>
+<text top="642" left="442" width="0" height="13" font="7">N</text>
+<text top="649" left="442" width="0" height="19" font="7">TRO</text>
+<text top="667" left="442" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="442" width="0" height="13" font="7">.</text>
+<text top="42" left="418" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="418" width="0" height="21" font="7">1.B</text>
+<text top="78" left="418" width="0" height="13" font="7">an</text>
+<text top="90" left="418" width="0" height="22" font="7">d.A</text>
+<text top="104" left="418" width="0" height="13" font="7">.</text>
+<text top="119" left="418" width="0" height="18" font="7">cD</text>
+<text top="130" left="418" width="0" height="13" font="7">N</text>
+<text top="137" left="418" width="0" height="22" font="7">A.F</text>
+<text top="151" left="418" width="0" height="22" font="7">LJ5</text>
+<text top="165" left="418" width="0" height="19" font="7">93</text>
+<text top="176" left="418" width="0" height="19" font="7">57</text>
+<text top="187" left="418" width="0" height="19" font="7">,.h</text>
+<text top="198" left="418" width="0" height="21" font="7">igh</text>
+<text top="212" left="418" width="0" height="23" font="7">ly.s</text>
+<text top="226" left="418" width="0" height="16" font="7">im</text>
+<text top="237" left="418" width="0" height="18" font="7">ilar</text>
+<text top="251" left="418" width="0" height="16" font="7">.to</text>
+<text top="263" left="418" width="0" height="16" font="7">.P</text>
+<text top="271" left="418" width="0" height="17" font="7">ro</text>
+<text top="281" left="418" width="0" height="19" font="7">bab</text>
+<text top="298" left="418" width="0" height="16" font="7">le</text>
+<text top="306" left="418" width="0" height="16" font="7">.A</text>
+<text top="315" left="418" width="0" height="19" font="7">TP</text>
+<text top="326" left="418" width="0" height="17" font="7">Id</text>
+<text top="335" left="418" width="0" height="19" font="7">ep</text>
+<text top="346" left="418" width="0" height="19" font="7">en</text>
+<text top="357" left="418" width="0" height="19" font="7">de</text>
+<text top="369" left="418" width="0" height="19" font="7">nt.</text>
+<text top="381" left="418" width="0" height="13" font="7">RN</text>
+<text top="394" left="418" width="0" height="22" font="7">A.h</text>
+<text top="408" left="418" width="0" height="24" font="7">elic</text>
+<text top="424" left="418" width="0" height="13" font="7">as</text>
+<text top="433" left="418" width="0" height="21" font="7">e.D</text>
+<text top="448" left="418" width="0" height="13" font="7">D</text>
+<text top="455" left="418" width="0" height="13" font="7">X5</text>
+<text top="466" left="418" width="0" height="13" font="7">.</text>
+<text top="509" left="418" width="0" height="13" font="7">12.</text>
+<text top="594" left="418" width="0" height="13" font="7">1.</text>
+<text top="602" left="418" width="0" height="13" font="7">714285714.</text>
+<text top="42" left="394" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="394" width="0" height="21" font="7">1.B</text>
+<text top="78" left="394" width="0" height="13" font="7">an</text>
+<text top="90" left="394" width="0" height="22" font="7">d.A</text>
+<text top="104" left="394" width="0" height="13" font="7">.</text>
+<text top="119" left="394" width="0" height="18" font="7">LMN</text>
+<text top="140" left="394" width="0" height="19" font="7">B1</text>
+<text top="151" left="394" width="0" height="16" font="7">.p</text>
+<text top="160" left="394" width="0" height="17" font="7">ro</text>
+<text top="169" left="394" width="0" height="13" font="7">te</text>
+<text top="178" left="394" width="0" height="16" font="7">in</text>
+<text top="187" left="394" width="0" height="13" font="7">.</text>
+<text top="509" left="394" width="0" height="13" font="7">11.</text>
+<text top="594" left="394" width="0" height="13" font="7">1.</text>
+<text top="602" left="394" width="0" height="13" font="7">833333333.</text>
+<text top="42" left="371" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="371" width="0" height="21" font="7">1.B</text>
+<text top="78" left="371" width="0" height="13" font="7">an</text>
+<text top="90" left="371" width="0" height="22" font="7">d.A</text>
+<text top="104" left="371" width="0" height="13" font="7">.</text>
+<text top="119" left="371" width="0" height="13" font="7">HS</text>
+<text top="131" left="371" width="0" height="19" font="7">PA</text>
+<text top="143" left="371" width="0" height="21" font="7">5.p</text>
+<text top="156" left="371" width="0" height="17" font="7">ro</text>
+<text top="166" left="371" width="0" height="13" font="7">te</text>
+<text top="175" left="371" width="0" height="16" font="7">in</text>
+<text top="184" left="371" width="0" height="13" font="7">.</text>
+<text top="509" left="371" width="0" height="13" font="7">10.</text>
+<text top="594" left="371" width="0" height="13" font="7">10.</text>
+<text top="42" left="347" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="347" width="0" height="21" font="7">1.B</text>
+<text top="78" left="347" width="0" height="13" font="7">an</text>
+<text top="90" left="347" width="0" height="22" font="7">d.A</text>
+<text top="104" left="347" width="0" height="13" font="7">.</text>
+<text top="119" left="347" width="0" height="13" font="7">Is</text>
+<text top="126" left="347" width="0" height="23" font="7">ofo</text>
+<text top="141" left="347" width="0" height="17" font="7">rm</text>
+<text top="153" left="347" width="0" height="16" font="7">.1</text>
+<text top="161" left="347" width="0" height="16" font="7">.o</text>
+<text top="170" left="347" width="0" height="19" font="7">f.RN</text>
+<text top="189" left="347" width="0" height="23" font="7">AIb</text>
+<text top="204" left="347" width="0" height="16" font="7">in</text>
+<text top="212" left="347" width="0" height="22" font="7">din</text>
+<text top="226" left="347" width="0" height="21" font="7">g.p</text>
+<text top="240" left="347" width="0" height="17" font="7">ro</text>
+<text top="250" left="347" width="0" height="13" font="7">te</text>
+<text top="259" left="347" width="0" height="16" font="7">in</text>
+<text top="267" left="347" width="0" height="16" font="7">.1</text>
+<text top="275" left="347" width="0" height="19" font="7">4.</text>
+<text top="509" left="347" width="0" height="13" font="7">10.</text>
+<text top="594" left="347" width="0" height="13" font="7">1.</text>
+<text top="602" left="347" width="0" height="13" font="7">25.</text>
+<text top="42" left="323" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="323" width="0" height="21" font="7">1.B</text>
+<text top="78" left="323" width="0" height="13" font="7">an</text>
+<text top="90" left="323" width="0" height="22" font="7">d.A</text>
+<text top="104" left="323" width="0" height="13" font="7">.</text>
+<text top="119" left="323" width="0" height="18" font="7">cD</text>
+<text top="130" left="323" width="0" height="13" font="7">N</text>
+<text top="137" left="323" width="0" height="22" font="7">A.F</text>
+<text top="151" left="323" width="0" height="22" font="7">LJ5</text>
+<text top="165" left="323" width="0" height="19" font="7">40</text>
+<text top="176" left="323" width="0" height="19" font="7">20</text>
+<text top="187" left="323" width="0" height="19" font="7">,.h</text>
+<text top="198" left="323" width="0" height="21" font="7">igh</text>
+<text top="212" left="323" width="0" height="23" font="7">ly.s</text>
+<text top="226" left="323" width="0" height="16" font="7">im</text>
+<text top="237" left="323" width="0" height="18" font="7">ilar</text>
+<text top="251" left="323" width="0" height="16" font="7">.to</text>
+<text top="263" left="323" width="0" height="16" font="7">.He</text>
+<text top="278" left="323" width="0" height="13" font="7">te</text>
+<text top="287" left="323" width="0" height="17" font="7">ro</text>
+<text top="297" left="323" width="0" height="19" font="7">ge</text>
+<text top="308" left="323" width="0" height="19" font="7">ne</text>
+<text top="319" left="323" width="0" height="19" font="7">ou</text>
+<text top="330" left="323" width="0" height="20" font="7">s.n</text>
+<text top="343" left="323" width="0" height="19" font="7">uc</text>
+<text top="353" left="323" width="0" height="16" font="7">le</text>
+<text top="361" left="323" width="0" height="13" font="7">ar</text>
+<text top="371" left="323" width="0" height="22" font="7">.rib</text>
+<text top="385" left="323" width="0" height="19" font="7">on</text>
+<text top="397" left="323" width="0" height="19" font="7">uc</text>
+<text top="407" left="323" width="0" height="16" font="7">le</text>
+<text top="415" left="323" width="0" height="19" font="7">op</text>
+<text top="427" left="323" width="0" height="17" font="7">ro</text>
+<text top="436" left="323" width="0" height="13" font="7">te</text>
+<text top="446" left="323" width="0" height="16" font="7">in</text>
+<text top="454" left="323" width="0" height="16" font="7">.U</text>
+<text top="463" left="323" width="0" height="13" font="7">.</text>
+<text top="509" left="323" width="0" height="13" font="7">9.</text>
+<text top="594" left="323" width="0" height="13" font="7">1.</text>
+<text top="602" left="323" width="0" height="13" font="7">125.</text>
+<text top="42" left="299" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="299" width="0" height="21" font="7">1.B</text>
+<text top="78" left="299" width="0" height="13" font="7">an</text>
+<text top="90" left="299" width="0" height="22" font="7">d.A</text>
+<text top="104" left="299" width="0" height="13" font="7">.</text>
+<text top="119" left="299" width="0" height="16" font="7">in</text>
+<text top="127" left="299" width="0" height="18" font="7">su</text>
+<text top="137" left="299" width="0" height="18" font="7">lin</text>
+<text top="148" left="299" width="0" height="22" font="7">Ilik</text>
+<text top="161" left="299" width="0" height="21" font="7">e.g</text>
+<text top="174" left="299" width="0" height="17" font="7">ro</text>
+<text top="184" left="299" width="0" height="13" font="7">w</text>
+<text top="192" left="299" width="0" height="13" font="7">th</text>
+<text top="201" left="299" width="0" height="19" font="7">.fac</text>
+<text top="217" left="299" width="0" height="13" font="7">to</text>
+<text top="227" left="299" width="0" height="20" font="7">r.2</text>
+<text top="239" left="299" width="0" height="16" font="7">.m</text>
+<text top="250" left="299" width="0" height="13" font="7">RN</text>
+<text top="263" left="299" width="0" height="23" font="7">AIb</text>
+<text top="278" left="299" width="0" height="16" font="7">in</text>
+<text top="287" left="299" width="0" height="22" font="7">din</text>
+<text top="301" left="299" width="0" height="21" font="7">g.p</text>
+<text top="314" left="299" width="0" height="17" font="7">ro</text>
+<text top="324" left="299" width="0" height="13" font="7">te</text>
+<text top="333" left="299" width="0" height="16" font="7">in</text>
+<text top="341" left="299" width="0" height="16" font="7">.1</text>
+<text top="349" left="299" width="0" height="18" font="7">.is</text>
+<text top="359" left="299" width="0" height="23" font="7">ofo</text>
+<text top="374" left="299" width="0" height="17" font="7">rm</text>
+<text top="386" left="299" width="0" height="16" font="7">.2</text>
+<text top="394" left="299" width="0" height="13" font="7">.</text>
+<text top="509" left="299" width="0" height="13" font="7">9.</text>
+<text top="594" left="299" width="0" height="13" font="7">N</text>
+<text top="601" left="299" width="0" height="13" font="7">O</text>
+<text top="608" left="299" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="299" width="0" height="16" font="7">.C</text>
+<text top="634" left="299" width="0" height="13" font="7">O</text>
+<text top="642" left="299" width="0" height="13" font="7">N</text>
+<text top="649" left="299" width="0" height="19" font="7">TRO</text>
+<text top="667" left="299" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="299" width="0" height="13" font="7">.</text>
+<text top="42" left="275" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="275" width="0" height="21" font="7">1.B</text>
+<text top="78" left="275" width="0" height="13" font="7">an</text>
+<text top="90" left="275" width="0" height="22" font="7">d.A</text>
+<text top="104" left="275" width="0" height="13" font="7">.</text>
+<text top="119" left="275" width="0" height="19" font="7">Pu</text>
+<text top="130" left="275" width="0" height="13" font="7">ta-</text>
+<text top="145" left="275" width="0" height="18" font="7">ve</text>
+<text top="156" left="275" width="0" height="16" font="7">.u</text>
+<text top="164" left="275" width="0" height="19" font="7">nc</text>
+<text top="174" left="275" width="0" height="19" font="7">har</text>
+<text top="189" left="275" width="0" height="13" font="7">ac</text>
+<text top="199" left="275" width="0" height="13" font="7">te</text>
+<text top="208" left="275" width="0" height="20" font="7">rize</text>
+<text top="224" left="275" width="0" height="22" font="7">d.p</text>
+<text top="239" left="275" width="0" height="17" font="7">ro</text>
+<text top="248" left="275" width="0" height="13" font="7">te</text>
+<text top="257" left="275" width="0" height="16" font="7">in</text>
+<text top="266" left="275" width="0" height="21" font="7">.LMN</text>
+<text top="289" left="275" width="0" height="20" font="7">A.</text>
+<text top="509" left="275" width="0" height="13" font="7">9.</text>
+<text top="594" left="275" width="0" height="13" font="7">4.</text>
+<text top="602" left="275" width="0" height="13" font="7">5.</text>
+<text top="42" left="251" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="251" width="0" height="21" font="7">1.B</text>
+<text top="78" left="251" width="0" height="13" font="7">an</text>
+<text top="90" left="251" width="0" height="22" font="7">d.A</text>
+<text top="104" left="251" width="0" height="13" font="7">.</text>
+<text top="119" left="251" width="0" height="18" font="7">cD</text>
+<text top="130" left="251" width="0" height="13" font="7">N</text>
+<text top="137" left="251" width="0" height="22" font="7">A.F</text>
+<text top="151" left="251" width="0" height="22" font="7">LJ5</text>
+<text top="165" left="251" width="0" height="19" font="7">44</text>
+<text top="176" left="251" width="0" height="19" font="7">08</text>
+<text top="187" left="251" width="0" height="19" font="7">,.h</text>
+<text top="198" left="251" width="0" height="21" font="7">igh</text>
+<text top="212" left="251" width="0" height="23" font="7">ly.s</text>
+<text top="226" left="251" width="0" height="16" font="7">im</text>
+<text top="237" left="251" width="0" height="18" font="7">ilar</text>
+<text top="251" left="251" width="0" height="16" font="7">.to</text>
+<text top="263" left="251" width="0" height="16" font="7">.He</text>
+<text top="278" left="251" width="0" height="13" font="7">at.</text>
+<text top="290" left="251" width="0" height="18" font="7">sh</text>
+<text top="300" left="251" width="0" height="19" font="7">oc</text>
+<text top="310" left="251" width="0" height="21" font="7">k.7</text>
+<text top="323" left="251" width="0" height="21" font="7">0.k</text>
+<text top="336" left="251" width="0" height="13" font="7">D</text>
+<text top="343" left="251" width="0" height="13" font="7">a.</text>
+<text top="351" left="251" width="0" height="19" font="7">pr</text>
+<text top="360" left="251" width="0" height="19" font="7">ote</text>
+<text top="375" left="251" width="0" height="16" font="7">in</text>
+<text top="384" left="251" width="0" height="16" font="7">.1</text>
+<text top="392" left="251" width="0" height="13" font="7">.</text>
+<text top="509" left="251" width="0" height="13" font="7">7.</text>
+<text top="594" left="251" width="0" height="13" font="7">N</text>
+<text top="601" left="251" width="0" height="13" font="7">O</text>
+<text top="608" left="251" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="251" width="0" height="16" font="7">.C</text>
+<text top="634" left="251" width="0" height="13" font="7">O</text>
+<text top="642" left="251" width="0" height="13" font="7">N</text>
+<text top="649" left="251" width="0" height="19" font="7">TRO</text>
+<text top="667" left="251" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="251" width="0" height="13" font="7">.</text>
+<text top="42" left="228" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="228" width="0" height="21" font="7">1.B</text>
+<text top="78" left="228" width="0" height="13" font="7">an</text>
+<text top="90" left="228" width="0" height="22" font="7">d.A</text>
+<text top="104" left="228" width="0" height="13" font="7">.</text>
+<text top="119" left="228" width="0" height="19" font="7">Po</text>
+<text top="130" left="228" width="0" height="21" font="7">ly(</text>
+<text top="141" left="228" width="0" height="23" font="7">A).</text>
+<text top="153" left="228" width="0" height="22" font="7">bin</text>
+<text top="167" left="228" width="0" height="22" font="7">din</text>
+<text top="181" left="228" width="0" height="21" font="7">g.p</text>
+<text top="195" left="228" width="0" height="17" font="7">ro</text>
+<text top="204" left="228" width="0" height="13" font="7">te</text>
+<text top="214" left="228" width="0" height="16" font="7">in</text>
+<text top="222" left="228" width="0" height="19" font="7">,.c</text>
+<text top="232" left="228" width="0" height="18" font="7">yto</text>
+<text top="246" left="228" width="0" height="22" font="7">plas</text>
+<text top="264" left="228" width="0" height="13" font="7">m</text>
+<text top="273" left="228" width="0" height="23" font="7">ic.4</text>
+<text top="288" left="228" width="0" height="13" font="7">.</text>
+<text top="509" left="228" width="0" height="13" font="7">5.</text>
+<text top="594" left="228" width="0" height="13" font="7">N</text>
+<text top="601" left="228" width="0" height="13" font="7">O</text>
+<text top="608" left="228" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="228" width="0" height="16" font="7">.C</text>
+<text top="634" left="228" width="0" height="13" font="7">O</text>
+<text top="642" left="228" width="0" height="13" font="7">N</text>
+<text top="649" left="228" width="0" height="19" font="7">TRO</text>
+<text top="667" left="228" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="228" width="0" height="13" font="7">.</text>
+<text top="42" left="204" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="204" width="0" height="21" font="7">1.B</text>
+<text top="78" left="204" width="0" height="13" font="7">an</text>
+<text top="90" left="204" width="0" height="22" font="7">d.A</text>
+<text top="104" left="204" width="0" height="13" font="7">.</text>
+<text top="119" left="204" width="0" height="13" font="7">Se</text>
+<text top="129" left="204" width="0" height="13" font="7">ipin.</text>
+<text top="509" left="204" width="0" height="13" font="7">5.</text>
+<text top="594" left="204" width="0" height="13" font="7">N</text>
+<text top="601" left="204" width="0" height="13" font="7">O</text>
+<text top="608" left="204" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="204" width="0" height="16" font="7">.C</text>
+<text top="634" left="204" width="0" height="13" font="7">O</text>
+<text top="642" left="204" width="0" height="13" font="7">N</text>
+<text top="649" left="204" width="0" height="19" font="7">TRO</text>
+<text top="667" left="204" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="204" width="0" height="13" font="7">.</text>
+<text top="42" left="180" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="180" width="0" height="21" font="7">1.B</text>
+<text top="78" left="180" width="0" height="13" font="7">an</text>
+<text top="90" left="180" width="0" height="22" font="7">d.A</text>
+<text top="104" left="180" width="0" height="13" font="7">.</text>
+<text top="119" left="180" width="0" height="13" font="7">Ho</text>
+<text top="131" left="180" width="0" height="17" font="7">rn</text>
+<text top="141" left="180" width="0" height="23" font="7">eri</text>
+<text top="153" left="180" width="0" height="19" font="7">n.</text>
+<text top="509" left="180" width="0" height="13" font="7">4.</text>
+<text top="594" left="180" width="0" height="13" font="7">N</text>
+<text top="601" left="180" width="0" height="13" font="7">O</text>
+<text top="608" left="180" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="180" width="0" height="16" font="7">.C</text>
+<text top="634" left="180" width="0" height="13" font="7">O</text>
+<text top="642" left="180" width="0" height="13" font="7">N</text>
+<text top="649" left="180" width="0" height="19" font="7">TRO</text>
+<text top="667" left="180" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="180" width="0" height="13" font="7">.</text>
+<text top="42" left="156" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="156" width="0" height="21" font="7">1.B</text>
+<text top="78" left="156" width="0" height="13" font="7">an</text>
+<text top="90" left="156" width="0" height="22" font="7">d.A</text>
+<text top="104" left="156" width="0" height="13" font="7">.</text>
+<text top="119" left="156" width="0" height="13" font="7">Is</text>
+<text top="126" left="156" width="0" height="23" font="7">ofo</text>
+<text top="141" left="156" width="0" height="17" font="7">rm</text>
+<text top="153" left="156" width="0" height="16" font="7">.5</text>
+<text top="161" left="156" width="0" height="16" font="7">.o</text>
+<text top="170" left="156" width="0" height="19" font="7">f.D</text>
+<text top="182" left="156" width="0" height="19" font="7">ou</text>
+<text top="194" left="156" width="0" height="22" font="7">ble</text>
+<text top="208" left="156" width="0" height="21" font="7">Istr</text>
+<text top="223" left="156" width="0" height="13" font="7">an</text>
+<text top="234" left="156" width="0" height="19" font="7">de</text>
+<text top="245" left="156" width="0" height="22" font="7">d.RN</text>
+<text top="266" left="156" width="0" height="23" font="7">AIs</text>
+<text top="281" left="156" width="0" height="19" font="7">pe</text>
+<text top="292" left="156" width="0" height="21" font="7">ciﬁ</text>
+<text top="305" left="156" width="0" height="21" font="7">c.ad</text>
+<text top="323" left="156" width="0" height="19" font="7">en</text>
+<text top="334" left="156" width="0" height="19" font="7">os</text>
+<text top="344" left="156" width="0" height="16" font="7">in</text>
+<text top="353" left="156" width="0" height="21" font="7">e.d</text>
+<text top="366" left="156" width="0" height="19" font="7">eam</text>
+<text top="386" left="156" width="0" height="16" font="7">in</text>
+<text top="394" left="156" width="0" height="13" font="7">as</text>
+<text top="404" left="156" width="0" height="19" font="7">e.</text>
+<text top="509" left="156" width="0" height="13" font="7">3.</text>
+<text top="594" left="156" width="0" height="13" font="7">N</text>
+<text top="601" left="156" width="0" height="13" font="7">O</text>
+<text top="608" left="156" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="156" width="0" height="16" font="7">.C</text>
+<text top="634" left="156" width="0" height="13" font="7">O</text>
+<text top="642" left="156" width="0" height="13" font="7">N</text>
+<text top="649" left="156" width="0" height="19" font="7">TRO</text>
+<text top="667" left="156" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="156" width="0" height="13" font="7">.</text>
+<text top="42" left="132" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="132" width="0" height="21" font="7">1.B</text>
+<text top="78" left="132" width="0" height="13" font="7">an</text>
+<text top="90" left="132" width="0" height="22" font="7">d.A</text>
+<text top="104" left="132" width="0" height="13" font="7">.</text>
+<text top="119" left="132" width="0" height="13" font="7">Hi</text>
+<text top="128" left="132" width="0" height="18" font="7">sto</text>
+<text top="142" left="132" width="0" height="19" font="7">ne</text>
+<text top="153" left="132" width="0" height="16" font="7">.H2</text>
+<text top="168" left="132" width="0" height="22" font="7">A.ty</text>
+<text top="186" left="132" width="0" height="19" font="7">pe</text>
+<text top="197" left="132" width="0" height="16" font="7">.1</text>
+<text top="205" left="132" width="0" height="17" font="7">IH.</text>
+<text top="509" left="132" width="0" height="13" font="7">2.</text>
+<text top="594" left="132" width="0" height="13" font="7">N</text>
+<text top="601" left="132" width="0" height="13" font="7">O</text>
+<text top="608" left="132" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="132" width="0" height="16" font="7">.C</text>
+<text top="634" left="132" width="0" height="13" font="7">O</text>
+<text top="642" left="132" width="0" height="13" font="7">N</text>
+<text top="649" left="132" width="0" height="19" font="7">TRO</text>
+<text top="667" left="132" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="132" width="0" height="13" font="7">.</text>
+<text top="42" left="108" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="108" width="0" height="21" font="7">1.B</text>
+<text top="78" left="108" width="0" height="13" font="7">an</text>
+<text top="90" left="108" width="0" height="22" font="7">d.A</text>
+<text top="104" left="108" width="0" height="13" font="7">.</text>
+<text top="119" left="108" width="0" height="13" font="7">Is</text>
+<text top="126" left="108" width="0" height="23" font="7">ofo</text>
+<text top="141" left="108" width="0" height="17" font="7">rm</text>
+<text top="153" left="108" width="0" height="16" font="7">.3</text>
+<text top="161" left="108" width="0" height="16" font="7">.o</text>
+<text top="170" left="108" width="0" height="19" font="7">f.D</text>
+<text top="182" left="108" width="0" height="19" font="7">ou</text>
+<text top="194" left="108" width="0" height="22" font="7">ble</text>
+<text top="208" left="108" width="0" height="21" font="7">Istr</text>
+<text top="223" left="108" width="0" height="13" font="7">an</text>
+<text top="234" left="108" width="0" height="19" font="7">de</text>
+<text top="245" left="108" width="0" height="22" font="7">d.RN</text>
+<text top="266" left="108" width="0" height="23" font="7">AIs</text>
+<text top="281" left="108" width="0" height="19" font="7">pe</text>
+<text top="292" left="108" width="0" height="21" font="7">ciﬁ</text>
+<text top="305" left="108" width="0" height="21" font="7">c.ad</text>
+<text top="323" left="108" width="0" height="19" font="7">en</text>
+<text top="334" left="108" width="0" height="19" font="7">os</text>
+<text top="344" left="108" width="0" height="16" font="7">in</text>
+<text top="353" left="108" width="0" height="21" font="7">e.d</text>
+<text top="366" left="108" width="0" height="19" font="7">eam</text>
+<text top="386" left="108" width="0" height="16" font="7">in</text>
+<text top="394" left="108" width="0" height="13" font="7">as</text>
+<text top="404" left="108" width="0" height="19" font="7">e.</text>
+<text top="509" left="108" width="0" height="13" font="7">2.</text>
+<text top="594" left="108" width="0" height="13" font="7">N</text>
+<text top="601" left="108" width="0" height="13" font="7">O</text>
+<text top="608" left="108" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="108" width="0" height="16" font="7">.C</text>
+<text top="634" left="108" width="0" height="13" font="7">O</text>
+<text top="642" left="108" width="0" height="13" font="7">N</text>
+<text top="649" left="108" width="0" height="19" font="7">TRO</text>
+<text top="667" left="108" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="108" width="0" height="13" font="7">.</text>
+<text top="42" left="85" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="85" width="0" height="21" font="7">1.B</text>
+<text top="78" left="85" width="0" height="13" font="7">an</text>
+<text top="90" left="85" width="0" height="22" font="7">d.A</text>
+<text top="104" left="85" width="0" height="13" font="7">.</text>
+<text top="119" left="85" width="0" height="20" font="7">sim</text>
+<text top="134" left="85" width="0" height="18" font="7">ilar</text>
+<text top="148" left="85" width="0" height="16" font="7">.to</text>
+<text top="160" left="85" width="0" height="16" font="7">.U</text>
+<text top="170" left="85" width="0" height="21" font="7">5.s</text>
+<text top="182" left="85" width="0" height="19" font="7">nRN</text>
+<text top="201" left="85" width="0" height="22" font="7">PIs</text>
+<text top="215" left="85" width="0" height="19" font="7">pe</text>
+<text top="226" left="85" width="0" height="21" font="7">ciﬁ</text>
+<text top="239" left="85" width="0" height="21" font="7">c.2</text>
+<text top="251" left="85" width="0" height="19" font="7">00</text>
+<text top="263" left="85" width="0" height="18" font="7">kD</text>
+<text top="274" left="85" width="0" height="16" font="7">.p</text>
+<text top="283" left="85" width="0" height="17" font="7">ro</text>
+<text top="292" left="85" width="0" height="13" font="7">te</text>
+<text top="301" left="85" width="0" height="16" font="7">in</text>
+<text top="310" left="85" width="0" height="19" font="7">,.p</text>
+<text top="321" left="85" width="0" height="13" font="7">ar</text>
+<text top="330" left="85" width="0" height="20" font="7">-al</text>
+<text top="344" left="85" width="0" height="13" font="7">.</text>
+<text top="509" left="85" width="0" height="13" font="7">2.</text>
+<text top="594" left="85" width="0" height="13" font="7">N</text>
+<text top="601" left="85" width="0" height="13" font="7">O</text>
+<text top="608" left="85" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="85" width="0" height="16" font="7">.C</text>
+<text top="634" left="85" width="0" height="13" font="7">O</text>
+<text top="642" left="85" width="0" height="13" font="7">N</text>
+<text top="649" left="85" width="0" height="19" font="7">TRO</text>
+<text top="667" left="85" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="85" width="0" height="13" font="7">.</text>
+<text top="42" left="61" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="61" width="0" height="21" font="7">1.B</text>
+<text top="78" left="61" width="0" height="13" font="7">an</text>
+<text top="90" left="61" width="0" height="22" font="7">d.A</text>
+<text top="104" left="61" width="0" height="13" font="7">.</text>
+<text top="119" left="61" width="0" height="19" font="7">he</text>
+<text top="130" left="61" width="0" height="13" font="7">te</text>
+<text top="139" left="61" width="0" height="17" font="7">ro</text>
+<text top="149" left="61" width="0" height="19" font="7">ge</text>
+<text top="159" left="61" width="0" height="19" font="7">ne</text>
+<text top="171" left="61" width="0" height="19" font="7">ou</text>
+<text top="182" left="61" width="0" height="20" font="7">s.n</text>
+<text top="195" left="61" width="0" height="19" font="7">uc</text>
+<text top="205" left="61" width="0" height="16" font="7">le</text>
+<text top="213" left="61" width="0" height="13" font="7">ar</text>
+<text top="222" left="61" width="0" height="22" font="7">.rib</text>
+<text top="237" left="61" width="0" height="19" font="7">on</text>
+<text top="249" left="61" width="0" height="19" font="7">uc</text>
+<text top="259" left="61" width="0" height="16" font="7">le</text>
+<text top="267" left="61" width="0" height="19" font="7">op</text>
+<text top="279" left="61" width="0" height="17" font="7">ro</text>
+<text top="288" left="61" width="0" height="13" font="7">te</text>
+<text top="297" left="61" width="0" height="16" font="7">in</text>
+<text top="306" left="61" width="0" height="16" font="7">.R.</text>
+<text top="317" left="61" width="0" height="20" font="7">iso</text>
+<text top="329" left="61" width="0" height="17" font="7">fo</text>
+<text top="338" left="61" width="0" height="17" font="7">rm</text>
+<text top="351" left="61" width="0" height="16" font="7">.4</text>
+<text top="359" left="61" width="0" height="13" font="7">.</text>
+<text top="509" left="61" width="0" height="13" font="7">1.</text>
+<text top="594" left="61" width="0" height="13" font="7">N</text>
+<text top="601" left="61" width="0" height="13" font="7">O</text>
+<text top="608" left="61" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="61" width="0" height="16" font="7">.C</text>
+<text top="634" left="61" width="0" height="13" font="7">O</text>
+<text top="642" left="61" width="0" height="13" font="7">N</text>
+<text top="649" left="61" width="0" height="19" font="7">TRO</text>
+<text top="667" left="61" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="61" width="0" height="13" font="7">.</text>
+<text top="42" left="37" width="0" height="19" font="7">ZMIZ</text>
+<text top="64" left="37" width="0" height="21" font="7">1.B</text>
+<text top="78" left="37" width="0" height="13" font="7">an</text>
+<text top="90" left="37" width="0" height="22" font="7">d.A</text>
+<text top="104" left="37" width="0" height="13" font="7">.</text>
+<text top="119" left="37" width="0" height="13" font="7">Is</text>
+<text top="126" left="37" width="0" height="23" font="7">ofo</text>
+<text top="141" left="37" width="0" height="17" font="7">rm</text>
+<text top="153" left="37" width="0" height="16" font="7">.4</text>
+<text top="161" left="37" width="0" height="16" font="7">.o</text>
+<text top="170" left="37" width="0" height="19" font="7">f.He</text>
+<text top="188" left="37" width="0" height="13" font="7">te</text>
+<text top="197" left="37" width="0" height="17" font="7">ro</text>
+<text top="207" left="37" width="0" height="19" font="7">ge</text>
+<text top="217" left="37" width="0" height="19" font="7">ne</text>
+<text top="229" left="37" width="0" height="19" font="7">ou</text>
+<text top="240" left="37" width="0" height="20" font="7">s.n</text>
+<text top="253" left="37" width="0" height="19" font="7">uc</text>
+<text top="263" left="37" width="0" height="16" font="7">le</text>
+<text top="271" left="37" width="0" height="13" font="7">ar</text>
+<text top="280" left="37" width="0" height="22" font="7">.rib</text>
+<text top="295" left="37" width="0" height="19" font="7">on</text>
+<text top="306" left="37" width="0" height="19" font="7">uc</text>
+<text top="317" left="37" width="0" height="16" font="7">le</text>
+<text top="325" left="37" width="0" height="19" font="7">op</text>
+<text top="336" left="37" width="0" height="17" font="7">ro</text>
+<text top="346" left="37" width="0" height="13" font="7">te</text>
+<text top="355" left="37" width="0" height="16" font="7">in</text>
+<text top="364" left="37" width="0" height="20" font="7">s.C</text>
+<text top="376" left="37" width="0" height="19" font="7">1/</text>
+<text top="386" left="37" width="0" height="19" font="7">C2</text>
+<text top="397" left="37" width="0" height="13" font="7">.</text>
+<text top="509" left="37" width="0" height="13" font="7">1.</text>
+<text top="594" left="37" width="0" height="13" font="7">N</text>
+<text top="601" left="37" width="0" height="13" font="7">O</text>
+<text top="608" left="37" width="0" height="21" font="7">T.IN</text>
+<text top="626" left="37" width="0" height="16" font="7">.C</text>
+<text top="634" left="37" width="0" height="13" font="7">O</text>
+<text top="642" left="37" width="0" height="13" font="7">N</text>
+<text top="649" left="37" width="0" height="19" font="7">TRO</text>
+<text top="667" left="37" width="0" height="21" font="7">L.IP</text>
+<text top="683" left="37" width="0" height="13" font="7">.</text>
+</page>
+</pdf2xml>

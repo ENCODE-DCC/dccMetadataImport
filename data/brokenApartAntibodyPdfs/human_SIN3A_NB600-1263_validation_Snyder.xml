@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="188" height="12" font="1">http://www.novusbio.com/mSin3A-Antibody</text>
+<text top="613" left="238" width="78" height="12" font="1">_NB600-1263.html</text>
+<text top="77" left="138" width="38" height="12" font="1">12/31/11</text>
+<text top="340" left="95" width="439" height="12" font="1">Immunogen: Synthetic peptide: MKRRLDDQESDVYAAQQRR, corresponding to amino acids 1-19 of Mouse </text>
+<text top="352" left="95" width="34" height="12" font="1">mSin3A.</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="132" height="12" font="1">mSin3A Antibody (NB600-1263)</text>
+<text top="214" left="339" width="118" height="12" font="1">SIN3A (EntrezGeneID 25942)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="26" height="12" font="1">Novus</text>
+<text top="484" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="41" height="12" font="1">LB140235</text>
+<text top="300" left="215" width="51" height="12" font="1">NB600-1263</text>
+<text top="520" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="141" width="109" height="12" font="2">Other Purification Method</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="450" height="12" font="1">Mammalian Sin 3 (mSin 3) is a 150 kDa protein closely related to the yeast SIN3 repressor protein involved in </text>
+<text top="424" left="95" width="434" height="12" font="1">the transcriptional repression of many genes. There are two mammalian isoforms, mSin 3A and mSin 3B. </text>
+<text top="436" left="95" width="443" height="12" font="1">Containing 4 paired amphipathic helix domains (PAH domains), mSin 3A and mSin 3B have been shown to </text>
+<text top="448" left="95" width="439" height="12" font="1">directly interact with several other transcriptional repressor proteins including HDAC 1, HDAC 2, RbAp 46, </text>
+<text top="460" left="95" width="413" height="12" font="1">the methyl CpG binding protein MeCP 2, the Mad/Max heterodimer, and the corepressors silencing </text>
+<text top="472" left="95" width="428" height="12" font="1">mediator of retinoic acid &amp; thyroid hormone receptor (SMRT) and nuclear receptor corepressor (N-CoR).</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="414" height="12" font="1">Comment: In Western blots, a major band of the expected size of SIN3A (~145kD) is observed in cell </text>
+<text top="55" left="125" width="380" height="12" font="1">lines GM12878, K562, HeLa S3, and HepG2 (Panel A).  This band is efficiently and specifically </text>
+<text top="67" left="125" width="412" height="12" font="1">immunoprecipitated from K562 nuclear lysates (arrow, Panel B).  We note that additional bands are </text>
+<text top="79" left="125" width="427" height="12" font="1">present, particularly in cell line K562 and HepG2, but these are significantly less abundant (see Panel B) </text>
+<text top="91" left="125" width="429" height="12" font="1">and can be identified as SIN3A by mass spectrometry (see validation #2).  Therefore, NB600-1263 meets </text>
+<text top="103" left="125" width="114" height="12" font="1">this criterion for validation. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="22" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+<text top="77" left="245" width="272" height="31" font="3">NB600-1263 (SIN3A) </text>
+<text top="110" left="175" width="412" height="31" font="3">Immunoblot/immunoprecipitation </text>
+<text top="144" left="371" width="7" height="27" font="4"> </text>
+<text top="332" left="552" width="8" height="11" font="1">3 </text>
+<text top="332" left="487" width="28" height="11" font="1">Lane: </text>
+<text top="204" left="488" width="42" height="11" font="1">MW (kD) </text>
+<text top="236" left="494" width="19" height="11" font="1">100 </text>
+<text top="249" left="497" width="14" height="11" font="1">75 </text>
+<text top="272" left="497" width="14" height="11" font="1">50 </text>
+<text top="288" left="497" width="14" height="11" font="1">38 </text>
+<text top="220" left="494" width="19" height="11" font="1">150 </text>
+<text top="310" left="497" width="14" height="11" font="1">25 </text>
+<text top="332" left="520" width="24" height="11" font="1">1  2 </text>
+<text top="332" left="579" width="8" height="11" font="1">4 </text>
+<text top="205" left="412" width="29" height="27" font="4">B. </text>
+<text top="380" left="95" width="626" height="13" font="5"><b>A.</b>  Western blot using antibody NB600-1263. Lanes contain nuclear lysates from GM12878 cells (Lane 1), K562 cells </text>
+<text top="394" left="95" width="629" height="13" font="6">(Lane 2), HeLa S3 cells (Lane 3), and HepG2 cells (Lane 4).   <b>B.  </b>Immunoprecipitation of SIN3A from K562 cells using </text>
+<text top="408" left="95" width="654" height="13" font="6">NB600-1263.  Lane 1: input nuclear lysate, Lane 2:  unbound material from immunoprecipitation with NB600-1263, Lane 3: </text>
+<text top="423" left="95" width="636" height="13" font="6">material immunoprecipitated with NB600-1263, Lane 4: material immunoprecipitated using control IgG.  Arrow indicates </text>
+<text top="437" left="95" width="203" height="13" font="6">specifically immunoprecipitated band. </text>
+<text top="205" left="191" width="29" height="27" font="4">A. </text>
+<text top="348" left="211" width="89" height="11" font="1">Lane     1    2   3    4</text>
+<text top="346" left="300" width="7" height="13" font="5"><b>  </b></text>
+<text top="254" left="231" width="19" height="11" font="1">100 </text>
+<text top="269" left="237" width="14" height="11" font="1">75 </text>
+<text top="291" left="237" width="14" height="11" font="1">50 </text>
+<text top="306" left="237" width="14" height="11" font="1">38 </text>
+<text top="239" left="231" width="19" height="11" font="1">150 </text>
+<text top="320" left="237" width="14" height="11" font="1">25 </text>
+<text top="204" left="227" width="42" height="11" font="1">MW (kD) </text>
+<text top="219" left="231" width="19" height="11" font="1">250 </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="417" height="12" font="1">Immunoprecipitation of SIN3A from K562 cells using NB600-1263.  Lane 1: input nuclear lysate, Lane </text>
+<text top="55" left="130" width="409" height="12" font="1">2: material immunoprecipitated with ab87525, Lane 3: material immunoprecipitated using control </text>
+<text top="67" left="130" width="383" height="12" font="1">IgG.  Bands A and B were excised from the gel and subject to analysis by mass spectrometry. </text>
+<text top="79" left="130" width="2" height="12" font="1"> </text>
+<text top="91" left="130" width="403" height="12" font="1">IP followed by mass spectrometry: Briefly, protein was immunoprecipitated from K562 whole cell </text>
+<text top="103" left="130" width="400" height="12" font="1">lysates using NB600-1263, and the IP fraction was loaded on a 10% polyacrylamide gel (NuPAGE </text>
+<text top="115" left="130" width="378" height="12" font="1">Bis-Tris Gel) and separated with an Invitrogen NuPAGE electrophoresis system. The gel was </text>
+<text top="127" left="130" width="422" height="12" font="1">silver-stained, gel fragments corresponding to the bands indicated were excised and destained using </text>
+<text top="139" left="130" width="416" height="12" font="1">the SilverSNAP Stain for Mass Spectrometry (Pierce). Then proteins were trypsinized using the in-gel </text>
+<text top="152" left="130" width="411" height="12" font="1">digestion method. Digested proteins were analyzed on an LTQ-Orbitrap (Thermo Scientific) by the  </text>
+<text top="164" left="130" width="423" height="12" font="1">nanoLC-ESI-MS/MS technique. Peptides were identified by  the SEQUEST algorithm and filtered with a </text>
+<text top="176" left="130" width="397" height="12" font="1">high confidence threshold (Protein false discovery rate &lt; 1%, 2 peptides per protein minimum). </text>
+<text top="188" left="130" width="2" height="12" font="1"> </text>
+<text top="200" left="130" width="414" height="12" font="1">Because multiple bands were observed in Western blots, we isolated two bands from the gel.  From </text>
+<text top="212" left="130" width="414" height="12" font="1">the more intense upper band (band A), we identified 21 proteins, 12 of which were absent from the </text>
+<text top="224" left="130" width="422" height="12" font="1">control immunoprecipitation.  Among all proteins,  SIN3A was by far the most abundant (represented </text>
+<text top="236" left="130" width="416" height="12" font="1">by 122 peptides).  The next three most abundant specifically immunoprecipitated proteins (ARID4A, </text>
+<text top="248" left="130" width="418" height="12" font="1">ARID4B, and SAP130, highlighted in blue) are known interaction partners of SIN3A (Fleischer TC, Yun </text>
+<text top="260" left="130" width="404" height="12" font="1">UJ, Ayer DE Mol Cell Biol 23 (10): 3456–67. 2003).  In the less intense lower band,  we identified 43 </text>
+<text top="272" left="130" width="423" height="12" font="1">proteins, of which only 8 were absent in the control immunoprecipitation.  SIN3A was again by far the </text>
+<text top="284" left="130" width="410" height="12" font="1">most abundantly identified protein (48 peptides) and the next three most abundant proteins were </text>
+<text top="296" left="130" width="124" height="12" font="1">known interaction partners.    </text>
+<text top="308" left="130" width="2" height="12" font="1"> </text>
+<text top="320" left="130" width="377" height="12" font="1">Based on the identification of SIN3A in all detectable bands and the absence of specifically </text>
+<text top="332" left="130" width="410" height="12" font="1">immunoprecipitated chromosomal binding proteins, NB600-1263 meets the ENCODE standard for </text>
+<text top="344" left="130" width="113" height="12" font="1">validation by this criterion. </text>
+<text top="356" left="130" width="2" height="12" font="1"> </text>
+<text top="368" left="130" width="2" height="12" font="1"> </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="7" size="14" family="Times" color="#000000"/>
+	<fontspec id="8" size="12" family="Times" color="#000000"/>
+	<fontspec id="9" size="12" family="Times" color="#000000"/>
+	<fontspec id="10" size="14" family="Times" color="#000000"/>
+<text top="215" left="183" width="21" height="13" font="5"><b>MW</b></text>
+<text top="210" left="204" width="4" height="20" font="7"> </text>
+<text top="240" left="182" width="23" height="13" font="5"><b>250 </b></text>
+<text top="267" left="182" width="23" height="13" font="5"><b>150 </b></text>
+<text top="288" left="182" width="23" height="13" font="5"><b>100 </b></text>
+<text top="308" left="185" width="17" height="13" font="5"><b>75 </b></text>
+<text top="335" left="185" width="17" height="13" font="5"><b>50 </b></text>
+<text top="358" left="185" width="17" height="13" font="5"><b>37 </b></text>
+<text top="382" left="185" width="17" height="13" font="5"><b>25 </b></text>
+<text top="420" left="185" width="17" height="13" font="5"><b>10 </b></text>
+<text top="196" left="205" width="128" height="17" font="8">mSIN3A<b> </b>(NB600‐1263)</text>
+<text top="194" left="332" width="4" height="20" font="7"> </text>
+<text top="450" left="158" width="35" height="16" font="8">Lane </text>
+<text top="450" left="228" width="128" height="16" font="8">1              2             3</text>
+<text top="448" left="357" width="4" height="20" font="7"> </text>
+<text top="204" left="413" width="105" height="13" font="6">Lane 1 Input lysate </text>
+<text top="218" left="413" width="166" height="13" font="6">Lane 2 Bound material from IP </text>
+<text top="232" left="413" width="203" height="13" font="6">Lane 3 Bound material from IP            </text>
+<text top="247" left="453" width="119" height="13" font="6">using non-specific IgG</text>
+<text top="243" left="572" width="4" height="20" font="7"> </text>
+<text top="104" left="228" width="236" height="34" font="3">NB600‐1263 (SIN3A) </text>
+<text top="138" left="94" width="504" height="31" font="3">Immunoprecipitation/ Mass spectrometry</text>
+<text top="142" left="591" width="7" height="27" font="4"> </text>
+<text top="172" left="67" width="7" height="27" font="4"> </text>
+<text top="248" left="375" width="42" height="13" font="5"><b>Band A</b></text>
+<text top="244" left="417" width="4" height="18" font="10"><b> </b></text>
+<text top="271" left="375" width="42" height="13" font="5"><b>Band B</b></text>
+<text top="267" left="417" width="4" height="18" font="10"><b> </b></text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="612" width="792">
+<text top="73" left="67" width="45" height="12" font="1">Spectrum </text>
+<text top="72" left="218" width="73" height="11" font="1">Name of Protein</text>
+<text top="74" left="389" width="179" height="11" font="1">Peptide count Ratio(Sin3A/IgG control)</text>
+<text top="87" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="86" left="169" width="172" height="11" font="1">Paired amphipathic helix protein Sin3a</text>
+<text top="88" left="411" width="17" height="11" font="1">122</text>
+<text top="87" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="101" left="59" width="325" height="12" font="1">Sin3A_Band A Isoform I of AT-rich interactive domain-containing protein </text>
+<text top="112" left="249" width="12" height="11" font="1">4A</text>
+<text top="113" left="414" width="11" height="11" font="1">42</text>
+<text top="112" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="126" left="59" width="326" height="12" font="1">Sin3A_Band A Isoform 1 of AT-rich interactive domain-containing protein </text>
+<text top="137" left="249" width="12" height="11" font="1">4B</text>
+<text top="138" left="414" width="11" height="11" font="1">38</text>
+<text top="138" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="151" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="151" left="164" width="182" height="11" font="1">Isoform 2 of DNA topoisomerase 2-alpha</text>
+<text top="152" left="414" width="11" height="11" font="1">34</text>
+<text top="151" left="506" width="13" height="12" font="1">3.4</text>
+<text top="165" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="164" left="144" width="225" height="11" font="1">Isoform 1 of Histone deacetylase complex subunit </text>
+<text top="176" left="237" width="37" height="11" font="1">SAP130</text>
+<text top="177" left="414" width="11" height="11" font="1">23</text>
+<text top="177" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="190" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="190" left="184" width="142" height="11" font="1">ATP-dependent RNA helicase A</text>
+<text top="191" left="414" width="11" height="11" font="1">20</text>
+<text top="191" left="486" width="54" height="12" font="1">3.333333333</text>
+<text top="204" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="204" left="154" width="201" height="11" font="1">Isoform Beta-1 of DNA topoisomerase 2-beta</text>
+<text top="205" left="414" width="11" height="11" font="1">15</text>
+<text top="204" left="506" width="13" height="12" font="1">2.5</text>
+<text top="218" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="218" left="236" width="37" height="11" font="1">Matrin-3</text>
+<text top="219" left="417" width="6" height="11" font="1">7</text>
+<text top="218" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="232" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="232" left="194" width="122" height="11" font="1">Splicing factor 3B subunit 1</text>
+<text top="233" left="417" width="6" height="11" font="1">6</text>
+<text top="232" left="510" width="5" height="12" font="1">3</text>
+<text top="246" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="245" left="135" width="243" height="11" font="1">cDNA FLJ59523, highly similar to Scaffold attachment </text>
+<text top="257" left="237" width="35" height="11" font="1">factor B</text>
+<text top="258" left="417" width="6" height="11" font="1">4</text>
+<text top="258" left="510" width="5" height="12" font="1">2</text>
+<text top="271" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="271" left="189" width="132" height="11" font="1">Scaffold attachment factor B2</text>
+<text top="272" left="417" width="6" height="11" font="1">4</text>
+<text top="271" left="486" width="54" height="12" font="1">1.333333333</text>
+<text top="285" left="59" width="322" height="12" font="1">Sin3A_Band A 116 kDa U5 small nuclear ribonucleoprotein component </text>
+<text top="296" left="234" width="41" height="11" font="1">isoform b</text>
+<text top="297" left="417" width="6" height="11" font="1">3</text>
+<text top="297" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="310" left="59" width="321" height="12" font="1">Sin3A_Band A cDNA FLJ61347, highly similar to General transcription </text>
+<text top="321" left="235" width="40" height="11" font="1">factor II-I</text>
+<text top="322" left="417" width="6" height="11" font="1">3</text>
+<text top="322" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="336" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="335" left="187" width="135" height="11" font="1">FACT complex subunit SPT16</text>
+<text top="336" left="417" width="6" height="11" font="1">3</text>
+<text top="336" left="506" width="13" height="12" font="1">0.6</text>
+<text top="349" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="348" left="138" width="236" height="11" font="1">SWI/SNF-related matrix-associated actin-dependent </text>
+<text top="360" left="155" width="200" height="11" font="1">regulator of chromatin subfamily A member 5</text>
+<text top="361" left="417" width="6" height="11" font="1">3</text>
+<text top="361" left="504" width="18" height="12" font="1">0.75</text>
+<text top="375" left="59" width="325" height="12" font="1">Sin3A_Band A apoptotic chromatin condensation inducer in the nucleus </text>
+<text top="385" left="234" width="41" height="11" font="1">isoform 3</text>
+<text top="387" left="417" width="6" height="11" font="1">2</text>
+<text top="386" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="400" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="399" left="202" width="105" height="11" font="1">Centromere protein C 1</text>
+<text top="401" left="417" width="6" height="11" font="1">2</text>
+<text top="400" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="414" left="59" width="325" height="12" font="1">Sin3A_Band A Isoform 1 of U5 small nuclear ribonucleoprotein 200 kDa </text>
+<text top="425" left="236" width="37" height="11" font="1">helicase</text>
+<text top="426" left="417" width="6" height="11" font="1">2</text>
+<text top="425" left="510" width="5" height="12" font="1">2</text>
+<text top="439" left="59" width="321" height="12" font="1">Sin3A_Band A Isoform 2 of Cell division cycle and apoptosis regulator </text>
+<text top="450" left="235" width="39" height="11" font="1">protein 1</text>
+<text top="451" left="417" width="6" height="11" font="1">2</text>
+<text top="450" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="464" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="464" left="182" width="146" height="11" font="1">N-acetyltransferase 10 isoform b</text>
+<text top="465" left="417" width="6" height="11" font="1">2</text>
+<text top="464" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="478" left="59" width="62" height="12" font="1">Sin3A_Band A</text>
+<text top="478" left="162" width="185" height="11" font="1">Putative uncharacterized protein NUP160</text>
+<text top="479" left="417" width="6" height="11" font="1">2</text>
+<text top="478" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="506" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="505" left="169" width="172" height="11" font="1">Paired amphipathic helix protein Sin3a</text>
+<text top="507" left="414" width="11" height="11" font="1">48</text>
+<text top="506" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="612" width="792">
+<text top="73" left="59" width="326" height="12" font="1">Sin3A_Band B Isoform 1 of AT-rich interactive domain-containing protein </text>
+<text top="84" left="249" width="12" height="11" font="1">4B</text>
+<text top="85" left="414" width="11" height="11" font="1">15</text>
+<text top="84" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="98" left="59" width="325" height="12" font="1">Sin3A_Band B Isoform I of AT-rich interactive domain-containing protein </text>
+<text top="109" left="249" width="12" height="11" font="1">4A</text>
+<text top="110" left="414" width="11" height="11" font="1">15</text>
+<text top="110" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="123" left="59" width="322" height="12" font="1">Sin3A_Band B Isoform 2 of Heterogeneous nuclear ribonucleoprotein M</text>
+<text top="124" left="414" width="10" height="11" font="1">11</text>
+<text top="124" left="486" width="54" height="12" font="1">1.571428571</text>
+<text top="137" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="137" left="189" width="132" height="11" font="1">Transducin beta-like protein 3</text>
+<text top="138" left="414" width="10" height="11" font="1">11</text>
+<text top="138" left="486" width="54" height="12" font="1">0.733333333</text>
+<text top="151" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="151" left="184" width="142" height="11" font="1">ATP-dependent RNA helicase A</text>
+<text top="152" left="417" width="6" height="11" font="1">9</text>
+<text top="151" left="501" width="23" height="12" font="1">1.125</text>
+<text top="165" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="165" left="158" width="193" height="11" font="1">X-ray repair cross-complementing protein 5</text>
+<text top="166" left="417" width="6" height="11" font="1">8</text>
+<text top="165" left="510" width="5" height="12" font="1">2</text>
+<text top="179" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="178" left="144" width="225" height="11" font="1">Isoform 1 of Histone deacetylase complex subunit </text>
+<text top="190" left="237" width="37" height="11" font="1">SAP130</text>
+<text top="191" left="417" width="6" height="11" font="1">7</text>
+<text top="191" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="204" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="204" left="170" width="170" height="11" font="1">Isoform 1 of Nucleolar RNA helicase 2</text>
+<text top="205" left="417" width="6" height="11" font="1">7</text>
+<text top="204" left="486" width="54" height="12" font="1">0.538461538</text>
+<text top="218" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="218" left="224" width="61" height="11" font="1">NOP2 protein</text>
+<text top="219" left="417" width="6" height="11" font="1">7</text>
+<text top="218" left="486" width="54" height="12" font="1">0.777777778</text>
+<text top="232" left="59" width="322" height="12" font="1">Sin3A_Band B Putative pre-mRNA-splicing factor ATP-dependent RNA </text>
+<text top="243" left="219" width="72" height="11" font="1">helicase DHX15</text>
+<text top="244" left="417" width="6" height="11" font="1">6</text>
+<text top="244" left="486" width="54" height="12" font="1">0.857142857</text>
+<text top="257" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="257" left="185" width="139" height="11" font="1">WD repeat-containing protein 3</text>
+<text top="258" left="417" width="6" height="11" font="1">6</text>
+<text top="258" left="510" width="5" height="12" font="1">1</text>
+<text top="271" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="270" left="134" width="244" height="11" font="1">cDNA FLJ59435, highly similar to Homo sapiens outer </text>
+<text top="282" left="131" width="252" height="11" font="1">dense fiber of sperm tails 2 (ODF2), transcript variant 2, </text>
+<text top="294" left="240" width="30" height="11" font="1">mRNA</text>
+<text top="295" left="417" width="6" height="11" font="1">5</text>
+<text top="295" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="308" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="308" left="145" width="220" height="11" font="1">Isoform 1 of Interleukin enhancer-binding factor 3</text>
+<text top="309" left="417" width="6" height="11" font="1">5</text>
+<text top="309" left="501" width="23" height="12" font="1">0.625</text>
+<text top="322" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="322" left="241" width="28" height="11" font="1">Seipin</text>
+<text top="323" left="417" width="6" height="11" font="1">5</text>
+<text top="323" left="504" width="18" height="12" font="1">1.25</text>
+<text top="336" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="336" left="182" width="145" height="11" font="1">WD repeat-containing protein 43</text>
+<text top="337" left="417" width="6" height="11" font="1">5</text>
+<text top="336" left="506" width="13" height="12" font="1">2.5</text>
+<text top="350" left="59" width="323" height="12" font="1">Sin3A_Band B Deoxynucleotidyltransferase terminal-interacting protein </text>
+<text top="361" left="252" width="6" height="11" font="1">2</text>
+<text top="362" left="417" width="6" height="11" font="1">4</text>
+<text top="362" left="506" width="13" height="12" font="1">0.8</text>
+<text top="375" left="59" width="322" height="12" font="1">Sin3A_Band B Isoform 1 of Heterogeneous nuclear ribonucleoprotein R</text>
+<text top="376" left="417" width="6" height="11" font="1">4</text>
+<text top="376" left="486" width="54" height="12" font="1">1.333333333</text>
+<text top="389" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="389" left="236" width="37" height="11" font="1">Matrin-3</text>
+<text top="390" left="417" width="6" height="11" font="1">4</text>
+<text top="390" left="486" width="54" height="12" font="1">0.444444444</text>
+<text top="403" left="59" width="327" height="12" font="1">Sin3A_Band B U3 small nucleolar RNA-associated protein 14 homolog A </text>
+<text top="414" left="234" width="41" height="11" font="1">isoform 2</text>
+<text top="415" left="417" width="6" height="11" font="1">4</text>
+<text top="415" left="506" width="13" height="12" font="1">0.5</text>
+<text top="428" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="428" left="171" width="168" height="11" font="1">ATP-dependent RNA helicase DDX18</text>
+<text top="429" left="417" width="6" height="11" font="1">3</text>
+<text top="429" left="486" width="54" height="12" font="1">0.428571429</text>
+<text top="442" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="442" left="183" width="144" height="11" font="1">Heat shock protein HSP 90-beta</text>
+<text top="443" left="417" width="6" height="11" font="1">3</text>
+<text top="443" left="506" width="13" height="12" font="1">0.5</text>
+<text top="456" left="59" width="321" height="12" font="1">Sin3A_Band B Isoform 2 of Cell division cycle and apoptosis regulator </text>
+<text top="467" left="235" width="39" height="11" font="1">protein 1</text>
+<text top="468" left="417" width="6" height="11" font="1">3</text>
+<text top="468" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="481" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="481" left="176" width="157" height="11" font="1">Isoform 2 of Protein LAS1 homolog</text>
+<text top="482" left="417" width="6" height="11" font="1">3</text>
+<text top="482" left="504" width="18" height="12" font="1">0.75</text>
+<text top="495" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="495" left="203" width="104" height="11" font="1">Isoform A of Lamin-A/C</text>
+<text top="496" left="417" width="6" height="11" font="1">3</text>
+<text top="496" left="486" width="54" height="12" font="1">0.230769231</text>
+<text top="509" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="509" left="210" width="89" height="11" font="1">Nucleolar protein 11</text>
+<text top="510" left="417" width="6" height="11" font="1">3</text>
+<text top="510" left="504" width="18" height="12" font="1">0.75</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="612" width="792">
+<text top="73" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="72" left="136" width="240" height="11" font="1">Ribosomal RNA upstream binding transcription factor </text>
+<text top="84" left="230" width="50" height="11" font="1">(Fragment)</text>
+<text top="85" left="417" width="6" height="11" font="1">3</text>
+<text top="84" left="506" width="13" height="12" font="1">1.5</text>
+<text top="98" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="98" left="180" width="149" height="11" font="1">RNA-binding protein 28 isoform 2</text>
+<text top="99" left="417" width="6" height="11" font="1">3</text>
+<text top="98" left="486" width="54" height="12" font="1">0.428571429</text>
+<text top="112" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="112" left="149" width="212" height="11" font="1">testis-expressed sequence 10 protein isoform 2</text>
+<text top="113" left="417" width="6" height="11" font="1">3</text>
+<text top="112" left="504" width="18" height="12" font="1">0.75</text>
+<text top="126" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="126" left="182" width="145" height="11" font="1">WD repeat-containing protein 36</text>
+<text top="127" left="417" width="6" height="11" font="1">3</text>
+<text top="126" left="504" width="18" height="12" font="1">0.75</text>
+<text top="140" left="59" width="319" height="12" font="1">Sin3A_Band B Complement protein C4B frameshift mutant (Fragment)</text>
+<text top="141" left="417" width="6" height="11" font="1">2</text>
+<text top="140" left="510" width="5" height="12" font="1">1</text>
+<text top="154" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="153" left="186" width="137" height="11" font="1">FACT complex subunit SSRP1</text>
+<text top="155" left="417" width="6" height="11" font="1">2</text>
+<text top="154" left="510" width="5" height="12" font="1">1</text>
+<text top="168" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="167" left="205" width="99" height="11" font="1">Histone deacetylase 1</text>
+<text top="168" left="417" width="6" height="11" font="1">2</text>
+<text top="168" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="182" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="181" left="152" width="205" height="11" font="1">Isoform 1 of Heat shock protein HSP 90-alpha</text>
+<text top="182" left="417" width="6" height="11" font="1">2</text>
+<text top="182" left="506" width="13" height="12" font="1">0.4</text>
+<text top="196" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="195" left="166" width="178" height="11" font="1">Isoform 1 of Splicing factor 3B subunit 3</text>
+<text top="196" left="417" width="6" height="11" font="1">2</text>
+<text top="196" left="486" width="54" height="12" font="1">0.222222222</text>
+<text top="210" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="209" left="164" width="182" height="11" font="1">Isoform 2 of DNA topoisomerase 2-alpha</text>
+<text top="210" left="417" width="6" height="11" font="1">2</text>
+<text top="210" left="506" width="13" height="12" font="1">0.2</text>
+<text top="223" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="223" left="139" width="231" height="11" font="1">Isoform 2 of Transcription intermediary factor 1-beta</text>
+<text top="224" left="417" width="6" height="11" font="1">2</text>
+<text top="224" left="472" width="81" height="12" font="1">NOT IN CONTROL IP</text>
+<text top="237" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="237" left="142" width="226" height="11" font="1">Isoform 3 of Nuclear valosin-containing protein-like</text>
+<text top="238" left="417" width="6" height="11" font="1">2</text>
+<text top="238" left="510" width="5" height="12" font="1">2</text>
+<text top="251" left="59" width="318" height="12" font="1">Sin3A_Band B Isoform Long of Splicing factor, proline- and glutamine-</text>
+<text top="262" left="247" width="16" height="11" font="1">rich</text>
+<text top="263" left="417" width="6" height="11" font="1">2</text>
+<text top="263" left="486" width="54" height="12" font="1">0.666666667</text>
+<text top="276" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="276" left="170" width="170" height="11" font="1">Periodic tryptophan protein 2 homolog</text>
+<text top="277" left="417" width="6" height="11" font="1">2</text>
+<text top="277" left="506" width="13" height="12" font="1">0.5</text>
+<text top="290" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="290" left="149" width="211" height="11" font="1">Probable ATP-dependent RNA helicase DDX10</text>
+<text top="291" left="417" width="6" height="11" font="1">2</text>
+<text top="291" left="510" width="5" height="12" font="1">1</text>
+<text top="304" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="304" left="225" width="59" height="11" font="1">Protein AATF</text>
+<text top="305" left="417" width="6" height="11" font="1">2</text>
+<text top="305" left="510" width="5" height="12" font="1">2</text>
+<text top="318" left="59" width="62" height="12" font="1">Sin3A_Band B</text>
+<text top="318" left="175" width="160" height="11" font="1">Ribosome biogenesis protein BOP1</text>
+<text top="319" left="417" width="6" height="11" font="1">2</text>
+<text top="318" left="486" width="54" height="12" font="1">0.666666667</text>
+</page>
+</pdf2xml>

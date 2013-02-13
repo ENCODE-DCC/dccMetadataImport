@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>!&quot;#$%!&amp;%##&amp;'()*+,-.&amp;/01*-0)*,(&amp;%,2345()</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="408" left="95" width="431" height="12" font="1">May function as a transcription factor with dual roles in transcription initiation and termination. Binds to</text>
+<text top="418" left="95" width="440" height="12" font="1">two sites, ME1a1 and ME1a2, within the MYC promoter having greater affinity for the former. Also binds to</text>
+<text top="428" left="95" width="347" height="12" font="1">multiple G/C-rich sites within the promoter of the Sp1 family of transcription factors</text>
+<text top="597" left="238" width="187" height="12" font="1">http://www.abcam.com/MAZ-antibody-ab85</text>
+<text top="607" left="238" width="37" height="12" font="1">725.html</text>
+<text top="78" left="138" width="38" height="12" font="1">10/28/11</text>
+<text top="336" left="95" width="423" height="12" font="1">Synthetic peptide, corresponding to a region within amino acids 427-477 of Human MAZ, BAA33064.1</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="215" left="121" width="124" height="12" font="1">Anti-MAZ antibody (ab85725)</text>
+<text top="215" left="339" width="107" height="12" font="1">Maz (EntrezGene ID 4150)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="29" height="12" font="1">Abcam</text>
+<text top="485" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="46" height="12" font="1">GR41711-2</text>
+<text top="300" left="215" width="36" height="12" font="1">ab85725</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="141" width="30" height="12" font="2">Affinity</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="39" left="125" width="407" height="12" font="1">Comment: We observe one major band consistent with the expected size of Maz (49kD) in cell line</text>
+<text top="49" left="125" width="429" height="12" font="1">GM12878.  This band is also seen in cell lines K562, HeLa S3, and HepG2, along with another major band</text>
+<text top="59" left="125" width="413" height="12" font="1">of ~30kD. Both bands appear to be immunoprecipitated efficiently from HeLaS3 cells, with no other</text>
+<text top="69" left="125" width="412" height="12" font="1">bands visibly immunoprecipitated.  A similar result was obtained when immunoprecipitations were</text>
+<text top="79" left="125" width="392" height="12" font="1">performed in K562 cells (see validation #2 for this antibody).  Additionally,  we performed mass</text>
+<text top="89" left="125" width="411" height="12" font="1">spectrometry analysis on both bands immunoprecipitated from K562 and identified Maz as a major</text>
+<text top="99" left="125" width="412" height="12" font="1">component of each band (see validation #2).  Therefore, ab85725 meets this criterion for validation.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+	<fontspec id="4" size="8" family="Times" color="#000000"/>
+	<fontspec id="5" size="26" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+<text top="307" left="540" width="7" height="12" font="1">3 </text>
+<text top="307" left="473" width="24" height="12" font="1">Lane: </text>
+<text top="179" left="474" width="39" height="12" font="1">MW (kD) </text>
+<text top="216" left="480" width="17" height="12" font="1">100 </text>
+<text top="230" left="483" width="12" height="12" font="1">75 </text>
+<text top="250" left="483" width="12" height="12" font="1">50 </text>
+<text top="263" left="483" width="12" height="12" font="1">38 </text>
+<text top="201" left="480" width="17" height="12" font="1">150 </text>
+<text top="282" left="483" width="12" height="12" font="1">25 </text>
+<text top="307" left="506" width="23" height="12" font="1">1  2 </text>
+<text top="307" left="572" width="7" height="12" font="1">4 </text>
+<text top="179" left="398" width="18" height="22" font="3">B. </text>
+<text top="498" left="85" width="655" height="12" font="4"><b>A.</b>  Western blot using ab85725. Lanes contain nuclear lysates from GM12878 cells (Lane 1), K562 cells (Lane 2), HeLa S3 cells (Lane 3), and HepG2 cells (Lane 4).   </text>
+<text top="510" left="85" width="629" height="12" font="4"><b>B.  </b>ImmunoprecipitaMon of Maz from HeLa S3 cells using ab85725.  Lane 1: input nuclear lysate, Lane 2:  unbound material from immunoprecipitaMon with </text>
+<text top="522" left="85" width="647" height="12" font="1">ab87525, Lane 3: material immunoprecipitated with ab85725, Lane 4: material immunoprecipitated using control IgG.  Arrows indicate band at expected size of </text>
+<text top="534" left="85" width="436" height="12" font="1">Maz, * indicates band of similar intensity and unexpected size (idenMﬁed as Maz by mass spectrometry).      </text>
+<text top="60" left="90" width="569" height="34" font="5">ab85725 (Maz) Immunoblot/immunoprecipitaMon</text>
+<text top="70" left="659" width="4" height="22" font="3"> </text>
+<text top="93" left="90" width="4" height="22" font="3"> </text>
+<text top="301" left="192" width="80" height="12" font="1">Lane     1     2    3    4</text>
+<text top="299" left="272" width="5" height="15" font="6"><b>  </b></text>
+<text top="210" left="206" width="17" height="12" font="1">100 </text>
+<text top="224" left="208" width="12" height="12" font="1">75 </text>
+<text top="241" left="208" width="12" height="12" font="1">50 </text>
+<text top="258" left="208" width="12" height="12" font="1">38 </text>
+<text top="195" left="206" width="17" height="12" font="1">150 </text>
+<text top="275" left="208" width="12" height="12" font="1">25 </text>
+<text top="179" left="202" width="39" height="12" font="1">MW (kD) </text>
+<text top="179" left="130" width="19" height="22" font="3">A. </text>
+<text top="264" left="320" width="13" height="22" font="3">* </text>
+<text top="276" left="591" width="13" height="22" font="3">* </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="696" left="268" width="68" height="12" font="1">Submit by Email</text>
+<text top="39" left="130" width="401" height="12" font="1">Immunoprecipitation of Maz from K562 cells using ab85725.  Lane 1: input nuclear lysate, Lane 2:</text>
+<text top="49" left="130" width="416" height="12" font="1">material immunoprecipitated with ab85725, Lane 3: material immunoprecipitated using control IgG.</text>
+<text top="59" left="130" width="360" height="12" font="1">Bands A and B were excised from the gel and subject to analysis by mass spectrometry.</text>
+<text top="79" left="130" width="406" height="12" font="1">IP followed by mass spectrometry: Briefly, K562 whole cell lysates were immunoprecipitated using</text>
+<text top="89" left="130" width="396" height="12" font="1">ab85725, and the IP fraction was loaded on a 10% polyacrylamide gel (NuPAGE Bis-Tris Gel) and</text>
+<text top="99" left="130" width="383" height="12" font="1">separated with an invitrogen NuPAGE electrophoresis system. The gel was silver-stained, gel</text>
+<text top="109" left="130" width="408" height="12" font="1">fragments corresponding to the bands indicated were excised and destained using the SilverSNAP</text>
+<text top="119" left="130" width="423" height="12" font="1">Stain for Mass Spectrometry (Pierce). Then proteins were trysinized using the in-gel digestion method.</text>
+<text top="129" left="130" width="412" height="12" font="1">Digested proteins were analyzed on an LTQ-Orbitrap (Thermo Scientific) by the  nanoLC-ESI-MS/MS</text>
+<text top="139" left="130" width="409" height="12" font="1">technique. Peptides were identified by  the SEQUEST algorithm and filtered with a high confidence</text>
+<text top="149" left="130" width="325" height="12" font="1">threshold (Protein false discovery rate &lt; 1%, 2 peptides per protein minimum).</text>
+<text top="169" left="130" width="382" height="12" font="1">We report 80 proteins identified in band A, although 53 of these are also present in a control</text>
+<text top="179" left="130" width="420" height="12" font="1">immunoprecipitation and are thus likely to present due to non-specific association with the IP matrix.</text>
+<text top="189" left="130" width="414" height="12" font="1">Of the remaining proteins, Maz is the 5th most abundant (7 peptides) and there are no other known</text>
+<text top="199" left="130" width="420" height="12" font="1">sequence-specific DNA-binding proteins of similar or greater abundance found (the majority are high</text>
+<text top="209" left="130" width="145" height="12" font="1">abundance RNA-binding proteins).</text>
+<text top="229" left="130" width="398" height="12" font="1">We identify 62 proteins in band B and 29 of these are found in the control immunoprecipitation.</text>
+<text top="239" left="130" width="351" height="12" font="1">Among the remaining proteins, Maz is the 2nd most abundant, with no other known</text>
+<text top="249" left="130" width="420" height="12" font="1">sequence-specific DNA-binding proteins of similar or greater abundance found (the majority are high</text>
+<text top="259" left="130" width="145" height="12" font="1">abundance RNA-binding proteins).</text>
+<text top="279" left="130" width="404" height="12" font="1">Based on these observations, all major bands are likely due to the presence of immunoprecipated</text>
+<text top="289" left="130" width="321" height="12" font="1">Maz and ab85725 meets the ENCODE standard for validation by this criterion.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="7" size="14" family="Times" color="#000000"/>
+<text top="146" left="240" width="32" height="20" font="7">MW </text>
+<text top="169" left="241" width="28" height="20" font="7">250 </text>
+<text top="196" left="240" width="28" height="20" font="7">150 </text>
+<text top="218" left="240" width="28" height="20" font="7">100 </text>
+<text top="236" left="250" width="20" height="20" font="7">75 </text>
+<text top="263" left="239" width="31" height="20" font="7">   50 </text>
+<text top="286" left="252" width="20" height="20" font="7">37 </text>
+<text top="312" left="252" width="20" height="20" font="7">25 </text>
+<text top="350" left="250" width="20" height="20" font="7">10 </text>
+<text top="391" left="250" width="34" height="20" font="7">Lane </text>
+<text top="394" left="347" width="118" height="20" font="7">1            2             3 </text>
+<text top="316" left="501" width="49" height="20" font="7">Band B </text>
+<text top="271" left="501" width="50" height="20" font="7">Band A </text>
+<text top="71" left="48" width="648" height="34" font="5">ab85725 (Maz) Immunoprecipita?on/Mass spectrometry</text>
+<text top="81" left="695" width="4" height="22" font="3"> </text>
+<text top="104" left="48" width="4" height="22" font="3"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="8" size="9" family="Times" color="#000000"/>
+<text top="72" left="56" width="34" height="13" font="8">Spectra</text>
+<text top="72" left="145" width="74" height="13" font="8">Name of Protein</text>
+<text top="72" left="473" width="231" height="13" font="8">Count of Peptides PeptideRatio (MAZ/IgG control)</text>
+<text top="86" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="86" left="145" width="194" height="13" font="8">X‐ray repair cross‐complementing protein 6</text>
+<text top="86" left="544" width="11" height="13" font="8">30</text>
+<text top="86" left="645" width="59" height="13" font="8">1.428571429</text>
+<text top="100" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="100" left="145" width="92" height="13" font="8">Nucleolar protein 56</text>
+<text top="100" left="544" width="11" height="13" font="8">27</text>
+<text top="100" left="684" width="20" height="13" font="8">2.25</text>
+<text top="114" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="114" left="145" width="105" height="13" font="8">Isoform A of Lamin‐A/C</text>
+<text top="114" left="544" width="11" height="13" font="8">26</text>
+<text top="114" left="698" width="6" height="13" font="8">2</text>
+<text top="128" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="128" left="145" width="144" height="13" font="8">Stress‐70 protein, mitochondrial</text>
+<text top="128" left="544" width="11" height="13" font="8">25</text>
+<text top="128" left="678" width="25" height="13" font="8">3.125</text>
+<text top="142" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="142" left="145" width="92" height="13" font="8">Nucleolar protein 58</text>
+<text top="142" left="544" width="11" height="13" font="8">24</text>
+<text top="142" left="645" width="59" height="13" font="8">1.263157895</text>
+<text top="156" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="156" left="145" width="253" height="13" font="8">Isoform 1 of Heterogeneous nuclear ribonucleoprotein R</text>
+<text top="156" left="544" width="11" height="13" font="8">18</text>
+<text top="156" left="690" width="14" height="13" font="8">1.2</text>
+<text top="170" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="170" left="145" width="255" height="13" font="8">Isoform 4 of Heterogeneous nuclear ribonucleoprotein Q</text>
+<text top="170" left="544" width="11" height="13" font="8">16</text>
+<text top="170" left="690" width="14" height="13" font="8">3.2</text>
+<text top="184" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="184" left="145" width="255" height="13" font="8">Isoform 2 of Heterogeneous nuclear ribonucleoprotein Q</text>
+<text top="184" left="544" width="11" height="13" font="8">15</text>
+<text top="184" left="690" width="14" height="13" font="8">2.5</text>
+<text top="198" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="198" left="145" width="195" height="13" font="8">Heterogeneous nuclear ribonucleoprotein L</text>
+<text top="198" left="544" width="11" height="13" font="8">14</text>
+<text top="198" left="645" width="59" height="13" font="8">1.076923077</text>
+<text top="211" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="211" left="145" width="138" height="13" font="8">ATP‐dependent RNA helicase A</text>
+<text top="211" left="544" width="11" height="13" font="8">13</text>
+<text top="211" left="645" width="59" height="13" font="8">1.083333333</text>
+<text top="225" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="225" left="145" width="231" height="13" font="8">Insulin‐like growth factor 2 mRNA‐binding protein 1</text>
+<text top="225" left="544" width="11" height="13" font="8">12</text>
+<text top="225" left="645" width="59" height="13" font="8">0.923076923</text>
+<text top="239" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="239" left="145" width="257" height="13" font="8">Isoform 2 of Heterogeneous nuclear ribonucleoprotein M</text>
+<text top="239" left="544" width="11" height="13" font="8">12</text>
+<text top="239" left="698" width="6" height="13" font="8">3</text>
+<text top="253" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="253" left="145" width="42" height="13" font="8">Lamin‐B1</text>
+<text top="253" left="544" width="11" height="13" font="8">12</text>
+<text top="253" left="645" width="59" height="13" font="8">1.333333333</text>
+<text top="267" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="267" left="145" width="69" height="13" font="8">RSL1D1 protein</text>
+<text top="267" left="544" width="11" height="13" font="8">12</text>
+<text top="267" left="698" width="6" height="13" font="8">6</text>
+<text top="281" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="281" left="145" width="241" height="13" font="8">h/ACA ribonucleoprotein complex subunit 4 isoform 2</text>
+<text top="281" left="544" width="11" height="13" font="8">11</text>
+<text top="281" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="295" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="295" left="145" width="241" height="13" font="8">U3 small nucleolar RNA‐associated protein 6 homolog</text>
+<text top="295" left="544" width="11" height="13" font="8">11</text>
+<text top="295" left="645" width="59" height="13" font="8">1.222222222</text>
+<text top="309" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="309" left="145" width="190" height="13" font="8">ATP synthase subunit alpha, mitochondrial</text>
+<text top="309" left="544" width="11" height="13" font="8">11</text>
+<text top="309" left="690" width="14" height="13" font="8">5.5</text>
+<text top="323" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="323" left="145" width="259" height="13" font="8">cDNA FLJ58049, highly similar to RNA‐binding protein FUS</text>
+<text top="323" left="544" width="11" height="13" font="8">10</text>
+<text top="323" left="645" width="59" height="13" font="8">1.428571429</text>
+<text top="337" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="337" left="145" width="83" height="13" font="8">Isoform 1 of Cirhin</text>
+<text top="337" left="544" width="11" height="13" font="8">10</text>
+<text top="337" left="645" width="59" height="13" font="8">1.428571429</text>
+<text top="351" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="351" left="145" width="287" height="13" font="8">Isoform 1 of Insulin‐like growth factor 2 mRNA‐binding protein 3</text>
+<text top="351" left="544" width="11" height="13" font="8">10</text>
+<text top="351" left="698" width="6" height="13" font="8">1</text>
+<text top="365" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="365" left="145" width="169" height="13" font="8">Isoform 2 of Nucleolar RNA helicase 2</text>
+<text top="365" left="544" width="11" height="13" font="8">10</text>
+<text top="365" left="698" width="6" height="13" font="8">5</text>
+<text top="379" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="379" left="145" width="262" height="13" font="8">Isoform 3 of Probable ATP‐dependent RNA helicase DDX17</text>
+<text top="379" left="544" width="11" height="13" font="8">10</text>
+<text top="379" left="645" width="59" height="13" font="8">3.333333333</text>
+<text top="392" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="392" left="145" width="199" height="13" font="8">Probable ATP‐dependent RNA helicase DDX5</text>
+<text top="392" left="549" width="6" height="13" font="8">9</text>
+<text top="392" left="698" width="6" height="13" font="8">1</text>
+<text top="406" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="406" left="145" width="185" height="13" font="8">ATP synthase subunit beta, mitochondrial</text>
+<text top="406" left="549" width="6" height="13" font="8">9</text>
+<text top="406" left="684" width="20" height="13" font="8">2.25</text>
+<text top="420" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="420" left="145" width="197" height="13" font="8">Heterogeneous nuclear ribonucleoprotein H</text>
+<text top="420" left="549" width="6" height="13" font="8">9</text>
+<text top="420" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="434" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="434" left="145" width="196" height="13" font="8">Heterogeneous nuclear ribonucleoprotein K</text>
+<text top="434" left="549" width="6" height="13" font="8">8</text>
+<text top="434" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="448" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="448" left="145" width="171" height="13" font="8">Putative uncharacterized protein PES1</text>
+<text top="448" left="549" width="6" height="13" font="8">8</text>
+<text top="448" left="645" width="59" height="13" font="8">2.666666667</text>
+<text top="462" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="462" left="145" width="200" height="13" font="8">U3 small nucleolar RNA‐interacting protein 2</text>
+<text top="462" left="549" width="6" height="13" font="8">8</text>
+<text top="462" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="476" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="476" left="145" width="303" height="13" font="8">cDNA FLJ45706 fis, clone FEBRA2028457, highly similar to Nucleolin</text>
+<text top="476" left="549" width="6" height="13" font="8">7</text>
+<text top="476" left="645" width="59" height="13" font="8">1.357142857</text>
+<text top="490" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="490" left="145" width="98" height="13" font="8">DNA topoisomerase 1</text>
+<text top="490" left="549" width="6" height="13" font="8">7</text>
+<text top="490" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="504" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="504" left="145" width="197" height="13" font="8">myc‐associated zinc finger protein isoform 2</text>
+<text top="504" left="549" width="6" height="13" font="8">7</text>
+<text top="504" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="518" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="518" left="145" width="372" height="13" font="8">Dolichyl‐diphosphooligosaccharide‐‐protein glycosyltransferase subunit 1 precursor</text>
+<text top="518" left="549" width="6" height="13" font="8">6</text>
+<text top="518" left="698" width="6" height="13" font="8">2</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="612" width="792">
+<text top="72" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="72" left="145" width="243" height="13" font="8">Isoform 2 of Guanine nucleotide‐binding protein‐like 3</text>
+<text top="72" left="549" width="6" height="13" font="8">6</text>
+<text top="72" left="690" width="14" height="13" font="8">1.2</text>
+<text top="86" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="86" left="145" width="195" height="13" font="8">Isoform 2 of Putative oxidoreductase GLYR1</text>
+<text top="86" left="549" width="6" height="13" font="8">6</text>
+<text top="86" left="690" width="14" height="13" font="8">1.2</text>
+<text top="100" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="100" left="145" width="270" height="13" font="8">Isoform Long of Heterogeneous nuclear ribonucleoprotein U</text>
+<text top="100" left="549" width="6" height="13" font="8">6</text>
+<text top="100" left="690" width="14" height="13" font="8">1.2</text>
+<text top="114" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="114" left="145" width="250" height="13" font="8">probable ATP‐dependent RNA helicase DDX52 isoform b</text>
+<text top="114" left="549" width="6" height="13" font="8">6</text>
+<text top="114" left="698" width="6" height="13" font="8">3</text>
+<text top="128" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="128" left="145" width="179" height="13" font="8">Putative uncharacterized protein DDX56</text>
+<text top="128" left="549" width="6" height="13" font="8">6</text>
+<text top="128" left="698" width="6" height="13" font="8">3</text>
+<text top="142" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="142" left="145" width="264" height="13" font="8">ATPase family AAA domain‐containing protein 3A isoform 3</text>
+<text top="142" left="549" width="6" height="13" font="8">5</text>
+<text top="142" left="678" width="25" height="13" font="8">0.625</text>
+<text top="156" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="156" left="145" width="249" height="13" font="8">cDNA FLJ53912, highly similar to Zinc finger protein 512</text>
+<text top="156" left="549" width="6" height="13" font="8">5</text>
+<text top="156" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="170" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="170" left="145" width="227" height="13" font="8">Isoform 1 of Polypyrimidine tract‐binding protein 1</text>
+<text top="170" left="549" width="6" height="13" font="8">5</text>
+<text top="170" left="698" width="6" height="13" font="8">3</text>
+<text top="184" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="184" left="145" width="246" height="13" font="8">U3 small nucleolar RNA‐associated protein 18 homolog</text>
+<text top="184" left="549" width="6" height="13" font="8">5</text>
+<text top="184" left="645" width="59" height="13" font="8">0.833333333</text>
+<text top="198" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="198" left="145" width="169" height="13" font="8">Nucleolar complex protein 4 homolog</text>
+<text top="198" left="549" width="6" height="13" font="8">5</text>
+<text top="198" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="211" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="211" left="145" width="214" height="13" font="8">Ribosomal RNA processing protein 1 homolog A</text>
+<text top="211" left="549" width="6" height="13" font="8">5</text>
+<text top="211" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="225" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="225" left="145" width="185" height="13" font="8">60 kDa heat shock protein, mitochondrial</text>
+<text top="225" left="549" width="6" height="13" font="8">4</text>
+<text top="225" left="645" width="59" height="13" font="8">0.571428571</text>
+<text top="239" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="239" left="145" width="162" height="13" font="8">Isoform 1 of RNA‐binding protein 14</text>
+<text top="239" left="549" width="6" height="13" font="8">4</text>
+<text top="239" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="253" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="253" left="145" width="42" height="13" font="8">Lamin‐B2</text>
+<text top="253" left="549" width="6" height="13" font="8">4</text>
+<text top="253" left="645" width="59" height="13" font="8">0.666666667</text>
+<text top="267" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="267" left="145" width="140" height="13" font="8">Pre‐mRNA‐processing factor 19</text>
+<text top="267" left="549" width="6" height="13" font="8">4</text>
+<text top="267" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="281" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="281" left="145" width="202" height="13" font="8">Pumilio domain‐containing protein KIAA0020</text>
+<text top="281" left="549" width="6" height="13" font="8">4</text>
+<text top="281" left="698" width="6" height="13" font="8">2</text>
+<text top="295" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="295" left="145" width="317" height="13" font="8">Putative pre‐mRNA‐splicing factor ATP‐dependent RNA helicase DHX15</text>
+<text top="295" left="549" width="6" height="13" font="8">4</text>
+<text top="295" left="645" width="59" height="13" font="8">1.333333333</text>
+<text top="309" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="309" left="145" width="122" height="13" font="8">Splicing factor 3A subunit 3</text>
+<text top="309" left="549" width="6" height="13" font="8">4</text>
+<text top="309" left="645" width="59" height="13" font="8">1.333333333</text>
+<text top="323" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="323" left="145" width="147" height="13" font="8">WD repeat‐containing protein 46</text>
+<text top="323" left="549" width="6" height="13" font="8">4</text>
+<text top="323" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="337" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="337" left="145" width="144" height="13" font="8">Eukaryotic initiation factor 4A‐III</text>
+<text top="337" left="549" width="6" height="13" font="8">4</text>
+<text top="337" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="351" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="351" left="145" width="196" height="13" font="8">Heterogeneous nuclear ribonucleoprotein F</text>
+<text top="351" left="549" width="6" height="13" font="8">4</text>
+<text top="351" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="365" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="365" left="145" width="65" height="13" font="8">TUBB6 protein</text>
+<text top="365" left="549" width="6" height="13" font="8">4</text>
+<text top="365" left="645" width="59" height="13" font="8">0.210526316</text>
+<text top="379" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="379" left="145" width="162" height="13" font="8">ATP‐dependent RNA helicase DDX18</text>
+<text top="379" left="549" width="6" height="13" font="8">3</text>
+<text top="379" left="690" width="14" height="13" font="8">1.5</text>
+<text top="392" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="392" left="145" width="162" height="13" font="8">ATP‐dependent RNA helicase DDX3X</text>
+<text top="392" left="549" width="6" height="13" font="8">3</text>
+<text top="392" left="690" width="14" height="13" font="8">1.5</text>
+<text top="406" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="406" left="145" width="259" height="13" font="8">cDNA FLJ50996, highly similar to 60S ribosomal protein L4</text>
+<text top="406" left="549" width="6" height="13" font="8">3</text>
+<text top="406" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="420" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="420" left="145" width="98" height="13" font="8">DNA topoisomerase 2</text>
+<text top="420" left="549" width="6" height="13" font="8">3</text>
+<text top="420" left="690" width="14" height="13" font="8">1.5</text>
+<text top="434" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="434" left="145" width="263" height="13" font="8">Isoform Short of TATA‐binding protein‐associated factor 2N</text>
+<text top="434" left="549" width="6" height="13" font="8">3</text>
+<text top="434" left="690" width="14" height="13" font="8">1.5</text>
+<text top="448" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="448" left="145" width="203" height="13" font="8">Nuclease‐sensitive element‐binding protein 1</text>
+<text top="448" left="549" width="6" height="13" font="8">3</text>
+<text top="448" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="462" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="462" left="145" width="173" height="13" font="8">Putative uncharacterized protein RPN2</text>
+<text top="462" left="549" width="6" height="13" font="8">3</text>
+<text top="462" left="690" width="14" height="13" font="8">1.5</text>
+<text top="476" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="476" left="145" width="152" height="13" font="8">SNW domain‐containing protein 1</text>
+<text top="476" left="549" width="6" height="13" font="8">3</text>
+<text top="476" left="698" width="6" height="13" font="8">1</text>
+<text top="490" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="490" left="145" width="246" height="13" font="8">U3 small nucleolar RNA‐associated protein 15 homolog</text>
+<text top="490" left="549" width="6" height="13" font="8">3</text>
+<text top="490" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="504" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="504" left="145" width="162" height="13" font="8">ATP‐dependent RNA helicase DDX39</text>
+<text top="504" left="549" width="6" height="13" font="8">3</text>
+<text top="504" left="698" width="6" height="13" font="8">3</text>
+<text top="518" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="518" left="145" width="197" height="13" font="8">Heterogeneous nuclear ribonucleoprotein G</text>
+<text top="518" left="549" width="6" height="13" font="8">3</text>
+<text top="518" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="612" width="792">
+<text top="72" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="72" left="145" width="200" height="13" font="8">Isoform 2 of Polyadenylate‐binding protein 2</text>
+<text top="72" left="549" width="6" height="13" font="8">3</text>
+<text top="72" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="86" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="86" left="145" width="53" height="13" font="8">C4A protein</text>
+<text top="86" left="549" width="6" height="13" font="8">2</text>
+<text top="86" left="684" width="20" height="13" font="8">0.25</text>
+<text top="100" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="100" left="145" width="310" height="13" font="8">cDNA, FLJ79275, highly similar to T‐complex protein 1 subunit epsilon</text>
+<text top="100" left="549" width="6" height="13" font="8">2</text>
+<text top="100" left="690" width="14" height="13" font="8">0.5</text>
+<text top="114" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="114" left="145" width="203" height="13" font="8">Isoform 1 of Heat shock protein HSP 90‐alpha</text>
+<text top="114" left="549" width="6" height="13" font="8">2</text>
+<text top="114" left="645" width="59" height="13" font="8">0.666666667</text>
+<text top="128" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="128" left="145" width="316" height="13" font="8">Isoform 4 of Heterogeneous nuclear ribonucleoprotein U‐like protein 1</text>
+<text top="128" left="549" width="6" height="13" font="8">2</text>
+<text top="128" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="142" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="142" left="145" width="224" height="13" font="8">Isoform 5 of Interleukin enhancer‐binding factor 3</text>
+<text top="142" left="549" width="6" height="13" font="8">2</text>
+<text top="142" left="698" width="6" height="13" font="8">2</text>
+<text top="156" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="156" left="145" width="39" height="13" font="8">Matrin‐3</text>
+<text top="156" left="549" width="6" height="13" font="8">2</text>
+<text top="156" left="698" width="6" height="13" font="8">2</text>
+<text top="170" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="170" left="145" width="48" height="13" font="8">Serpin B12</text>
+<text top="170" left="549" width="6" height="13" font="8">2</text>
+<text top="170" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="184" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="184" left="145" width="440" height="13" font="8">SWI/SNF‐related matrix‐associated actin‐dependent regulator of chromatin subfamily A member 5</text>
+<text top="184" left="549" width="6" height="13" font="8">2</text>
+<text top="184" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="198" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="198" left="145" width="205" height="13" font="8">T‐complex protein 1 subunit gamma isoform c</text>
+<text top="198" left="549" width="6" height="13" font="8">2</text>
+<text top="198" left="698" width="6" height="13" font="8">1</text>
+<text top="211" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="211" left="145" width="259" height="13" font="8">cDNA FLJ50996, highly similar to 60S ribosomal protein L4</text>
+<text top="211" left="549" width="6" height="13" font="8">2</text>
+<text top="211" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="225" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="225" left="145" width="167" height="13" font="8">DDB1‐ and CUL4‐associated factor 13</text>
+<text top="225" left="549" width="6" height="13" font="8">2</text>
+<text top="225" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="239" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="239" left="145" width="181" height="13" font="8">histone‐binding protein RBBP4 isoform c</text>
+<text top="239" left="549" width="6" height="13" font="8">2</text>
+<text top="239" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="253" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="253" left="145" width="250" height="13" font="8">probable ATP‐dependent RNA helicase DDX47 isoform 2</text>
+<text top="253" left="549" width="6" height="13" font="8">2</text>
+<text top="253" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="267" left="56" width="58" height="13" font="8">MAZ_Band A</text>
+<text top="267" left="145" width="189" height="13" font="8">Putative uncharacterized protein HNRNPD</text>
+<text top="267" left="549" width="6" height="13" font="8">2</text>
+<text top="267" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="281" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="281" left="145" width="275" height="13" font="8">Isoform A1‐A of Heterogeneous nuclear ribonucleoprotein A1</text>
+<text top="281" left="544" width="11" height="13" font="8">14</text>
+<text top="281" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="295" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="295" left="145" width="197" height="13" font="8">myc‐associated zinc finger protein isoform 2</text>
+<text top="295" left="544" width="11" height="13" font="8">13</text>
+<text top="295" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="309" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="309" left="145" width="199" height="13" font="8">Anti‐RhD monoclonal T125 kappa light chain</text>
+<text top="309" left="544" width="11" height="13" font="8">11</text>
+<text top="309" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="323" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="323" left="145" width="308" height="13" font="8">electron transfer flavoprotein subunit alpha, mitochondrial isoform b</text>
+<text top="323" left="544" width="11" height="13" font="8">10</text>
+<text top="323" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="337" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="337" left="145" width="138" height="13" font="8">Chromobox protein homolog 3</text>
+<text top="337" left="544" width="11" height="13" font="8">10</text>
+<text top="337" left="645" width="59" height="13" font="8">1.428571429</text>
+<text top="351" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="351" left="145" width="84" height="13" font="8">ELAV‐like protein 1</text>
+<text top="351" left="549" width="6" height="13" font="8">9</text>
+<text top="351" left="684" width="20" height="13" font="8">0.75</text>
+<text top="365" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="365" left="145" width="127" height="13" font="8">Isoform 2 of Nucleophosmin</text>
+<text top="365" left="549" width="6" height="13" font="8">9</text>
+<text top="365" left="698" width="6" height="13" font="8">2</text>
+<text top="379" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="379" left="145" width="175" height="13" font="8">Cyclosporin A transporter 1 (Fragment)</text>
+<text top="379" left="549" width="6" height="13" font="8">8</text>
+<text top="379" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="392" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="392" left="145" width="286" height="13" font="8">Isoform A2 of Heterogeneous nuclear ribonucleoproteins A2/B1</text>
+<text top="392" left="549" width="6" height="13" font="8">8</text>
+<text top="392" left="698" width="6" height="13" font="8">2</text>
+<text top="406" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="406" left="145" width="117" height="13" font="8">60S ribosomal protein L7a</text>
+<text top="406" left="549" width="6" height="13" font="8">7</text>
+<text top="406" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="420" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="420" left="145" width="37" height="13" font="8">Borealin</text>
+<text top="420" left="549" width="6" height="13" font="8">7</text>
+<text top="420" left="678" width="25" height="13" font="8">0.875</text>
+<text top="434" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="434" left="145" width="53" height="13" font="8">Prohibitin‐2</text>
+<text top="434" left="549" width="6" height="13" font="8">7</text>
+<text top="434" left="698" width="6" height="13" font="8">1</text>
+<text top="448" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="448" left="145" width="100" height="13" font="8">ADP/ATP translocase 2</text>
+<text top="448" left="549" width="6" height="13" font="8">6</text>
+<text top="448" left="698" width="6" height="13" font="8">5</text>
+<text top="462" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="462" left="145" width="209" height="13" font="8">Isoform 1 of Uncharacterized protein FLJ36031</text>
+<text top="462" left="549" width="6" height="13" font="8">6</text>
+<text top="462" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="476" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="476" left="145" width="193" height="13" font="8">Putative uncharacterized protein HNRNPAB</text>
+<text top="476" left="549" width="6" height="13" font="8">6</text>
+<text top="476" left="690" width="14" height="13" font="8">2.5</text>
+<text top="490" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="490" left="145" width="104" height="13" font="8">THO complex subunit 4</text>
+<text top="490" left="549" width="6" height="13" font="8">6</text>
+<text top="490" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="504" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="504" left="145" width="211" height="13" font="8">Tricarboxylate transport protein, mitochondrial</text>
+<text top="504" left="549" width="6" height="13" font="8">6</text>
+<text top="504" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="518" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="518" left="145" width="169" height="13" font="8">U2 small nuclear ribonucleoprotein A'</text>
+<text top="518" left="549" width="6" height="13" font="8">6</text>
+<text top="518" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="612" width="792">
+<text top="72" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="72" left="145" width="197" height="13" font="8">H/ACA ribonucleoprotein complex subunit 2</text>
+<text top="72" left="549" width="6" height="13" font="8">6</text>
+<text top="72" left="698" width="6" height="13" font="8">2</text>
+<text top="86" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="86" left="145" width="40" height="13" font="8">Hornerin</text>
+<text top="86" left="549" width="6" height="13" font="8">5</text>
+<text top="86" left="690" width="14" height="13" font="8">2.5</text>
+<text top="100" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="100" left="145" width="73" height="13" font="8">Flavin reductase</text>
+<text top="100" left="549" width="6" height="13" font="8">5</text>
+<text top="100" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="114" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="114" left="145" width="112" height="13" font="8">40S ribosomal protein S3</text>
+<text top="114" left="549" width="6" height="13" font="8">4</text>
+<text top="114" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="128" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="128" left="145" width="160" height="13" font="8">40S ribosomal protein S4, X isoform</text>
+<text top="128" left="549" width="6" height="13" font="8">4</text>
+<text top="128" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="142" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="142" left="145" width="117" height="13" font="8">60S ribosomal protein L13</text>
+<text top="142" left="549" width="6" height="13" font="8">4</text>
+<text top="142" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="156" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="156" left="145" width="175" height="13" font="8">Chloride intracellular channel protein 1</text>
+<text top="156" left="549" width="6" height="13" font="8">4</text>
+<text top="156" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="170" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="170" left="145" width="173" height="13" font="8">Chromosome 1 open reading frame 77</text>
+<text top="170" left="549" width="6" height="13" font="8">4</text>
+<text top="170" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="184" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="184" left="145" width="197" height="13" font="8">Heterogeneous nuclear ribonucleoprotein G</text>
+<text top="184" left="549" width="6" height="13" font="8">4</text>
+<text top="184" left="645" width="59" height="13" font="8">1.333333333</text>
+<text top="198" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="198" left="145" width="253" height="13" font="8">Isoform 1 of Heterogeneous nuclear ribonucleoprotein R</text>
+<text top="198" left="549" width="6" height="13" font="8">4</text>
+<text top="198" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="211" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="211" left="145" width="260" height="13" font="8">Isoform 2 of Heterogeneous nuclear ribonucleoprotein H3</text>
+<text top="211" left="549" width="6" height="13" font="8">4</text>
+<text top="211" left="698" width="6" height="13" font="8">1</text>
+<text top="225" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="225" left="145" width="273" height="13" font="8">Isoform 3 of Heterogeneous nuclear ribonucleoprotein D‐like</text>
+<text top="225" left="549" width="6" height="13" font="8">4</text>
+<text top="225" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="239" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="239" left="145" width="189" height="13" font="8">Putative uncharacterized protein HNRNPD</text>
+<text top="239" left="549" width="6" height="13" font="8">4</text>
+<text top="239" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="253" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="253" left="145" width="178" height="13" font="8">Putative uncharacterized protein RPS3A</text>
+<text top="253" left="549" width="6" height="13" font="8">4</text>
+<text top="253" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="267" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="267" left="145" width="100" height="13" font="8">Ribosomal protein L18</text>
+<text top="267" left="549" width="6" height="13" font="8">4</text>
+<text top="267" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="281" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="281" left="145" width="48" height="13" font="8">Serpin B12</text>
+<text top="281" left="549" width="6" height="13" font="8">4</text>
+<text top="281" left="698" width="6" height="13" font="8">4</text>
+<text top="295" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="295" left="145" width="117" height="13" font="8">40S ribosomal protein S13</text>
+<text top="295" left="549" width="6" height="13" font="8">4</text>
+<text top="295" left="645" width="59" height="13" font="8">1.333333333</text>
+<text top="309" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="309" left="145" width="117" height="13" font="8">40S ribosomal protein S18</text>
+<text top="309" left="549" width="6" height="13" font="8">4</text>
+<text top="309" left="698" width="6" height="13" font="8">2</text>
+<text top="323" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="323" left="145" width="272" height="13" font="8">Isoform HMG‐I of High mobility group protein HMG‐I/HMG‐Y</text>
+<text top="323" left="549" width="6" height="13" font="8">4</text>
+<text top="323" left="645" width="59" height="13" font="8">0.571428571</text>
+<text top="337" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="337" left="145" width="115" height="13" font="8">Transcription factor MafG</text>
+<text top="337" left="549" width="6" height="13" font="8">4</text>
+<text top="337" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="351" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="351" left="145" width="112" height="13" font="8">40S ribosomal protein S6</text>
+<text top="351" left="549" width="6" height="13" font="8">3</text>
+<text top="351" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="365" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="365" left="145" width="166" height="13" font="8">Fatty acid‐binding protein, epidermal</text>
+<text top="365" left="549" width="6" height="13" font="8">3</text>
+<text top="365" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="379" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="379" left="145" width="54" height="13" font="8">Histone H1x</text>
+<text top="379" left="549" width="6" height="13" font="8">3</text>
+<text top="379" left="690" width="14" height="13" font="8">1.5</text>
+<text top="392" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="392" left="145" width="167" height="13" font="8">Interleukin enhancer‐binding factor 2</text>
+<text top="392" left="549" width="6" height="13" font="8">3</text>
+<text top="392" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="406" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="406" left="145" width="203" height="13" font="8">Isoform 1 of Heat shock protein HSP 90‐alpha</text>
+<text top="406" left="549" width="6" height="13" font="8">3</text>
+<text top="406" left="698" width="6" height="13" font="8">2</text>
+<text top="420" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="420" left="145" width="282" height="13" font="8">Isoform 1 of Probable DNA dC‐&gt;dU‐editing enzyme APOBEC‐3B</text>
+<text top="420" left="549" width="6" height="13" font="8">3</text>
+<text top="420" left="698" width="6" height="13" font="8">3</text>
+<text top="434" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="434" left="145" width="271" height="13" font="8">Isoform Liver of ATP synthase subunit gamma, mitochondrial</text>
+<text top="434" left="549" width="6" height="13" font="8">3</text>
+<text top="434" left="684" width="20" height="13" font="8">0.75</text>
+<text top="448" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="448" left="145" width="171" height="13" font="8">Putative uncharacterized protein RPL7</text>
+<text top="448" left="549" width="6" height="13" font="8">3</text>
+<text top="448" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="462" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="462" left="145" width="95" height="13" font="8">Ribosomal protein S8</text>
+<text top="462" left="549" width="6" height="13" font="8">3</text>
+<text top="462" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="476" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="476" left="145" width="112" height="13" font="8">ADP‐ribosylation factor 1</text>
+<text top="476" left="549" width="6" height="13" font="8">3</text>
+<text top="476" left="698" width="6" height="13" font="8">3</text>
+<text top="490" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="490" left="145" width="227" height="13" font="8">U3 small nucleolar ribonucleoprotein protein IMP3</text>
+<text top="490" left="549" width="6" height="13" font="8">3</text>
+<text top="490" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="504" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="504" left="145" width="186" height="13" font="8">2,4‐dienoyl‐CoA reductase, mitochondrial</text>
+<text top="504" left="549" width="6" height="13" font="8">2</text>
+<text top="504" left="645" width="59" height="13" font="8">0.666666667</text>
+<text top="518" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="518" left="145" width="98" height="13" font="8">DNA topoisomerase 2</text>
+<text top="518" left="549" width="6" height="13" font="8">2</text>
+<text top="518" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="612" width="792">
+<text top="72" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="72" left="145" width="32" height="13" font="8">Emerin</text>
+<text top="72" left="549" width="6" height="13" font="8">2</text>
+<text top="72" left="645" width="59" height="13" font="8">0.222222222</text>
+<text top="86" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="86" left="145" width="46" height="13" font="8">Galectin‐7</text>
+<text top="86" left="549" width="6" height="13" font="8">2</text>
+<text top="86" left="698" width="6" height="13" font="8">1</text>
+<text top="100" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="100" left="145" width="175" height="13" font="8">Isoform 1 of Core histone macro‐H2A.1</text>
+<text top="100" left="549" width="6" height="13" font="8">2</text>
+<text top="100" left="698" width="6" height="13" font="8">1</text>
+<text top="114" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="114" left="145" width="255" height="13" font="8">Isoform 2 of Heterogeneous nuclear ribonucleoprotein Q</text>
+<text top="114" left="549" width="6" height="13" font="8">2</text>
+<text top="114" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="128" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="128" left="145" width="175" height="13" font="8">Isoform 3 of Core histone macro‐H2A.1</text>
+<text top="128" left="549" width="6" height="13" font="8">2</text>
+<text top="128" left="698" width="6" height="13" font="8">1</text>
+<text top="142" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="142" left="145" width="255" height="13" font="8">Isoform 4 of Heterogeneous nuclear ribonucleoprotein Q</text>
+<text top="142" left="549" width="6" height="13" font="8">2</text>
+<text top="142" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="156" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="156" left="145" width="47" height="13" font="8">myosin‐7B</text>
+<text top="156" left="549" width="6" height="13" font="8">2</text>
+<text top="156" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="170" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="170" left="145" width="145" height="13" font="8">GTP‐binding nuclear protein Ran</text>
+<text top="170" left="549" width="6" height="13" font="8">2</text>
+<text top="170" left="615" width="89" height="13" font="8">NOT IN CONTROL IP</text>
+<text top="184" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="184" left="145" width="117" height="13" font="8">40S ribosomal protein S11</text>
+<text top="184" left="549" width="6" height="13" font="8">2</text>
+<text top="184" left="645" width="59" height="13" font="8">0.666666667</text>
+<text top="198" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="198" left="145" width="259" height="13" font="8">cDNA FLJ58049, highly similar to RNA‐binding protein FUS</text>
+<text top="198" left="549" width="6" height="13" font="8">2</text>
+<text top="198" left="698" width="6" height="13" font="8">2</text>
+<text top="211" left="56" width="58" height="13" font="8">MAZ_Band B</text>
+<text top="211" left="145" width="172" height="13" font="8">Putative uncharacterized protein ARF5</text>
+<text top="211" left="549" width="6" height="13" font="8">2</text>
+<text top="211" left="698" width="6" height="13" font="8">2</text>
+</page>
+</pdf2xml>

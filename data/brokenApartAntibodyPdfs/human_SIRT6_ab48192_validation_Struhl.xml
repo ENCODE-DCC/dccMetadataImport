@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#0000ff"/>
+	<fontspec id="2" size="8" family="Times" color="#000000"/>
+<text top="72" left="90" width="294" height="13" font="0">ENCODE DCC ANTIBODY VALIDATION DOCUMENT </text>
+<text top="86" left="90" width="3" height="13" font="0"> </text>
+<text top="100" left="90" width="141" height="13" font="0">Date of Submission: 6/22/11 </text>
+<text top="114" left="90" width="3" height="13" font="0"> </text>
+<text top="128" left="90" width="126" height="13" font="0">Name: Zarmik Moqtaderi </text>
+<text top="141" left="90" width="3" height="13" font="0"> </text>
+<text top="155" left="90" width="35" height="13" font="0">Email: </text>
+<text top="155" left="125" width="126" height="13" font="1">Zarmik@hms.harvard.edu</text>
+<text top="155" left="252" width="3" height="13" font="0"> </text>
+<text top="169" left="90" width="3" height="13" font="0"> </text>
+<text top="183" left="90" width="57" height="13" font="0">Lab: Struhl </text>
+<text top="197" left="90" width="3" height="13" font="0"> </text>
+<text top="210" left="90" width="118" height="13" font="0">Antibody Name: SIRT6 </text>
+<text top="224" left="90" width="3" height="13" font="0"> </text>
+<text top="238" left="90" width="73" height="13" font="0">Target: SIRT6 </text>
+<text top="252" left="90" width="3" height="13" font="0"> </text>
+<text top="266" left="90" width="172" height="13" font="0">Company/Source: Abcam ab48192 </text>
+<text top="279" left="90" width="3" height="13" font="0"> </text>
+<text top="293" left="90" width="253" height="13" font="0">Catalog number or laboratory database ID: ab48192 </text>
+<text top="307" left="90" width="3" height="13" font="0"> </text>
+<text top="321" left="90" width="66" height="13" font="0">Lot Number: </text>
+<text top="335" left="90" width="3" height="13" font="0"> </text>
+<text top="348" left="90" width="111" height="13" font="0">Antibody Description: </text>
+<text top="362" left="90" width="364" height="13" font="0">A synthetic peptide made to an internal region of the human SIRT6 protein </text>
+<text top="376" left="90" width="3" height="13" font="0"> </text>
+<text top="390" left="90" width="3" height="13" font="0"> </text>
+<text top="404" left="90" width="409" height="13" font="0">Target Description: Sirtuin 6, NAD dependent protein deacetylase of the Sir2 family </text>
+<text top="417" left="90" width="3" height="13" font="0"> </text>
+<text top="431" left="90" width="3" height="13" font="0"> </text>
+<text top="445" left="90" width="3" height="13" font="0"> </text>
+<text top="459" left="90" width="116" height="13" font="0">Target Species: Human </text>
+<text top="473" left="90" width="3" height="13" font="0"> </text>
+<text top="486" left="90" width="107" height="13" font="0">Host Species:  Rabbit </text>
+<text top="500" left="90" width="3" height="13" font="0"> </text>
+<text top="514" left="90" width="106" height="13" font="0">Validation Method 1: </text>
+<text top="528" left="90" width="3" height="13" font="0"> </text>
+<text top="542" left="90" width="106" height="13" font="0">Validation Method 2: </text>
+<text top="555" left="90" width="3" height="13" font="0"> </text>
+<text top="569" left="90" width="104" height="13" font="0">Purification Method: </text>
+<text top="583" left="90" width="3" height="13" font="0"> </text>
+<text top="597" left="90" width="177" height="13" font="0">Polyclonal/Monoclonal:  Polyclonal </text>
+<text top="611" left="90" width="3" height="13" font="0"> </text>
+<text top="624" left="90" width="57" height="14" font="0">Reference:	  </text>
+<text top="626" left="147" width="338" height="12" font="2">Michishita et al, Molecular Biology of the Cell, 16, 4623– 4635 (2005) </text>
+<text top="638" left="90" width="3" height="13" font="0"> </text>
+<text top="652" left="90" width="3" height="13" font="0"> </text>
+<text top="666" left="90" width="3" height="13" font="0"> </text>
+<text top="680" left="90" width="3" height="13" font="0"> </text>
+<text top="694" left="90" width="3" height="13" font="0"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="8" family="Times" color="#000000"/>
+	<fontspec id="4" size="8" family="Times" color="#000000"/>
+	<fontspec id="5" size="8" family="Times" color="#000000"/>
+<text top="72" left="90" width="3" height="12" font="2"> </text>
+<text top="85" left="90" width="397" height="12" font="2">First, siRNA mediated RNA interference abolishes SIRT6 SPK antibody signal by </text>
+<text top="98" left="90" width="164" height="12" font="2">Western analysis as shown here: </text>
+<text top="110" left="90" width="3" height="12" font="2"> </text>
+<text top="248" left="208" width="3" height="12" font="2"> </text>
+<text top="258" left="90" width="3" height="12" font="2"> </text>
+<text top="270" left="90" width="3" height="12" font="2"> </text>
+<text top="283" left="90" width="425" height="12" font="2">Second, numerous publications have established the specificity of this antibody by loss </text>
+<text top="296" left="90" width="208" height="12" font="2">of signal in response to siRNAs, including: </text>
+<text top="308" left="90" width="3" height="12" font="2"> </text>
+<text top="321" left="99" width="357" height="12" font="3"><b>1.  </b>Michishita et al, Molecular Biology of the Cell, 16, 4623– 4635 (2005) </text>
+<text top="334" left="99" width="226" height="12" font="3"><b>2.  </b>Michishita et al, <i>N<b>ature</b></i> 452, 492-6 (2008) </text>
+<text top="346" left="99" width="212" height="12" font="3"><b>3.  </b>Kawahara et al, <i><b>Cell</b> </i>136: 62-74 (2009) </text>
+<text top="359" left="99" width="212" height="12" font="3"><b>4.  </b>McCord et al, <i><b>Aging</b></i> 1: 109-121 (2009) </text>
+<text top="372" left="99" width="237" height="12" font="3"><b>5.  </b>Michishita et al, <i><b>Cell Cycle</b></i> 8: 2664-6 (2009) </text>
+<text top="384" left="90" width="3" height="12" font="2"> </text>
+<text top="397" left="90" width="435" height="12" font="2">In particular, SIRT6 antibody ChIP signal at telomeres is abolished by RNAi knock-down. </text>
+<text top="410" left="90" width="424" height="12" font="2">See especially Michishita et al (2008), Nature 452: 492-6, Figure 2d, copied here.  Anti-</text>
+<text top="422" left="90" width="427" height="12" font="2">SIRT6: SIRT6 ChIP; IgG: control ChIP; pSR: control cells; S6KD: SIRT6-depleted cells. </text>
+<text top="526" left="252" width="3" height="12" font="2"> </text>
+<text top="538" left="90" width="3" height="11" font="2"> </text>
+<text top="551" left="90" width="3" height="11" font="2"> </text>
+<text top="564" left="90" width="3" height="11" font="2"> </text>
+<text top="575" left="90" width="3" height="13" font="0"> </text>
+<text top="578" left="93" width="3" height="11" font="2"> </text>
+<text top="589" left="90" width="3" height="13" font="0"> </text>
+<text top="467" left="288" width="3" height="13" font="0"> </text>
+</page>
+</pdf2xml>

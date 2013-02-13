@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="21" family="Times" color="#000000"/>
+	<fontspec id="1" size="7" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+<text top="41" left="64" width="496" height="26" font="0"><b>!&quot;#$%!&amp;%##&amp;'()*+,-.&amp;/01*-0)*,(&amp;%,2345()</b></text>
+<text top="90" left="57" width="77" height="12" font="1">Date of Submission</text>
+<text top="349" left="48" width="39" height="12" font="1">Antibody </text>
+<text top="360" left="48" width="50" height="12" font="1">Description: </text>
+<text top="372" left="48" width="2" height="12" font="1"> </text>
+<text top="481" left="91" width="58" height="12" font="1">Species Target</text>
+<text top="516" left="91" width="86" height="12" font="1">Validation Method #1</text>
+<text top="144" left="290" width="24" height="12" font="1">Email:</text>
+<text top="144" left="57" width="26" height="12" font="1">Name:</text>
+<text top="222" left="57" width="65" height="12" font="1">Antibody Name:</text>
+<text top="222" left="299" width="28" height="12" font="1">Target:</text>
+<text top="179" left="195" width="15" height="12" font="1">Lab</text>
+<text top="255" left="186" width="42" height="12" font="1">Company/</text>
+<text top="267" left="186" width="30" height="12" font="1">Source:</text>
+<text top="481" left="299" width="51" height="12" font="1">Species Host</text>
+<text top="304" left="333" width="48" height="12" font="1">Lot Number</text>
+<text top="298" left="48" width="165" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="310" left="48" width="2" height="12" font="1"> </text>
+<text top="516" left="299" width="86" height="12" font="1">Validation Method #2</text>
+<text top="549" left="91" width="48" height="12" font="1">Purification </text>
+<text top="560" left="91" width="32" height="12" font="1">Method</text>
+<text top="549" left="299" width="47" height="12" font="1">Polyclonal/ </text>
+<text top="560" left="299" width="48" height="12" font="1">Monoclonal</text>
+<text top="617" left="40" width="55" height="12" font="1">Reference (PI/</text>
+<text top="628" left="40" width="47" height="12" font="1">Publication </text>
+<text top="640" left="40" width="50" height="12" font="1">Information)</text>
+<text top="663" left="38" width="282" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="675" left="38" width="197" height="10" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="685" left="38" width="149" height="10" font="2">please write-in the appropriate information</text>
+<text top="714" left="40" width="57" height="12" font="1">Histone Name</text>
+<text top="714" left="160" width="50" height="12" font="1">AA modified</text>
+<text top="714" left="324" width="46" height="12" font="1">AA Position</text>
+<text top="714" left="437" width="51" height="12" font="1">Modification</text>
+<text top="418" left="48" width="28" height="12" font="1">Target </text>
+<text top="429" left="48" width="50" height="12" font="1">Description: </text>
+<text top="441" left="48" width="2" height="12" font="1"> </text>
+<text top="591" left="169" width="49" height="12" font="1">Vendor URL:</text>
+<text top="92" left="142" width="32" height="10" font="1">2/22/11</text>
+<text top="341" left="101" width="404" height="10" font="1">Rabbit polyclonal - AP-2alpha (H-79) is a rabbit polyclonal antibody raised against amino acids </text>
+<text top="351" left="101" width="308" height="10" font="1">130-209 mapping within an internal region of AP-2alpha of human origin.</text>
+<text top="483" left="154" width="31" height="10" font="1">Human</text>
+<text top="517" left="181" width="27" height="10" font="1">siRNA</text>
+<text top="146" left="89" width="68" height="10" font="1">Peggy Farnham</text>
+<text top="224" left="126" width="45" height="10" font="1">AP-2alpha</text>
+<text top="224" left="335" width="45" height="10" font="1">AP-2alpha</text>
+<text top="180" left="231" width="38" height="10" font="1">Farnham</text>
+<text top="262" left="239" width="111" height="10" font="1">Santa Cruz Biotechnology</text>
+<text top="483" left="356" width="28" height="10" font="1">Rabbit</text>
+<text top="306" left="389" width="28" height="10" font="1">E0804</text>
+<text top="306" left="216" width="34" height="10" font="1">sc-8975</text>
+<text top="517" left="389" width="21" height="10" font="1">ChIP</text>
+<text top="556" left="351" width="44" height="10" font="1">Polyclonal</text>
+<text top="617" left="109" width="175" height="10" font="1">Peggy J. Farnham/ Blahnik KR, Dou L, O</text>
+<text top="624" left="279" width="212" height="12" font="1">’Geen H, McPhillips T, Xu X, Cao AR, Iyengar S, </text>
+<text top="627" left="109" width="384" height="10" font="1">Nicolet CM, Ludaescher B, Korf I, Farnham PJ (2010) Sole-search: An integrated analysis </text>
+<text top="638" left="109" width="399" height="10" font="1">program for peak detection and functional annotation using ChIP-seq data. Nucleic Acids Res </text>
+<text top="649" left="109" width="35" height="10" font="1">38: e13.</text>
+<text top="410" left="101" width="402" height="10" font="1">Sequence-specific DNA-binding protein that interacts with inducible viral and cellular enhancer </text>
+<text top="420" left="101" width="421" height="10" font="1">elements to regulate transcription of selected genes. AP-2 factors bind to the consensus sequence </text>
+<text top="431" left="101" width="432" height="10" font="1">5' -GCCNNNGGC-3' and activate genes involved in a large spectrum of important biological functions </text>
+<text top="442" left="101" width="404" height="10" font="1">including proper eye, face, body wall, limb and neural tube development. They also suppress a </text>
+<text top="452" left="101" width="405" height="10" font="1">number of genes including MCAM/MUC18, C/EBP alpha and MYC. AP-2alpha is the only AP-2 </text>
+<text top="463" left="101" width="313" height="10" font="1">protein required for early morphogenesis of the lens vesicle (by similarity).</text>
+<text top="591" left="238" width="183" height="10" font="1">http://www.scbt.com/datasheet-8975-ap-2a</text>
+<text top="602" left="238" width="101" height="10" font="1">lpha-h-79-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="9" family="Times" color="#000000"/>
+<text top="156" left="61" width="54" height="12" font="1">Validation #1 </text>
+<text top="167" left="61" width="32" height="12" font="1">Analysis</text>
+<text top="650" left="58" width="137" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="62" left="130" width="366" height="14" font="3">Depletion of AP2alpha following transfection of 100nM AP2alpha siRNA into </text>
+<text top="76" left="130" width="385" height="14" font="3">HeLaS3 cells for 48Hrs.  100nM of siGlo was used in parallel as the control siRNA.  </text>
+<text top="89" left="130" width="378" height="14" font="3">20ugs of whole cell extract were loaded for the Western blot, and the expected </text>
+<text top="103" left="130" width="348" height="14" font="3">AP2alpha band was detected at 48 KDa with the anti-AP2alpha antibody </text>
+<text top="117" left="130" width="135" height="14" font="3">(indicated by the red arrow).</text>
+<text top="145" left="130" width="306" height="14" font="3">AP2alpha antibody: Santa Cruz Biotechnology rabbit polyclonal </text>
+<text top="158" left="130" width="139" height="14" font="3">anti-AP2alpha (H-79) sc-8975</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="169" left="66" width="54" height="12" font="1">Validation #2 </text>
+<text top="180" left="66" width="32" height="12" font="1">Analysis</text>
+<text top="633" left="63" width="139" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="60" left="147" width="393" height="14" font="3">ChIP analysis of AP2alpha (AP2a) and AP2gamma (AP2Y) in MCF7 cells transfected </text>
+<text top="74" left="147" width="390" height="14" font="3">with either 100nM of siAP2alpha or 100nM siGlo control for 72Hrs.  The AP2alpha, </text>
+<text top="88" left="147" width="394" height="14" font="3">but not the AP2gamma, ChIP signal on the Myc promoter is specifically reduced in </text>
+<text top="101" left="147" width="383" height="14" font="3">MCF7 cells transfected with siAP2alpha compared to cells transfected with siGlo </text>
+<text top="115" left="147" width="72" height="14" font="3">control siRNA.  </text>
+<text top="129" left="147" width="306" height="14" font="3">AP2alpha antibody: Santa Cruz Biotechnology rabbit polyclonal </text>
+<text top="143" left="147" width="139" height="14" font="3">anti-AP2alpha (H-79) sc-8975</text>
+</page>
+</pdf2xml>

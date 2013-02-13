@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="0" size="9" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+	<fontspec id="3" size="12" family="Times" color="#000000"/>
+	<fontspec id="4" size="25" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+	<fontspec id="6" size="16" family="Times" color="#000000"/>
+<text top="111" left="392" width="0" height="11" font="0">1</text>
+<text top="105" left="392" width="0" height="11" font="0">% </text>
+<text top="95" left="392" width="0" height="11" font="0">in</text>
+<text top="87" left="392" width="0" height="11" font="0">p</text>
+<text top="81" left="392" width="0" height="11" font="0">u</text>
+<text top="75" left="392" width="0" height="11" font="0">t</text>
+<text top="108" left="401" width="159" height="11" font="0">1   2   4    1   2   4    1    2    4   : ug Ab</text>
+<text top="90" left="408" width="88" height="12" font="1">SN           IgG      IP </text>
+<text top="93" left="496" width="37" height="8" font="2">(5% eluate)</text>
+<text top="141" left="324" width="26" height="12" font="1">KAP1</text>
+<text top="252" left="367" width="154" height="14" font="3">IP: rabbit α-KAP1 (ab10483</text>
+<text top="269" left="367" width="78" height="14" font="3">Lot # 193224)</text>
+<text top="286" left="367" width="131" height="14" font="3">WB: ab10483 (1:1,000)</text>
+<text top="156" left="76" width="18" height="12" font="1">100</text>
+<text top="175" left="79" width="12" height="12" font="1">75</text>
+<text top="205" left="79" width="12" height="12" font="1">50</text>
+<text top="132" left="76" width="18" height="12" font="1">150</text>
+<text top="110" left="76" width="18" height="12" font="1">250</text>
+<text top="80" left="51" width="49" height="12" font="1">MW (kDa)</text>
+<text top="51" left="31" width="17" height="28" font="4"><b>A</b></text>
+<text top="51" left="319" width="16" height="28" font="4"><b>B</b></text>
+<text top="361" left="19" width="590" height="18" font="5"><b>Validation of anti-KAP1 antibody: rabbit rabbit α-KAP1 (ab10483, Lot # 193224)</b></text>
+<text top="383" left="19" width="588" height="18" font="6">A. Western blot of 10 ug nuclear extracts prepared from the indicated cell lines.</text>
+<text top="404" left="19" width="618" height="18" font="6">B. Immunoprecipitation of KAP1 from 293 nuclear extracts. IP-WB of KAP1 Ips using</text>
+<text top="426" left="46" width="584" height="18" font="6">1, 2, 4 ug of IgG control or anti-KAP1 antibodies. SN is the supernatant from the </text>
+<text top="447" left="46" width="620" height="18" font="6">KAP1 IP reactions. Equal amounts of nuclear extracts were added to each IP reaction.</text>
+<text top="236" left="79" width="12" height="12" font="1">37</text>
+</page>
+</pdf2xml>

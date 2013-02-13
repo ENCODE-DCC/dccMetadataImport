@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="0" size="13" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+<text top="337" left="7" width="373" height="16" font="0">SETDB1 antibody: Santa Cruz Biotechnology, ESET (H-300)</text>
+<text top="356" left="7" width="438" height="16" font="0">A. Western blot using 30 ug Nuclear Extract from ENCODE cell lines.</text>
+<text top="375" left="7" width="598" height="16" font="0">B. Immunoprecipitationof SETDB1 from K562 nuclear extracts. The SETDB1(H-300) antibody </text>
+<text top="394" left="25" width="520" height="16" font="0">precipitated a major ~150kDa band that was not precipitated by the control IgG.</text>
+<text top="414" left="7" width="709" height="16" font="0">C. ChIP analysis of SETDB1(H-300 antibody) compared to SETDB1 (PTG) antibody. ChIP assays were performed</text>
+<text top="433" left="25" width="664" height="16" font="0">with crosslinked K562 nuclear extracts using both H-300 and PTG SETDB1 antibodies. Shown is the PCR</text>
+<text top="452" left="25" width="673" height="16" font="0">analysis of the ChIP assays using SETDB1 target and control non-binding target primer pairs. The SETDB1</text>
+<text top="471" left="25" width="638" height="16" font="0">(H-300) ChIP extract is enriched for the SETDB1 target compared to the control non-binding target.</text>
+<text top="60" left="282" width="0" height="14" font="1">IN</text>
+<text top="47" left="282" width="0" height="14" font="1">P</text>
+<text top="40" left="282" width="0" height="14" font="1">UT</text>
+<text top="60" left="309" width="0" height="14" font="1">IgG</text>
+<text top="38" left="309" width="0" height="14" font="1">con</text>
+<text top="18" left="309" width="0" height="14" font="1">tr</text>
+<text top="8" left="309" width="0" height="14" font="1">ol</text>
+<text top="60" left="336" width="0" height="14" font="1">SETDB</text>
+<text top="23" left="336" width="0" height="14" font="1">1 </text>
+<text top="13" left="336" width="0" height="14" font="1">IP</text>
+<text top="83" left="223" width="21" height="14" font="1">250</text>
+<text top="101" left="223" width="21" height="14" font="1">150</text>
+<text top="126" left="223" width="21" height="14" font="1">100</text>
+<text top="150" left="229" width="14" height="14" font="1">75</text>
+<text top="59" left="217" width="47" height="12" font="2">MW(kDa)</text>
+<text top="68" left="107" width="0" height="14" font="1">K56</text>
+<text top="46" left="107" width="0" height="14" font="1">2</text>
+<text top="68" left="128" width="0" height="14" font="1">Hep</text>
+<text top="45" left="128" width="0" height="14" font="1">G2</text>
+<text top="68" left="151" width="0" height="14" font="1">HelaS3</text>
+<text top="68" left="172" width="0" height="14" font="1">Hep</text>
+<text top="45" left="172" width="0" height="14" font="1">G2</text>
+<text top="84" left="55" width="21" height="14" font="1">250</text>
+<text top="96" left="55" width="21" height="14" font="1">150</text>
+<text top="114" left="55" width="21" height="14" font="1">100</text>
+<text top="132" left="61" width="14" height="14" font="1">75</text>
+<text top="68" left="49" width="47" height="12" font="2">MW(kDa)</text>
+<text top="181" left="584" width="102" height="18" font="3">Control target</text>
+<text top="121" left="584" width="103" height="18" font="3">SETDB1 target</text>
+<text top="7" left="13" width="10" height="18" font="3">A</text>
+<text top="7" left="190" width="188" height="18" font="3">B                                         C</text>
+<text top="90" left="461" width="0" height="14" font="1">IN</text>
+<text top="77" left="461" width="0" height="14" font="1">P</text>
+<text top="70" left="461" width="0" height="14" font="1">UT</text>
+<text top="90" left="491" width="0" height="14" font="1">IgG</text>
+<text top="68" left="491" width="0" height="14" font="1">con</text>
+<text top="48" left="491" width="0" height="14" font="1">tr</text>
+<text top="38" left="491" width="0" height="14" font="1">ol</text>
+<text top="89" left="524" width="0" height="14" font="1">SETD</text>
+<text top="60" left="524" width="0" height="14" font="1">B</text>
+<text top="52" left="524" width="0" height="14" font="1">1 </text>
+<text top="42" left="524" width="0" height="14" font="1">(P</text>
+<text top="31" left="524" width="0" height="14" font="1">TG</text>
+<text top="16" left="524" width="0" height="14" font="1">)</text>
+<text top="89" left="558" width="0" height="14" font="1">SETDB</text>
+<text top="53" left="558" width="0" height="14" font="1">1 </text>
+<text top="42" left="558" width="0" height="14" font="1">(H</text>
+<text top="29" left="558" width="0" height="14" font="1">-300)</text>
+<text top="90" left="425" width="0" height="14" font="1">100 </text>
+<text top="66" left="425" width="0" height="14" font="1">bp</text>
+</page>
+</pdf2xml>

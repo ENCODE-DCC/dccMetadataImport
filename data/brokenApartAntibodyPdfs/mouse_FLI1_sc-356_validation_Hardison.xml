@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+	<fontspec id="3" size="8" family="Times" color="#231f20"/>
+	<fontspec id="4" size="21" family="Times" color="#511695"/>
+	<fontspec id="5" size="5" family="Times" color="#000000"/>
+	<fontspec id="6" size="5" family="Times" color="#000000"/>
+	<fontspec id="7" size="5" family="Times" color="#000000"/>
+	<fontspec id="8" size="8" family="Times" color="#511695"/>
+	<fontspec id="9" size="7" family="Times" color="#000000"/>
+	<fontspec id="10" size="7" family="Times" color="#000000"/>
+	<fontspec id="11" size="4" family="Times" color="#000000"/>
+	<fontspec id="12" size="4" family="Times" color="#000000"/>
+	<fontspec id="13" size="5" family="Times" color="#ffffff"/>
+	<fontspec id="14" size="6" family="Times" color="#000000"/>
+	<fontspec id="15" size="8" family="Times" color="#000000"/>
+	<fontspec id="16" size="7" family="Times" color="#009999"/>
+	<fontspec id="17" size="8" family="Times" color="#000000"/>
+	<fontspec id="18" size="5" family="Times" color="#000000"/>
+	<fontspec id="19" size="7" family="Times" color="#000000"/>
+<text top="70" left="169" width="248" height="16" font="0"> Hardison Lab @ Penn State University </text>
+<text top="86" left="169" width="248" height="16" font="0">FLI1 (GeneID 2313) antibody validation </text>
+<text top="127" left="85" width="13" height="16" font="1"><b>A </b></text>
+<text top="127" left="277" width="14" height="16" font="1"><b>B </b></text>
+<text top="739" left="92" width="49" height="9" font="2">cak 13July12 </text>
+<text top="-44" left="56" width="192" height="13" font="3">SANTA CRUZ BIOTECHNOLOGY, INC.</text>
+<text top="-15" left="56" width="196" height="28" font="4">Fli-1 (C-19): sc-356</text>
+<text top="735" left="82" width="100" height="9" font="5"><b>Santa Cruz Biotechnology, Inc.</b></text>
+<text top="735" left="192" width="45" height="9" font="6">1.800.457.3801</text>
+<text top="735" left="247" width="40" height="9" font="6">831.457.3800</text>
+<text top="735" left="296" width="50" height="9" font="6">fax 831.457.3801</text>
+<text top="735" left="356" width="23" height="9" font="5"><b>Europe</b></text>
+<text top="735" left="389" width="54" height="9" font="6">+00800 4573 8000</text>
+<text top="735" left="453" width="45" height="9" font="6">49 6221 4503 0</text>
+<text top="735" left="509" width="50" height="9" font="7"><i><b>www.scbt.com</b></i></text>
+<text top="71" left="39" width="77" height="12" font="8"><b>BACKGROUND</b></text>
+<text top="87" left="39" width="273" height="12" font="9">Ets-1 is the prototype member of a family of genes identified on the basis of</text>
+<text top="99" left="39" width="273" height="12" font="9">homology to the v-Ets oncogene isolated from the E26 erythroblastosis virus.</text>
+<text top="111" left="39" width="271" height="12" font="9">This family of genes currently includes Ets-1, Ets-2, Erg-1–3, Elk-1, Elf-1, Elf-5,</text>
+<text top="123" left="39" width="272" height="12" font="9">NERF, PU.1, PEA3, ERM, FEV, ER8l, Fli-1, TEL, Spi-B, ESE-1, ESE-3A, Net, ABT1</text>
+<text top="135" left="39" width="268" height="12" font="9">and ERF. Members of the Ets gene family exhibit varied patterns of tissue</text>
+<text top="147" left="39" width="273" height="12" font="9">expression, and share a highly conserved carboxy-terminal domain containing</text>
+<text top="159" left="39" width="270" height="12" font="9">a sequence related to the SV40 large T antigen nuclear localization signal</text>
+<text top="171" left="39" width="268" height="12" font="9">sequence. This conserved domain is essential for Ets-1 binding to DNA and</text>
+<text top="183" left="39" width="271" height="12" font="9">is likely to be responsible for the DNA binding activity of all members of the</text>
+<text top="195" left="39" width="265" height="12" font="9">Ets gene family. Several of these proteins have been shown to recognize</text>
+<text top="207" left="39" width="260" height="12" font="9">similar motifs in DNA that share a centrally located 5’-GGAA-3’ element.</text>
+<text top="230" left="39" width="149" height="12" font="8"><b>CHROMOSOMAL LOCATION</b></text>
+<text top="247" left="39" width="251" height="12" font="9">Genetic locus: FLI1 (human) mapping to 11q24.3; Fli1 (mouse) mapping</text>
+<text top="259" left="39" width="28" height="12" font="9">to 9 A4.</text>
+<text top="282" left="39" width="43" height="12" font="8"><b>SOURCE</b></text>
+<text top="298" left="39" width="269" height="12" font="9">Fli-1 (C-19) is an affinity purified rabbit polyclonal antibody raised against a</text>
+<text top="310" left="39" width="211" height="12" font="9">peptide mapping at the C-terminus of Fli-1 of mouse origin.</text>
+<text top="334" left="39" width="53" height="12" font="8"><b>PRODUCT</b></text>
+<text top="350" left="39" width="259" height="12" font="9">Each vial contains 200 µg IgG in 1.0 ml of PBS with &lt; 0.1% sodium azide</text>
+<text top="362" left="39" width="63" height="12" font="9">and 0.1% gelatin.</text>
+<text top="380" left="39" width="272" height="12" font="9">Blocking peptide available for competition studies, sc-356 P, (100 µg peptide</text>
+<text top="392" left="39" width="222" height="12" font="9">in 0.5 ml PBS containing &lt; 0.1% sodium azide and 0.2% BSA).</text>
+<text top="409" left="39" width="248" height="12" font="9">Available as agarose conjugate for immunoprecipitation, sc-356 AC,</text>
+<text top="421" left="39" width="113" height="12" font="9">500 µg/0.25 ml agarose in 1 ml.</text>
+<text top="439" left="39" width="256" height="12" font="9">Available as TransCruz reagent for Gel Supershift and ChIP applications,</text>
+<text top="451" left="39" width="87" height="12" font="9">sc-356 X, 200 µg/0.1 ml.</text>
+<text top="474" left="39" width="77" height="12" font="8"><b>APPLICATIONS</b></text>
+<text top="491" left="39" width="266" height="12" font="9">Fli-1 (C-19) is recommended for detection of Fli-1 of mouse, rat and human</text>
+<text top="503" left="39" width="261" height="12" font="9">origin by Western Blotting (starting dilution 1:200, dilution range 1:100-</text>
+<text top="515" left="39" width="272" height="12" font="9">1:1000), immunoprecipitation [1-2 µg per 100-500 µg of total protein (1 ml of</text>
+<text top="527" left="39" width="256" height="12" font="9">cell lysate)], immunofluorescence and immunohistochemistry (including</text>
+<text top="539" left="39" width="269" height="12" font="9">paraffin-embedded sections) (starting dilution 1:50, dilution range 1:50-1:500)</text>
+<text top="551" left="39" width="254" height="12" font="9">and solid phase ELISA (starting dilution 1:30, dilution range 1:30-1:3000).</text>
+<text top="568" left="39" width="274" height="12" font="9">Suitable for use as control antibody for Fli-1 siRNA (h): sc-35384, Fli-1 siRNA</text>
+<text top="580" left="39" width="262" height="12" font="9">(m): sc-35385, Fli-1 shRNA Plasmid (h): sc-35384-SH, Fli-1 shRNA Plasmid</text>
+<text top="592" left="39" width="264" height="12" font="9">(m): sc-35385-SH, Fli-1 shRNA (h) Lentiviral Particles: sc-35384-V and Fli-1</text>
+<text top="604" left="39" width="151" height="12" font="9">shRNA (m) Lentiviral Particles: sc-35385-V.</text>
+<text top="621" left="39" width="257" height="12" font="9">Fli-1 (C-19) X TransCruz antibody is recommended for Gel Supershift and</text>
+<text top="633" left="39" width="63" height="12" font="9">ChIP applications.</text>
+<text top="651" left="39" width="135" height="12" font="9">Molecular Weight of Fli-1: 48/51 kDa.</text>
+<text top="668" left="39" width="264" height="12" font="9">Positive Controls: RAW 264.7 whole cell lysate: sc-2211, HL-60 whole cell</text>
+<text top="680" left="39" width="160" height="12" font="9">lysate: sc-2209 or U-937 cell lysate: sc-2239.</text>
+<text top="71" left="331" width="49" height="12" font="8"><b>STORAGE</b></text>
+<text top="87" left="331" width="259" height="12" font="9">Store at 4° C, **DO NOT FREEZE**. Stable for one year from the date of</text>
+<text top="99" left="331" width="165" height="12" font="9">shipment. Non-hazardous. No MSDS required.</text>
+<text top="122" left="331" width="27" height="12" font="8"><b>DATA</b></text>
+<text top="294" left="331" width="155" height="12" font="8"><b>SELECT PRODUCT CITATIONS</b></text>
+<text top="310" left="331" width="268" height="12" font="9">1. Sarrazin, S., et al. 2000. Negative and translation termination-dependent</text>
+<text top="322" left="339" width="260" height="12" font="9">positive control of Fli-1 protein synthesis by conserved overlapping 5’ up-</text>
+<text top="334" left="339" width="262" height="12" font="9">stream open reading frames in Fli-1 mRNA. Mol. Cell. Biol. 20: 2959-2969.</text>
+<text top="352" left="331" width="261" height="12" font="9">2. Olsen, R., et al. 2001. Phosphorylation of the EWS IQ domain regulates</text>
+<text top="364" left="339" width="257" height="12" font="9">transcriptional activity of the EWS/ATF-1 and EWS/Fli-1 fusion proteins.</text>
+<text top="376" left="339" width="91" height="12" font="9">Oncogene 20: 1756-1764.</text>
+<text top="393" left="331" width="271" height="12" font="9">3. Lesault, I., et al. 2002. Direct regulation of Bcl-2 by Fli-1 is involved in the</text>
+<text top="405" left="339" width="231" height="12" font="9">survival of Fli-1-transformed erythroblasts. EMBO J. 21: 694-703.</text>
+<text top="422" left="331" width="273" height="12" font="9">4. Kubo, M., et al. 2003. Persistent downregulation of Fli-1, a suppressor of col-</text>
+<text top="434" left="339" width="263" height="12" font="9">lagen transcription, in fibrotic scleroderma skin. Am. J. Pathol. 163: 571-581.</text>
+<text top="452" left="331" width="273" height="12" font="9">5. Shimokawa, T., et al. 2003. C/EBP α and Ets protein family members reg-</text>
+<text top="464" left="339" width="234" height="12" font="9">ulate the human myeloid IgA Fc receptor (Fc α R, CD89) promoter.</text>
+<text top="476" left="339" width="101" height="12" font="9">J. Immunol. 170: 2564-2572.</text>
+<text top="493" left="331" width="264" height="12" font="9">6. Jackers, P., et al. 2004. Ets-dependent regulation of target gene expres-</text>
+<text top="505" left="339" width="228" height="12" font="9">sion during megakaryopoiesis. J. Biol. Chem. 279: 52183-52190.</text>
+<text top="523" left="331" width="260" height="12" font="9">7. Raslova, H., et al. 2004. FLI1 monoallelic expression combined with its</text>
+<text top="535" left="339" width="242" height="12" font="9">hemizygous loss underlies Paris-Trousseau/Jacobsen thrombopenia.</text>
+<text top="547" left="339" width="93" height="12" font="9">J. Clin. Invest. 114: 77-84.</text>
+<text top="564" left="331" width="274" height="12" font="9">8. Kikuchi, R., et al. 2007. Ewing’s sarcoma fusion protein, EWS/Fli-1 and Fli-1</text>
+<text top="576" left="339" width="255" height="12" font="9">protein induce PLD2 but not PLD1 gene expression by binding to an ETS</text>
+<text top="588" left="339" width="174" height="12" font="9">domain of 5' promoter. Oncogene 26: 1802-1810.</text>
+<text top="605" left="331" width="257" height="12" font="9">9. Juban, G., et al. 2009. Spi-1 and Fli-1 directly activate common target</text>
+<text top="617" left="339" width="251" height="12" font="9">genes involved in ribosome biogenesis in Friend erythroleukemic cells.</text>
+<text top="629" left="339" width="108" height="12" font="9">Mol. Cell. Biol. 29: 2852-2864.</text>
+<text top="647" left="327" width="277" height="12" font="9">10. Sohn, E.J., et al. 2010. EWS/FLI1 oncogene activates caspase 3 transcription</text>
+<text top="659" left="339" width="207" height="12" font="9">and triggers apoptosis <i>in vivo</i>. Cancer Res. 70: 1154-1163.</text>
+<text top="683" left="331" width="78" height="12" font="8"><b>RESEARCH USE</b></text>
+<text top="699" left="331" width="210" height="12" font="9">For research use only, not for use in diagnostic procedures.</text>
+<text top="244" left="327" width="122" height="8" font="11">Fli-1 (C-19): sc-356. Western blot analysis of Fli-1</text>
+<text top="251" left="327" width="123" height="8" font="11">expression in RAW 264.7 (<b>A</b>), HL-60 (<b>B</b>), U-937 (<b>C</b>)</text>
+<text top="259" left="327" width="80" height="8" font="11">and BJAB (<b>D</b>) whole cell lysates.</text>
+<text top="146" left="374" width="4" height="8" font="11">A</text>
+<text top="146" left="387" width="3" height="8" font="11">B</text>
+<text top="146" left="399" width="3" height="8" font="11">C</text>
+<text top="146" left="412" width="4" height="8" font="11">D</text>
+<text top="156" left="347" width="20" height="9" font="11">104 K -</text>
+<text top="164" left="350" width="17" height="8" font="11">82 K -</text>
+<text top="186" left="350" width="17" height="8" font="11">48 K -</text>
+<text top="210" left="350" width="17" height="8" font="11">33 K -</text>
+<text top="225" left="350" width="17" height="8" font="11">28 K -</text>
+<text top="181" left="424" width="9" height="9" font="6">&lt;</text>
+<text top="182" left="435" width="10" height="8" font="11">Fli-1</text>
+<text top="244" left="470" width="123" height="8" font="11">Fli-1 (C-19): sc-356. Immunoperoxidase staining of</text>
+<text top="251" left="470" width="119" height="8" font="11">formalin-fixed, paraffin-embedded human breast</text>
+<text top="259" left="470" width="120" height="8" font="11">tumor showing nuclear staining (<b>A</b>) and immuno-</text>
+<text top="266" left="470" width="124" height="8" font="11">fluorescence staining of methanol-fixed HeLa cells</text>
+<text top="274" left="470" width="115" height="8" font="11">showing nucleolar and nuclear localization (<b>B</b>).</text>
+<text top="147" left="539" width="5" height="9" font="6">B</text>
+<text top="146" left="472" width="5" height="9" font="13">A</text>
+<text top="157" left="160" width="0" height="9" font="14"><b>G</b></text>
+<text top="150" left="160" width="0" height="9" font="14"><b>1E </b></text>
+<text top="157" left="179" width="0" height="9" font="14"><b>G</b></text>
+<text top="150" left="179" width="0" height="9" font="14"><b>1E-ER</b></text>
+<text top="127" left="179" width="0" height="9" font="14"><b>4+E2</b></text>
+<text top="108" left="179" width="0" height="9" font="14"><b> </b></text>
+<text top="252" left="163" width="26" height="8" font="2">α<b>-FLI1 </b></text>
+<text top="260" left="160" width="32" height="9" font="14"><b>(1:1000) </b></text>
+<text top="191" left="130" width="11" height="9" font="14"><b>72 </b></text>
+<text top="202" left="130" width="11" height="9" font="14"><b>56 </b></text>
+<text top="213" left="130" width="11" height="9" font="14"><b>43 </b></text>
+<text top="225" left="130" width="11" height="9" font="14"><b>34 </b></text>
+<text top="182" left="130" width="11" height="9" font="14"><b>95 </b></text>
+<text top="202" left="227" width="19" height="9" font="14"><b>FLI1 </b></text>
+<text top="157" left="198" width="0" height="9" font="14"><b>m</b></text>
+<text top="149" left="198" width="0" height="9" font="14"><b>ES </b></text>
+<text top="278" left="87" width="14" height="16" font="1"><b>C </b></text>
+<text top="430" left="92" width="308" height="11" font="15"><b>Validation of FLI1 (Friend leukemia virus integration 1) antibody  </b></text>
+<text top="441" left="92" width="233" height="10" font="9">Santa Cruz Biotechnology, Inc., FLI1 (C-19), cat# sc-356.  </text>
+<text top="451" left="92" width="3" height="10" font="9"> </text>
+<text top="463" left="92" width="345" height="11" font="15"><b>A. Western blot analysis of FLI1 expression in various mouse cell lines.  </b></text>
+<text top="474" left="92" width="418" height="10" font="9">Whole cell extracts prepared from G1E, G1E-ER4+E2, and mouse E14 ES cells were separated by SDS-</text>
+<text top="485" left="92" width="414" height="10" font="9">PAGE and transferred to PVDF using standard immunoblotting methods. FLI1 expression was detected </text>
+<text top="496" left="92" width="412" height="10" font="9">using rabbit anti-FLI1 (C-19; sc-356, 1:1000) followed by incubation with anti-rabbit secondary antibody </text>
+<text top="507" left="92" width="429" height="10" font="9">(1:5000) and detected by ECL Plus (Amersham Biosciences). The FLI1 antibody detected a protein band of </text>
+<text top="517" left="92" width="431" height="10" font="9">the expected size (MW = 51 kDa) in erythroid cell lines G1E and G1E-ER4+E2 cells. Trace amounts of FLI1 </text>
+<text top="528" left="92" width="429" height="10" font="9">expression was also detected in the mouse E14 ES cell line, consistent with the low expression level of Fli1 </text>
+<text top="539" left="92" width="429" height="10" font="9">in two different mouse embryonic stem cell lines in the MOE430 Gene Atlas Data set (Lattin et al., 2008) on </text>
+<text top="550" left="92" width="103" height="10" font="9">BioGPS (Wu et al., 2009; </text>
+<text top="550" left="195" width="177" height="10" font="16">http://biogps.org/#goto=genereport&amp;id=2313</text>
+<text top="550" left="372" width="10" height="10" font="9">).  </text>
+<text top="562" left="92" width="3" height="11" font="17"> </text>
+<text top="573" left="92" width="431" height="8" font="6">Lattin JE, Schroder K, Su AI, Walker JR, Zhang J, Wiltshire T, Saijo K, Glass CK, Hume DA, Kellie S, Sweet MJ (2008) Expression analysis </text>
+<text top="581" left="92" width="245" height="8" font="6">of G Protein-Coupled Receptors in mouse macrophages. <i>Immunome Res.</i> 4:5. </text>
+<text top="589" left="92" width="2" height="8" font="6"> </text>
+<text top="598" left="92" width="402" height="8" font="6">Wu C, Orozco C, Boyer J, Leglise M, Goodale J, Batalov S, Hodge CL, Haase J, Janes J, Huss JW 3rd, Su AI (2009) BioGPS: an </text>
+<text top="606" left="92" width="368" height="8" font="6">extensible and customizable portal for querying and organizing gene annotation resources. <i>Genome Biol.</i> <b>10</b>(11):R130.</text>
+<text top="614" left="162" width="4" height="9" font="2">  </text>
+<text top="625" left="92" width="423" height="11" font="15"><b>B. Western blot image from Santa Cruz Biotechnology datasheet for FLI1 (C-19): sc-356.</b>  </text>
+<text top="636" left="92" width="3" height="10" font="9"> </text>
+<text top="648" left="92" width="408" height="11" font="15"><b>C. RNA-seq analysis of Fli1 expression levels in various mouse cell lines and primary </b></text>
+<text top="660" left="92" width="87" height="11" font="15"><b>megakaryocytes.  </b></text>
+<text top="671" left="92" width="419" height="10" font="9">RNA-seq expression data indicate that Fli1 is expressed at low levels in G1E and G1E-ER4+E2 cell lines </text>
+<text top="682" left="92" width="389" height="10" font="9">and at high levels in primary megakaryocytes from fetal liver (Hardison lab, mouse ENCODE). By </text>
+<text top="693" left="92" width="420" height="10" font="9">comparison, a very low level of expression Fli1 expression is detected in mouse ES Bruce4 cell line (Ren </text>
+<text top="703" left="92" width="428" height="10" font="9">lab, mouse ENCODE), consistent with the western blot results shown in <b>A</b>, and supporting the specificity of </text>
+<text top="714" left="92" width="51" height="10" font="9">the antibody.</text>
+<text top="714" left="143" width="3" height="11" font="17"> </text>
+</page>
+</pdf2xml>

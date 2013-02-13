@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="48" height="12" font="1">Dec 7, 2011</text>
+<text top="359" left="94" width="310" height="12" font="1">Mouse monoclonal IgG, raised against recombinant CBX3 of human origin.</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="77" height="12" font="1">CBX3_(SC-101004)</text>
+<text top="215" left="339" width="22" height="12" font="1">CBX3</text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="28" height="12" font="1">Mouse</text>
+<text top="300" left="395" width="27" height="12" font="1">G1410</text>
+<text top="300" left="215" width="42" height="12" font="1">sc-101004</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="356" width="50" height="12" font="2">Monoclonal</text>
+<text top="413" left="94" width="125" height="12" font="1">Entrez gene ID: 11335; 23 kDa </text>
+<text top="425" left="94" width="440" height="12" font="1">The protein encoded by this gene binds DNA and is a component of heterochromatin. CBX3 also can bind </text>
+<text top="437" left="94" width="448" height="12" font="1">lamin B receptor, an integral membrane protein of the inner nuclear membrane. The dual binding functions </text>
+<text top="449" left="94" width="441" height="12" font="1">of the encoded protein may explain the association of heterochromatin with the inner nuclear membrane.</text>
+<text top="599" left="238" width="171" height="12" font="1">http://www.scbt.com/datasheet-101004-</text>
+<text top="611" left="238" width="131" height="12" font="1">hp1gamma-s-19-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="74" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="86" left="125" width="428" height="12" font="1">Whole cell lysate was immunoprecipitated using primary antibody, and the IP fraction was loaded on a </text>
+<text top="98" left="125" width="422" height="12" font="1">12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. After separation, the samples </text>
+<text top="110" left="125" width="422" height="12" font="1">were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary </text>
+<text top="122" left="125" width="422" height="12" font="1">(same as that used for IP) and secondary HRP-conjugated antibodies was performed on an Invitrogen </text>
+<text top="134" left="125" width="414" height="12" font="1">BenchPro 4100 system. Visualization was achieved using SuperSignal West Femto solution (Thermo </text>
+<text top="146" left="125" width="47" height="12" font="1">Scientific).  </text>
+<text top="158" left="125" width="2" height="12" font="1"> </text>
+<text top="170" left="125" width="411" height="12" font="1">Results: Band of expected size visualized, representing strongest signal in the lane. Heavy and light </text>
+<text top="182" left="125" width="377" height="12" font="1">chain bands are also visualized. The ~23 kDa band was tested by mass spec in Validation 2. </text>
+<text top="194" left="125" width="2" height="12" font="1"> </text>
+<text top="206" left="125" width="410" height="12" font="1">Figure legend: IP-western with sc-101004 in whole cell lysate (WCL) of K562, GM12878, HepG2 and </text>
+<text top="218" left="125" width="221" height="12" font="1">HeLa; PM=protein marker. CBX3 bands are indicated. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="93" left="130" width="144" height="12" font="1">IP followed by mass spectrometry: </text>
+<text top="105" left="130" width="419" height="12" font="1">Briefly, K562 whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="117" left="130" width="419" height="12" font="1">was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. The gel was </text>
+<text top="129" left="130" width="417" height="12" font="1">stained with Coomassie Blue in order to visualize marker bands. Gel fragments corresponding to the </text>
+<text top="141" left="130" width="420" height="12" font="1">bands indicated above in the western blot image were excised and sent to the University of Alabama </text>
+<text top="153" left="130" width="423" height="12" font="1">at Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the samples were </text>
+<text top="165" left="130" width="423" height="12" font="1">run on an LTQ XL Linear Ion Trap Mass Spectrometer by LC-ESI-MS/MS. Peptides were identified using </text>
+<text top="177" left="130" width="355" height="12" font="1">SEQUEST tandem mass spectra analysis, with probability based matching at p &lt; 0.05.  </text>
+<text top="189" left="130" width="2" height="12" font="1"> </text>
+<text top="201" left="130" width="268" height="12" font="1">As per ENCODE data standards, all SEQUEST results are attached </text>
+<text top="213" left="130" width="423" height="12" font="1">(ENCODE_HAIB_CBX3_sc101004_12072011_MassSpec.pdf), including common contaminants. Target </text>
+<text top="225" left="130" width="407" height="12" font="1">protein is listed as entry no. 10a in the ~23 kDa band with 100% probability.  CBX5 and CBX1 were </text>
+<text top="237" left="130" width="419" height="12" font="1">also identified, indicating cross-reactivity of the antibody with these proteins that are similar to CBX3.</text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="5" family="Times" color="#000000"/>
+	<fontspec id="4" size="4" family="Times" color="#000000"/>
+	<fontspec id="5" size="4" family="Times" color="#000000"/>
+<text top="134" left="56" width="37" height="10" font="3">Entry no.</text>
+<text top="134" left="103" width="28" height="10" font="3">Protein</text>
+<text top="123" left="235" width="31" height="10" font="3">Protein </text>
+<text top="134" left="235" width="42" height="10" font="3">probability</text>
+<text top="112" left="284" width="57" height="10" font="3">Percent share </text>
+<text top="123" left="284" width="50" height="10" font="3">of spectrum </text>
+<text top="134" left="284" width="13" height="10" font="3">id's</text>
+<text top="134" left="345" width="45" height="10" font="3">Description</text>
+<text top="185" left="56" width="9" height="8" font="4">3a</text>
+<text top="160" left="103" width="128" height="7" font="4">UniRef100_B4DMJ5,UniRef100_B4DMU8,U</text>
+<text top="169" left="103" width="127" height="7" font="4">niRef100_B4DY90,UniRef100_B7ZAF0,Uni</text>
+<text top="177" left="103" width="129" height="7" font="4">Ref100_P07437,UniRef100_Q5JP53,UniRef</text>
+<text top="185" left="103" width="125" height="7" font="4">100_Q6LC01,UniRef100_UPI0001AE72AC</text>
+<text top="185" left="277" width="4" height="8" font="4">1</text>
+<text top="185" left="331" width="11" height="8" font="4">1.6</text>
+<text top="175" left="345" width="119" height="8" font="4">cDNA FLJ53012, highly similar to </text>
+<text top="185" left="345" width="74" height="8" font="4">Tubulin beta-7 chain </text>
+<text top="196" left="56" width="9" height="8" font="4">4a</text>
+<text top="196" left="103" width="119" height="7" font="4">UniRef100_C5IWV5,UniRef100_P00761</text>
+<text top="196" left="277" width="4" height="8" font="4">1</text>
+<text top="196" left="327" width="62" height="8" font="4">1.79 Trypsinogen </text>
+<text top="216" left="56" width="9" height="8" font="4">5a</text>
+<text top="208" left="103" width="128" height="7" font="4">UniRef100_P02769,UniRef100_UPI000179</text>
+<text top="216" left="103" width="16" height="7" font="4">EC85</text>
+<text top="216" left="277" width="4" height="8" font="4">1</text>
+<text top="216" left="327" width="74" height="8" font="4">1.31 Serum albumin </text>
+<text top="227" left="56" width="9" height="8" font="4">6a</text>
+<text top="227" left="103" width="57" height="7" font="4">UniRef100_P04264</text>
+<text top="227" left="277" width="4" height="8" font="4">1</text>
+<text top="227" left="323" width="129" height="8" font="4">15.89 Keratin, type II cytoskeletal 1 </text>
+<text top="249" left="56" width="9" height="8" font="4">6b</text>
+<text top="249" left="103" width="57" height="7" font="4">UniRef100_P35908</text>
+<text top="249" left="277" width="4" height="8" font="4">1</text>
+<text top="249" left="327" width="16" height="8" font="4">8.33</text>
+<text top="239" left="345" width="107" height="8" font="4">Keratin, type II cytoskeletal 2 </text>
+<text top="249" left="345" width="37" height="8" font="4">epidermal </text>
+<text top="271" left="56" width="8" height="8" font="4">6c</text>
+<text top="263" left="103" width="128" height="7" font="4">UniRef100_B4E1T1,UniRef100_P13647,Un</text>
+<text top="271" left="103" width="76" height="7" font="4">iRef100_UPI0001AE6B0C</text>
+<text top="271" left="277" width="4" height="8" font="4">1</text>
+<text top="271" left="327" width="16" height="8" font="4">2.43</text>
+<text top="261" left="345" width="119" height="8" font="4">cDNA FLJ54081, highly similar to </text>
+<text top="271" left="345" width="107" height="8" font="4">Keratin, type II cytoskeletal 5 </text>
+<text top="282" left="56" width="9" height="8" font="4">6d</text>
+<text top="282" left="103" width="57" height="7" font="4">UniRef100_P04259</text>
+<text top="282" left="257" width="25" height="8" font="4">0.9876</text>
+<text top="282" left="327" width="129" height="8" font="4">2.65 Keratin, type II cytoskeletal 6B </text>
+<text top="302" left="56" width="9" height="8" font="4">7a</text>
+<text top="294" left="103" width="128" height="7" font="4">UniRef100_P13645,UniRef100_UPI00017B</text>
+<text top="302" left="103" width="15" height="7" font="4">CE7F</text>
+<text top="302" left="277" width="4" height="8" font="4">1</text>
+<text top="302" left="323" width="130" height="8" font="4">12.06 Keratin, type I cytoskeletal 10 </text>
+<text top="313" left="56" width="9" height="8" font="4">7b</text>
+<text top="313" left="103" width="57" height="7" font="4">UniRef100_P35527</text>
+<text top="313" left="277" width="4" height="8" font="4">1</text>
+<text top="313" left="327" width="121" height="8" font="4">7.39 Keratin, type I cytoskeletal 9 </text>
+<text top="324" left="56" width="8" height="8" font="4">7c</text>
+<text top="324" left="103" width="57" height="7" font="4">UniRef100_P02533</text>
+<text top="324" left="277" width="4" height="8" font="4">1</text>
+<text top="324" left="327" width="126" height="8" font="4">3.21 Keratin, type I cytoskeletal 14 </text>
+<text top="334" left="56" width="9" height="8" font="4">8a</text>
+<text top="335" left="103" width="117" height="7" font="4">UniRef100_P30050,UniRef100_Q59FI9</text>
+<text top="334" left="277" width="4" height="8" font="4">1</text>
+<text top="334" left="327" width="113" height="8" font="4">1.93 60S ribosomal protein L12 </text>
+<text top="345" left="56" width="9" height="8" font="4">9a</text>
+<text top="346" left="103" width="57" height="7" font="4">UniRef100_P45973</text>
+<text top="345" left="277" width="4" height="8" font="4">1</text>
+<text top="345" left="327" width="127" height="8" font="4">8.98 Chromobox protein homolog 5 </text>
+<text top="356" left="56" width="15" height="8" font="5"><b>10a</b></text>
+<text top="357" left="103" width="66" height="7" font="5"><b>UniRef100_Q13185</b></text>
+<text top="356" left="276" width="5" height="8" font="5"><b>1</b></text>
+<text top="356" left="320" width="146" height="8" font="5"><b>14.62 Chromobox protein homolog 3 </b></text>
+<text top="378" left="56" width="13" height="8" font="4">10b</text>
+<text top="379" left="103" width="120" height="7" font="4">UniRef100_B5MD17,UniRef100_P83916</text>
+<text top="378" left="277" width="4" height="8" font="4">1</text>
+<text top="378" left="327" width="155" height="8" font="4">4.52 Putative uncharacterized protein CBX1 </text>
+<text top="389" left="56" width="13" height="8" font="4">11a</text>
+<text top="390" left="103" width="85" height="7" font="4">UniRef100_UPI00017BDB42</text>
+<text top="389" left="277" width="4" height="8" font="4">1</text>
+<text top="389" left="327" width="134" height="8" font="4">2.45 FabOX117 Light Chain Fragment </text>
+<text top="419" left="56" width="13" height="8" font="4">12a</text>
+<text top="404" left="103" width="128" height="7" font="4">UniRef100_B4DV51,UniRef100_B5MDF5,U</text>
+<text top="412" left="103" width="127" height="7" font="4">niRef100_P62826,UniRef100_UPI0000E59</text>
+<text top="420" left="103" width="12" height="7" font="4">AAE</text>
+<text top="419" left="257" width="25" height="8" font="4">0.9999</text>
+<text top="419" left="327" width="16" height="8" font="4">0.55</text>
+<text top="410" left="345" width="136" height="8" font="4">cDNA FLJ52168, highly similar to GTP-</text>
+<text top="419" left="345" width="99" height="8" font="4">binding nuclear protein Ran </text>
+<text top="510" left="56" width="9" height="8" font="4">14</text>
+<text top="452" left="103" width="126" height="7" font="4">UniRef100_A1A508,UniRef100_A8CED1,U</text>
+<text top="461" left="103" width="128" height="7" font="4">niRef100_A8CED3,UniRef100_B1AN99,Uni</text>
+<text top="469" left="103" width="110" height="7" font="4">Ref100_P35030,UniRef100_P35030-</text>
+<text top="477" left="103" width="66" height="7" font="4">2,UniRef100_P35030-</text>
+<text top="485" left="103" width="125" height="7" font="4">3,UniRef100_Q6ISJ4,UniRef100_Q7Z5F4,</text>
+<text top="494" left="103" width="129" height="7" font="4">UniRef100_Q86W20,UniRef100_Q8N2U3,U</text>
+<text top="502" left="103" width="127" height="7" font="4">niRef100_UPI000021129C,UniRef100_UPI</text>
+<text top="510" left="103" width="124" height="7" font="4">0000E21E68,UniRef100_UPI0001AE6E33</text>
+<text top="510" left="257" width="25" height="8" font="4">0.9806</text>
+<text top="510" left="327" width="70" height="8" font="4">0.33 PRSS3 protein </text>
+<text top="540" left="56" width="9" height="8" font="4">15</text>
+<text top="524" left="103" width="127" height="7" font="4">UniRef100_A0S0W7,UniRef100_A0S2P1,U</text>
+<text top="532" left="103" width="126" height="7" font="4">niRef100_A0S3T1,UniRef100_A0SA07,Uni</text>
+<text top="540" left="103" width="111" height="7" font="4">Ref100_A1Z455,UniRef100_A1Z4V2,</text>
+<text top="540" left="257" width="25" height="8" font="4">0.9792</text>
+<text top="540" left="327" width="132" height="8" font="4">0.98 Cytochrome c oxidase subunit 2 </text>
+<text top="82" left="56" width="416" height="8" font="5"><b>Validation 2: CBX3_(SC-101004)</b> IP-Mass Spec of the 23 kDa band identified in IP-Western in Validation 1.  Target </text>
+<text top="92" left="56" width="397" height="8" font="4">protein (CBX3) was identified as entry number 10a with 100% probability.  CBX5 and CBX1 were also identified, </text>
+<text top="102" left="56" width="145" height="8" font="4">indicating cross-reactiviy of the antibody.</text>
+</page>
+</pdf2xml>

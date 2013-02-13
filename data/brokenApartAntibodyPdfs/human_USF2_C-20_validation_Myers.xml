@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="53" height="12" font="1">Sep 12, 2011</text>
+<text top="353" left="94" width="429" height="12" font="1">Rabbit polyclonal IgG, epitope mapping at the C-terminus of USF-2 of mouse origin. Recommended for </text>
+<text top="365" left="94" width="204" height="12" font="1">detection of USF-2 p44 of mouse, rat and human.</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="51" height="12" font="1">USF2_(C-20)</text>
+<text top="215" left="339" width="24" height="12" font="1">USF2 </text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="24" height="12" font="1">J0908</text>
+<text top="300" left="215" width="27" height="12" font="1">sc-862</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="413" left="94" width="422" height="12" font="1">This gene encodes a member of the basic helix-loop-helix leucine zipper family, and can function as a </text>
+<text top="425" left="94" width="450" height="12" font="1">cellular transcription factor. The encoded protein can activate transcription through pyrimidine-rich initiator </text>
+<text top="437" left="94" width="136" height="12" font="1">(Inr) elements and E-box motifs.  </text>
+<text top="449" left="94" width="116" height="12" font="1">Entrez gene ID 7392; 44 kDa</text>
+<text top="599" left="238" width="179" height="12" font="1">http://www.scbt.com/datasheet-862-usf-2-</text>
+<text top="611" left="238" width="80" height="12" font="1">c-20-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="80" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="92" left="125" width="428" height="12" font="1">Whole cell lysate was immunoprecipitated using primary antibody, and the IP fraction was loaded on a </text>
+<text top="104" left="125" width="422" height="12" font="1">12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. After separation, the samples </text>
+<text top="116" left="125" width="422" height="12" font="1">were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary </text>
+<text top="128" left="125" width="422" height="12" font="1">(same as that used for IP) and secondary HRP-conjugated antibodies was performed on an Invitrogen </text>
+<text top="140" left="125" width="414" height="12" font="1">BenchPro 4100 system. Visualization was achieved using SuperSignal West Femto solution (Thermo </text>
+<text top="152" left="125" width="47" height="12" font="1">Scientific).  </text>
+<text top="164" left="125" width="2" height="12" font="1"> </text>
+<text top="176" left="125" width="346" height="12" font="1">Results: Band of expected size visualized, representing strongest signal in the lane.  </text>
+<text top="188" left="125" width="2" height="12" font="1"> </text>
+<text top="200" left="125" width="427" height="12" font="1">Figure legend: IP-western with sc-862 in whole cell lysate (WCL) of SK-N-SH and GM12878; PM=protein </text>
+<text top="212" left="125" width="143" height="12" font="1">marker. USF2 bands are indicated. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="99" left="130" width="144" height="12" font="1">IP followed by mass spectrometry: </text>
+<text top="111" left="130" width="404" height="12" font="1">Briefly, GM12878 whole cell lysates were immunoprecipitated using primary antibody, and the IP </text>
+<text top="123" left="130" width="418" height="12" font="1">fraction was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. Gel </text>
+<text top="135" left="130" width="419" height="12" font="1">was stained with Coomassie Blue in order to visualize marker bands. Gel fragments corresponding to </text>
+<text top="147" left="130" width="397" height="12" font="1">the bands indicated above in the western blot image were excised and sent to the University of </text>
+<text top="159" left="130" width="403" height="12" font="1">Alabama at Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="171" left="130" width="415" height="12" font="1">samples were run on an LTQ XL Linear Ion Trap Mass Spectrometer by LC-ESI-MS/MS. Peptides were </text>
+<text top="183" left="130" width="423" height="12" font="1">identified using SEQUEST tandem mass spectra analysis, with probability based matching at p &lt; 0.05.  </text>
+<text top="195" left="130" width="2" height="12" font="1"> </text>
+<text top="207" left="130" width="268" height="12" font="1">As per ENCODE data standards, all SEQUEST results are attached </text>
+<text top="219" left="130" width="407" height="12" font="1">(ENCODE_HAIB_USF2_sc862_09122011_MassSpec.pdf), including common contaminants. Target </text>
+<text top="231" left="130" width="191" height="12" font="1">protein is listed as hit 88 in the  ~44 kDa band.</text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="11" family="Times" color="#000000"/>
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+	<fontspec id="5" size="5" family="Times" color="#000000"/>
+<text top="72" left="77" width="278" height="16" font="3"><b>Validation 2: Mass Spectrometry Analysis</b></text>
+<text top="74" left="354" width="3" height="13" font="4"> </text>
+<text top="98" left="77" width="467" height="13" font="4">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="112" left="77" width="467" height="13" font="4">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="126" left="77" width="467" height="13" font="4">spectrometry  analysis.  Briefly,  GM12878  whole  cell  lysates  were  immunoprecipitated </text>
+<text top="140" left="77" width="467" height="13" font="4">using primary antibody, and the IP fraction was loaded on a 12% acrylamide gel and </text>
+<text top="154" left="77" width="467" height="13" font="4">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="167" left="77" width="467" height="13" font="4">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="181" left="77" width="467" height="13" font="4">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="195" left="77" width="467" height="13" font="4">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="209" left="77" width="467" height="13" font="4">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="223" left="77" width="467" height="13" font="4">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="236" left="77" width="467" height="13" font="4">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="250" left="77" width="467" height="13" font="4">As  per  ENCODE  data  standards,  all  MASCOT  results  are  listed  below,  including </text>
+<text top="264" left="77" width="344" height="13" font="4">common contaminants. Target protein is highlighted in bold font. </text>
+<text top="288" left="77" width="3" height="13" font="4"> </text>
+<text top="312" left="90" width="9" height="9" font="5">1. </text>
+<text top="312" left="108" width="30" height="9" font="5">P35908 </text>
+<text top="312" left="162" width="314" height="9" font="5"> Keratin, type II cytoskeletal 2 epidermal n=1 Tax=Homo sapiens RepID=K22E_HUMAN </text>
+<text top="321" left="90" width="9" height="9" font="5">2. </text>
+<text top="321" left="108" width="30" height="9" font="5">P00558 </text>
+<text top="321" left="162" width="259" height="9" font="5"> Phosphoglycerate kinase 1 n=3 Tax=Homininae RepID=PGK1_HUMAN </text>
+<text top="330" left="90" width="9" height="9" font="5">3. </text>
+<text top="330" left="108" width="32" height="9" font="5">B4E3A4 </text>
+<text top="330" left="162" width="376" height="9" font="5"> cDNA FLJ57283, highly similar to Actin, cytoplasmic 2 n=1 Tax=Homo sapiens RepID=B4E3A4_HUMAN </text>
+<text top="339" left="90" width="9" height="9" font="5">4. </text>
+<text top="339" left="108" width="30" height="9" font="5">P04264 </text>
+<text top="339" left="162" width="277" height="9" font="5"> Keratin, type II cytoskeletal 1 n=1 Tax=Homo sapiens RepID=K2C1_HUMAN </text>
+<text top="348" left="90" width="9" height="9" font="5">5. </text>
+<text top="348" left="108" width="64" height="9" font="5">UPI00017BCE7F </text>
+<text top="348" left="198" width="286" height="9" font="5"> keratin, type I cytoskeletal 10 n=1 Tax=Homo sapiens RepID=UPI00017BCE7F </text>
+<text top="358" left="90" width="9" height="9" font="5">6. </text>
+<text top="358" left="108" width="32" height="9" font="5">Q53GL5 </text>
+<text top="358" left="162" width="380" height="9" font="5"> Isocitrate  dehydrogenase  2  (NADP+),  mitochondrial  variant  (Fragment)  n=1  Tax=Homo  sapiens </text>
+<text top="367" left="108" width="94" height="9" font="5">RepID=Q53GL5_HUMAN </text>
+<text top="376" left="90" width="9" height="9" font="5">7. </text>
+<text top="376" left="108" width="32" height="9" font="5">A8K3K1 </text>
+<text top="376" left="162" width="380" height="9" font="5"> cDNA  FLJ78096,  highly  similar  to  Homo  sapiens  actin,  alpha,  cardiac  muscle  (ACTC),  mRNA  n=1 </text>
+<text top="385" left="108" width="164" height="9" font="5">Tax=Homo sapiens RepID=A8K3K1_HUMAN </text>
+<text top="394" left="90" width="9" height="9" font="5">8. </text>
+<text top="394" left="108" width="33" height="9" font="5">Q53FG3 </text>
+<text top="394" left="162" width="41" height="9" font="5"> Interleukin </text>
+<text top="394" left="213" width="36" height="9" font="5">enhancer </text>
+<text top="394" left="259" width="28" height="9" font="5">binding </text>
+<text top="394" left="297" width="22" height="9" font="5">factor </text>
+<text top="394" left="330" width="7" height="9" font="5">2 </text>
+<text top="394" left="346" width="26" height="9" font="5">variant </text>
+<text top="394" left="383" width="42" height="9" font="5">(Fragment) </text>
+<text top="394" left="435" width="16" height="9" font="5">n=1 </text>
+<text top="394" left="461" width="42" height="9" font="5">Tax=Homo </text>
+<text top="394" left="512" width="30" height="9" font="5">sapiens </text>
+<text top="404" left="108" width="94" height="9" font="5">RepID=Q53FG3_HUMAN </text>
+<text top="413" left="90" width="9" height="9" font="5">9. </text>
+<text top="413" left="108" width="30" height="9" font="5">P35527 </text>
+<text top="413" left="162" width="275" height="9" font="5"> Keratin, type I cytoskeletal 9 n=1 Tax=Homo sapiens RepID=K1C9_HUMAN </text>
+<text top="422" left="90" width="48" height="9" font="5">10.  P14618 </text>
+<text top="422" left="162" width="284" height="9" font="5"> Pyruvate kinase isozymes M1/M2 n=2 Tax=Homininae RepID=KPYM_HUMAN </text>
+<text top="431" left="90" width="80" height="9" font="5">11.  UPI0001AE6926 </text>
+<text top="431" left="198" width="293" height="9" font="5"> UPI0001AE6926 related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE6926 </text>
+<text top="440" left="90" width="49" height="9" font="5">12.  B0S7Z4 </text>
+<text top="440" left="162" width="336" height="9" font="5"> Major histocompatibility complex, class I, C n=2 Tax=Homo sapiens RepID=B0S7Z4_HUMAN </text>
+<text top="450" left="90" width="48" height="9" font="5">13.  P30501 </text>
+<text top="450" left="162" width="372" height="9" font="5"> HLA class I histocompatibility antigen, Cw-2 alpha chain n=1 Tax=Homo sapiens RepID=1C02_HUMAN </text>
+<text top="459" left="90" width="50" height="9" font="5">14.  C5J3Q8 </text>
+<text top="459" left="162" width="298" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=C5J3Q8_HUMAN </text>
+<text top="468" left="90" width="49" height="9" font="5">15.  Q29954 </text>
+<text top="468" left="162" width="276" height="9" font="5"> HLA-C protein (Fragment) n=1 Tax=Homo sapiens RepID=Q29954_HUMAN </text>
+<text top="477" left="90" width="53" height="9" font="5">16.  A4HQM5 </text>
+<text top="477" left="162" width="301" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=A4HQM5_HUMAN </text>
+<text top="486" left="90" width="50" height="9" font="5">17.  Q9Y295 </text>
+<text top="486" left="162" width="332" height="9" font="5"> Developmentally-regulated GTP-binding protein 1 n=7 Tax=Eutheria RepID=DRG1_HUMAN </text>
+<text top="496" left="90" width="82" height="9" font="5">18.  UPI0001A5EC2B </text>
+<text top="496" left="198" width="292" height="9" font="5"> PREDICTED: actin, beta-like 3 n=1 Tax=Homo sapiens RepID=UPI0001A5EC2B </text>
+<text top="505" left="90" width="48" height="9" font="5">19.  P06733 </text>
+<text top="505" left="162" width="229" height="9" font="5"> Alpha-enolase n=1 Tax=Homo sapiens RepID=ENOA_HUMAN </text>
+<text top="514" left="90" width="51" height="9" font="5">20.  A9QUT7 </text>
+<text top="514" left="162" width="299" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=A9QUT7_HUMAN </text>
+<text top="523" left="90" width="50" height="9" font="5">21.  B2RB23 </text>
+<text top="523" left="162" width="378" height="9" font="5"> cDNA, FLJ95265, highly similar to Homo sapiens acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-</text>
+<text top="532" left="108" width="434" height="9" font="5">oxoacyl-Coenzyme  A  thiolase)  (ACAA2),  nuclear  gene  encoding  mitochondrial  protein,  mRNA  n=1  Tax=Homo  sapiens </text>
+<text top="542" left="108" width="93" height="9" font="5">RepID=B2RB23_HUMAN </text>
+<text top="551" left="90" width="47" height="9" font="5">22.  D0VFI1 </text>
+<text top="551" left="162" width="295" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=D0VFI1_HUMAN </text>
+<text top="560" left="90" width="81" height="9" font="5">23.  UPI0001AE669E </text>
+<text top="560" left="198" width="295" height="9" font="5"> UPI0001AE669E related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE669E </text>
+<text top="569" left="90" width="51" height="9" font="5">24.  C0KTQ5 </text>
+<text top="569" left="162" width="299" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=C0KTQ5_HUMAN </text>
+<text top="578" left="90" width="49" height="9" font="5">25.  Q6S8J3 </text>
+<text top="578" left="162" width="323" height="9" font="5"> POTE ankyrin domain family member E n=1 Tax=Homo sapiens RepID=POTEE_HUMAN </text>
+<text top="588" left="90" width="48" height="9" font="5">26.  P22695 </text>
+<text top="588" left="162" width="357" height="9" font="5"> Cytochrome b-c1 complex subunit 2, mitochondrial n=1 Tax=Homo sapiens RepID=QCR2_HUMAN </text>
+<text top="597" left="90" width="50" height="9" font="5">27.  B0UY16 </text>
+<text top="597" left="162" width="379" height="9" font="5"> Major histocompatibility complex, class I, C (Fragment) n=2 Tax=Homo sapiens RepID=B0UY16_HUMAN </text>
+<text top="606" left="90" width="49" height="9" font="5">28.  Q15019 </text>
+<text top="606" left="162" width="197" height="9" font="5"> Septin-2 n=3 Tax=Homininae RepID=SEPT2_HUMAN </text>
+<text top="615" left="90" width="50" height="9" font="5">29.  C0M144 </text>
+<text top="615" left="162" width="299" height="9" font="5"> MHC class I antigen (Fragment) n=2 Tax=Homo sapiens RepID=C0M144_HUMAN </text>
+<text top="624" left="90" width="50" height="9" font="5">30.  B4DY90 </text>
+<text top="624" left="162" width="378" height="9" font="5"> cDNA FLJ56903, highly similar to Tubulin beta-7 chain n=1 Tax=Homo sapiens RepID=B4DY90_HUMAN </text>
+<text top="634" left="90" width="82" height="9" font="5">31.  UPI0001AE68FD </text>
+<text top="634" left="198" width="296" height="9" font="5"> UPI0001AE68FD related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE68FD </text>
+<text top="643" left="90" width="50" height="9" font="5">32.  B3KUZ8 </text>
+<text top="643" left="162" width="283" height="9" font="5"> Aspartate aminotransferase n=1 Tax=Homo sapiens RepID=B3KUZ8_HUMAN </text>
+<text top="652" left="90" width="55" height="9" font="5">33.  P06733-2 </text>
+<text top="652" left="162" width="271" height="9" font="5"> Isoform MBP-1 of Alpha-enolase n=1 Tax=Homo sapiens RepID=P06733-2 </text>
+<text top="661" left="90" width="50" height="9" font="5">34.  B3KPS3 </text>
+<text top="661" left="162" width="380" height="9" font="5"> cDNA  FLJ32131  fis,  clone  PEBLM2000267,  highly  similar  to  Tubulin  alpha-ubiquitous  chain  n=1 </text>
+<text top="670" left="108" width="165" height="9" font="5">Tax=Homo sapiens RepID=B3KPS3_HUMAN </text>
+<text top="680" left="90" width="46" height="9" font="5">35.  Q0IIN1 </text>
+<text top="680" left="162" width="217" height="9" font="5"> Keratin 77 n=1 Tax=Homo sapiens RepID=Q0IIN1_HUMAN </text>
+<text top="689" left="90" width="50" height="9" font="5">36.  Q9BV20 </text>
+<text top="689" left="162" width="322" height="9" font="5"> Methylthioribose-1-phosphate isomerase n=1 Tax=Homo sapiens RepID=MTNA_HUMAN </text>
+<text top="698" left="90" width="51" height="9" font="5">37.  B4DQ51 </text>
+<text top="698" left="162" width="380" height="9" font="5"> cDNA  FLJ57418,  highly  similar  to  Short/branched  chain  specific  acyl-CoAdehydrogenase,  mitochondrial </text>
+<text top="707" left="108" width="229" height="9" font="5">(EC 1.3.99.-) n=1 Tax=Homo sapiens RepID=B4DQ51_HUMAN </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="6" size="5" family="Times" color="#000000"/>
+<text top="72" left="90" width="50" height="9" font="5">38.  C5IWV5 </text>
+<text top="72" left="162" width="200" height="9" font="5"> Trypsinogen n=1 Tax=Sus scrofa RepID=C5IWV5_PIG </text>
+<text top="81" left="90" width="49" height="9" font="5">39.  B4DJ77 </text>
+<text top="81" left="162" width="380" height="9" font="5"> cDNA  FLJ53047,  highly  similar  to  TNF  receptor-associated  factor  1  n=1  Tax=Homo  sapiens </text>
+<text top="91" left="108" width="92" height="9" font="5">RepID=B4DJ77_HUMAN </text>
+<text top="100" left="90" width="82" height="9" font="5">40.  UPI0001A5EAC9 </text>
+<text top="100" left="198" width="53" height="9" font="5"> PREDICTED: </text>
+<text top="100" left="262" width="25" height="9" font="5">similar </text>
+<text top="100" left="298" width="9" height="9" font="5">to </text>
+<text top="100" left="319" width="44" height="9" font="5">cytoskeletal </text>
+<text top="100" left="374" width="18" height="9" font="5">beta </text>
+<text top="100" left="403" width="19" height="9" font="5">actin </text>
+<text top="100" left="433" width="16" height="9" font="5">n=1 </text>
+<text top="100" left="460" width="42" height="9" font="5">Tax=Homo </text>
+<text top="100" left="512" width="30" height="9" font="5">sapiens </text>
+<text top="109" left="108" width="91" height="9" font="5">RepID=UPI0001A5EAC9 </text>
+<text top="118" left="90" width="51" height="9" font="5">41.  Q0P6N9 </text>
+<text top="118" left="162" width="299" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=Q0P6N9_HUMAN </text>
+<text top="127" left="90" width="50" height="9" font="5">42.  A6NE09 </text>
+<text top="127" left="162" width="372" height="9" font="5"> Putative uncharacterized protein ENSP00000346598 n=1 Tax=Homo sapiens RepID=A6NE09_HUMAN </text>
+<text top="137" left="90" width="80" height="9" font="5">43.  UPI000179EC85 </text>
+<text top="137" left="198" width="344" height="9" font="5"> Serum  albumin  precursor  (Allergen  Bos  d  6)  (BSA).  n=1  Tax=Bos  taurus </text>
+<text top="146" left="108" width="90" height="9" font="5">RepID=UPI000179EC85 </text>
+<text top="155" left="90" width="48" height="9" font="5">44.  B7Z708 </text>
+<text top="155" left="162" width="380" height="9" font="5"> cDNA FLJ58698, highly similar to cAMP-dependent protein kinase, alpha-catalytic subunit (EC 2.7.11.11) </text>
+<text top="164" left="108" width="179" height="9" font="5">n=1 Tax=Homo sapiens RepID=B7Z708_HUMAN </text>
+<text top="173" left="90" width="51" height="9" font="5">45.  Q1M309 </text>
+<text top="173" left="162" width="238" height="9" font="5"> HLA-B antigen n=1 Tax=Homo sapiens RepID=Q1M309_HUMAN </text>
+<text top="183" left="90" width="51" height="9" font="5">46.  D3JW64 </text>
+<text top="183" left="162" width="299" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=D3JW64_HUMAN </text>
+<text top="192" left="90" width="80" height="9" font="5">47.  UPI000173A15C </text>
+<text top="192" left="198" width="294" height="9" font="5"> UPI000173A15C related cluster n=1 Tax=Homo sapiens RepID=UPI000173A15C </text>
+<text top="201" left="90" width="49" height="9" font="5">48.  Q29988 </text>
+<text top="201" left="162" width="234" height="9" font="5"> HLA-C protein n=1 Tax=Homo sapiens RepID=Q29988_HUMAN </text>
+<text top="210" left="90" width="48" height="9" font="5">49.  B7Z760 </text>
+<text top="210" left="162" width="380" height="9" font="5"> cDNA  FLJ54780,  highly  similar  to  HLA  class  I  histocompatibility  antigen,  alpha  chain  F  n=1  Tax=Homo </text>
+<text top="219" left="108" width="121" height="9" font="5">sapiens RepID=B7Z760_HUMAN </text>
+<text top="229" left="90" width="81" height="9" font="5">50.  UPI0001AE718C </text>
+<text top="229" left="198" width="296" height="9" font="5"> UPI0001AE718C related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE718C </text>
+<text top="238" left="90" width="50" height="9" font="5">51.  B0V1N4 </text>
+<text top="238" left="162" width="339" height="9" font="5"> HLA-G histocompatibility antigen, class I, G n=2 Tax=Homo sapiens RepID=B0V1N4_HUMAN </text>
+<text top="247" left="90" width="48" height="9" font="5">52.  C0JT29 </text>
+<text top="247" left="162" width="296" height="9" font="5"> MHC class I antigen (Fragment) n=5 Tax=Homo sapiens RepID=C0JT29_HUMAN </text>
+<text top="256" left="90" width="49" height="9" font="5">53.  O19589 </text>
+<text top="256" left="162" width="23" height="9" font="5"> MHC </text>
+<text top="256" left="194" width="20" height="9" font="5">class </text>
+<text top="256" left="224" width="4" height="9" font="5">I </text>
+<text top="256" left="238" width="63" height="9" font="5">histocompatibility </text>
+<text top="256" left="311" width="28" height="9" font="5">antigen </text>
+<text top="256" left="349" width="26" height="9" font="5">HLA-B </text>
+<text top="256" left="385" width="42" height="9" font="5">(Fragment) </text>
+<text top="256" left="436" width="16" height="9" font="5">n=1 </text>
+<text top="256" left="461" width="42" height="9" font="5">Tax=Homo </text>
+<text top="256" left="512" width="30" height="9" font="5">sapiens </text>
+<text top="265" left="108" width="92" height="9" font="5">RepID=O19589_HUMAN </text>
+<text top="275" left="90" width="52" height="9" font="5">54.  B4DMA2 </text>
+<text top="275" left="162" width="380" height="9" font="5"> cDNA  FLJ54023,  highly  similar  to  Heat  shock  protein  HSP  90-beta  n=1  Tax=Homo  sapiens </text>
+<text top="284" left="108" width="95" height="9" font="5">RepID=B4DMA2_HUMAN </text>
+<text top="293" left="90" width="50" height="9" font="5">55.  D5FHF9 </text>
+<text top="293" left="162" width="299" height="9" font="5"> MHC class I antigen (Fragment) n=2 Tax=Homo sapiens RepID=D5FHF9_HUMAN </text>
+<text top="302" left="90" width="54" height="9" font="5">56.  B3KQW1 </text>
+<text top="302" left="162" width="380" height="9" font="5"> cDNA FLJ33181 fis, clone ADRGL2003684, highly similar to HLA class I histocompatibility antigen, alpha </text>
+<text top="311" left="108" width="213" height="9" font="5">chain H n=1 Tax=Homo sapiens RepID=B3KQW1_HUMAN </text>
+<text top="321" left="90" width="49" height="9" font="5">57.  B4E1T1 </text>
+<text top="321" left="162" width="380" height="9" font="5"> cDNA  FLJ54081,  highly  similar  to  Keratin,  type  II  cytoskeletal  5  n=1  Tax=Homo  sapiens </text>
+<text top="330" left="108" width="92" height="9" font="5">RepID=B4E1T1_HUMAN </text>
+<text top="339" left="90" width="51" height="9" font="5">58.  Q96FG8 </text>
+<text top="339" left="162" width="238" height="9" font="5"> ACAT1 protein n=1 Tax=Homo sapiens RepID=Q96FG8_HUMAN </text>
+<text top="348" left="90" width="48" height="9" font="5">59.  P24752 </text>
+<text top="348" left="162" width="327" height="9" font="5"> Acetyl-CoA acetyltransferase, mitochondrial n=1 Tax=Homo sapiens RepID=THIL_HUMAN </text>
+<text top="357" left="90" width="80" height="9" font="5">60.  UPI00001FD556 </text>
+<text top="357" left="198" width="316" height="9" font="5"> 26S protease regulatory subunit S10B n=1 Tax=Homo sapiens RepID=UPI00001FD556 </text>
+<text top="367" left="90" width="52" height="9" font="5">61.  Q4QZC0 </text>
+<text top="367" left="162" width="300" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=Q4QZC0_HUMAN </text>
+<text top="376" left="90" width="48" height="9" font="5">62.  P19474 </text>
+<text top="376" left="162" width="240" height="9" font="5"> 52 kDa Ro protein n=1 Tax=Homo sapiens RepID=RO52_HUMAN </text>
+<text top="385" left="90" width="50" height="9" font="5">63.  Q4R7F0 </text>
+<text top="385" left="162" width="380" height="9" font="5"> Testis  cDNA,  clone:  QtsA-15489,  similar  to  human  RNA  binding  motif  protein,  X-linked  (RBMX),  n=1 </text>
+<text top="394" left="108" width="182" height="9" font="5">Tax=Macaca fascicularis RepID=Q4R7F0_MACFA </text>
+<text top="403" left="90" width="50" height="9" font="5">64.  Q562R1 </text>
+<text top="403" left="162" width="265" height="9" font="5"> Beta-actin-like protein 2 n=1 Tax=Homo sapiens RepID=ACTBL_HUMAN </text>
+<text top="413" left="90" width="80" height="9" font="5">65.  UPI0001AE791F </text>
+<text top="413" left="198" width="294" height="9" font="5"> UPI0001AE791F related cluster n=1 Tax=Homo sapiens RepID=UPI0001AE791F </text>
+<text top="422" left="90" width="50" height="9" font="5">66.  Q2VPJ6 </text>
+<text top="422" left="162" width="294" height="9" font="5"> HSP90AA1 protein (Fragment) n=1 Tax=Homo sapiens RepID=Q2VPJ6_HUMAN </text>
+<text top="431" left="90" width="53" height="9" font="5">67.  Q0QER2 </text>
+<text top="431" left="162" width="326" height="9" font="5"> Isocitrate dehydrogenase 1 (Fragment) n=1 Tax=Homo sapiens RepID=Q0QER2_HUMAN </text>
+<text top="440" left="90" width="51" height="9" font="5">68.  B4DXS4 </text>
+<text top="440" left="162" width="380" height="9" font="5"> cDNA  FLJ57227,  highly  similar  to  Isocitrate  dehydrogenase  n=1  Tax=Homo  sapiens </text>
+<text top="449" left="108" width="94" height="9" font="5">RepID=B4DXS4_HUMAN </text>
+<text top="459" left="90" width="50" height="9" font="5">69.  A8K8A6 </text>
+<text top="459" left="162" width="380" height="9" font="5"> cDNA FLJ76931, highly similar to Homo sapiens testes-specific heterogenous nuclear ribonucleoprotein </text>
+<text top="468" left="108" width="224" height="9" font="5">G-T, mRNA n=1 Tax=Homo sapiens RepID=A8K8A6_HUMAN </text>
+<text top="477" left="90" width="50" height="9" font="5">70.  Q96E39 </text>
+<text top="477" left="162" width="380" height="9" font="5"> RNA-binding  motif  protein  X-linked-like  1  (Kynurenine  aminotransferase  III)  (Protein  RBM1)  n=2 </text>
+<text top="486" left="108" width="164" height="9" font="5">Tax=Homo sapiens RepID=Q96E39_HUMAN </text>
+<text top="495" left="90" width="51" height="9" font="5">71.  B1AQP1 </text>
+<text top="495" left="162" width="295" height="9" font="5"> Upstream transcription factor 1 n=1 Tax=Homo sapiens RepID=B1AQP1_HUMAN </text>
+<text top="505" left="90" width="50" height="9" font="5">72.  Q7Z3Y8 </text>
+<text top="505" left="162" width="284" height="9" font="5"> Keratin, type I cytoskeletal 27 n=1 Tax=Homo sapiens RepID=K1C27_HUMAN </text>
+<text top="514" left="90" width="51" height="9" font="5">73.  Q9H6X9 </text>
+<text top="514" left="162" width="321" height="9" font="5"> cDNA: FLJ21717 fis, clone COL10322 n=1 Tax=Homo sapiens RepID=Q9H6X9_HUMAN </text>
+<text top="523" left="90" width="80" height="9" font="5">74.  UPI0001A5E585 </text>
+<text top="523" left="198" width="344" height="9" font="5"> PREDICTED:  similar  to  protein  expressed  in  prostate,  ovary,  testis,  and  placenta  2  n=1 </text>
+<text top="532" left="108" width="161" height="9" font="5">Tax=Homo sapiens RepID=UPI0001A5E585 </text>
+<text top="541" left="90" width="51" height="9" font="5">75.  P0CG39 </text>
+<text top="541" left="162" width="320" height="9" font="5"> POTE ankyrin domain family member J n=1 Tax=Homo sapiens RepID=POTEJ_HUMAN </text>
+<text top="551" left="90" width="54" height="9" font="5">76.  D3DWP7 </text>
+<text top="551" left="162" width="380" height="9" font="5"> Heterogeneous  nuclear  ribonucleoprotein  A/B,  isoform  CRA_b  n=2  Tax=Homo  sapiens </text>
+<text top="560" left="108" width="97" height="9" font="5">RepID=D3DWP7_HUMAN </text>
+<text top="569" left="90" width="50" height="9" font="5">77.  Q8IWP6 </text>
+<text top="569" left="162" width="263" height="9" font="5"> Class IVb beta tubulin n=1 Tax=Homo sapiens RepID=Q8IWP6_HUMAN </text>
+<text top="578" left="90" width="49" height="9" font="5">78.  O60884 </text>
+<text top="578" left="162" width="314" height="9" font="5"> DnaJ homolog subfamily A member 2 n=1 Tax=Homo sapiens RepID=DNJA2_HUMAN </text>
+<text top="587" left="90" width="50" height="9" font="5">79.  Q96B07 </text>
+<text top="587" left="162" width="216" height="9" font="5"> EIF4A2 protein n=5 Tax=Eutheria RepID=Q96B07_HUMAN </text>
+<text top="597" left="90" width="82" height="9" font="5">80.  UPI000186DC1C </text>
+<text top="597" left="198" width="302" height="9" font="5"> tubulin beta-1 chain n=1 Tax=Pediculus humanus corporis RepID=UPI000186DC1C </text>
+<text top="606" left="90" width="81" height="9" font="5">81.  UPI000186CFD7 </text>
+<text top="606" left="198" width="327" height="9" font="5"> tubulin beta chain, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186CFD7 </text>
+<text top="615" left="90" width="50" height="9" font="5">82.  B3KS31 </text>
+<text top="615" left="162" width="296" height="9" font="5"> Tubulin, beta 6, isoform CRA_a n=1 Tax=Homo sapiens RepID=B3KS31_HUMAN </text>
+<text top="624" left="90" width="82" height="9" font="5">83.  UPI000186CCD1 </text>
+<text top="624" left="198" width="335" height="9" font="5"> tubulin beta-3 chain, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186CCD1 </text>
+<text top="633" left="90" width="82" height="9" font="5">84.  UPI000186D1CD </text>
+<text top="633" left="198" width="97" height="9" font="5"> adenosylhomocysteinase, </text>
+<text top="633" left="311" width="30" height="9" font="5">putative </text>
+<text top="633" left="357" width="16" height="9" font="5">n=1 </text>
+<text top="633" left="389" width="55" height="9" font="5">Tax=Pediculus </text>
+<text top="633" left="460" width="35" height="9" font="5">humanus </text>
+<text top="633" left="512" width="31" height="9" font="5">corporis </text>
+<text top="643" left="108" width="91" height="9" font="5">RepID=UPI000186D1CD </text>
+<text top="652" left="90" width="51" height="9" font="5">85.  B3KUN3 </text>
+<text top="652" left="162" width="277" height="9" font="5"> Adenosylhomocysteinase n=1 Tax=Homo sapiens RepID=B3KUN3_HUMAN </text>
+<text top="661" left="90" width="81" height="9" font="5">86.  UPI000186EB2A </text>
+<text top="661" left="198" width="337" height="9" font="5"> tubulin alpha-1 chain, putative n=1 Tax=Pediculus humanus corporis RepID=UPI000186EB2A </text>
+<text top="670" left="90" width="49" height="9" font="5">87.  Q6L6T0 </text>
+<text top="670" left="162" width="297" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=Q6L6T0_HUMAN </text>
+<text top="679" left="90" width="49" height="9" font="6"><b>88.  Q15853 </b></text>
+<text top="679" left="162" width="294" height="9" font="6"><b> Upstream stimulatory factor 2 n=1 Tax=Homo sapiens RepID=USF2_HUMAN </b></text>
+<text top="689" left="90" width="81" height="9" font="5">89.  UPI0000D9FD95 </text>
+<text top="689" left="198" width="283" height="9" font="5"> keratin, type II cytoskeletal 4 n=1 Tax=Homo sapiens RepID=UPI0000D9FD95 </text>
+<text top="698" left="90" width="79" height="9" font="5">90.  UPI000186D735 </text>
+<text top="698" left="198" width="344" height="9" font="5"> heat  shock  protein  75  kDa,  putative  n=1  Tax=Pediculus  humanus  corporis </text>
+<text top="707" left="108" width="89" height="9" font="5">RepID=UPI000186D735 </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="90" width="50" height="9" font="5">91.  B4DR68 </text>
+<text top="72" left="162" width="380" height="9" font="5"> cDNA  FLJ58608,  highly  similar  to  Heat  shock  protein  75  kDa,  mitochondrial  n=1  Tax=Homo  sapiens </text>
+<text top="81" left="108" width="94" height="9" font="5">RepID=B4DR68_HUMAN </text>
+<text top="91" left="90" width="51" height="9" font="5">92.  D6RAF8 </text>
+<text top="91" left="162" width="320" height="9" font="5"> Putative uncharacterized protein HNRNPD n=3 Tax=Catarrhini RepID=D6RAF8_HUMAN </text>
+<text top="100" left="90" width="49" height="9" font="5">93.  Q12771 </text>
+<text top="100" left="162" width="220" height="9" font="5"> P37 AUF1 n=1 Tax=Homo sapiens RepID=Q12771_HUMAN </text>
+<text top="109" left="90" width="49" height="9" font="5">94.  B7Z1Y2 </text>
+<text top="109" left="162" width="297" height="9" font="5"> Fructose-bisphosphate aldolase n=2 Tax=Homo sapiens RepID=B7Z1Y2_HUMAN </text>
+<text top="118" left="90" width="50" height="9" font="5">95.  B3KU96 </text>
+<text top="118" left="162" width="380" height="9" font="5"> cDNA  FLJ39433  fis,  clone  PROST2004142,  highly  similar  to  GDP-L-fucose  synthetase  (EC  1.1.1.271) </text>
+<text top="127" left="108" width="180" height="9" font="5">n=1 Tax=Homo sapiens RepID=B3KU96_HUMAN </text>
+<text top="137" left="90" width="51" height="9" font="5">96.  D3DVX3 </text>
+<text top="137" left="162" width="37" height="9" font="5"> Isocitrate </text>
+<text top="137" left="209" width="57" height="9" font="5">dehydrogenase </text>
+<text top="137" left="276" width="7" height="9" font="5">3 </text>
+<text top="137" left="292" width="29" height="9" font="5">(NAD+) </text>
+<text top="137" left="331" width="20" height="9" font="5">beta, </text>
+<text top="137" left="360" width="28" height="9" font="5">isoform </text>
+<text top="137" left="398" width="28" height="9" font="5">CRA_b </text>
+<text top="137" left="436" width="16" height="9" font="5">n=1 </text>
+<text top="137" left="461" width="42" height="9" font="5">Tax=Homo </text>
+<text top="137" left="512" width="30" height="9" font="5">sapiens </text>
+<text top="146" left="108" width="94" height="9" font="5">RepID=D3DVX3_HUMAN </text>
+<text top="155" left="90" width="48" height="9" font="5">97.  B7Z8J7 </text>
+<text top="155" left="162" width="241" height="9" font="5"> cDNA FLJ57466 n=1 Tax=Homo sapiens RepID=B7Z8J7_HUMAN </text>
+<text top="164" left="90" width="48" height="9" font="5">98.  P00762 </text>
+<text top="164" left="162" width="234" height="9" font="5"> Anionic trypsin-1 n=1 Tax=Rattus norvegicus RepID=TRY1_RAT </text>
+<text top="173" left="90" width="50" height="9" font="5">99.  B4DLC0 </text>
+<text top="173" left="162" width="380" height="9" font="5"> cDNA  FLJ58476,  highly  similar  to  Poly(rC)-binding  protein  2  n=1  Tax=Homo  sapiens </text>
+<text top="183" left="108" width="94" height="9" font="5">RepID=B4DLC0_HUMAN </text>
+<text top="192" left="90" width="54" height="9" font="5">100. C9WCV4 </text>
+<text top="192" left="162" width="302" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=C9WCV4_HUMAN </text>
+<text top="201" left="90" width="50" height="9" font="5">101. C0M111 </text>
+<text top="201" left="162" width="299" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=C0M111_HUMAN </text>
+<text top="210" left="90" width="53" height="9" font="5">102. Q9MYC1 </text>
+<text top="210" left="162" width="302" height="9" font="5"> Leucocyte antigen B (Fragment) n=1 Tax=Homo sapiens RepID=Q9MYC1_HUMAN </text>
+<text top="219" left="90" width="50" height="9" font="5">103. B3GFZ6 </text>
+<text top="219" left="162" width="337" height="9" font="5"> Truncated MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=B3GFZ6_HUMAN </text>
+<text top="229" left="90" width="49" height="9" font="5">104. B4Z1E1 </text>
+<text top="229" left="162" width="297" height="9" font="5"> MHC class I antigen (Fragment) n=1 Tax=Homo sapiens RepID=B4Z1E1_HUMAN </text>
+<text top="238" left="90" width="81" height="9" font="5">105. UPI000173A5BC </text>
+<text top="238" left="198" width="296" height="9" font="5"> UPI000173A5BC related cluster n=1 Tax=Homo sapiens RepID=UPI000173A5BC </text>
+<text top="247" left="90" width="81" height="9" font="5">106. UPI0001A5ED94 </text>
+<text top="247" left="198" width="323" height="9" font="5"> PREDICTED: similar to CYorf16 protein n=1 Tax=Homo sapiens RepID=UPI0001A5ED94 </text>
+<text top="256" left="90" width="49" height="9" font="5">107. Q6IPN6 </text>
+<text top="256" left="162" width="272" height="9" font="5"> Elongation factor 1-alpha n=1 Tax=Homo sapiens RepID=Q6IPN6_HUMAN </text>
+<text top="275" left="90" width="3" height="14" font="4">	  </text>
+</page>
+</pdf2xml>

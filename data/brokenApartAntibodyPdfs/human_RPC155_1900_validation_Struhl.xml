@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#0000ff"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="90" width="294" height="13" font="0">ENCODE DCC ANTIBODY VALIDATION DOCUMENT </text>
+<text top="86" left="90" width="3" height="13" font="0"> </text>
+<text top="100" left="90" width="141" height="13" font="0">Date of Submission: 6/22/11 </text>
+<text top="114" left="90" width="3" height="13" font="0"> </text>
+<text top="128" left="90" width="126" height="13" font="0">Name: Zarmik Moqtaderi </text>
+<text top="141" left="90" width="3" height="13" font="0"> </text>
+<text top="155" left="90" width="35" height="13" font="0">Email: </text>
+<text top="155" left="125" width="126" height="13" font="1">Zarmik@hms.harvard.edu</text>
+<text top="155" left="252" width="3" height="13" font="0"> </text>
+<text top="169" left="90" width="3" height="13" font="0"> </text>
+<text top="183" left="90" width="57" height="13" font="0">Lab: Struhl </text>
+<text top="197" left="90" width="3" height="13" font="0"> </text>
+<text top="210" left="90" width="124" height="13" font="0">Antibody Name: Rpc155 </text>
+<text top="224" left="90" width="3" height="13" font="0"> </text>
+<text top="238" left="90" width="81" height="13" font="0">Target:  Rpc155 </text>
+<text top="252" left="90" width="3" height="13" font="0"> </text>
+<text top="266" left="90" width="428" height="13" font="0">Company/Source: Donated by Dr. RJ White, The Beatson Institute for Cancer Research  </text>
+<text top="279" left="90" width="3" height="13" font="0"> </text>
+<text top="293" left="90" width="321" height="13" font="0">Catalog number or laboratory database ID: antibody number 1900 </text>
+<text top="307" left="90" width="3" height="13" font="0"> </text>
+<text top="321" left="90" width="89" height="13" font="0">Lot Number: N/A </text>
+<text top="335" left="90" width="3" height="13" font="0"> </text>
+<text top="348" left="90" width="417" height="13" font="0">Antibody Description: Rabbit polyclonal - Antiserum 1900 was raised by immunizing </text>
+<text top="362" left="90" width="414" height="13" font="0">rabbits with synthetic peptide PKRPLTFDTNEFHIPLVT (residues 1374?1391 of the </text>
+<text top="376" left="90" width="249" height="13" font="0">RPC155 subunit of human pol III) coupled to KLH </text>
+<text top="390" left="90" width="3" height="13" font="0"> </text>
+<text top="404" left="90" width="315" height="13" font="0">Target Description: RNA Polymerase III polypeptide A, 155kDa </text>
+<text top="417" left="90" width="3" height="13" font="0"> </text>
+<text top="431" left="90" width="119" height="13" font="0">Target Species:  Human </text>
+<text top="445" left="90" width="3" height="13" font="0"> </text>
+<text top="459" left="90" width="107" height="13" font="0">Host Species:  Rabbit </text>
+<text top="473" left="90" width="3" height="13" font="0"> </text>
+<text top="486" left="90" width="174" height="13" font="0">Validation Method 1:  Western blot </text>
+<text top="500" left="90" width="3" height="13" font="0"> </text>
+<text top="514" left="90" width="404" height="13" font="0">Validation Method 2:  Correlation with other factors in the same complex at known </text>
+<text top="528" left="90" width="89" height="13" font="0">biological targets. </text>
+<text top="542" left="90" width="3" height="13" font="0"> </text>
+<text top="555" left="90" width="104" height="13" font="0">Purification Method: </text>
+<text top="569" left="90" width="3" height="13" font="0"> </text>
+<text top="583" left="90" width="177" height="13" font="0">Polyclonal/Monoclonal:  Polyclonal </text>
+<text top="597" left="90" width="3" height="13" font="0"> </text>
+<text top="611" left="90" width="55" height="13" font="0">Reference: </text>
+<text top="624" left="90" width="386" height="13" font="0">Fairley, J.A., Scott, P.H. &amp; White, R.J. TFIIIB is phosphorylated, disrupted and </text>
+<text top="638" left="90" width="416" height="13" font="0">selectively released from tRNA promoters during mitosis <i>in vivo</i> . EMBO J. 22, 5841–</text>
+<text top="652" left="90" width="65" height="13" font="0">5850 (2003). </text>
+<text top="666" left="90" width="3" height="13" font="0"> </text>
+<text top="680" left="90" width="3" height="13" font="0"> </text>
+<text top="693" left="90" width="3" height="13" font="0"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="90" width="422" height="13" font="0">Validation 1:  Western blot in ENCODE cell line GM12878 shows a clean single band: </text>
+<text top="86" left="90" width="3" height="13" font="0"> </text>
+<text top="286" left="147" width="3" height="13" font="0"> </text>
+<text top="297" left="90" width="3" height="13" font="0"> </text>
+<text top="311" left="90" width="3" height="13" font="0"> </text>
+<text top="325" left="90" width="428" height="13" font="0">Validation 2:  Rpc155 ChIP-seq binding sites correlate extremely well with the expected </text>
+<text top="339" left="90" width="431" height="13" font="0">targets (tRNA genes) and with occupancy by other Pol III transcription factors, including </text>
+<text top="352" left="90" width="32" height="13" font="0">Bdp1: </text>
+<text top="366" left="90" width="3" height="13" font="0"> </text>
+<text top="557" left="432" width="3" height="13" font="0"> </text>
+<text top="568" left="90" width="3" height="13" font="0"> </text>
+</page>
+</pdf2xml>

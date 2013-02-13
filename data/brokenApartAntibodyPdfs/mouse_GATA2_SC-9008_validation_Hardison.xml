@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="8" family="Times" color="#000000"/>
+	<fontspec id="3" size="8" family="Times" color="#000000"/>
+	<fontspec id="4" size="6" family="Times" color="#000000"/>
+	<fontspec id="5" size="6" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="10" family="Times" color="#000000"/>
+	<fontspec id="9" size="6" family="Times" color="#000000"/>
+<text top="82" left="169" width="248" height="16" font="0"> Hardison Lab @ Penn State University </text>
+<text top="98" left="188" width="236" height="16" font="0">GATA2_(SC-9008) antibody validation </text>
+<text top="178" left="76" width="3" height="11" font="1"> </text>
+<text top="190" left="76" width="344" height="11" font="2"><b>Western blot analysis of GATA2 expression in various mouse cell lines.  </b></text>
+<text top="202" left="76" width="426" height="11" font="1">Whole cell extracts prepared from G1E, G1E-ER4+E2, MEL, and CH12 cells were separated by </text>
+<text top="214" left="76" width="382" height="11" font="1">SDS-PAGE and transferred to PVDF using standard immunoblotting methods. GATA2 </text>
+<text top="226" left="76" width="387" height="11" font="1">expression was detected using rabbit anti-GATA2 (H-116; sc-9008, 1:5000) followed by </text>
+<text top="238" left="76" width="418" height="11" font="1">incubation with anti-rabbit secondary antibody (1:5000) and detected by ECL Plus (Amersham </text>
+<text top="250" left="76" width="420" height="11" font="1">Biosciences). As expected, GATA2 was detected in G1E cells (a model for erythroid progenitor </text>
+<text top="262" left="76" width="402" height="11" font="1">cells), but not G1E-ER4+E2 cells (a model for differentiating erythroblasts), consistent with </text>
+<text top="274" left="76" width="397" height="11" font="1">published microarray data (Welch et al., 2004) showing that the <i>Gata2</i> gene is expressed </text>
+<text top="286" left="76" width="397" height="11" font="1">abundantly in progenitors but is strongly repressed during differentiation. As expected, no </text>
+<text top="298" left="76" width="425" height="11" font="1">GATA2 is detected in MEL (erythroblast model) or CH12 cells (a B-cell lymphoma; GATA2 is not </text>
+<text top="310" left="76" width="419" height="11" font="1">found in this lineage). Thus the specificity of this antibody is shown by the detection of a single </text>
+<text top="322" left="76" width="357" height="11" font="1">band in G1E cells and the loss of that signal upon repression of the <i>Gata2</i> gene. </text>
+<text top="334" left="76" width="3" height="11" font="1"> </text>
+<text top="346" left="76" width="428" height="9" font="4">Welch et al. 2004. Global regulation of erythroid gene expression by transcription factor GATA-1. <i>Blood</i>. 104: 3136-3147. </text>
+<text top="355" left="76" width="3" height="11" font="1"> </text>
+<text top="367" left="76" width="3" height="11" font="1"> </text>
+<text top="134" left="74" width="440" height="13" font="6"><b>Validation analyses #1 and #2: </b>The specificity of the GATA2_(SC-9008) antibody </text>
+<text top="148" left="74" width="430" height="13" font="7">is shown by 1) the detection of a single band in G1E cells, and 2) the loss of that </text>
+<text top="162" left="74" width="343" height="13" font="7">signal upon repression of the <i>Gata2</i> gene in G1E-ER4+E2 cells. </text>
+<text top="710" left="85" width="57" height="9" font="4">cak 23Sep2011 </text>
+<text top="433" left="258" width="0" height="9" font="9"><b>G</b></text>
+<text top="427" left="258" width="0" height="9" font="9"><b>1E </b></text>
+<text top="433" left="278" width="0" height="9" font="9"><b>G</b></text>
+<text top="427" left="278" width="0" height="9" font="9"><b>1E-ER</b></text>
+<text top="403" left="278" width="0" height="9" font="9"><b>4+E2</b></text>
+<text top="384" left="278" width="0" height="9" font="9"><b> </b></text>
+<text top="433" left="321" width="0" height="9" font="9"><b>CH12 </b></text>
+<text top="431" left="300" width="0" height="9" font="9"><b>MEL</b></text>
+<text top="415" left="300" width="0" height="9" font="9"><b> </b></text>
+<text top="559" left="267" width="36" height="8" font="4">α<b>-GATA2 </b></text>
+<text top="566" left="269" width="32" height="9" font="9"><b>(1:5000) </b></text>
+<text top="464" left="219" width="11" height="9" font="9"><b>72 </b></text>
+<text top="480" left="219" width="11" height="9" font="9"><b>56 </b></text>
+<text top="499" left="219" width="11" height="9" font="9"><b>43 </b></text>
+<text top="518" left="219" width="11" height="9" font="9"><b>34 </b></text>
+<text top="453" left="220" width="11" height="9" font="9"><b>95 </b></text>
+<text top="481" left="357" width="28" height="9" font="9"><b>GATA2 </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="10" size="9" family="Times" color="#9e9eee"/>
+	<fontspec id="11" size="4" family="Times" color="#0033ff"/>
+	<fontspec id="12" size="4" family="Times" color="#333333"/>
+	<fontspec id="13" size="5" family="Times" color="#000000"/>
+	<fontspec id="14" size="4" family="Times" color="#ff0000"/>
+	<fontspec id="15" size="4" family="Times" color="#0033ff"/>
+	<fontspec id="16" size="7" family="Times" color="#2244ab"/>
+	<fontspec id="17" size="5" family="Times" color="#2244ab"/>
+	<fontspec id="18" size="5" family="Times" color="#0033ff"/>
+	<fontspec id="19" size="5" family="Times" color="#333333"/>
+	<fontspec id="20" size="4" family="Times" color="#333333"/>
+	<fontspec id="21" size="4" family="Times" color="#333333"/>
+	<fontspec id="22" size="5" family="Times" color="#2244ab"/>
+	<fontspec id="23" size="4" family="Times" color="#2244ab"/>
+<text top="82" left="169" width="248" height="16" font="0"> Hardison Lab @ Penn State University </text>
+<text top="98" left="188" width="236" height="16" font="0">GATA2_(SC-9008) antibody validation </text>
+<text top="163" left="85" width="428" height="13" font="6"><b>Validation analysis #3: Western blot image from Santa Cruz Biotechnology </b></text>
+<text top="177" left="85" width="416" height="13" font="6"><b>datasheet for GATA1 (H-116): sc-9008.</b> http://www.scbt.com/datasheet-9008-</text>
+<text top="191" left="85" width="146" height="13" font="7">gata-2-h-116-antibody.html </text>
+<text top="206" left="85" width="3" height="13" font="7"> </text>
+<text top="710" left="85" width="57" height="9" font="4">cak 23Sep2011 </text>
+<text top="39" left="-149" width="173" height="14" font="10">santa cruz biotechnology, inc.</text>
+<text top="46" left="265" width="21" height="8" font="11">Log In</text>
+<text top="46" left="285" width="7" height="8" font="12"> | </text>
+<text top="46" left="293" width="18" height="8" font="11">Help?</text>
+<text top="46" left="311" width="7" height="8" font="12"> | </text>
+<text top="46" left="318" width="28" height="8" font="11">Site Map</text>
+<text top="163" left="-176" width="37" height="9" font="13">Language</text>
+<text top="121" left="87" width="93" height="8" font="14">Welcome!    0 Items in Cart </text>
+<text top="138" left="-89" width="67" height="9" font="13">All Product Types</text>
+<text top="139" left="12" width="5" height="8" font="12">  </text>
+<text top="138" left="20" width="25" height="9" font="13">Search</text>
+<text top="139" left="91" width="5" height="8" font="12">  </text>
+<text top="139" left="282" width="57" height="8" font="15"><b>Genome Search</b></text>
+<text top="184" left="-89" width="18" height="8" font="11">home</text>
+<text top="184" left="-70" width="9" height="8" font="12"> » </text>
+<text top="184" left="-62" width="79" height="8" font="11">Transcription Regulators</text>
+<text top="184" left="17" width="9" height="8" font="12"> » </text>
+<text top="184" left="25" width="110" height="8" font="11">GATA Antibody / GATA Antibodies</text>
+<text top="184" left="135" width="9" height="8" font="12"> » </text>
+<text top="184" left="144" width="84" height="8" font="14">GATA-2 (H-116): sc-9008</text>
+<text top="216" left="-174" width="134" height="11" font="16"><b>GATA-2 (H-116): sc-9008</b></text>
+<text top="218" left="158" width="9" height="10" font="17"> | </text>
+<text top="218" left="168" width="43" height="10" font="18"> Datasheet</text>
+<text top="235" left="-165" width="130" height="10" font="19">rabbit polyclonal IgG, 200 !g/ml</text>
+<text top="244" left="-165" width="377" height="10" font="19">epitope corresponding to amino acids 120-235 mapping within an internal region of GATA-2 of</text>
+<text top="253" left="-165" width="53" height="10" font="19">human origin</text>
+<text top="263" left="-165" width="356" height="10" font="19">recommended for detection of GATA-2 of mouse, rat and human origin by WB, IP, IF and</text>
+<text top="272" left="-165" width="324" height="10" font="19">ELISA; also reactive with additional species, including equine, canine and porcine</text>
+<text top="281" left="-165" width="343" height="10" font="19">TransCruz reagent for Gel Supershift and ChIP applications, sc-9008 X, 200 !g/0.1 ml</text>
+<text top="290" left="-177" width="2" height="8" font="12"> </text>
+<text top="298" left="-177" width="39" height="8" font="20"><b>Additional </b></text>
+<text top="298" left="-138" width="61" height="8" font="15"><b>GATA Antibodies</b></text>
+<text top="298" left="-77" width="9" height="8" font="20"><b> ...</b></text>
+<text top="306" left="-177" width="2" height="8" font="12"> </text>
+<text top="315" left="-172" width="77" height="9" font="13">Ordering Information</text>
+<text top="314" left="-90" width="2" height="8" font="12"> </text>
+<text top="315" left="-83" width="61" height="9" font="13">Product Citations</text>
+<text top="336" left="-176" width="109" height="8" font="12">Recommended Support Products:</text>
+<text top="345" left="-176" width="120" height="8" font="21"><i>(click button of application of choice)</i></text>
+<text top="359" left="-165" width="12" height="9" font="13">WB</text>
+<text top="359" left="-146" width="7" height="8" font="12">   </text>
+<text top="359" left="-132" width="7" height="9" font="13">IP</text>
+<text top="359" left="-118" width="7" height="8" font="12">   </text>
+<text top="359" left="-104" width="7" height="9" font="13">IF</text>
+<text top="359" left="-89" width="7" height="8" font="12">   </text>
+<text top="359" left="-75" width="31" height="9" font="13">Gel Shift</text>
+<text top="359" left="-37" width="7" height="8" font="12">   </text>
+<text top="359" left="-23" width="17" height="9" font="13">ChIP</text>
+<text top="359" left="0" width="7" height="8" font="12">   </text>
+<text top="359" left="14" width="21" height="9" font="13">siRNA</text>
+<text top="359" left="42" width="5" height="8" font="12">  </text>
+<text top="385" left="-175" width="2" height="8" font="12"> </text>
+<text top="397" left="-175" width="51" height="8" font="20"><b>Species Gene</b></text>
+<text top="405" left="-143" width="21" height="8" font="20"><b>Name</b></text>
+<text top="397" left="-103" width="18" height="8" font="20"><b>Gene</b></text>
+<text top="405" left="-103" width="9" height="8" font="20"><b>ID</b></text>
+<text top="397" left="-74" width="48" height="8" font="20"><b>Chromosome</b></text>
+<text top="405" left="-74" width="31" height="8" font="20"><b>Location</b></text>
+<text top="397" left="0" width="61" height="8" font="20"><b>Isoform (mRNA)</b></text>
+<text top="405" left="0" width="44" height="8" font="20"><b>Accession #</b></text>
+<text top="397" left="94" width="26" height="8" font="20"><b>Protein</b></text>
+<text top="405" left="94" width="44" height="8" font="20"><b>Accession #</b></text>
+<text top="397" left="160" width="28" height="8" font="20"><b>OMIM™</b></text>
+<text top="405" left="160" width="29" height="8" font="20"><b>Number</b></text>
+<text top="417" left="-175" width="54" height="8" font="20"><b>Human </b>GATA2</text>
+<text top="417" left="-103" width="16" height="8" font="11">2624</text>
+<text top="417" left="-74" width="23" height="8" font="12">3q21.3</text>
+<text top="417" left="0" width="39" height="8" font="11">NM_032638</text>
+<text top="417" left="94" width="24" height="8" font="11">P23769</text>
+<text top="417" left="160" width="25" height="8" font="11">137295</text>
+<text top="429" left="-175" width="23" height="8" font="20"><b>Mouse</b></text>
+<text top="429" left="-143" width="19" height="8" font="12">Gata2</text>
+<text top="429" left="-103" width="21" height="8" font="11">14461</text>
+<text top="429" left="-74" width="15" height="8" font="12">6 D1</text>
+<text top="429" left="94" width="26" height="8" font="11">O09100</text>
+<text top="429" left="160" width="12" height="8" font="12">N/A</text>
+<text top="442" left="-175" width="2" height="8" font="12"> </text>
+<text top="452" left="-177" width="98" height="10" font="17"> <b>Ordering Information</b></text>
+<text top="467" left="-173" width="51" height="8" font="20"><b>Product Name</b></text>
+<text top="467" left="-20" width="35" height="8" font="20"><b>Catalog #</b></text>
+<text top="467" left="38" width="15" height="8" font="20"><b>Unit</b></text>
+<text top="467" left="96" width="18" height="8" font="20"><b>Price</b></text>
+<text top="467" left="147" width="13" height="8" font="20"><b>Qty</b></text>
+<text top="467" left="176" width="33" height="8" font="20"><b>Wish List</b></text>
+<text top="482" left="-173" width="53" height="8" font="12">GATA-2 (H-116)</text>
+<text top="482" left="-20" width="26" height="8" font="12">sc-9008</text>
+<text top="482" left="38" width="34" height="8" font="12">200 !g/ml</text>
+<text top="482" left="96" width="16" height="8" font="12">$279</text>
+<text top="501" left="-173" width="60" height="8" font="12">GATA-2 (H-116) X</text>
+<text top="501" left="-20" width="33" height="8" font="12">sc-9008 X</text>
+<text top="501" left="38" width="47" height="8" font="12">200 !g/0.1 ml</text>
+<text top="501" left="96" width="16" height="8" font="12">$279</text>
+<text top="515" left="-176" width="100" height="10" font="17"> <b>siRNA Gene Silencers</b> </text>
+<text top="516" left="-76" width="131" height="8" font="23">(click catalog # for product information)</text>
+<text top="530" left="-173" width="51" height="8" font="20"><b>Product Name</b></text>
+<text top="530" left="-20" width="35" height="8" font="20"><b>Catalog #</b></text>
+<text top="530" left="38" width="15" height="8" font="20"><b>Unit</b></text>
+<text top="530" left="96" width="18" height="8" font="20"><b>Price</b></text>
+<text top="530" left="147" width="13" height="8" font="20"><b>Qty</b></text>
+<text top="530" left="176" width="33" height="8" font="20"><b>Wish List</b></text>
+<text top="545" left="-173" width="58" height="8" font="12">GATA-2 siRNA (h)</text>
+<text top="545" left="-20" width="30" height="8" font="11">sc-37228</text>
+<text top="545" left="38" width="20" height="8" font="12">10 !M</text>
+<text top="545" left="96" width="16" height="8" font="12">$258</text>
+<text top="564" left="-173" width="60" height="8" font="12">GATA-2 siRNA (m)</text>
+<text top="564" left="-20" width="30" height="8" font="11">sc-37229</text>
+<text top="564" left="38" width="20" height="8" font="12">10 !M</text>
+<text top="564" left="96" width="16" height="8" font="12">$258</text>
+<text top="583" left="-173" width="48" height="8" font="12">GATA-2 (h)-PR</text>
+<text top="583" left="-20" width="42" height="8" font="11">sc-37228-PR</text>
+<text top="583" left="38" width="20" height="8" font="12">10 !M</text>
+<text top="583" left="96" width="12" height="8" font="12">$23</text>
+<text top="603" left="-173" width="51" height="8" font="12">GATA-2 (m)-PR</text>
+<text top="603" left="-20" width="42" height="8" font="11">sc-37229-PR</text>
+<text top="603" left="38" width="20" height="8" font="12">10 !M</text>
+<text top="603" left="96" width="12" height="8" font="12">$23</text>
+<text top="616" left="-176" width="77" height="10" font="17"> <b>shRNA Plasmids</b> </text>
+<text top="618" left="-99" width="131" height="8" font="23">(click catalog # for product information)</text>
+<text top="631" left="-173" width="51" height="8" font="20"><b>Product Name</b></text>
+<text top="631" left="-20" width="35" height="8" font="20"><b>Catalog #</b></text>
+<text top="631" left="38" width="15" height="8" font="20"><b>Unit</b></text>
+<text top="631" left="96" width="18" height="8" font="20"><b>Price</b></text>
+<text top="631" left="147" width="13" height="8" font="20"><b>Qty</b></text>
+<text top="631" left="176" width="33" height="8" font="20"><b>Wish List</b></text>
+<text top="646" left="-173" width="88" height="8" font="12">GATA-2 shRNA Plasmid (h)</text>
+<text top="646" left="-20" width="42" height="8" font="11">sc-37228-SH</text>
+<text top="646" left="38" width="19" height="8" font="12">20 !g</text>
+<text top="646" left="96" width="16" height="8" font="12">$520</text>
+<text top="666" left="-173" width="90" height="8" font="12">GATA-2 shRNA Plasmid (m)</text>
+<text top="666" left="-20" width="42" height="8" font="11">sc-37229-SH</text>
+<text top="666" left="38" width="19" height="8" font="12">20 !g</text>
+<text top="666" left="96" width="16" height="8" font="12">$520</text>
+<text top="679" left="-176" width="121" height="10" font="17"> <b>shRNA Lentiviral Particles</b> </text>
+<text top="681" left="-55" width="131" height="8" font="23">(click catalog # for product information)</text>
+<text top="695" left="-173" width="51" height="8" font="20"><b>Product Name</b></text>
+<text top="695" left="-20" width="35" height="8" font="20"><b>Catalog #</b></text>
+<text top="695" left="38" width="15" height="8" font="20"><b>Unit</b></text>
+<text top="695" left="96" width="18" height="8" font="20"><b>Price</b></text>
+<text top="695" left="147" width="13" height="8" font="20"><b>Qty</b></text>
+<text top="695" left="176" width="33" height="8" font="20"><b>Wish List</b></text>
+<text top="710" left="-173" width="122" height="8" font="12">GATA-2 shRNA (h) Lentiviral Particles</text>
+<text top="710" left="-20" width="38" height="8" font="11">sc-37228-V</text>
+<text top="710" left="38" width="21" height="8" font="12">200 !l</text>
+<text top="710" left="96" width="16" height="8" font="12">$625</text>
+<text top="730" left="-173" width="124" height="8" font="12">GATA-2 shRNA (m) Lentiviral Particles</text>
+<text top="730" left="-20" width="38" height="8" font="11">sc-37229-V</text>
+<text top="730" left="38" width="21" height="8" font="12">200 !l</text>
+<text top="730" left="96" width="16" height="8" font="12">$625</text>
+<text top="743" left="-176" width="144" height="10" font="17"> <b>WB Positive Control Cell Lysate</b> </text>
+<text top="745" left="-32" width="131" height="8" font="23">(click catalog # for product information)</text>
+<text top="758" left="-173" width="51" height="8" font="20"><b>Product Name</b></text>
+<text top="758" left="-20" width="35" height="8" font="20"><b>Catalog #</b></text>
+<text top="758" left="38" width="15" height="8" font="20"><b>Unit</b></text>
+<text top="758" left="96" width="18" height="8" font="20"><b>Price</b></text>
+<text top="758" left="147" width="13" height="8" font="20"><b>Qty</b></text>
+<text top="758" left="176" width="33" height="8" font="20"><b>Wish List</b></text>
+<text top="220" left="226" width="78" height="8" font="20"><b>GATA-2 (H-116) Data</b></text>
+<text top="227" left="226" width="92" height="8" font="20"><b>Click on image to enlarge</b></text>
+<text top="381" left="229" width="58" height="8" font="12">GATA-2 (H-116): </text>
+<text top="381" left="287" width="26" height="8" font="11">sc-9008</text>
+<text top="381" left="313" width="31" height="8" font="12">. Western</text>
+<text top="389" left="229" width="121" height="8" font="12">blot analysis of GATA-2 expression in</text>
+<text top="396" left="229" width="79" height="8" font="12">MCP-5 whole cell lysate.</text>
+<text top="485" left="229" width="58" height="8" font="12">GATA-2 (H-116): </text>
+<text top="485" left="287" width="26" height="8" font="11">sc-9008</text>
+<text top="485" left="313" width="2" height="8" font="12">.</text>
+<text top="493" left="229" width="104" height="8" font="12">Immunofluorescence staining of</text>
+<text top="501" left="229" width="113" height="8" font="12">methanol-fixed P815 cells showing</text>
+<text top="509" left="229" width="65" height="8" font="12">nuclear localization.</text>
+<text top="636" left="229" width="58" height="8" font="12">GATA-2 (H-116): </text>
+<text top="636" left="287" width="26" height="8" font="11">sc-9008</text>
+<text top="636" left="313" width="31" height="8" font="12">. Western</text>
+<text top="644" left="229" width="121" height="8" font="12">blot analysis of GATA-2 expression in</text>
+<text top="651" left="229" width="75" height="8" font="12">non-transfected 293T: </text>
+<text top="651" left="304" width="34" height="8" font="11">sc-117752</text>
+<text top="651" left="338" width="15" height="8" font="12"> (A),</text>
+<text top="659" left="229" width="112" height="8" font="12">human GATA-2 transfected 293T: </text>
+<text top="659" left="341" width="10" height="8" font="11">sc-</text>
+<text top="667" left="229" width="25" height="8" font="11">176459</text>
+<text top="667" left="253" width="92" height="8" font="12"> (B) and P815 (C) whole cell</text>
+<text top="675" left="229" width="25" height="8" font="12">lysates.</text>
+<text top="697" left="226" width="36" height="8" font="20"><b>Download</b></text>
+<text top="705" left="226" width="36" height="8" font="11">Datasheets</text>
+<text top="713" left="226" width="86" height="8" font="11">Get Adobe Acrobat Reader</text>
+<text top="139" left="142" width="78" height="10" font="19">Browse our Catalog</text>
+<text top="162" left="-68" width="19" height="8" font="12">HOME</text>
+<text top="162" left="-5" width="47" height="8" font="12">WHAT'S NEW?</text>
+<text top="162" left="78" width="31" height="8" font="12">SUPPORT</text>
+<text top="162" left="153" width="32" height="8" font="12">COMPANY</text>
+<text top="162" left="236" width="18" height="8" font="12">SHOP</text>
+<text top="162" left="300" width="43" height="8" font="12">CONTACT US</text>
+</page>
+</pdf2xml>

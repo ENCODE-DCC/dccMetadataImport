@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#0000ff"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="90" width="294" height="13" font="0">ENCODE DCC ANTIBODY VALIDATION DOCUMENT </text>
+<text top="86" left="90" width="3" height="13" font="0"> </text>
+<text top="100" left="90" width="141" height="13" font="0">Date of Submission: 6/22/11 </text>
+<text top="114" left="90" width="3" height="13" font="0"> </text>
+<text top="128" left="90" width="126" height="13" font="0">Name: Zarmik Moqtaderi </text>
+<text top="141" left="90" width="3" height="13" font="0"> </text>
+<text top="155" left="90" width="35" height="13" font="0">Email: </text>
+<text top="155" left="125" width="126" height="13" font="1">Zarmik@hms.harvard.edu</text>
+<text top="155" left="252" width="3" height="13" font="0"> </text>
+<text top="169" left="90" width="3" height="13" font="0"> </text>
+<text top="183" left="90" width="57" height="13" font="0">Lab: Struhl </text>
+<text top="197" left="90" width="3" height="13" font="0"> </text>
+<text top="210" left="90" width="116" height="13" font="0">Antibody Name: BDP1 </text>
+<text top="224" left="90" width="3" height="13" font="0"> </text>
+<text top="238" left="90" width="73" height="13" font="0">Target:  BDP1 </text>
+<text top="252" left="90" width="3" height="13" font="0"> </text>
+<text top="266" left="90" width="424" height="13" font="0">Company/Source: Donated by Dr. RJ White, The Beatson Institute for Cancer Research </text>
+<text top="279" left="90" width="120" height="13" font="0">(antibody number 2663) </text>
+<text top="293" left="90" width="3" height="13" font="0"> </text>
+<text top="307" left="90" width="321" height="13" font="0">Catalog number or laboratory database ID: antibody number 2663 </text>
+<text top="321" left="90" width="3" height="13" font="0"> </text>
+<text top="335" left="90" width="89" height="13" font="0">Lot Number: N/A </text>
+<text top="348" left="90" width="3" height="13" font="0"> </text>
+<text top="362" left="90" width="417" height="13" font="0">Antibody Description: Rabbit polyclonal - Antiserum 2663 was raised by immunizing </text>
+<text top="376" left="90" width="425" height="13" font="0">rabbits with synthetic peptide CSDRYRIYKAQKLRE (human Bdp1 residues 139?153) </text>
+<text top="390" left="90" width="84" height="13" font="0">coupled to KLH. </text>
+<text top="404" left="90" width="3" height="13" font="0"> </text>
+<text top="417" left="90" width="408" height="13" font="0">Target Description: 'B double-prime 1', subunit of RNA polymerase III transcription </text>
+<text top="431" left="90" width="100" height="13" font="0">initiation factor IIIB </text>
+<text top="445" left="90" width="3" height="13" font="0"> </text>
+<text top="459" left="90" width="119" height="13" font="0">Target Species:  Human </text>
+<text top="473" left="90" width="3" height="13" font="0"> </text>
+<text top="486" left="90" width="107" height="13" font="0">Host Species:  Rabbit </text>
+<text top="500" left="90" width="3" height="13" font="0"> </text>
+<text top="514" left="90" width="179" height="13" font="0">Validation Method 1:  IP-Mass Spec </text>
+<text top="528" left="90" width="3" height="13" font="0"> </text>
+<text top="542" left="90" width="377" height="13" font="0">Validation Method 2:  Co-occupancy with another known subunit of the same </text>
+<text top="555" left="90" width="98" height="13" font="0">transcription factor. </text>
+<text top="569" left="90" width="3" height="13" font="0"> </text>
+<text top="583" left="90" width="104" height="13" font="0">Purification Method: </text>
+<text top="597" left="90" width="3" height="13" font="0"> </text>
+<text top="611" left="90" width="177" height="13" font="0">Polyclonal/Monoclonal:  Polyclonal </text>
+<text top="624" left="90" width="3" height="13" font="0"> </text>
+<text top="638" left="90" width="420" height="13" font="0">Reference: Fairley, J.A., Scott, P.H. &amp; White, R.J. TFIIIB is phosphorylated, disrupted </text>
+<text top="652" left="90" width="406" height="13" font="0">and selectively released from tRNA promoters during mitosis <i>in vivo</i> . EMBO J. 22, </text>
+<text top="666" left="90" width="92" height="13" font="0">5841–5850 (2003) </text>
+<text top="680" left="90" width="3" height="13" font="0"> </text>
+<text top="693" left="90" width="3" height="13" font="0"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="3" family="Times" color="#000000"/>
+<text top="72" left="90" width="3" height="13" font="0"> </text>
+<text top="86" left="90" width="293" height="13" font="0">Validation 1:  IP-Mass Spec was performed by Linfeng Wu: </text>
+<text top="100" left="90" width="3" height="13" font="0"> </text>
+<text top="427" left="90" width="3" height="13" font="0"> </text>
+<text top="441" left="90" width="3" height="13" font="0"> </text>
+<text top="455" left="90" width="414" height="13" font="0">Validation 2:  Bdp1 occupancy is correlated extremely well with occupancy by Brf1.  </text>
+<text top="468" left="90" width="253" height="13" font="0">Both are subunits of the transcription factor TFIIIB: </text>
+<text top="482" left="90" width="245" height="13" font="0">(From Moqtaderi et al., NSMB 2010 17: 635-640) </text>
+<text top="496" left="90" width="3" height="13" font="0"> </text>
+<text top="687" left="433" width="3" height="13" font="0"> </text>
+<text top="114" left="91" width="106" height="7" font="3">!&quot;##$%&amp;'()*+,#-'&quot;#+.&quot;/'0&quot;#)/#1'.$'%234532445</text>
+<text top="121" left="91" width="30" height="7" font="3">6&quot;./#7$'$)*#</text>
+<text top="121" left="273" width="61" height="7" font="3">89*:#&quot;'.;'-7*7,)&quot;'*)/0&lt;#-</text>
+<text top="121" left="300" width="113" height="7" font="3">=00#--7.$'$9*:#&quot;-6&quot;./#7$'*.,#09,)&quot;'&gt;#7!&lt;/'?=@AB</text>
+<text top="121" left="383" width="63" height="7" font="3">6&quot;./#7$'C&quot;.9+7$!'=*:7!97/D</text>
+<text top="121" left="410" width="49" height="7" font="3">E9)$/7/)/7F#'G)&quot;7)$0#</text>
+<text top="121" left="436" width="63" height="7" font="3">H)I.$.*D J1+%K&quot;#+,70)/#%</text>
+<text top="121" left="496" width="37" height="7" font="3">J1+%K&quot;#+,70)/#2</text>
+<text top="128" left="91" width="228" height="7" font="3">C#$#K(D*:.,LM6(%'N-.;.&quot;*'%'.;'M)&quot;:)*.D,O+&lt;.-+&lt;)/#'-D$/&lt;)-#'P)**.$7)Q&amp;'*7/.0&lt;.$1&quot;7),'+&quot;#09&quot;-.&quot;</text>
+<text top="128" left="295" width="33" height="7" font="3">% N6N444%%4R2</text>
+<text top="128" left="357" width="25" height="7" font="3">%RS&amp;T2SUV4</text>
+<text top="128" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="128" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="128" left="488" width="6" height="7" font="3">SR</text>
+<text top="128" left="515" width="6" height="7" font="3">ZV</text>
+<text top="135" left="91" width="111" height="7" font="3">C#$#K(D*:.,L[WH%'[#&quot;)/7$&amp;'/D+#'NN'0D/.-Y#,#/),'%</text>
+<text top="135" left="295" width="33" height="7" font="3">% N6N44224\2V</text>
+<text top="135" left="359" width="22" height="7" font="3">RR&amp;44%U24</text>
+<text top="135" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="135" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="135" left="488" width="6" height="7" font="3">S%</text>
+<text top="135" left="515" width="6" height="7" font="3">SR</text>
+<text top="142" left="91" width="110" height="7" font="3">C#$#K(D*:.,L[WHT'[#&quot;)/7$&amp;'/D+#'N'0D/.-Y#,#/),'T</text>
+<text top="142" left="295" width="33" height="7" font="3">% N6N444%T\ZT</text>
+<text top="142" left="359" width="22" height="7" font="3">R2&amp;%%\U44</text>
+<text top="142" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="142" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="142" left="488" width="6" height="7" font="3">25</text>
+<text top="142" left="515" width="6" height="7" font="3">2V</text>
+<text top="148" left="91" width="115" height="7" font="3">C#$#K(D*:.,L[WH%4'[#&quot;)/7$&amp;'/D+#'N'0D/.-Y#,#/),'%4</text>
+<text top="148" left="295" width="33" height="7" font="3">% N6N4444T5RZ</text>
+<text top="148" left="359" width="22" height="7" font="3">ZT&amp;STSU\4</text>
+<text top="148" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="148" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="148" left="488" width="6" height="7" font="3">2V</text>
+<text top="148" left="515" width="6" height="7" font="3">2S</text>
+<text top="155" left="91" width="82" height="7" font="3">C#$#K(D*:.,LHH8'N-.;.&quot;*'2'.;'H7/7$</text>
+<text top="155" left="295" width="33" height="7" font="3">% N6N4442\25\</text>
+<text top="155" left="352" width="29" height="7" font="3">\&amp;54Z&amp;Z%SUZ4</text>
+<text top="155" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="155" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="155" left="491" width="3" height="7" font="3">S</text>
+<text top="155" left="518" width="3" height="7" font="3">R</text>
+<text top="162" left="91" width="186" height="7" font="3">C#$#K(D*:.,L6W[]M'N-.;.&quot;*'%'.;']8=O1#+#$1#$/'+&quot;./#7$'Y7$)-#'0)/),D/70'-9:9$7/</text>
+<text top="162" left="295" width="33" height="7" font="3">% N6N442TR\\V</text>
+<text top="162" left="357" width="25" height="7" font="3">SRT&amp;4VVUZ4</text>
+<text top="162" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="162" left="488" width="6" height="7" font="3">%R</text>
+<text top="162" left="518" width="3" height="7" font="3">V</text>
+<text top="169" left="91" width="111" height="7" font="3">C#$#K(D*:.,L^=H'6&quot;./.0)1&lt;#&quot;7$'^)/'%'+&quot;#09&quot;-.&quot;</text>
+<text top="169" left="295" width="33" height="7" font="3">% N6N444\%S%%</text>
+<text top="169" left="357" width="25" height="7" font="3">Z4R&amp;ZZ4U54</text>
+<text top="169" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="169" left="491" width="3" height="7" font="3">%</text>
+<text top="169" left="518" width="3" height="7" font="3">S</text>
+<text top="176" left="91" width="135" height="7" font="3">C#$#K(D*:.,L[WH2'[#&quot;)/7$&amp;'/D+#'NN'0D/.-Y#,#/),'2'#+71#&quot;*),</text>
+<text top="176" left="295" width="33" height="7" font="3">% N6N4442%\4S</text>
+<text top="176" left="359" width="22" height="7" font="3">RZ&amp;5S5US4</text>
+<text top="176" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="176" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="176" left="491" width="3" height="7" font="3">T</text>
+<text top="176" left="515" width="6" height="7" font="3">%S</text>
+<text top="183" left="91" width="108" height="7" font="3">C#$#K(D*:.,LMS='M.*+,#*#$/'MSO='+&quot;#09&quot;-.&quot;</text>
+<text top="183" left="295" width="33" height="7" font="3">% N6N444\22Z5</text>
+<text top="183" left="357" width="25" height="7" font="3">%T2&amp;VZSU54</text>
+<text top="183" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="183" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="183" left="491" width="3" height="7" font="3">T</text>
+<text top="183" left="515" width="6" height="7" font="3">%4</text>
+<text top="190" left="91" width="79" height="7" font="3">C#$#K(D*:.,LMMH5'ZT'Y])'+&quot;./#7$</text>
+<text top="190" left="295" width="33" height="7" font="3">% N6N44\42T2Z</text>
+<text top="190" left="359" width="22" height="7" font="3">ZT&amp;SR4UT4</text>
+<text top="190" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="190" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="190" left="491" width="3" height="7" font="3">S</text>
+<text top="190" left="518" width="3" height="7" font="3">%</text>
+<text top="197" left="91" width="110" height="7" font="3">WXGXW(X]'O'C#$#K(D*:.,LHH8'N-.;.&quot;*'2'.;'H7/7$</text>
+<text top="197" left="295" width="38" height="7" font="3">% __N6N4442\25\</text>
+<text top="197" left="352" width="29" height="7" font="3">\&amp;54Z&amp;SVRU24</text>
+<text top="197" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="197" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="197" left="491" width="3" height="7" font="3">2</text>
+<text top="197" left="518" width="3" height="7" font="3">2</text>
+<text top="204" left="91" width="73" height="7" font="3">C#$#K(D*:.,LN=W('N=W('+&quot;./#7$</text>
+<text top="204" left="295" width="33" height="7" font="3">% N6N444%\2\S</text>
+<text top="204" left="357" width="25" height="7" font="3">%24&amp;R%2U\4</text>
+<text top="204" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="204" left="491" width="3" height="7" font="3">Z</text>
+<text top="204" left="518" width="3" height="7" font="3">Z</text>
+<text top="211" left="91" width="136" height="7" font="3">C#$#K(D*:.,LX6W('J7;9$0/7.$),')*7$.)0D,O/W8='-D$/&lt;#/)-#</text>
+<text top="211" left="295" width="33" height="7" font="3">% N6N444%\SZ2</text>
+<text top="211" left="357" width="25" height="7" font="3">%V4&amp;R\2U24</text>
+<text top="211" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="211" left="491" width="3" height="7" font="3">S</text>
+<text top="211" left="518" width="3" height="7" font="3">Z</text>
+<text top="218" left="91" width="128" height="7" font="3">C#$#K(D*:.,L`=W('`#90D,O/W8='-D$/&lt;#/)-#&amp;'0D/.+,)-*70</text>
+<text top="218" left="295" width="33" height="7" font="3">% N6N44%4\TTS</text>
+<text top="218" left="357" width="25" height="7" font="3">%\S&amp;SZ2U54</text>
+<text top="218" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="218" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="218" left="491" width="3" height="7" font="3">2</text>
+<text top="218" left="518" width="3" height="7" font="3">\</text>
+<text top="225" left="91" width="145" height="7" font="3">C#$#K(D*:.,L6M'6D&quot;9F)/#'0)&quot;:.ID,)-#&amp;'*7/.0&lt;.$1&quot;7),'+&quot;#09&quot;-.&quot;</text>
+<text top="225" left="295" width="33" height="7" font="3">% N6N442TTS42</text>
+<text top="225" left="357" width="25" height="7" font="3">%2T&amp;R%RUV4</text>
+<text top="225" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="225" left="491" width="3" height="7" font="3">\</text>
+<text top="225" left="518" width="3" height="7" font="3">\</text>
+<text top="232" left="91" width="144" height="7" font="3">C#$#K(D*:.,L8=C`A'=,+&lt;)O8O)0#/D,!,90.-)*7$71)-#'+&quot;#09&quot;-.&quot;</text>
+<text top="232" left="295" width="33" height="7" font="3">% N6N44445V5V</text>
+<text top="232" left="359" width="22" height="7" font="3">52&amp;%STUZ4</text>
+<text top="232" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="232" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="232" left="491" width="3" height="7" font="3">2</text>
+<text top="232" left="518" width="3" height="7" font="3">\</text>
+<text top="239" left="91" width="82" height="7" font="3">C#$#K(D*:.,La(6=Z'a(6=Z'+&quot;./#7$</text>
+<text top="239" left="295" width="33" height="7" font="3">% N6N4444\\R2</text>
+<text top="239" left="359" width="22" height="7" font="3">V2&amp;S4ZUR4</text>
+<text top="239" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="239" left="491" width="3" height="7" font="3">\</text>
+<text top="239" left="518" width="3" height="7" font="3">S</text>
+<text top="246" left="91" width="111" height="7" font="3">C#$#K(D*:.,L[WHZ'[#&quot;)/7$&amp;'/D+#'NN'0D/.-Y#,#/),'Z</text>
+<text top="246" left="295" width="33" height="7" font="3">% N6N4444T5RV</text>
+<text top="246" left="359" width="22" height="7" font="3">R2&amp;\R%UR4</text>
+<text top="246" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="246" left="491" width="3" height="7" font="3">S</text>
+<text top="246" left="518" width="3" height="7" font="3">2</text>
+<text top="253" left="91" width="149" height="7" font="3">C#$#K(D*:.,L`]a='N-.;.&quot;*'%'.;'`O,)0/)/#'1#&lt;D1&quot;.!#$)-#'='0&lt;)7$</text>
+<text top="253" left="295" width="33" height="7" font="3">% N6N442%VTRR</text>
+<text top="253" left="359" width="22" height="7" font="3">\R&amp;RV%U24</text>
+<text top="253" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="253" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="253" left="491" width="3" height="7" font="3">\</text>
+<text top="253" left="518" width="3" height="7" font="3">S</text>
+<text top="260" left="91" width="92" height="7" font="3">C#$#K(D*:.,L=MHJ'=0/7$&amp;'0D/.+,)-*70'%</text>
+<text top="260" left="295" width="33" height="7" font="3">% N6N4442%S\T</text>
+<text top="260" left="359" width="22" height="7" font="3">S%&amp;V%TU54</text>
+<text top="260" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="260" left="491" width="3" height="7" font="3">S</text>
+<text top="260" left="518" width="3" height="7" font="3">S</text>
+<text top="266" left="91" width="139" height="7" font="3">C#$#K(D*:.,L`C=`(\J6'C),#0/7$O\O:7$17$!'+&quot;./#7$'+&quot;#09&quot;-.&quot;</text>
+<text top="266" left="295" width="33" height="7" font="3">% N6N4442\RV\</text>
+<text top="266" left="359" width="22" height="7" font="3">RZ&amp;\%SU%4</text>
+<text top="266" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="266" left="491" width="3" height="7" font="3">S</text>
+<text top="266" left="518" width="3" height="7" font="3">2</text>
+<text top="273" left="91" width="115" height="7" font="3">C#$#K(D*:.,L[WH%S'[#&quot;)/7$&amp;'/D+#'N'0D/.-Y#,#/),'%S</text>
+<text top="273" left="295" width="33" height="7" font="3">% N6N44\5SSSS</text>
+<text top="273" left="359" width="22" height="7" font="3">Z%&amp;R4SUR4</text>
+<text top="273" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="273" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="273" left="491" width="3" height="7" font="3">\</text>
+<text top="273" left="518" width="3" height="7" font="3">S</text>
+<text top="280" left="91" width="134" height="7" font="3">C#$#K(D*:.,L=WaC=62%'W&lt;.OCH6)-#')0/7F)/7$!'+&quot;./#7$'%4</text>
+<text top="280" left="295" width="33" height="7" font="3">% N6N44%RT\4V</text>
+<text top="280" left="357" width="25" height="7" font="3">2%V&amp;SS\U44</text>
+<text top="280" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="280" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="280" left="491" width="3" height="7" font="3">4</text>
+<text top="280" left="518" width="3" height="7" font="3">%</text>
+<text top="287" left="91" width="72" height="7" font="3">C#$#K(D*:.,LM=]'M=]'+&quot;./#7$</text>
+<text top="287" left="295" width="33" height="7" font="3">% N6N44\4%2R\</text>
+<text top="287" left="357" width="25" height="7" font="3">2S2&amp;TRSUZ4</text>
+<text top="287" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="287" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="287" left="491" width="3" height="7" font="3">2</text>
+<text top="287" left="518" width="3" height="7" font="3">4</text>
+<text top="294" left="91" width="155" height="7" font="3">C#$#K(D*:.,LaN6%W'a9$/7$!/7$O7$/#&quot;)0/7$!'+&quot;./#7$'%O&quot;#,)/#1'+&quot;./#7$</text>
+<text top="294" left="295" width="33" height="7" font="3">% N6N4442SS%V</text>
+<text top="294" left="357" width="25" height="7" font="3">%%T&amp;\V%UV4</text>
+<text top="294" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="294" left="491" width="3" height="7" font="3">S</text>
+<text top="294" left="518" width="3" height="7" font="3">%</text>
+<text top="301" left="91" width="126" height="7" font="3">C#$#K(D*:.,LM\'M.*+,#*#$/'M\'+&quot;#09&quot;-.&quot;'?^&quot;)!*#$/B</text>
+<text top="301" left="295" width="33" height="7" font="3">% N6N44V5\T5V</text>
+<text top="301" left="357" width="25" height="7" font="3">%5V&amp;%\%U%4</text>
+<text top="301" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="301" left="491" width="3" height="7" font="3">\</text>
+<text top="301" left="518" width="3" height="7" font="3">2</text>
+<text top="308" left="91" width="105" height="7" font="3">C#$#K(D*:.,LHAJ=S='H9:9,7$'),+&lt;)OS='0&lt;)7$</text>
+<text top="308" left="292" width="299" height="7" font="3">%4 N6N4444VVZ4&amp;N6N442%5\S\&amp;N6N44\5V%SS&amp;N6N44RSRT4T&amp;N6N44VT%R%\&amp;N6N44VT2SV5&amp;N6N44VT2RVV&amp;N6N44VT\T\4&amp;N6N44VT\TZ\&amp;N6N44VTSRR\</text>
+<text top="308" left="359" width="22" height="7" font="3">ST&amp;T4RUR4</text>
+<text top="308" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="308" left="491" width="3" height="7" font="3">2</text>
+<text top="308" left="518" width="3" height="7" font="3">S</text>
+<text top="315" left="91" width="242" height="7" font="3">WXGXW(X]'O'C#$#K(D*:.,L@XH'N-.;.&quot;*'%'.;'a#+)/.0D/#'!&quot;.&gt;/&lt;';)0/.&quot;'&quot;#0#+/.&quot;'+&quot;#09&quot;-.&quot; % __N6N4442T2V\</text>
+<text top="315" left="357" width="25" height="7" font="3">%ZZ&amp;Z%%U%4</text>
+<text top="315" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="315" left="491" width="3" height="7" font="3">2</text>
+<text top="315" left="518" width="3" height="7" font="3">4</text>
+<text top="322" left="91" width="221" height="7" font="3">C#$#K(D*:.,LM=M8=%a'N-.;.&quot;*'%'.;'G.,/)!#O1#+#$1#$/'HO/D+#'0),079*'0&lt;)$$#,'-9:9$7/'),+&lt;)O%a</text>
+<text top="322" left="295" width="33" height="7" font="3">% N6N44425T%Z</text>
+<text top="322" left="357" width="25" height="7" font="3">2ZT&amp;%SVU%4</text>
+<text top="322" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="322" left="491" width="3" height="7" font="3">%</text>
+<text top="322" left="518" width="3" height="7" font="3">2</text>
+<text top="329" left="91" width="140" height="7" font="3">C#$#K(D*:.,LJ]6%'/&quot;)$-0&quot;7+/7.$';)0/.&quot;O,7Y#'$90,#)&quot;'&quot;#!9,)/.&quot;</text>
+<text top="329" left="295" width="33" height="7" font="3">% N6N44VR45VV</text>
+<text top="329" left="357" width="25" height="7" font="3">2T\&amp;5RSUR4</text>
+<text top="329" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="329" left="491" width="3" height="7" font="3">2</text>
+<text top="329" left="518" width="3" height="7" font="3">4</text>
+<text top="336" left="91" width="100" height="7" font="3">C#$#K(D*:.,LM(X%`'N-.;.&quot;*'%'.;'XI+.&quot;/7$O2</text>
+<text top="336" left="295" width="33" height="7" font="3">% N6N44422VSS</text>
+<text top="336" left="357" width="25" height="7" font="3">%%4&amp;S4\UT4</text>
+<text top="336" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="336" left="491" width="3" height="7" font="3">%</text>
+<text top="336" left="518" width="3" height="7" font="3">%</text>
+<text top="343" left="91" width="129" height="7" font="3">C#$#K(D*:.,La(6T4=J%'a#)/'-&lt;.0Y'+&quot;./#7$'a(6'T4O:#/)</text>
+<text top="343" left="295" width="33" height="7" font="3">% N6N44S%SRVR</text>
+<text top="343" left="359" width="22" height="7" font="3">5\&amp;2STU\4</text>
+<text top="343" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="343" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="343" left="491" width="3" height="7" font="3">\</text>
+<text top="343" left="518" width="3" height="7" font="3">%</text>
+<text top="350" left="91" width="134" height="7" font="3">WXGXW(X]'O'C#$#K(D*:.,L6W[Mb'6&quot;./#7$'Y7$)-#'M'c#/)'/D+#</text>
+<text top="350" left="295" width="38" height="7" font="3">% __N6N444%\VST</text>
+<text top="350" left="359" width="22" height="7" font="3">RV&amp;RSSU44</text>
+<text top="350" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="350" left="491" width="3" height="7" font="3">4</text>
+<text top="350" left="518" width="3" height="7" font="3">%</text>
+<text top="357" left="91" width="118" height="7" font="3">C#$#K(D*:.,L[WHR='[#&quot;)/7$&amp;'/D+#'NN'0D/.-Y#,#/),'R=</text>
+<text top="357" left="295" width="33" height="7" font="3">% N6N44\44V2Z</text>
+<text top="357" left="359" width="22" height="7" font="3">R4&amp;425US4</text>
+<text top="357" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="357" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="357" left="491" width="3" height="7" font="3">\</text>
+<text top="357" left="518" width="3" height="7" font="3">4</text>
+<text top="364" left="91" width="171" height="7" font="3">C#$#K(D*:.,L@(aR'N-.;.&quot;*'CHJ6O8'.;']8='*7-*)/0&lt;'&quot;#+)7&quot;'+&quot;./#7$'@-&lt;R</text>
+<text top="364" left="295" width="33" height="7" font="3">% N6N44\5SSZR</text>
+<text top="364" left="357" width="25" height="7" font="3">%Z2&amp;VV%UT4</text>
+<text top="364" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="364" left="491" width="3" height="7" font="3">\</text>
+<text top="364" left="518" width="3" height="7" font="3">4</text>
+<text top="370" left="91" width="115" height="7" font="3">C#$#K(D*:.,L[WH%R'[#&quot;)/7$&amp;'/D+#'N'0D/.-Y#,#/),'%R</text>
+<text top="370" left="295" width="33" height="7" font="3">% N6N442%VTR\</text>
+<text top="370" left="359" width="22" height="7" font="3">Z%&amp;2Z%U44</text>
+<text top="370" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="370" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="370" left="491" width="3" height="7" font="3">2</text>
+<text top="370" left="518" width="3" height="7" font="3">4</text>
+<text top="377" left="91" width="182" height="7" font="3">WXGXW(X]'O'C#$#K(D*:.,L^W=6%'^[J6%2O&quot;)+)*D07$'0.*+,#IO)--.07)/#1'+&quot;./#7$</text>
+<text top="377" left="295" width="38" height="7" font="3">% __N6N444\%S%4</text>
+<text top="377" left="357" width="25" height="7" font="3">255&amp;5VTU44</text>
+<text top="377" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="377" left="491" width="3" height="7" font="3">4</text>
+<text top="377" left="518" width="3" height="7" font="3">2</text>
+<text top="384" left="91" width="169" height="7" font="3">C#$#K(D*:.,LWC8X^'N-.;.&quot;*'S'.;'W&lt;.O!9)$7$#'$90,#./71#'#I0&lt;)$!#';)0/.&quot;</text>
+<text top="384" left="295" width="33" height="7" font="3">% N6N445544TS</text>
+<text top="384" left="357" width="25" height="7" font="3">%5Z&amp;525UZ4</text>
+<text top="384" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="384" left="491" width="3" height="7" font="3">%</text>
+<text top="384" left="518" width="3" height="7" font="3">4</text>
+<text top="391" left="91" width="158" height="7" font="3">C#$#K(D*:.,L8=(6'N-.;.&quot;*'%'.;'890,#)&quot;')9/.)$/7!#$70'-+#&quot;*'+&quot;./#7$</text>
+<text top="391" left="295" width="86" height="7" font="3">2 N6N44%VTTZ\&amp;N6N44\\2STT 5Z&amp;2%VUZ4</text>
+<text top="391" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="391" left="491" width="3" height="7" font="3">2</text>
+<text top="391" left="518" width="3" height="7" font="3">4</text>
+<text top="398" left="91" width="152" height="7" font="3">C#$#K(D*:.,L]8=a%'N-.;.&quot;*'2'.;']D$#7$'&lt;#)FD'0&lt;)7$'%&amp;')I.$#*),</text>
+<text top="398" left="295" width="33" height="7" font="3">% N6N44442%2V</text>
+<text top="398" left="357" width="25" height="7" font="3">S5Z&amp;T25U54</text>
+<text top="398" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="398" left="491" width="3" height="7" font="3">%</text>
+<text top="398" left="518" width="3" height="7" font="3">4</text>
+<text top="405" left="91" width="107" height="7" font="3">C#$#K(D*:.,La(6T4J%'X$1.+,)-*7$'+&quot;#09&quot;-.&quot;</text>
+<text top="405" left="295" width="33" height="7" font="3">% N6N4442V2\4</text>
+<text top="405" left="359" width="22" height="7" font="3">T2&amp;SZ\UV4</text>
+<text top="405" left="390" width="12" height="7" font="3">HWAX</text>
+<text top="405" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="405" left="491" width="3" height="7" font="3">%</text>
+<text top="405" left="518" width="3" height="7" font="3">4</text>
+<text top="412" left="91" width="169" height="7" font="3">C#$#K(D*:.,LG=@6S'N-.;.&quot;*'2'.;'G#-70,#O)--.07)/#1'*#*:&quot;)$#'+&quot;./#7$'S</text>
+<text top="412" left="295" width="33" height="7" font="3">% N6N442%TRS5</text>
+<text top="412" left="359" width="22" height="7" font="3">%R&amp;22\U24</text>
+<text top="412" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="412" left="491" width="3" height="7" font="3">%</text>
+<text top="412" left="518" width="3" height="7" font="3">4</text>
+<text top="419" left="91" width="212" height="7" font="3">C#$#K(D*:.,L`WMa2'`#907$#O&quot;70&lt;'&quot;#+#)/')$1'0),+.$7$'&lt;.*.,.!D'1.*)7$O0.$/)7$7$!'+&quot;./#7$'2</text>
+<text top="419" left="295" width="33" height="7" font="3">% N6N44VSZ4\5</text>
+<text top="419" left="359" width="22" height="7" font="3">5S&amp;ZV2U%4</text>
+<text top="419" left="436" width="21" height="7" font="3">9$Y$.&gt;$</text>
+<text top="419" left="491" width="3" height="7" font="3">4</text>
+<text top="419" left="518" width="3" height="7" font="3">%</text>
+</page>
+</pdf2xml>

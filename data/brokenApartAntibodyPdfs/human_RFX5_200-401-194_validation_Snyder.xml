@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="0" size="8" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="160" left="75" width="271" height="11" font="0">Arrow indicates band consistent with expected size (65kD)</text>
+<text top="172" left="75" width="241" height="11" font="0">of RFX5 in nuclear lysates from (left to right): K562,</text>
+<text top="184" left="75" width="200" height="11" font="0">GM12878, HeLaS3, and HepG2 cell lines.</text>
+<text top="54" left="84" width="339" height="16" font="1"><b>Antibody: RFX5      Source: Rockland #200-401-194</b></text>
+<text top="70" left="84" width="621" height="16" font="1"><b>Epitope: Rabbit polyclonal against RFX5 peptide corresponding to a region from amino acids</b></text>
+<text top="87" left="84" width="564" height="16" font="1"><b>                320 to 494 of the human protein conjugated to Keyhole Limpet Hemocyanin</b></text>
+<text top="137" left="390" width="297" height="11" font="0">Arrow indicates immunoprecipitated (IP) band of expected size</text>
+<text top="149" left="390" width="296" height="11" font="0">from HeLaS3 nuclear lysates.  Lane 1= HeLaS3 nuclear lysate,</text>
+<text top="161" left="390" width="310" height="11" font="0">Lane 2= bound material from HeLaS3 IP with 200-401-194 , Lane</text>
+<text top="173" left="390" width="291" height="11" font="0">3= bound material from control IgG IP from HeLaS3. IPs were</text>
+<text top="185" left="390" width="320" height="11" font="0">performed with the ExactaCruz reagent (Santa Cruz Biotechnology),</text>
+<text top="197" left="390" width="320" height="11" font="0">so the intensities of IgG bands, particularly the heavy chain at 55kD,</text>
+<text top="209" left="390" width="73" height="11" font="0">are diminished.</text>
+<text top="117" left="55" width="193" height="16" font="1"><b>Validation 1: Immunoblotting</b></text>
+<text top="493" left="74" width="164" height="16" font="1"><b>Validation 2: In Progress</b></text>
+<text top="286" left="97" width="30" height="13" font="2"><b>75kD</b></text>
+<text top="302" left="97" width="30" height="13" font="2"><b>50kD</b></text>
+<text top="268" left="440" width="30" height="13" font="2"><b>75kD</b></text>
+<text top="284" left="440" width="30" height="13" font="2"><b>50kD</b></text>
+</page>
+</pdf2xml>

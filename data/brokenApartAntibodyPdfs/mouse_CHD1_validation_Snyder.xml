@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="21" family="Times" color="#000000"/>
+	<fontspec id="1" size="7" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+<text top="40" left="66" width="497" height="26" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="90" left="59" width="77" height="12" font="1">Date of Submission</text>
+<text top="349" left="50" width="39" height="12" font="1">Antibody </text>
+<text top="360" left="50" width="50" height="12" font="1">Description: </text>
+<text top="372" left="50" width="2" height="12" font="1"> </text>
+<text top="481" left="93" width="58" height="12" font="1">Species Target</text>
+<text top="516" left="93" width="86" height="12" font="1">Validation Method #1</text>
+<text top="144" left="292" width="24" height="12" font="1">Email:</text>
+<text top="144" left="59" width="26" height="12" font="1">Name:</text>
+<text top="222" left="59" width="65" height="12" font="1">Antibody Name:</text>
+<text top="222" left="301" width="28" height="12" font="1">Target:</text>
+<text top="179" left="197" width="15" height="12" font="1">Lab</text>
+<text top="255" left="189" width="42" height="12" font="1">Company/</text>
+<text top="266" left="189" width="30" height="12" font="1">Source:</text>
+<text top="481" left="301" width="51" height="12" font="1">Species Host</text>
+<text top="304" left="335" width="48" height="12" font="1">Lot Number</text>
+<text top="298" left="50" width="165" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="310" left="50" width="2" height="12" font="1"> </text>
+<text top="516" left="301" width="86" height="12" font="1">Validation Method #2</text>
+<text top="549" left="93" width="48" height="12" font="1">Purification </text>
+<text top="560" left="93" width="32" height="12" font="1">Method</text>
+<text top="549" left="301" width="47" height="12" font="1">Polyclonal/ </text>
+<text top="560" left="301" width="48" height="12" font="1">Monoclonal</text>
+<text top="617" left="42" width="55" height="12" font="1">Reference (PI/</text>
+<text top="628" left="42" width="47" height="12" font="1">Publication </text>
+<text top="640" left="42" width="50" height="12" font="1">Information)</text>
+<text top="663" left="40" width="282" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="675" left="40" width="197" height="10" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="685" left="40" width="149" height="10" font="2">please write-in the appropriate information</text>
+<text top="714" left="42" width="57" height="12" font="1">Histone Name</text>
+<text top="714" left="163" width="50" height="12" font="1">AA modified</text>
+<text top="714" left="327" width="46" height="12" font="1">AA Position</text>
+<text top="714" left="439" width="51" height="12" font="1">Modification</text>
+<text top="418" left="50" width="28" height="12" font="1">Target </text>
+<text top="429" left="50" width="50" height="12" font="1">Description: </text>
+<text top="441" left="50" width="2" height="12" font="1"> </text>
+<text top="591" left="171" width="49" height="12" font="1">Vendor URL:</text>
+<text top="590" left="240" width="138" height="10" font="1">http://www.novusbio.com/CHD1-</text>
+<text top="595" left="240" width="122" height="10" font="1">Antibody_NB100-60411.html</text>
+<text top="91" left="145" width="32" height="10" font="1">9/13/12</text>
+<text top="339" left="103" width="429" height="10" font="1">The epitope recognized by this antibody maps to a region between residue 1660 and 1710 of human </text>
+<text top="345" left="103" width="411" height="10" font="1">chromodomain helicase DNA binding protein 1 using the numbering given in entry NP_001261.2 </text>
+<text top="350" left="103" width="65" height="10" font="1">(GeneID 1105).</text>
+<text top="482" left="156" width="31" height="10" font="1">Human</text>
+<text top="516" left="183" width="86" height="10" font="1">Immunoprecipitation</text>
+<text top="145" left="325" width="84" height="10" font="1">trupti@stanford.edu</text>
+<text top="145" left="92" width="50" height="10" font="1">Trupti Kawli</text>
+<text top="223" left="128" width="26" height="10" font="1">CHD1</text>
+<text top="223" left="337" width="29" height="10" font="1">CHD1 </text>
+<text top="179" left="233" width="30" height="10" font="1">Snyder</text>
+<text top="262" left="241" width="76" height="10" font="1">Novus Biologicals</text>
+<text top="482" left="359" width="28" height="10" font="1">Rabbit</text>
+<text top="305" left="391" width="12" height="10" font="1">A1</text>
+<text top="305" left="218" width="59" height="10" font="1">NB100-60411</text>
+<text top="516" left="391" width="21" height="10" font="1">ChIP</text>
+<text top="556" left="147" width="29" height="10" font="1">Afﬁnity</text>
+<text top="556" left="354" width="44" height="10" font="1">Polyclonal</text>
+<text top="408" left="103" width="427" height="10" font="1"> ATP-dependent chromatin-remodeling factor which functions as substrate recognition component of </text>
+<text top="414" left="103" width="16" height="10" font="1">the!</text>
+<text top="419" left="103" width="387" height="10" font="1">transcription regulatory histone acetylation (HAT) complex SAGA. Regulates polymerase II </text>
+<text top="424" left="103" width="425" height="10" font="1">transcription. Also required for efﬁcient transcription by RNA polymerase I, and more speciﬁcally the </text>
+<text top="429" left="103" width="425" height="10" font="1">polymerase I transcription termination step. Regulates negatively DNA replication. Not only involved </text>
+<text top="434" left="103" width="407" height="10" font="1">in transcription-related chromatin-remodeling, but also required to maintain a speciﬁc chromatin </text>
+<text top="440" left="103" width="416" height="10" font="1">conﬁguration across the genome. Is also associated with histone deacetylase (HDAC) activity (By </text>
+<text top="445" left="103" width="430" height="10" font="1">similarity). Required for the bridging of SNF2, the FACT complex, the PAF complex as well as the U2 </text>
+<text top="450" left="103" width="408" height="10" font="1">snRNP complex to H3K4me3. Functions to modulate the efﬁciency of pre-mRNA splicing in part </text>
+<text top="455" left="103" width="423" height="10" font="1">through physical bridging of spliceosomal components to H3K4me3. Required for maintaining open </text>
+<text top="460" left="103" width="218" height="10" font="1">chromatin and pluripotency in embryonic stem cells</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="156" left="63" width="54" height="12" font="1">Validation #1 </text>
+<text top="167" left="63" width="32" height="12" font="1">Analysis</text>
+<text top="650" left="61" width="138" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="54" left="132" width="415" height="10" font="1">A band of ~240 kD (expected size of Chd1) is efﬁciently immunoprecipitated from MEL and CH12 </text>
+<text top="59" left="132" width="386" height="10" font="1">lysates by NB100-60411.  This antibody has been previously validated by immunblotting in </text>
+<text top="65" left="132" width="390" height="10" font="1">human cell lines K562, GM!2878 and HeLaS3 as well as by Mass Spec analysis of proteins </text>
+<text top="70" left="132" width="398" height="10" font="1">immunioprepcipitated by  this antibody and this validation information has been submitted.  In </text>
+<text top="75" left="132" width="399" height="10" font="1">combination with the previously submitted data, NB100-60411 meets the ENCODE criteria for </text>
+<text top="80" left="132" width="196" height="10" font="1">validation in murine cell lines CH12 and MEL.!</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+	<fontspec id="6" size="12" family="Times" color="#000000"/>
+	<fontspec id="7" size="7" family="Times" color="#000000"/>
+	<fontspec id="8" size="10" family="Times" color="#000000"/>
+<text top="208" left="379" width="295" height="16" font="3">Arrow indicates immunoprecipitated band of </text>
+<text top="227" left="379" width="318" height="16" font="3">expected size of Chd1 in both CH12 and MEL cell </text>
+<text top="246" left="379" width="119" height="16" font="3">lines (~240 kDa).   </text>
+<text top="265" left="379" width="4" height="16" font="3"> </text>
+<text top="285" left="379" width="127" height="16" font="3">NE: nuclear extract </text>
+<text top="304" left="379" width="149" height="16" font="3">S: supernatant after IP </text>
+<text top="323" left="379" width="174" height="16" font="3">IP: IP with tested antibody </text>
+<text top="342" left="379" width="153" height="16" font="3">IgG: IP with control IgG </text>
+<text top="127" left="73" width="527" height="18" font="4"><b>Validation 1: Immunoprecipitation (IP) in both CH12 and MEL cell lines</b> </text>
+<text top="25" left="73" width="417" height="18" font="4"><b>Antibody: </b>CHD1 Source<b>: </b>Novus Biologicals NB100-60411 </text>
+<text top="47" left="73" width="556" height="18" font="4"><b>Epitope: </b>CHD1 antibody is a rabbit polyclonal IgG, epitope mapping at 1660 </text>
+<text top="68" left="73" width="192" height="18" font="5">and 1710 of human CHD1 </text>
+<text top="186" left="50" width="26" height="14" font="6"><b>kDa </b></text>
+<text top="203" left="62" width="3" height="14" font="6"><b> </b></text>
+<text top="220" left="62" width="3" height="14" font="6"><b> </b></text>
+<text top="237" left="62" width="3" height="14" font="6"><b> </b></text>
+<text top="253" left="62" width="3" height="14" font="6"><b> </b></text>
+<text top="270" left="51" width="24" height="14" font="6"><b>130 </b></text>
+<text top="288" left="62" width="4" height="18" font="4"><b> </b></text>
+<text top="309" left="54" width="17" height="14" font="6"><b>70 </b></text>
+<text top="325" left="62" width="3" height="14" font="6"><b> </b></text>
+<text top="342" left="62" width="3" height="14" font="6"><b> </b></text>
+<text top="358" left="62" width="2" height="10" font="7"><b> </b></text>
+<text top="371" left="54" width="17" height="14" font="6"><b>25 </b></text>
+<text top="233" left="19" width="42" height="18" font="5">Chd1 </text>
+<text top="205" left="114" width="204" height="12" font="8">NE     S       IP    IgG       NE     S      IP    IgG </text>
+<text top="181" left="133" width="149" height="18" font="5">CH12                  MEL </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="169" left="68" width="54" height="12" font="1">Validation #2 </text>
+<text top="180" left="68" width="32" height="12" font="1">Analysis</text>
+<text top="633" left="65" width="139" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="684" left="269" width="65" height="12" font="1">Submit by Email</text>
+<text top="54" left="137" width="385" height="10" font="1">This antibody has been validated by IP-MAss Spec analysis in K562 cells.  Please see the </text>
+<text top="59" left="137" width="284" height="10" font="1">validation document for this antibody in human cell lines for details.</text>
+</page>
+</pdf2xml>

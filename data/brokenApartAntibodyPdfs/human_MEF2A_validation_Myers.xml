@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="73" left="156" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="163" width="289" height="16" font="0"><b>Transcription factor: MEF2A (GeneID 4205) </b></text>
+<text top="104" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="173" left="77" width="316" height="13" font="1"><b>Transcription factor:</b> MEF2A (GeneID 4205; ~40-65 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="325" height="13" font="1"><b>Antibody:</b> MEF2 (C-21), Santa Cruz Biotechnology (sc-313) </text>
+<text top="215" left="77" width="420" height="13" font="2">Rabbit polyclonal, epitope mapping at the C-terminus of MEF2 of human origin </text>
+<text top="229" left="77" width="359" height="13" font="2">Web: http://www.scbt.com/datasheet-313-mef-2-c-21-antibody.html </text>
+<text top="242" left="77" width="3" height="13" font="2"> </text>
+<text top="256" left="77" width="3" height="13" font="2"> </text>
+<text top="270" left="77" width="3" height="13" font="2"> </text>
+<text top="284" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="310" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="324" left="77" width="467" height="13" font="2">size,  or  a  band of  no  less  than  half  the  total  signal, must be  detected  in a  lane  on  a </text>
+<text top="337" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="361" left="77" width="3" height="13" font="2"> </text>
+<text top="385" left="77" width="188" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="550" left="290" width="3" height="13" font="2"> </text>
+<text top="571" left="81" width="422" height="13" font="1"><b>Figure Legend:</b> Western blot analysis of MEF2 expression in non-transfected </text>
+<text top="585" left="81" width="422" height="13" font="2">293T:  sc-117752  (A),  mouse  MEF-2  transfected  293T:  sc-127140  (B)  and </text>
+<text top="598" left="81" width="168" height="13" font="2">NIH/3T3 (C) whole cell lysates. </text>
+<text top="622" left="81" width="3" height="13" font="2"> </text>
+<text top="646" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="670" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="694" left="77" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis </b></text>
+<text top="96" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="120" left="77" width="467" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="134" left="77" width="467" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="147" left="77" width="467" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="161" left="77" width="467" height="13" font="2">with an Invitrogen iBlot system.  Blotting with primary (same as that used for IP) and </text>
+<text top="175" left="77" width="467" height="13" font="2">secondary HRP-conjugated antibodies was performed on an Invitrogen BenchPro 4100 </text>
+<text top="189" left="77" width="467" height="13" font="2">system.  Visualization  was  achieved  using  SuperSignal  West  Femto  solution  (Thermo </text>
+<text top="202" left="77" width="62" height="13" font="2">Scientific).  </text>
+<text top="226" left="77" width="10" height="13" font="2">   </text>
+<text top="529" left="77" width="53" height="13" font="2">                </text>
+<text top="529" left="481" width="3" height="13" font="2"> </text>
+<text top="550" left="121" width="354" height="13" font="1"><b>Figure  Legend:</b>  MEF2A  immunoblots:  IP-western  with  sc-313 </text>
+<text top="564" left="121" width="358" height="13" font="2">MEF2A  antibody  in  whole  cell  lysates  of  GM12878  and  K562.  </text>
+<text top="578" left="121" width="354" height="13" font="2">Heavy chain of IgG is indicated. MEF2A band is indicated at ~57 </text>
+<text top="592" left="121" width="28" height="13" font="2">kDa. </text>
+<text top="616" left="77" width="3" height="13" font="2"> </text>
+<text top="640" left="77" width="3" height="13" font="2"> </text>
+<text top="663" left="77" width="167" height="16" font="0"><b>Validation 2: In progress </b></text>
+</page>
+</pdf2xml>

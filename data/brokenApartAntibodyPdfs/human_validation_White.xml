@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+<text top="160" left="161" width="0" height="16" font="0">e</text>
+<text top="152" left="161" width="0" height="16" font="0">-G</text>
+<text top="137" left="161" width="0" height="16" font="0">F</text>
+<text top="128" left="161" width="0" height="16" font="0">P</text>
+<text top="119" left="161" width="0" height="16" font="0"> J</text>
+<text top="108" left="161" width="0" height="16" font="0">u</text>
+<text top="100" left="161" width="0" height="16" font="0">n</text>
+<text top="92" left="161" width="0" height="16" font="0">B</text>
+<text top="168" left="227" width="0" height="16" font="0">e</text>
+<text top="160" left="227" width="0" height="16" font="0">-G</text>
+<text top="145" left="227" width="0" height="16" font="0">F</text>
+<text top="136" left="227" width="0" height="16" font="0">P</text>
+<text top="127" left="227" width="0" height="16" font="0"> J</text>
+<text top="116" left="227" width="0" height="16" font="0">u</text>
+<text top="108" left="227" width="0" height="16" font="0">n</text>
+<text top="100" left="227" width="0" height="16" font="0">B</text>
+<text top="91" left="227" width="0" height="16" font="0"> +</text>
+<text top="79" left="227" width="0" height="16" font="0"> </text>
+<text top="168" left="244" width="0" height="16" font="0">si</text>
+<text top="158" left="244" width="0" height="16" font="0">R</text>
+<text top="148" left="244" width="0" height="16" font="0">N</text>
+<text top="138" left="244" width="0" height="16" font="0">A</text>
+<text top="370" left="167" width="0" height="16" font="0">e</text>
+<text top="363" left="167" width="0" height="16" font="0">-G</text>
+<text top="347" left="167" width="0" height="16" font="0">F</text>
+<text top="339" left="167" width="0" height="16" font="0">P</text>
+<text top="329" left="167" width="0" height="16" font="0"> G</text>
+<text top="314" left="167" width="0" height="16" font="0">A</text>
+<text top="305" left="167" width="0" height="16" font="0">T</text>
+<text top="297" left="167" width="0" height="16" font="0">A</text>
+<text top="287" left="167" width="0" height="16" font="0">2</text>
+<text top="371" left="233" width="0" height="16" font="0">e</text>
+<text top="363" left="233" width="0" height="16" font="0">-G</text>
+<text top="348" left="233" width="0" height="16" font="0">F</text>
+<text top="339" left="233" width="0" height="16" font="0">P</text>
+<text top="330" left="233" width="0" height="16" font="0"> G</text>
+<text top="315" left="233" width="0" height="16" font="0">A</text>
+<text top="306" left="233" width="0" height="16" font="0">T</text>
+<text top="297" left="233" width="0" height="16" font="0">A</text>
+<text top="288" left="233" width="0" height="16" font="0">2</text>
+<text top="371" left="250" width="0" height="16" font="0"> +</text>
+<text top="359" left="250" width="0" height="16" font="0"> s</text>
+<text top="348" left="250" width="0" height="16" font="0">iR</text>
+<text top="335" left="250" width="0" height="16" font="0">N</text>
+<text top="325" left="250" width="0" height="16" font="0">A</text>
+<text top="161" left="365" width="0" height="16" font="0">e</text>
+<text top="153" left="365" width="0" height="16" font="0">-G</text>
+<text top="137" left="365" width="0" height="16" font="0">F</text>
+<text top="129" left="365" width="0" height="16" font="0">P</text>
+<text top="119" left="365" width="0" height="16" font="0"> F</text>
+<text top="107" left="365" width="0" height="16" font="0">o</text>
+<text top="99" left="365" width="0" height="16" font="0">s</text>
+<text top="478" left="97" width="220" height="13" font="1">Primary Ab:anti-eGFP(goat IgG) “1:1000”</text>
+<text top="492" left="97" width="294" height="13" font="1">Secondary: Anti-goat IgG-HRP(SantaCruz) : “1:20,000”</text>
+<text top="521" left="97" width="417" height="13" font="1">Experiments were performed in K562 cells that were BAC transfected with the </text>
+<text top="536" left="97" width="371" height="13" font="1">above factors and stable cell lines generated following G418 selection</text>
+<text top="58" left="625" width="100" height="13" font="2"><b>Kevin White Lab_</b></text>
+<text top="72" left="625" width="74" height="13" font="2"><b>U of Chicago</b></text>
+<text top="244" left="595" width="111" height="20" font="3"><b>Western Blot</b></text>
+<text top="400" left="379" width="206" height="13" font="1">siRNA were from Dharmacon(Thermo)</text>
+<text top="414" left="379" width="177" height="13" font="1">and used at a final concentration </text>
+<text top="429" left="379" width="59" height="13" font="1">of 50 nmol.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+	<fontspec id="5" size="14" family="Times" color="#000000"/>
+<text top="238" left="154" width="99" height="20" font="4">e-GFP JunB</text>
+<text top="238" left="391" width="103" height="20" font="4">e-GFP c-Fos</text>
+<text top="436" left="283" width="117" height="20" font="4">e-GFP GATA2</text>
+<text top="340" left="559" width="171" height="20" font="3"><b>Immunofluroscence</b></text>
+<text top="58" left="553" width="174" height="13" font="2"><b>Kevin White Lab_U of Chicago</b></text>
+<text top="477" left="469" width="132" height="18" font="5"><b>Magification: 20X</b></text>
+<text top="496" left="469" width="168" height="18" font="5"><b>Zeiss Axiovert 40 CFL</b></text>
+<text top="515" left="469" width="262" height="18" font="5"><b>Blue laser: EXFO,X-Cite series 120</b></text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+	<fontspec id="7" size="11" family="Times" color="#000000"/>
+	<fontspec id="8" size="7" family="Times" color="#000000"/>
+<text top="250" left="163" width="88" height="16" font="6"><b>e-GFP Fos IP</b></text>
+<text top="154" left="91" width="60" height="13" font="2"><b>e-GFP Fos</b></text>
+<text top="190" left="91" width="59" height="13" font="2"><b>IgG bands</b></text>
+<text top="83" left="187" width="240" height="16" font="6"><b>IP with e-GFP Ab in Fos stable K562</b></text>
+<text top="118" left="319" width="87" height="16" font="6"><b>Western with</b></text>
+<text top="149" left="258" width="218" height="16" font="7"><i><b>Anti-Fos Ab (SantaCruz Biotech)</b></i></text>
+<text top="310" left="145" width="178" height="20" font="3"><b>Immunoprecipitation</b></text>
+<text top="332" left="145" width="155" height="16" font="7"><i><b>IP Ab: Anti-eGFP (5 ug)</b></i></text>
+<text top="349" left="145" width="133" height="16" font="7"><i><b>Protein /lane= 75 ug</b></i></text>
+<text top="382" left="145" width="82" height="20" font="3"><b>Western: </b></text>
+<text top="404" left="145" width="114" height="16" font="7"><i><b>Anti-Fos(1: 1000)</b></i></text>
+<text top="421" left="145" width="8" height="16" font="7"><i><b>2</b></i></text>
+<text top="421" left="153" width="11" height="10" font="8"><i><b>nd</b></i></text>
+<text top="421" left="164" width="86" height="16" font="7"><i><b> Ab: 1:20,000</b></i></text>
+<text top="58" left="505" width="174" height="13" font="2"><b>Kevin White Lab_U of Chicago</b></text>
+<text top="235" left="492" width="178" height="20" font="3"><b>Immunoprecipitation</b></text>
+</page>
+</pdf2xml>
