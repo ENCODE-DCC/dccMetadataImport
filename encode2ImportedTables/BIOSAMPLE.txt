@@ -24,37 +24,27 @@ aa992001-8c03-45bb-87f9-90beb53238fc	BTO:0000047	BC_Adrenal_Gland_H12803N	NA	NA	
 bb88fea0-0f5e-42d7-a44f-3a26e32d3ff3	BTO:0001418	BC_Bladder_01-11002	NA	NA	BCBLADDER	tissue	human	missing	BioChain	CP-S12-D1234010-05_B402059	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 62d3cba4-01e3-4db5-b6f0-d3ab16e6299b	BTO:0000142	BC_Brain_H11058N	NA	NA	BCBRAIN	tissue	human	missing	BioChain	D4234035_A810101	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 79c6a9af-27e9-444a-aec4-4180e4255c54	BTO:0000149	BC_Breast_02-03015	NA	NA	BCBREAST	tissue	human	missing	BioChain	D4234086_A710031	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-c2b0a17d-3e03-4468-8a4d-20200e240c70	BTO:0000269	BC_Colon_01-11002	NA	NA	BCCOLON	tissue	human	missing	BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 929f35a8-3273-4faf-b970-fc143c816f60	BTO:0000269	BC_Colon_01-11002	NA	NA	BCCOLON	tissue	human	Null	BioChain	CP-S10-R1234090-20_B402074	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 bcf93b7b-cb4b-4d32-b851-9129e3d93f9e	BTO:0000269	BC_Colon_01-11002	NA	NA	BCCOLON	tissue	human	Null	BioChain	CP-S12-D1234090-05_A903056	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-2061970d-e16d-4fe1-a7dc-2426e4ae8cec	BTO:0000269	BC_Colon_H12817N	NA	NA	BCCOLONb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 1b586614-d437-47bd-b176-8b4d414b5452	BTO:0000269	BC_Colon_H12817N	NA	NA	BCCOLONb	tissue	human	Null	BioChain	CP-S10-R1234090-20_B111053	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 14ab19df-211f-499e-b38c-3f51d12603c7	BTO:0000269	BC_Colon_H12817N	NA	NA	BCCOLONb	tissue	human	Null	BioChain	CP-S13-D1234090-05_B111123	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-10bcbae1-cf85-4d26-9796-99d70345f3e5	BTO:0000959	BC_Esophagus_01-11002	NA	NA	BCESOPHAGUS	tissue	human	missing	BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 73fe865b-1eca-4154-bb41-e503a0d0ffd5	BTO:0000959	BC_Esophagus_01-11002	NA	NA	BCESOPHAGUS	tissue	human	Null	BioChain	CP-S10-R1234106-20_B402075	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 b0591dea-17cf-4e93-a04c-7e42a126d63e	BTO:0000959	BC_Esophagus_01-11002	NA	NA	BCESOPHAGUS	tissue	human	Null	BioChain	CP-S12-D1234106-05_A803198	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ed64ae67-5698-4c39-a297-276b6a579436	BTO:0000959	BC_Esophagus_H12817N	NA	NA	BCESOPHAGUSb	tissue	human	missing	BioChain	CP-S13-D1234106-05_B302113	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-2633e8eb-3e99-42d9-b198-a1d14ca69e23	BTO:0000657	BC_Jejunum_H12817N	NA	NA	BCJEJUNUM	tissue	human	missing	BioChain; BioChain	CP-S13-D1234230-05_B402068; CP-S10-R1234230-20_A911037	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 b83600cb-0a90-4688-92d9-830221433eb2	BTO:0000657	BC_Jejunum_H12817N	NA	NA	BCJEJUNUM	tissue	human	Null	BioChain	CP-S10-R1234230-20_A911037	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 9a79c01c-beff-4240-a97b-f1e9d90a3193	BTO:0000657	BC_Jejunum_H12817N	NA	NA	BCJEJUNUM	tissue	human	Null	BioChain	CP-S13-D1234230-05_B402068	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-e77dc358-0c3a-4f7d-a8c3-d5e7bd93c31b	BTO:0000671	BC_Kidney_01-11002	NA	NA	BCKIDNEY	tissue	human	missing	BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 061cb7e6-20ec-4a61-b86a-3e597f55dd60	BTO:0000671	BC_Kidney_01-11002	NA	NA	BCKIDNEY	tissue	human	Null	BioChain	CP-S10-R1234142-20_A808055	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2bad09ca-563c-483e-8b56-053e71d14e34	BTO:0000671	BC_Kidney_01-11002	NA	NA	BCKIDNEY	tissue	human	Null	BioChain	CP-S12-D1234142-05_B402060	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-fcd44fa5-5ad1-4564-b174-ed135d1fe8ea	BTO:0000671	BC_Kidney_H12817N	NA	NA	BCKIDNEYb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2d05e861-56fb-4d4d-819f-be9886e8dd73	BTO:0000671	BC_Kidney_H12817N	NA	NA	BCKIDNEYb	tissue	human	Null	BioChain	CP-S10-R1234142-20_B111054	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 50ca4827-ed29-4ade-b72b-3cdd7c1f78f4	BTO:0000671	BC_Kidney_H12817N	NA	NA	BCKIDNEYb	tissue	human	Null	BioChain	CP-S13-D1234142-05_B402061	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c68e383c-446c-4003-bae9-3f584e41e507	BTO:0001629	BC_Left_Ventricle_N41	NA	NA	BCLEFVENTRI	tissue	human	missing	BioChain	D1234138_A705026	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c726f430-3abe-44b0-9a24-a2dff755f89d	BTO:0001025	BC_Leukocyte_UHN00204	NA	NA	BCLEUKOCYTE	tissue	human	missing	BioChain	D4234148_A612197	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-d5fb9f27-ee56-43fe-9906-30277a43232c	BTO:0000759	BC_Liver_01-11002	NA	NA	BCLIVER	tissue	human	missing	BioChain; BioChain	CP-S12-D1234149-05_B209118; CP-S10-R1234149-20_B304045	missing	missing		missing	Yes	nNo	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 400aa5f8-370f-4f1b-bd4c-c5c75547bf3c	BTO:0000759	BC_Liver_01-11002	NA	NA	BCLIVER	tissue	human	Null	BioChain	CP-S10-R1234149-20_B304045	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 e85f3634-8fac-4efc-bbd1-bca62e1eb02e	BTO:0000759	BC_Liver_01-11002	NA	NA	BCLIVER	tissue	human	Null	BioChain	CP-S12-D1234149-05_B209118	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-15c4be72-6ec8-43ea-8377-44a629eea3a4	BTO:0000763	BC_Lung_01-11002	NA	NA	BCLUNG	tissue	human	missing	BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 26020a94-3884-4d33-95c0-53aad798acb8	BTO:0000763	BC_Lung_01-11002	NA	NA	BCLUNG	tissue	human	Null	BioChain	CP-S10-R1234152-20_A906114	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 8411f965-60e0-478b-85e7-1007671d5924	BTO:0000763	BC_Lung_01-11002	NA	NA	BCLUNG	tissue	human	Null	BioChain	CP-S12-D1234152-05_A610240	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-d9d70118-5d8d-4921-a4c9-66d56ae87139	BTO:0000763	BC_Lung_H12817N	NA	NA	BCLUNGb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 45e7e698-c062-4521-b9c0-8f5a1e868ad7	BTO:0000763	BC_Lung_H12817N	NA	NA	BCLUNGb	tissue	human	Null	BioChain	CP-S10-R1234152-20_B207133	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2d0ad143-6156-418b-a88b-42020d560960	BTO:0000763	BC_Lung_H12817N	NA	NA	BCLUNGb	tissue	human	Null	BioChain	CP-S13-D1234152-05_B402062	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-71b199cf-30ca-42cd-9110-8da4576a1d6c	BTO:0000988	BC_Pancreas_H12817N	NA	NA	BCPANCREAS	tissue	human	missing	BioChain; BioChain	CP-S13-D1234188-05_B402063; CP-S10-R1234188-20_B402076	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 31e6103b-40c5-4f8e-ae80-922f88daef0b	BTO:0000988	BC_Pancreas_H12817N	NA	NA	BCPANCREAS	tissue	human	Null	BioChain	CP-S10-R1234188-20_B402076	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c750110a-a29e-4b6b-adb3-266c46696f2c	BTO:0000988	BC_Pancreas_H12817N	NA	NA	BCPANCREAS	tissue	human	Null	BioChain	CP-S13-D1234188-05_B402063	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 daef69d9-ac80-4bd0-9a61-93d39e314832	BTO:0000405	BC_Penis_H12817N	NA	NA	BCPENIS	tissue	human	missing	BioChain	CP-S13-D1234194-05_B402064	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -62,28 +52,23 @@ daef69d9-ac80-4bd0-9a61-93d39e314832	BTO:0000405	BC_Penis_H12817N	NA	NA	BCPENIS	
 b9a9fef6-5d31-4351-8e81-2d98115f175a	BTO:0001078	BC_Placenta_UHN00189	NA	NA	BCPLACENTA	tissue	human	missing	BioChain	D4234200_A603104	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 24489f0b-6391-48ec-94b0-f7f12bd13433	BTO:0001129	BC_Prostate_Gland_H12817N	NA	NA	BCPROSTATE	tissue	human	missing	BioChain	CP-D1234201-05_B101058	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c17352f7-8f23-424d-95f6-c82ab610d781	BTO:0001158	BC_Rectum_N29	NA	NA	BCRECTUM	tissue	human	missing	BioChain	D4234206_A712205	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-a4e5f626-a051-462d-aae1-d0f0e7532d94	BTO:0001103	BC_Skeletal_Muscle_01-11002	NA	NA	BCSKEL	tissue	human	missing	BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c25e292f-5609-43e0-91e1-bcf0930892b4	BTO:0001103	BC_Skeletal_Muscle_01-11002	NA	NA	BCSKEL	tissue	human	Null	BioChain	CP-S10-R1234171-20_A808148	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 d9d7b21f-a991-471f-bd00-c3e47506c229	BTO:0001103	BC_Skeletal_Muscle_01-11002	NA	NA	BCSKEL	tissue	human	Null	BioChain	CP-S12-D1234171-05_A610262	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-c5b4c6b2-2656-434c-84d7-65693fc880ee	BTO:0001103	BC_Skeletal_Muscle_H12817N	NA	NA	BCSKELb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 7e541313-a8f5-4dd6-85bf-9529c855d561	BTO:0001103	BC_Skeletal_Muscle_H12817N	NA	NA	BCSKELb	tissue	human	Null	BioChain	CP-S10-R1234230-20_A911037	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 5d67f119-11d6-4fc5-b353-004c9fb89535	BTO:0001103	BC_Skeletal_Muscle_H12817N	NA	NA	BCSKELb	tissue	human	Null	BioChain	CP-S13-D1234171-05_B402065	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 767227c3-149b-4bd3-9898-7a8bb0195fdb	BTO:0001253	BC_Skin_01-11002	NA	NA	BCSKIN	tissue	human	missing	BioChain	CP-S12-D1234218-05_B402066	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-0e4f2514-7100-49b6-9a49-d99f9c955e57	BTO:0000651	BC_Small_Intestine_01-11002	NA	NA	BCSMINTESTINE	tissue	human	missing	BioChain; BioChain	CP-S12-D1234226-05_B402067; CP-S10-R1234226-20_A612138	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 5d40b551-1934-4181-b323-1dd6a85c1a65	BTO:0000651	BC_Small_Intestine_01-11002	NA	NA	BCSMINTESTINE	tissue	human	Null	BioChain	CP-S10-R1234226-20_A612138	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 d68d3208-d8f4-44da-9750-918a9fc81590	BTO:0000651	BC_Small_Intestine_01-11002	NA	NA	BCSMINTESTINE	tissue	human	Null	BioChain	CP-S12-D1234226-05_B402067	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-f5fc06ce-10f1-4c4f-89f5-2f946c0a9b33	BTO:0001281	BC_Spleen_H12817N	NA	NA	BCSPLEENb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234246-05_B402069; CP-S10-R1234246-20_B304070	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c9f87a65-64af-45d5-95bf-d369cc65a93a	BTO:0001281	BC_Spleen_H12817N	NA	NA	BCSPLEENb	tissue	human	Null	BioChain	CP-S10-R1234246-20_B304070	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 0b42d2b3-5ca5-47c1-8f62-5e220a959aac	BTO:0001281	BC_Spleen_H12817N	NA	NA	BCSPLEENb	tissue	human	Null	BioChain	CP-S13-D1234246-05_B402069	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 fbcfce59-234d-4ca8-b9f3-4fcf459d7b16	BTO:0001307	BC_Stomach_01-11002	NA	NA	BCSTOMACH	tissue	human	missing	BioChain	CP-S12-D1234248-05_A808008	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-5f91b33f-8762-463b-b94c-2c557d619d1f	BTO:0001307	BC_Stomach_H12817N	NA	NA	BCSTOMACHb	tissue	human	missing	BioChain; BioChain	CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 0da6adbf-d438-4f67-911c-ea50d7e90713	BTO:0001307	BC_Stomach_H12817N	NA	NA	BCSTOMACHb	tissue	human	Null	BioChain	CP-S10-R1234248-20_B402077	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c6c318be-40a4-46b5-9842-6b88ef98bb1f	BTO:0001307	BC_Stomach_H12817N	NA	NA	BCSTOMACHb	tissue	human	Null	BioChain	CP-S13-D1234248-05_B402070	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3c4076f8-9768-40d1-821d-35d4b19a6008	BTO:0001363	BC_Testis_N30	NA	NA	BCTESTIS	tissue	human	missing	BioChain	D4234260_A711169	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 aa00e657-e15e-44df-833c-c94bea6c8dfc	BTO:0001424	BC_Uterus_BN0765	NA	NA	BCUTERUS	tissue	human	missing	BioChain	D4234274_A810099	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ccc9281c-aa9c-4629-87b5-0e98d61446b0	BTO:0001620	BE2_C	NA	NA	BE2C	cell line	human	missing	ATCC	CRL-2268	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-f038683f-3829-4daa-8eba-98152b8f7b4e	BTO:0001086	BG02ES	NA	NA	BG02ES	primary cells	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-f29fda64-ae8e-4252-a4c1-ff986dec56ec	BTO:0001086	BG02ES-EBD	NA	NA	BG02ESEBD	primary cells	human	missing	BresaGen, Inc.	BG02 (hESBGN.02)	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f038683f-3829-4daa-8eba-98152b8f7b4e	BTO:0001086	BG02ES	NA	NA	BG02ES	primary cells	human	missing	BresaGen, Inc.	BG02 (hESBGN.0	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f29fda64-ae8e-4252-a4c1-ff986dec56ec	BTO:0001086	BG02ES-EBD	NA	NA	BG02ESEBD	primary cells	human	missing	BresaGen, Inc.	BG02 (hESBGN.0	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 5ac3e630-86ae-4f70-b4a4-f29dcb260f92	BTO:0001255	BJ	NA	NA	BJ	cell line	human	missing	ATCC	CRL-2522	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 5c24badc-49a8-47d8-9baa-20f4b68d58c4	AMAD:6961	Bladder	NA	NA	BLADDER	tissue	mouse	missing	CSHL lab	Bladder	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 4c54c9c4-378a-41ce-9549-6cc08e890309	AMAD:7058	BMDM	NA	NA	BMDM	primary cells	mouse	missing	Dr. Genhong Cheng Lab at UCLA	BMDM	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -91,7 +76,6 @@ f29fda64-ae8e-4252-a4c1-ff986dec56ec	BTO:0001086	BG02ES-EBD	NA	NA	BG02ESEBD	prim
 6b9a8e74-1d0b-413e-9015-87d519805515	BTO:0000141	bone_marrow_HS27a	NA	NA	HS27A	cell line	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS27a	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 80a47eb4-ab88-4530-8925-43cb641a93f9	BTO:0000141	bone_marrow_HS5	NA	NA	HS5	cell line	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	HS5	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 bd250754-9cde-4c91-9557-828b1ee0c2f0	BTO:0000141	bone_marrow_MSC	NA	NA	MSC	cell line	human	missing	Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	MSC	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-53434f4f-54d3-42b6-a414-2ff4de1739e2	BTO:0000149	Breast_OC	NA	NA	BREASTOC	missing	human	missing	NCTC	11-0068A; 11-0067A	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 074034af-0124-4e9e-b634-887589199510	BTO:0000149	Breast_OC	NA	NA	BREASTOC	tissue	human	Null	NCTC	11-0068A	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2d2de888-ba0b-4696-bcc4-6ec8fe8011e5	BTO:0000149	Breast_OC	NA	NA	BREASTOC	tissue	human	Null	NCTC	11-0067A	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 808e9c96-8382-4056-b35c-95117071e423	AMAD:7125	C2C12	NA	NA	C2C12	cell line	mouse	missing	Dr. Barbara Wold at Caltech	C2C12	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -103,15 +87,12 @@ bdb57225-9f38-4924-90f5-9ba406bfa0be	BTO:0000776	CD20+	NA	NA	CD20	tissue	human	m
 595086fd-3b71-478f-9ada-a38bafa2c86b	BTO:0000725	CD34+_Mobilized	NA	NA	CD34MOBILIZED	tissue	human	missing	Dr. Heimfeld Lab at FHCRC	FHCRC	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3212a944-4370-44fc-9cf1-5fc3eb665a6e	BTO:0000782	CD4+_Naive_Wb11970640	NA	NA	CD4NAIVEWB11970640	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb11970640	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ee742187-b820-4386-b3fb-3280555098da	BTO:0000782	CD4+_Naive_Wb78495824	NA	NA	CD4NAIVEWB78495824	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ab124f72-17f0-4d45-896e-20fe836fb155	AMAD:7012	Cerebellum	NA	NA	CBELLUM	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cerebellum; Cerebellum	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-2911c3e1-e481-4ddd-9d8b-d9e385e3b40e	AMAD:7012	Cerebellum	NA	NA	CBELLUM	tissue	mouse	Null	1)LICR lab	Cerebellum	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-6ec3ba9a-f344-48cc-8d96-704410dc41bc	AMAD:7012	Cerebellum	NA	NA	CBELLUM	tissue	mouse	Null	2)CSHL lab	Cerebellum	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-438d7b19-2736-43ac-aea8-4d5fde161264	BTO:0000232	Cerebellum_OC	NA	NA	CEREBELLUMOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+2911c3e1-e481-4ddd-9d8b-d9e385e3b40e	AMAD:7012	Cerebellum	NA	NA	CBELLUM	tissue	mouse	Null	LICR lab	Cerebellum	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+6ec3ba9a-f344-48cc-8d96-704410dc41bc	AMAD:7012	Cerebellum	NA	NA	CBELLUM	tissue	mouse	Null	CSHL lab	Cerebellum	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 4f5081cd-52dc-4639-a21b-5012616327aa	BTO:0000232	Cerebellum_OC	NA	NA	CEREBELLUMOC	tissue	human	missing	NICHD	1104	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 1f35226a-a160-4419-a4dc-588e10837a99	BTO:0000232	Cerebellum_OC	NA	NA	CEREBELLUMOC	tissue	human	missing	NICHD	602	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 25271843-dcb1-47ec-ab91-7efef96572b1	BTO:0000232	Cerebellum_OC	NA	NA	CEREBELLUMOC	tissue	human	Null	NICHD	1442	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 f7435ec8-33bc-4315-9f46-c89ec2883e21	AMAD:7014	Cerebrum	NA	NA	CEREBRUM	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Cerebrum	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-97e5a706-f040-4f1b-a9d5-6c238b89752a	BTO:0000239	Cerebrum_frontal_OC	NA	NA	CEREBRUMFRONTALOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 b46f4796-a02e-46d3-8d41-6bd56471ef0a	BTO:0000239	Cerebrum_frontal_OC	NA	NA	CEREBRUMFRONTALOC	tissue	human	Null	NICHD	1104	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 f02b3179-5d3e-4d1b-8596-1404952e9889	BTO:0000239	Cerebrum_frontal_OC	NA	NA	CEREBRUMFRONTALOC	tissue	human	Null	NICHD	602	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c7c8b22f-5094-4189-ba89-1dec048636bc	BTO:0000239	Cerebrum_frontal_OC	NA	NA	CEREBRUMFRONTALOC	tissue	human	Null	NICHD	1442	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -121,23 +102,19 @@ cebe9e28-f06d-483e-8c72-cfe99fc2617f	AMAD:7069	CH12	NA	NA	CH12	cell line	mouse	m
 1acde582-0d4d-4339-9a32-317c5f706d8d	BTO:0004962	CMK	NA	NA	CMK	cell line	human	missing	DSMZ	ACC-392	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2af629e2-e3c8-4b59-bc04-521914bed7c1	AMAD:7003	CNS	NA	NA	CNS	tissue	mouse	missing	CSHL lab	CNS	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3023dd24-14d9-4d0c-a56f-9edf3d8f2218	BTO:0000849	Colo829	NA	NA	COLO829	cell line	human	missing	ATCC	CRL-1974	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-e176e326-b408-42c3-bfb8-1b90cba04c2a	AMAD:6984	Colon	NA	NA	COLON	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Colon; Colon	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-63a6f8db-1c75-48d7-a85d-bddb780d122a	AMAD:6984	Colon	NA	NA	COLON	tissue	mouse	Null	1)LICR lab	Colon	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-4499232e-2503-4ced-aa11-f32352a2b143	AMAD:6984	Colon	NA	NA	COLON	tissue	mouse	Null	2)CSHL lab	Colon	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ab666ae8-a5ba-4b79-afec-023e1a2b908e	BTO:0000269	Colon_BC	NA	NA	COLONBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234090-05_A903056; CP-S10-R1234090-20_B402074; CP-S13-D1234090-05_B111123; CP-S10-R1234090-20_B111053	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+63a6f8db-1c75-48d7-a85d-bddb780d122a	AMAD:6984	Colon	NA	NA	COLON	tissue	mouse	Null	LICR lab	Colon	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+4499232e-2503-4ced-aa11-f32352a2b143	AMAD:6984	Colon	NA	NA	COLON	tissue	mouse	Null	CSHL lab	Colon	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 51c6b47e-a42e-4644-a6a2-0c20fef38bf4	BTO:0000269	Colon_BC	NA	NA	COLONBC	tissue	human	Null	BioChain	CP-S10-R1234090-20_B111053	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 7259a44d-8d0f-4336-b97d-537cafae8917	BTO:0000269	Colon_BC	NA	NA	COLONBC	tissue	human	Null	BioChain	CP-S10-R1234090-20_B402074	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2b9f8bcb-68d4-447f-8975-3264baeafeb5	BTO:0000269	Colon_BC	NA	NA	COLONBC	tissue	human	Null	BioChain	CP-S12-D1234090-05_A903056	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c2bda300-55e9-4c64-998f-f4149cea4d63	BTO:0000269	Colon_BC	NA	NA	COLONBC	tissue	human	Null	BioChain	CP-S13-D1234090-05_B111123	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-4e4fcf04-5874-42ce-b2fc-9ff0b19c6efc	BTO:0000269	Colon_OC	NA	NA	COLONOC	tissue	human	missing	NCTC	10-0005A; 10-0170A	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 b54a8610-b128-4cc5-a2c2-f84c7697bc9e	BTO:0000269	Colon_OC	NA	NA	COLONOC	tissue	human	Null	NCTC	10-0005A	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 df8a8a55-bdfb-48d0-8b8f-2800594082e0	BTO:0000269	Colon_OC	NA	NA	COLONOC	tissue	human	Null	NCTC	10-0170A	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 8c304760-0d6c-4add-8a2d-dfdd576debcd	BTO:0000782	Cord_CD4_naive	NA	NA	CORDCD4NAIVE	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_naive	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 49278631-809c-4ed0-b581-8c9c492838f3	BTO:0000782	Cord_CD4_Th0	NA	NA	CORDCD4TH0	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th0	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2a44e38d-253f-4cf3-8833-915048d385b7	BTO:0000782	Cord_CD4_Th1	NA	NA	CORDCD4TH1	tissue	human	missing	Dr. David Randolph at University of Alabama, Birmingham	Cord_CD4_Th1	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ee48b80f-9873-48ba-b029-bc9a995ffdf4	AMAD:4465	Cortex	NA	NA	CORTEX	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Cortex;Cortex	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-b361874c-1409-463a-ac62-373ab329f156	AMAD:4465	Cortex	NA	NA	CORTEX	tissue	mouse	Null	1)LICR lab	Cortex	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-8082f28e-d9ef-4253-a04a-74569e311d79	AMAD:4465	Cortex	NA	NA	CORTEX	tissue	mouse	Null	2)CSHL lab	Cortex	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b361874c-1409-463a-ac62-373ab329f156	AMAD:4465	Cortex	NA	NA	CORTEX	tissue	mouse	Null	LICR lab	Cortex	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8082f28e-d9ef-4253-a04a-74569e311d79	AMAD:4465	Cortex	NA	NA	CORTEX	tissue	mouse	Null	CSHL lab	Cortex	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 98f52636-9a02-446a-8b86-c99a3f45aa50	BTO:0001360	Decidua	NA	NA	DECIDUA	missing	human	missing	Dr. Amy Murtha at Duke University (Durham, NC).	missing	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 0cdc4e1b-bd02-4e48-aa3a-88d9fcdaf6e1	BTO:0001106	Dnd41	NA	NA	DND41	missing	human	missing	DSMZ	Dnd41	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 1a8648a9-d601-4e30-8e4b-6be56799c7ee	AMAD:6977	Duodenum	NA	NA	DUOD	tissue	mouse	missing	CSHL lab	Duodenum	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -161,7 +138,6 @@ a97bffc0-f6f2-4b63-aaaf-0e21398c361d	AMAD:15148	ES-neurons	NA	NA	ESNEURON	primar
 9872af5e-3e6d-49a3-a4e5-10508d38d7df	AMAD:29	ES-TT2	NA	NA	ESTT2	primary cells	mouse	missing	Shinkai lab	ES-TT2	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c77ae912-01bd-4824-bd11-35ef6b9e59a3	AMAD:29	ES-WW6	NA	NA	ESWW6	primary cells	mouse	missing	A. Skoultchi Lab	WW6_F4WT	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 fbd14a6d-67a3-4ffd-b970-2d74ad9cab87	AMAD:29	ES-WW6_F1KO	NA	NA	ESWW6KO	primary cells	mouse	missing	A. Skoultchi Lab	WW6_F1KO	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-2eff6e1f-b5ee-4383-96fa-ca88a713ee7d	BTO:0000959	Esophagus_BC	NA	NA	ESOPHAGUSBC	tissue	human	missing	BioChain; BioChain; BioChain	CP-S12-D1234106-05_A803198; CP-S10-R1234106-20_B402075; CP-S13-D1234106-05_B302113	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2b1c8792-53ae-484f-acb3-45daa06b1094	BTO:0000959	Esophagus_BC	NA	NA	ESOPHAGUSBC	tissue	human	Null	BioChain	CP-S10-R1234106-20_B402075	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 55a91a0f-2f65-4bb4-9270-6aeb169dd9d9	BTO:0000959	Esophagus_BC	NA	NA	ESOPHAGUSBC	tissue	human	Null	BioChain	CP-S12-D1234106-05_A803198	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 0e1fc9ff-7637-4d3c-80b0-f3aef8a309c2	BTO:0000959	Esophagus_BC	NA	NA	ESOPHAGUSBC	tissue	human	Null	BioChain	CP-S13-D1234106-05_B302113	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -175,7 +151,6 @@ e610f4d8-7e03-4123-8ce1-d510e4f47337	BTO:0000452	FibroP_AG08396	NA	NA	FIBROPAG08
 8d1e639f-7595-4401-8e3c-f4120ed04e26	BTO:0000452	FibroP_AG20443	NA	NA	FIBROPAG20443	primary cells	human	missing	Coriell	AG20443	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 d1595904-1045-485d-a67a-cf306b97f678	AMAD:3883	ForelimbBud	NA	NA	FLBUD	tissue	mouse	missing	Selleri lab, Cornell	ForelimbBud	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c9c3abba-8f7d-4767-8a12-2bd2da25177f	AMAD:7003	FrontalLobe	NA	NA	FLOBE	tissue	mouse	missing	CSHL lab	Frontal Lobe	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-c061398b-b623-4683-a0e6-3a19c0286835	BTO:0000484	Frontal_cortex_OC	NA	NA	FRONTALCORTEXOC	tissue	human	missing	Kathleen Price Bryan Brain	673; 913	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 be220444-d163-4773-8f52-ccd422ba6d89	BTO:0000484	Frontal_cortex_OC	NA	NA	FRONTALCORTEXOC	tissue	human	Null	Kathleen Price Bryan Brain	673	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 fde5bb2c-d0d7-4185-910d-50459a2b925d	BTO:0000484	Frontal_cortex_OC	NA	NA	FRONTALCORTEXOC	tissue	human	missing	Kathleen Price Bryan Brain	913	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 7ff970d4-c0c9-4fba-a24a-8bf57f6348af	AMAD:15212	FVLstem	NA	NA	FVLS	primary cells	mouse	missing	Paulson Lab	FVLstem	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -183,9 +158,8 @@ fde5bb2c-d0d7-4185-910d-50459a2b925d	BTO:0000484	Frontal_cortex_OC	NA	NA	FRONTAL
 978ac498-984e-4af2-8262-2f6c57216b70	AMAD:7079	G1E	NA	NA	G1E	primary cells	mouse	missing	Mitch Weiss lab	missing	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 409b3f88-3947-402f-b11a-8888697a9b89	AMAD:7079	G1E-ER4	NA	NA	G1EER4	cell line	mouse	missing	Mitch Weiss lab	missing	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 829c0bb2-7cfb-44c3-a805-93bc14aed958	BTO:0003671	GC_B_cell	NA	NA	GCBCELL	tissue	human	missing	Dr. Yanwen Jiang	GC_B_cell	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-e4911ac9-e64e-463f-b717-5ceaaa19e3ea	AMAD:16230	GenitalFatPad	NA	NA	GFAT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Genital Fat Pad; Gonadal Adipose Tissue	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-5d006f67-ba83-451e-9ea7-987a2efd72b3	AMAD:16230	GenitalFatPad	NA	NA	GFAT	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Genital Fat Pad	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-c06d9adf-a149-4f52-8352-5216778ea3dc	AMAD:16230	GenitalFatPad	NA	NA	GFAT	tissue	mouse	Null	2)CSHL lab	Gonadal Adipose Tissue	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+5d006f67-ba83-451e-9ea7-987a2efd72b3	AMAD:16230	GenitalFatPad	NA	NA	GFAT	tissue	mouse	Null	Dr. John Stamatoyannopoulos at UW	Genital Fat Pad	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c06d9adf-a149-4f52-8352-5216778ea3dc	AMAD:16230	GenitalFatPad	NA	NA	GFAT	tissue	mouse	Null	CSHL lab	Gonadal Adipose Tissue	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 fb6d8f0a-16b9-4796-81ad-77cd5e1f7416	BTO:0000527	Gliobla	NA	NA	GLIOBLA	cell line	human	missing	Dr. Darrell Bigner at Duke University Medical Center	D54	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 136c8692-8e1d-4c67-9ce0-ade17aa5be38	BTO:0001253	GM04503	NA	NA	GM04503	primary cells	human	missing	Coriell	GM04503D	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 39f13c70-c538-46ab-81c6-86774a26d5d9	BTO:0001253	GM04504	NA	NA	GM04504	missing	human	missing	Coriell	GM04504A	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -258,10 +232,8 @@ ec5a0b94-d246-46b6-9e6b-1f89386044fa	BTO:0001539	HCM	NA	NA	HCM	tissue	human	miss
 52a61fe4-aa2f-42a7-bdb3-c92e38e44e9f	BTO:0000258	HCPEpiC	NA	NA	HCPE	tissue	human	missing	ScienCell	1310	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c29000f4-6b17-4643-9617-9191d99c1e0d	BTO:0002254	HCT-116	NA	NA	HCT116	cell line	human	missing	ATCC	CCL-247	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 5ce59b68-5364-4396-a908-d34d482bcbff	AMAD:3341	HeadlessEmbryo	NA	NA	HLEMBRYO	tissue	mouse	missing	Selleri lab, Cornell	HeadlessEmbryo	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-c2ec71aa-05b7-4f02-8f06-0a739dadb191	AMAD:7103	Heart	NA	NA	HEART	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Heart; Heart	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-3c56d1f9-4709-4f1b-aaf1-8dcc509e81cc	AMAD:7103	Heart	NA	NA	HEART	tissue	mouse	Null	1)LICR lab	Heart	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-20198435-31d2-4312-8f06-5b5b8a62f83a	AMAD:7103	Heart	NA	NA	HEART	tissue	mouse	Null	2)CSHL lab	Heart	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-d81aa192-40e1-44c0-a9b5-4b0c1d2f62a5	BTO:0000562	Heart_OC	NA	NA	HEARTOC	tissue	human	missing	NICHD	1104; 602; 1442; 1863; 4548	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3c56d1f9-4709-4f1b-aaf1-8dcc509e81cc	AMAD:7103	Heart	NA	NA	HEART	tissue	mouse	Null	LICR lab	Heart	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+20198435-31d2-4312-8f06-5b5b8a62f83a	AMAD:7103	Heart	NA	NA	HEART	tissue	mouse	Null	CSHL lab	Heart	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 842d8360-0148-43e6-982b-ad7ccb4033ef	BTO:0000562	Heart_OC	NA	NA	HEARTOC	tissue	human	Null	NICHD	1104	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ade1097b-a091-4d84-9785-73b1b867eb08	BTO:0000562	Heart_OC	NA	NA	HEARTOC	tissue	human	missing	NICHD	602	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 660fd37e-51d7-42af-b72c-63841a1115d1	BTO:0000562	Heart_OC	NA	NA	HEARTOC	tissue	human	missing	NICHD	1442	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -359,33 +331,26 @@ dbfa22cb-69bd-43e5-a5f3-78f21a3bc9c3	BTO:0000001	iPS_NIHi7	NA	NA	IPSNIHI7	primar
 f9c7b964-a5fa-4a77-9def-accf68df0fb0	AMAD:174	J185a	NA	NA	J185A	cell line	mouse	missing	Gilbert lab	J185a	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 4a6eed90-6eb8-4b03-9753-e0571b1d7d8f	BTO:0001948	Jurkat	NA	NA	JURKAT	cell line	human	missing	ATCC	TIB-152	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 60dff9b7-875a-47e3-8283-a855ebe1775a	BTO:0000664	K562	K562b	UCSC	K562	cell line	human	missing	ATCC	CCL-243	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-c0e358ee-4fa4-4f2f-b6e4-65bed49d6916	AMAD:6960	Kidney	NA	NA	KIDNEY	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Kidney; Kidney	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-1c85d454-ca38-4a23-b999-4dabe6725696	AMAD:6960	Kidney	NA	NA	KIDNEY	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Kidney	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ebe80c0b-f3ff-477e-a481-6370fe77dddc	AMAD:6960	Kidney	NA	NA	KIDNEY	tissue	mouse	Null	2)CSHL lab	Kidney	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-954f4cfb-d9a6-4f41-b03c-b206b6c71a3f	BTO:0000671	Kidney_BC	NA	NA	KIDNEYBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234142-05_B402060; CP-S10-R1234142-20_A808055; CP-S13-D1234142-05_B402061; CP-S10-R1234142-20_B111054	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1c85d454-ca38-4a23-b999-4dabe6725696	AMAD:6960	Kidney	NA	NA	KIDNEY	tissue	mouse	Null	Dr. John Stamatoyannopoulos at UW	Kidney	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+ebe80c0b-f3ff-477e-a481-6370fe77dddc	AMAD:6960	Kidney	NA	NA	KIDNEY	tissue	mouse	Null	CSHL lab	Kidney	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 adf1b084-14e9-4d19-ab58-d5890a49cd30	BTO:0000671	Kidney_BC	NA	NA	KIDNEYBC	tissue	human	Null	BioChain	CP-S10-R1234142-20_A808055	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 17e430f5-ee88-4682-ae7b-7cd4c79b1100	BTO:0000671	Kidney_BC	NA	NA	KIDNEYBC	tissue	human	Null	BioChain	CP-S10-R1234142-20_B111054	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 65387487-c446-4164-bf72-f010469b7b0f	BTO:0000671	Kidney_BC	NA	NA	KIDNEYBC	tissue	human	Null	BioChain	CP-S12-D1234142-05_B402060	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 fed22518-431d-4a90-b49b-150ced9353d7	BTO:0000671	Kidney_BC	NA	NA	KIDNEYBC	tissue	human	Null	BioChain	CP-S13-D1234142-05_B402061	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-0f824eb6-eaf9-4497-9b7d-416b69147d6a	BTO:0000671	Kidney_OC	NA	NA	KIDNEYOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; NCTC ; NICHD	1104; 602; 1442; 10-0022A; 1863	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 500c1123-43c3-4e72-887c-83e122f52f56	BTO:0000671	Kidney_OC	NA	NA	KIDNEYOC	tissue	human	Null	NCTC	10-0022A	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 59d9b80a-be56-4d7e-8761-3050050c6e87	BTO:0000671	Kidney_OC	NA	NA	KIDNEYOC	tissue	human	Null	NICHD	1104	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 0a871b81-76de-41f3-8b18-1b7f4ea93b4b	BTO:0000671	Kidney_OC	NA	NA	KIDNEYOC	tissue	human	Null	NICHD	1442	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 97fc2dd0-60fa-47f1-8a59-4d952c11d5f5	BTO:0000671	Kidney_OC	NA	NA	KIDNEYOC	tissue	human	Null	NICHD	1863	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ac4434b0-a388-4d2c-b761-ff9d5afd2877	BTO:0000671	Kidney_OC	NA	NA	KIDNEYOC	tissue	human	Null	NICHD	602	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 31aa9a64-b208-4b84-9135-b202f53faeac	AMAD:7077	L1210	NA	NA	L1210	cell line	mouse	missing	ATCC	CCL-219	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-edde0a7f-aa88-4f76-a176-783e09987cd5	AMAD:6982	LgIntestine	NA	NA	LGINT	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Large Intestine; Large Intestine	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-b8704bc0-578e-4c00-b1fd-a0c914cc85dd	AMAD:6982	LgIntestine	NA	NA	LGINT	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Large Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-9a3be661-dd91-477f-83e9-3f82e8c7c04a	AMAD:6982	LgIntestine	NA	NA	LGINT	tissue	mouse	Null	2)CSHL lab	Large Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+b8704bc0-578e-4c00-b1fd-a0c914cc85dd	AMAD:6982	LgIntestine	NA	NA	LGINT	tissue	mouse	Null	Dr. John Stamatoyannopoulos at UW	Large Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9a3be661-dd91-477f-83e9-3f82e8c7c04a	AMAD:6982	LgIntestine	NA	NA	LGINT	tissue	mouse	Null	CSHL lab	Large Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 fff20688-5f9d-47cd-8943-055f03a61c2a	BTO:0005046	LHCN-M2	NA	NA	LHCNM2	cell line	human	missing	Dr. Woodring Wright	Missing	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 e28babe8-1bbc-4592-8488-2d697e98cc6f	BTO:0002398	LHSR	NA	NA	LHSR	cell line	human	missing	William Hahn at the Dana Farber Cancer Institute, Boston, MA	LHSR	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-d11bd20d-9b55-42ff-b3b5-35b014fdcd14	AMAD:7127	Limb	NA	NA	LIMB	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Limb; Limb	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-fbc26ff1-2263-4a49-af5c-37ecdcc00ee4	AMAD:7127	Limb	NA	NA	LIMB	tissue	mouse	Null	1)LICR lab	Limb	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-9f18c3ab-0a9d-42e2-ac02-249d0509d363	AMAD:7127	Limb	NA	NA	LIMB	tissue	mouse	Null	2)CSHL lab	Limb	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-cda9c355-8a9d-47f3-b06b-1516de921c61	AMAD:6963	Liver	NA	NA	LIVER	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Liver; Liver	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-e2986200-dfa1-4341-8675-a3f5311e4bff	AMAD:6963	Liver	NA	NA	LIVER	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Liver	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-3891f387-58b7-46f0-ac90-1a9095fd5603	AMAD:6963	Liver	NA	NA	LIVER	tissue	mouse	Null	2)CSHL lab	Liver	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-2bfd16e6-8478-4545-b980-34bab78b5cfb	BTO:0000759	Liver_OC	NA	NA	LIVEROC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fbc26ff1-2263-4a49-af5c-37ecdcc00ee4	AMAD:7127	Limb	NA	NA	LIMB	tissue	mouse	Null	LICR lab	Limb	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+9f18c3ab-0a9d-42e2-ac02-249d0509d363	AMAD:7127	Limb	NA	NA	LIMB	tissue	mouse	Null	CSHL lab	Limb	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+e2986200-dfa1-4341-8675-a3f5311e4bff	AMAD:6963	Liver	NA	NA	LIVER	tissue	mouse	Null	Dr. John Stamatoyannopoulos at UW	Liver	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+3891f387-58b7-46f0-ac90-1a9095fd5603	AMAD:6963	Liver	NA	NA	LIVER	tissue	mouse	Null	CSHL lab	Liver	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 abea50d8-1c01-4578-9392-e6b8e577c997	BTO:0000759	Liver_OC	NA	NA	LIVEROC	tissue	human	Null	NICHD	1104	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 322ff79c-1736-4f35-83af-2fcebf400bdc	BTO:0000759	Liver_OC	NA	NA	LIVEROC	tissue	human	missing	NICHD	602	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 60963ea8-f57a-442c-bbad-ea6f28b8ed38	BTO:0000759	Liver_OC	NA	NA	LIVEROC	tissue	human	missing	NICHD	1442	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -393,15 +358,12 @@ e4f71c0e-b1f1-4a16-bde9-ba0e4e6ab829	BTO:0000759	Liver_STL004	NA	NA	LIVSTL004	ti
 fe47a188-9992-44ca-bf41-0683b36c3aef	BTO:0000759	Liver_STL011	NA	NA	LIVSTL011	tissue	human	missing	Snyder lab	STL011	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 cf2d428c-ee66-47c2-ad4e-cb4897a5ddcf	BTO:0002021	LNCaP	NA	NA	LNCAP	cell line	human	missing	ATCC	CRL-1740	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 96f50f84-863f-412a-b243-564b11571e1b	BTO:0002104	Loucy	NA	NA	LOUCY	cell line	human	missing	DSMZ	Loucy	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-fc0e6c2f-6ae3-407e-ad68-f2edab5db28f	AMAD:6948	Lung	NA	NA	LUNG	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Lung; Lung	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-0fd6580b-e02a-4103-8d2b-854d5d6f3225	AMAD:6948	Lung	NA	NA	LUNG	tissue	mouse	Null	1)LICR lab	Lung	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-93ad5840-91ab-4922-be31-147aa972dc32	AMAD:6948	Lung	NA	NA	LUNG	tissue	mouse	Null	2)CSHL lab	Lung	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-7da4c64c-7966-4a8e-945a-1ac06a0c90a5	BTO:0000763	Lung_BC	NA	NA	LUNGBC	tissue	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234152-05_A610240; CP-S10-R1234152-20_A906114; CP-S13-D1234152-05_B402062; CP-S10-R1234152-20_B207133	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0fd6580b-e02a-4103-8d2b-854d5d6f3225	AMAD:6948	Lung	NA	NA	LUNG	tissue	mouse	Null	LICR lab	Lung	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+93ad5840-91ab-4922-be31-147aa972dc32	AMAD:6948	Lung	NA	NA	LUNG	tissue	mouse	Null	CSHL lab	Lung	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 949b23d9-7273-4ec1-bbdd-9a64782d9b7d	BTO:0000763	Lung_BC	NA	NA	LUNGBC	tissue	human	Null	BioChain	CP-S10-R1234152-20_A906114	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 996bb077-8469-48e3-a49a-3ca59ef3ee6b	BTO:0000763	Lung_BC	NA	NA	LUNGBC	tissue	human	Null	BioChain	CP-S10-R1234152-20_B207133	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 f661ccad-a322-4310-8e2b-a344b3d5be2a	BTO:0000763	Lung_BC	NA	NA	LUNGBC	tissue	human	Null	BioChain	CP-S12-D1234152-05_A610240	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 74931854-77b7-4123-82c3-a7d48ac0d34a	BTO:0000763	Lung_BC	NA	NA	LUNGBC	tissue	human	Null	BioChain	CP-S13-D1234152-05_B402062	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-f6657e5e-00ac-435f-be21-4fbc3b3ba78c	BTO:0000763	Lung_OC	NA	NA	LUNGOC	tissue	human	missing	NICHD ; NICHD ; NICHD ; CF Center ; CF Center	1104; 602; 1442; DD006I; DD007I	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 8275f096-c441-4428-b6a4-d27f8d1fc150	BTO:0000763	Lung_OC	NA	NA	LUNGOC	tissue	human	Null	CF Center	DD006I	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 a363ab8e-eee0-4a04-9a7c-9bef39fcfa93	BTO:0000763	Lung_OC	NA	NA	LUNGOC	tissue	human	Null	CF Center	DD007I	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3a8efac2-5a36-4de4-9c05-347d2e8610ac	BTO:0000763	Lung_OC	NA	NA	LUNGOC	tissue	human	Null	NICHD	1104	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -455,7 +417,6 @@ cf7edd1b-3e25-4797-9721-631637b1254e	AMAD:7015	OlfactBulb	NA	NA	OLFACT	tissue	mo
 838184e4-8ccc-4546-8fbb-cdd9e55c0795	BTO:0000812	ovcar-3	NA	NA	OVCAR3	cell line	human	missing	ATCC	HTB-161	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 d0239725-f30b-4017-a9e4-52ba88bfd38e	BTO:0000304	PANC-1	NA	NA	PANC1	cell line	human	missing	ATCC	CRL-1469	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c06d88bf-a978-4157-9981-574b7a69480a	AMAD:7015	Pancreas	NA	NA	PANCREAS	tissue	mouse	missing	LICR lab	Pancreas	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-bd7614c3-a955-41c3-bb48-fd569e19e365	BTO:0000988	Pancreas_OC	NA	NA	PANCREASOC	tissue	human	missing	NCTC	09-0144A; 10-0021A	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 8e3e1fe5-f3b7-47a0-8e22-7e6502465723	BTO:0000988	Pancreas_OC	NA	NA	PANCREASOC	tissue	human	Null	NCTC	09-0144A	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 18014495-3e27-4221-a4cf-710e9e7a87f4	BTO:0000988	Pancreas_OC	NA	NA	PANCREASOC	tissue	human	missing	NCTC	10-0021A	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 4642717b-fd2d-41fc-8c58-49c78c9befc3	BTO:0000991	PanIsletD	NA	NA	PANISD	tissue	human	missing	National Disease Research Interchange	PanIsletD	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -467,17 +428,14 @@ c8769527-bd61-4a32-b5a3-0cff4e9041ed	BTO:0000991	PanIslets	NA	NA	PANISLETS	tissu
 4fae76f1-c818-4166-8649-18783f26cd26	BTO:0000690	PFSK-1	NA	NA	PFSK1	cell line	human	missing	ATCC	CRL-2060	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 1bbe7ebf-accf-44e9-910f-ea66f00f9943	BTO:0001120	pHTE	NA	NA	PHTE	primary cells	human	missing	Dr. Cal Cotton at Case Western Reserve University	missing	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3a711049-4321-469e-93cc-cf07d4032854	AMAD:6957	Placenta	NA	NA	PLAC	tissue	mouse	missing	LICR lab	Placenta	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-182deb5e-f3a2-42c5-bd82-3fe5531bebbd	BTO:0001101	Pons_OC	NA	NA	PONSOC	tissue	human	missing	NICHD	1104; 602; 1442	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c372289c-7b11-4a78-9892-f792ff7a864b	BTO:0001101	Pons_OC	NA	NA	PONSOC	tissue	human	Null	NICHD	1104	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 94c07007-b44b-431e-8e4b-5d36881e72e2	BTO:0001101	Pons_OC	NA	NA	PONSOC	tissue	human	missing	NICHD	602	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 4b2c51fa-80d6-4350-922f-266128119a9a	BTO:0001101	Pons_OC	NA	NA	PONSOC	tissue	human	missing	NICHD	1442	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 38ac8797-e4e5-4ddf-a918-4809d073a882	BTO:0002398	PrEC	NA	NA	PREC	primary cells	human	missing	Lonza	CC-2555	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 243aeb1c-27e6-4694-a5ab-fa641e5fc5c3	BTO:0001255	ProgFib	NA	NA	PROGFIB	missing	human	missing	Progeria Research Foundation	HGADFN167	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 6552bba7-f6c6-4e81-b0d8-4837a8c59c29	BTO:0001129	prostate	NA	NA	PROSTATE	tissue	human	missing	ATCC	Missing	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-84de9389-b3ec-4579-b50b-4f6ef5540f16	BTO:0001129	Prostate_OC	NA	NA	PROSTATEOC	tissue	human	missing	NICHD	1669; 1540	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 97ac7afe-0d13-4d0f-87e8-e1ba23717025	BTO:0001129	Prostate_OC	NA	NA	PROSTATEOC	tissue	human	Null	NICHD	1669	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 865bae79-6e28-43f2-95e9-6e60e16bd003	BTO:0001129	Prostate_OC	NA	NA	PROSTATEOC	tissue	human	missing	NICHD	1540	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-bcb4add7-2d6b-4866-a6c6-f436ba7bccd0	BTO:0001140	Psoas_muscle_OC	NA	NA	PSOASMUSCLEOC	tissue	human	missing	NICHD	1104; 602; 1442; 1540; 1863	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 343337ae-3db6-4804-ad4b-93aaebc42843	BTO:0001140	Psoas_muscle_OC	NA	NA	PSOASMUSCLEOC	tissue	human	Null	NICHD	1104	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ec9c5a40-23cf-4b78-862b-1fdd5b024272	BTO:0001140	Psoas_muscle_OC	NA	NA	PSOASMUSCLEOC	tissue	human	missing	NICHD	602	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 15dc590b-7547-4b97-99a8-263fb4bddc62	BTO:0001140	Psoas_muscle_OC	NA	NA	PSOASMUSCLEOC	tissue	human	missing	NICHD	1442	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -494,7 +452,6 @@ f07021fd-359e-4345-9b33-1c24bec6ecfe	BTO:0002022	SAEC	NA	NA	SAEC	primary cells	h
 a230e964-df99-4013-a591-aa68ecc13845	BTO:0002372	SK-N-MC	NA	NA	SKNMC	cell line	human	missing	ATCC	HTB-10	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 a3843524-77bf-4e55-b674-8dbf1a637288	BTO:0001620	SK-N-SH	NA	NA	SKNSH	cell line	human	missing	ATCC	HTB-11	59257297	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 756676fe-b569-4e7a-a59f-6fff02269c16	BTO:0002372	SK-N-SH_RA	NA	NA	SKNSHRA	cell line	human	missing	ATCC	HTB-11	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-5830f76e-b831-4fe4-989c-f0d0027c8a3d	BTO:0001103	Skeletal_Muscle_BC	NA	NA	SKELBC	missing	human	missing	BioChain; BioChain; BioChain; BioChain	CP-S12-D1234171-05_A610262; CP-S10-R1234171-20_A808148; CP-S13-D1234171-05_B402065; CP-S10-R1234230-20_A911037	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 24089353-327c-4e24-8b5e-c072f8bc4991	BTO:0001103	Skeletal_Muscle_BC	NA	NA	SKELBC	tissue	human	Null	BioChain	CP-S10-R1234171-20_A808148	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 1c4c8d65-513f-4587-bd15-c1082f24b33d	BTO:0001103	Skeletal_Muscle_BC	NA	NA	SKELBC	tissue	human	Null	BioChain	CP-S10-R1234230-20_A911037	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 6bde235d-5de1-42c8-9d10-8dc176a2dd9b	BTO:0001103	Skeletal_Muscle_BC	NA	NA	SKELBC	tissue	human	Null	BioChain	CP-S12-D1234171-05_A610262	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -504,25 +461,19 @@ dd2d1de0-9a11-48b9-906b-ae905f64a48e	BTO:0001103	Skeletal_Muscle_BC	NA	NA	SKELBC
 6ace54eb-8bc3-4345-a968-a97e7cd00a5e	BTO:0002916	SkMC_8121902.17	NA	NA	SKMC812190217	primary cells	human	missing	PromoCell	C-14060	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 f952b984-0d27-49e5-b991-7e5e6d5049fb	BTO:0002916	SkMC_9011302	NA	NA	SKMC9011302	primary cells	human	missing	PromoCell	C-14060	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 68f261c8-cf01-482b-8875-a01d413777f4	AMAD:7125	SkMuscle	NA	NA	SKMUSCLE	tissue	mouse	missing	Dr. John Stamatoyannopoulos at UW	Skeletal Muscle	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-b0a14b6a-6c29-49cb-9344-031f859576fc	BTO:0000651	Small_intestine_OC	NA	NA	SMALLINTESTINEOC	tissue	human	missing	NCTC	10-0063A; 09-0143A	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 b21b3442-73b7-4574-b9be-ac8c2c733bd0	BTO:0000651	Small_intestine_OC	NA	NA	SMALLINTESTINEOC	tissue	human	Null	NCTC	10-0063A	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 37d7c4c0-4444-4cca-86cd-2501727b6f1d	BTO:0000651	Small_intestine_OC	NA	NA	SMALLINTESTINEOC	tissue	human	missing	NCTC	09-0143A	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ba1717eb-6d45-48d5-b674-e76d33dd329b	AMAD:6978	SmIntestine	NA	NA	SMINT	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Small Intestine; Small Intestine	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-612187c3-f2f8-413c-8e4d-a3711aa951cf	AMAD:6978	SmIntestine	NA	NA	SMINT	tissue	mouse	Null	1)LICR lab	Small Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-472f2fd2-bcaa-4af9-b7c9-bf8411b9c773	AMAD:6978	SmIntestine	NA	NA	SMINT	tissue	mouse	Null	2)CSHL lab	Small Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+612187c3-f2f8-413c-8e4d-a3711aa951cf	AMAD:6978	SmIntestine	NA	NA	SMINT	tissue	mouse	Null	LICR lab	Small Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+472f2fd2-bcaa-4af9-b7c9-bf8411b9c773	AMAD:6978	SmIntestine	NA	NA	SMINT	tissue	mouse	Null	CSHL lab	Small Intestine	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 a6e7a72c-de73-4d46-bbcf-48943bb16621	AMAD:4521	SpinalCord	NA	NA	SPC	tissue	mouse	missing	LICR lab	Spinal Cord	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-02e07af4-8fcf-4a10-a805-450a01db0949	AMAD:7038	Spleen	NA	NA	SPL	tissue	mouse	missing	1) LICR lab; 2)Dr. John Stamatoyannopoulos at UW; 3)CSHL lab	Spleen; Spleen; Spleen	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-1dfee8d2-075d-44ea-b910-556157083433	AMAD:7038	Spleen	NA	NA	SPL	tissue	mouse	Null	1) LICR lab	Spleen	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-bd8e6d01-e3ae-4a87-ab4e-e073a8a4b171	AMAD:7038	Spleen	NA	NA	SPL	tissue	mouse	Null	2)Dr. John Stamatoyannopoulos at UW	Spleen	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-834cc938-cf13-45a9-ba3c-268ec75aa106	AMAD:7038	Spleen	NA	NA	SPL	tissue	mouse	Null	3)CSHL lab	Spleen	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-0c0f57cf-20ba-4900-80ca-bc6fa5b306be	BTO:0001281	Spleen_OC	NA	NA	SPLEENOC	tissue	human	missing	NICHD	1863; 4548	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+1dfee8d2-075d-44ea-b910-556157083433	AMAD:7038	Spleen	NA	NA	SPL	tissue	mouse	Null	LICR lab	Spleen	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+bd8e6d01-e3ae-4a87-ab4e-e073a8a4b171	AMAD:7038	Spleen	NA	NA	SPL	tissue	mouse	Null	Dr. John Stamatoyannopoulos at UW	Spleen	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+834cc938-cf13-45a9-ba3c-268ec75aa106	AMAD:7038	Spleen	NA	NA	SPL	tissue	mouse	Null	CSHL lab	Spleen	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 1839797e-0054-438d-b61b-f5449ee7ec2a	BTO:0001281	Spleen_OC	NA	NA	SPLEENOC	tissue	human	Null	NICHD	1863	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 642dc296-9139-4515-b1ce-1e9598305ef2	BTO:0001281	Spleen_OC	NA	NA	SPLEENOC	tissue	human	missing	NICHD	4548	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 a6b3ab35-c675-4322-8de4-c5267da8141f	BTO:0002316	Stellate	NA	NA	STELLATE	tissue	human	missing	Dr. Steve Choi at Duke University	Stellate	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-7a62f7b5-c30c-454c-8b6b-d690e9484504	AMAD:6966	Stomach	NA	NA	STOM	tissue	mouse	missing	1) CSHL lab; 2) LICR lab	Stomach; Stomach	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-0bceed4c-3344-4fa1-a91c-1a8bfb91d859	AMAD:6966	Stomach	NA	NA	STOM	tissue	mouse	Null	1) CSHL lab	Stomach	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-fc564ffe-4033-40d2-b090-d171d1ca7669	AMAD:6966	Stomach	NA	NA	STOM	tissue	mouse	Null	2) LICR lab	Stomach	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-46caae64-c671-4bd7-a10c-38adcac017d5	BTO:0001307	Stomach_BC	NA	NA	STOMACHBC	tissue	human	missing	BioChain; BioChain; BioChain	CP-S12-D1234248-05_A808008; CP-S13-D1234248-05_B402070; CP-S10-R1234248-20_B402077	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+0bceed4c-3344-4fa1-a91c-1a8bfb91d859	AMAD:6966	Stomach	NA	NA	STOM	tissue	mouse	Null	CSHL lab	Stomach	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+fc564ffe-4033-40d2-b090-d171d1ca7669	AMAD:6966	Stomach	NA	NA	STOM	tissue	mouse	Null	 LICR lab	Stomach	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3efbc63c-df4e-42bf-8b44-3dd6e7b7dbb5	BTO:0001307	Stomach_BC	NA	NA	STOMACHBC	tissue	human	Null	BioChain	CP-S10-R1234248-20_B402077	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 89b25536-db54-4ebf-bc77-e98295559d66	BTO:0001307	Stomach_BC	NA	NA	STOMACHBC	tissue	human	Null	BioChain	CP-S12-D1234248-05_A808008	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 b503d262-3867-4a0a-b288-963f62fc3757	BTO:0001307	Stomach_BC	NA	NA	STOMACHBC	tissue	human	Null	BioChain	CP-S13-D1234248-05_B402070	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -531,9 +482,8 @@ ddd588d6-bc63-4779-b0f1-5ca0a7d9e66e	BTO:0001248	T-47D	NA	NA	T47D	cell line	huma
 c4b1de9b-847c-4089-9ed0-5165e5fa9726	AMAD:7060	T-Naive	NA	NA	TNAIVE	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	T-Naive	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 c6c585b7-a0e4-46c9-83a5-5f1dccb1ba6f	BTO:0001583	T98G	NA	NA	T98G	cell line	human	missing	ATCC	CRL-1690	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 0d3a3fd1-e9b0-48d1-a9c4-d8b759ba4e22	BTO:0001389	TBEC	NA	NA	TBEC	primary cells	human	missing	National Disease Research Interchange	DD009C	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-ef93e0af-fc76-444f-8f03-e8948b4a0aab	AMAD:9201	Testis	NA	NA	TESTIS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Testis; Testis	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-691476eb-b1cd-4eaa-9001-ed99212cd9dc	AMAD:9201	Testis	NA	NA	TESTIS	tissue	mouse	Null	1)LICR lab	Testis	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-8d392a01-b960-4426-82ab-84272261b4d5	AMAD:9201	Testis	NA	NA	TESTIS	tissue	mouse	Null	2)CSHL lab	Testis	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+691476eb-b1cd-4eaa-9001-ed99212cd9dc	AMAD:9201	Testis	NA	NA	TESTIS	tissue	mouse	Null	LICR lab	Testis	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+8d392a01-b960-4426-82ab-84272261b4d5	AMAD:9201	Testis	NA	NA	TESTIS	tissue	mouse	Null	CSHL lab	Testis	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 57482f17-0ba7-4fe3-82fd-85cb90175170	BTO:0001678	Th1	NA	NA	TH1	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	None (primary pheresis of single normal subject)	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3d58bcef-78f6-456e-af4f-630ed8aed95d	BTO:0002417	Th17	NA	NA	TH17	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Th17	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 45a3037f-5f8c-4c27-b2d5-da5108592777	BTO:0001678	Th1_Wb33676984	NA	NA	TH1WB33676984	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb33676984	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -542,9 +492,8 @@ d3b8926b-11fc-4a24-aa63-4e6e31fdcdb3	BTO:0001678	Th1_Wb54553204	NA	NA	TH1WB54553
 8c925a10-d5f6-4b51-a5d1-c508f0d70072	BTO:0001679	Th2_Wb33676984	NA	NA	TH2WB33676984	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb33676984	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 3e601084-a758-42db-bdf1-068132dd4f01	BTO:0001679	Th2_Wb54553204	NA	NA	TH2WB54553204	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb54553204	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ac11abb8-c9b1-4b98-955c-7dc305999368	AMAD:7060	THelper-Activated	NA	NA	THELPA	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	THelper-Activated	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-de7e045c-4519-4204-aeff-0a18920458f5	AMAD:7037	Thymus	NA	NA	THYMUS	tissue	mouse	missing	1)LICR lab; 2)CSHL lab	Thymus; Thymus	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-f1603bb2-dada-4dc5-a077-fa8e2f91f529	AMAD:7037	Thymus	NA	NA	THYMUS	tissue	mouse	Null	1)LICR lab	Thymus	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-c60ca6ba-917e-44c6-8f02-878bbe4c201d	AMAD:7037	Thymus	NA	NA	THYMUS	tissue	mouse	Null	2)CSHL lab	Thymus	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+f1603bb2-dada-4dc5-a077-fa8e2f91f529	AMAD:7037	Thymus	NA	NA	THYMUS	tissue	mouse	Null	LICR lab	Thymus	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+c60ca6ba-917e-44c6-8f02-878bbe4c201d	AMAD:7037	Thymus	NA	NA	THYMUS	tissue	mouse	Null	CSHL lab	Thymus	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 93c042f2-b6dd-482e-b09b-31c969bc41e0	AMAD:7060	TReg	NA	NA	TREG	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 7456122d-1933-4b89-b001-348d830a54fe	AMAD:7060	TReg-Activated	NA	NA	TREGA	primary cells	mouse	missing	Dr. John Stamatoyannopoulos at UW	TReg-Activated	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 33f78de2-c31b-4ec7-9412-a8f967cd320f	BTO:0004520	Treg_Wb78495824	NA	NA	TREGWB78495824	tissue	human	missing	Dr. John Stamatoyannopoulos at UW	Wb78495824	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
@@ -556,8 +505,7 @@ a8de116e-f1ba-4ee2-8ca3-d0d81b284b70	BTO:0001768	UCH-1	NA	NA	UCH1	cell line	huma
 ad32b408-373b-43d2-bca6-517dbbc35d07	AMAD:11033	UpperLegMuscle	NA	NA	ULMUS	tissue	mouse	missing	LICR lab	Thigh Muscle	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 9d26d455-d99f-458d-8ec1-3a0743c1f938	BTO:0001245	Urothelia	NA	NA	UROTHEL	cell line	human	missing	Dr. D Sens at University of N. Dakota	Urothelia	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 89bad03c-030f-4c43-bd47-046727540182	BTO:0001178	WERI-Rb-1	NA	NA	WERIRB1	cell line	human	missing	ATCC	HTB-169	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-f5162d13-f196-487b-94c0-b5986daa0913	AMAD:7005	WholeBrain	NA	NA	WBRAIN	tissue	mouse	missing	1)Dr. John Stamatoyannopoulos at UW; 2)CSHL lab	Whole Brain; Whole Brain	missing	missing		ENCODE 2	Yes	No	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-d4510c6d-b3bd-4225-938a-88a5c29bdb70	AMAD:7005	WholeBrain	NA	NA	WBRAIN	tissue	mouse	Null	1)Dr. John Stamatoyannopoulos at UW	Whole Brain	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
-86904bfd-748e-43aa-82c8-7c4b46edf253	AMAD:7005	WholeBrain	NA	NA	WBRAIN	tissue	mouse	Null	2)CSHL lab	Whole Brain	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+d4510c6d-b3bd-4225-938a-88a5c29bdb70	AMAD:7005	WholeBrain	NA	NA	WBRAIN	tissue	mouse	Null	Dr. John Stamatoyannopoulos at UW	Whole Brain	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
+86904bfd-748e-43aa-82c8-7c4b46edf253	AMAD:7005	WholeBrain	NA	NA	WBRAIN	tissue	mouse	Null	CSHL lab	Whole Brain	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ccc4d097-6cbe-4894-a3b5-4d2dd635e580	BTO:0001958	WI-38	NA	NA	WI38	cell line	human	missing	Dr. Carl Mann, SBIGeM	WI-38	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 62520a64-8efb-4abf-b8b1-33aa7aea0783	AMAD:29	ZhBTc4	NA	NA	ZHBTC4	primary cells	mouse	missing	Dr. Levasseur at University of Iowa	ZhBTc4	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
