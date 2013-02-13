@@ -28,7 +28,7 @@ acdfa6d7-5c39-458b-95ab-6eba3b62ef9e	AMAD:29 ES-CJ7	NA	NA	ESCJ7	primary cells	mo
 660f6f11-b18f-4e50-b377-a76270e255cc	BTO:0002062	GM06990 NA	NA	GM06990	cell line	human	missing	Coriell GM06990	missing	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff Long
 c74fb399-fc35-423f-a4f1-7a678f2f69f6	BTO:0000249	HCH_0011308.2P	NA	NA	HCH00113082P	primary cells	human	missing	PromoCell	C-14070	missing	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff Long
 6651db42-cdd3-46ff-af7c-976588010c90	BTO:0000249	HCH_8100808.2	NA	NA	HCH81008082	primary cells	human	missing	PromoCell	C-14070	missing	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff Long
-1b854140-d271-4bd0-aa0a-a8bb0dcc23af	BTO:0000256	HSMM	NA	NA	HSMM	primary cells	human	missing	Refer to the protocol documents for differing sources	CC-2580	missing	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff Long
+1b854140-d271-4bd0-aa0a-a8bb0dcc23af	BTO:0000256	HSMM	NA	NA	HSMM	primary cells	human	missing	Lonza	CC-2580	missing	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff Long
 a80c779e-66f5-4d4b-96ac-c97e75e9c427	BTO:0001760	HSMMtube	NA	NA	HSMMt	cell line	human	missing	Lonza	See HSMM	missing	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff Long
 615fa486-cc61-418a-9479-60e903839a5a	BTO:0000099	NH-A	Astrocy NA	NHA	primary cells	human	missing	Lonza	CC-2565	missing	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff 
 a3843524-77bf-4e55-b674-8dbf1a637288	BTO:0001620	SK-N-SH NA	NA	SKNSH	cell line	human	missing	American Type Culture Collection (ATCC) HTB-11	59257297	missing	ENCODE 2	No	Yes	Wed Feb 6 14:19:23 PST 2013	Jeff Long
