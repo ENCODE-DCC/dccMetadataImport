@@ -42,21 +42,21 @@ Dr. Barbara Wold at Caltech	http://woldlab.caltech.edu/
 Dr. Beverly Torok-Storb at Fred Hutchison Cancer Research Center	http://myprofile.cos.com/torokstorb
 Dr. Bing Ren at Ludwig Institute for Cancer Research	http://bioinformatics-renlab.ucsd.edu/rentrac/
 Dr. Cal Cotton at Case Western Reserve University	https://www.case.edu/cgi-bin/directory/pb_lookup.cgi?search_text=calvin+cotton&submit.x=0&submit.y=0&submit=Search&search_method=regular&page_num=1
-Dr. Carl Mann at Service de biologie intégrative et génétique moléculaire GeM)	http://www-dsv.cea.fr/dsv/instituts/institut-de-biologie-et-de-technologies-de-saclay-ibitec-s/unites/service-de-biologie-integrative-et-genetique-moleculaire-sbigem/laboratoire-stress-oxydants-et-cancer-lsoc/equipe-mecanismes-de-stabilite-genomique-c.-mann
+Dr. Carl Mann at Service de biologie intégrative et génétique moléculaire (SBIGeM)	http://www-dsv.cea.fr/dsv/instituts/institut-de-biologie-et-de-technologies-de-saclay-ibitec-s/unites/service-de-biologie-integrative-et-genetique-moleculaire-sbigem/laboratoire-stress-oxydants-et-cancer-lsoc/equipe-mecanismes-de-stabilite-genomique-c.-mann
 Dr. Charles Graham at Queen's University	http://anatomy.queensu.ca/faculty/graham.cfm
 Dr. Christine Disteche at University of Washington	http://depts.washington.edu/chdd/iddrc/res_aff/disteche.html
 Dr. Darrell Bigner at Duke University Medical Center	http://www.cancer.duke.edu/btc/modules/facultystaff1/index.php?id=85
 Dr. David Bodine at National Human Genome Research Institute (NHGRI)	http://www.genome.gov/10000336
 Dr. David Gilbert at Florida State University	http://gilbertlab.bio.fsu.edu/
-Dr. David Randolph at University of Alabama	http://138.26.61.118/depts/MEB/SOMResearchFaculty/currentfacultydata.asp?ID=DRDRDR
+.r. David Randolph at University of Alabama	http://138.26.61.118/depts/MEB/SOMResearchFaculty/currentfacultydata.asp?ID=DRDRDR
 Dr. Emery Bresnick at University of Wisconsin	http://molpharm.wisc.edu/people/faculty/bresnick/bresnick.html
 Dr. Eric Bouhassira at Albert Einstein College of Medicine	http://www.einstein.yu.edu/departments/cell-biology/faculty/eric-bouhassira/research.aspx
 Dr. Genhong Cheng at University of California, Los Angeles	http://www.mimg.ucla.edu/faculty/cheng/genhong.html
 Dr. Greg Crawford at Duke University	http://www.genome.duke.edu/directory/faculty/crawford/
 Dr. Huntington Willard at Duke University	http://www.genome.duke.edu/people/faculty/willard/
-Dr. Jennifer Brown at Harvard Medical School.	http://www.dfhcc.harvard.edu/membership/profile/member/669/0/
+Dr. Jennifer Brown at Harvard Medical School	http://www.dfhcc.harvard.edu/membership/profile/member/669/0/
 Dr. Jennifer Condon at Magee Women's Research Institute	http://www.mwrif.org/188/condon-jeyasuria-lab
-Dr. Jerrold Olefsky Lab at University of California, San Diego	http://endocrinology.ucsd.edu/Faculty/olefsky.html
+Dr. Jerrold Olefsky at University of California, San Diego	http://endocrinology.ucsd.edu/Faculty/olefsky.html
 Dr. John Stamatoyannopoulos at University of Washington	http://www.gs.washington.edu/faculty/stamj.htm
 Dr. Dana Levasseur at University of Iowa	http://molcellbio.grad.uiowa.edu/faculty/dana-levasseur
 Dr. Licia Selleri at Cornell	http://weill.cornell.edu/research/researcher/lselleri/
@@ -75,9 +75,10 @@ Dr. Shelly Heimfeld at Fred Hutchinson Cancer Research Center	http://labs.fhcrc.
 Dr. Sherman Morton Weissman at Yale	http://bbs.yale.edu/people/sherman_weissman.profile
 Dr. Steve Choi at Duke University	http://www.dukehealth.org/physicians/steve_s_choi
 Dr. Steven Young at University of North Carolina	http://findadoc.unchealthcare.org/directory/profile.asp?dbase=main&setsize=10&last=young&pict_id=0002115
+Dr. Thomas Gingeras at Cold Spring Harbor Laboratory (CSHL)	http://gingeraslab.cshl.edu/
 Dr. Kevin Struhl at Harvard	https://struhl.med.harvard.edu/
 Dr. Woodring Wright at University of Texas, Southwestern	http://www.utsouthwestern.edu/findfac/professional/0,,18156,00.html
-Dr. Yanwen Jiang at Cornell	http://melnicklaboratory.med.cornell.edu/people/yanwenjiang.php
+Dr. Yanwen Jiang at Cornell University	http://melnicklaboratory.med.cornell.edu/people/yanwenjiang.php
 Dr. Yardena Samuels at National Human Genome Research Institute (NHGRI)	http://www.genome.gov/19519015
 Dr. Yoichi Shinkai at Riken	http://www.riken.go.jp/engn/r-world/research/lab/asi/cml/index.html
 Harvard Stem Cell Institute (HSCI) iPS Cell Core Facility	http://www.hsci.harvard.edu/ipscore/node/3
@@ -87,6 +88,7 @@ Lonza	http://www.lonza.com/
 National Cell Culture Center	http://www.nccc.com/
 National Disease Research Interchange (NDRI)	http://www.ndriresource.org/
 National Institute of Child Health and Human Development Brain and Tissue Bank (NICHD BTB)	http://medschool.umaryland.edu/btbank/tissue_requests.asp
+Dr. Josh Chenoweth at National Institute of Neurological Disorders and Stroke (NINDS)	http://www.ninds.nih.gov/
 National Institute of Neurological Disorders and Stroke (NINDS)	http://www.ninds.nih.gov/
 North Carolina Tissue Consortium (NCTC)	http://www.ecu.edu/cs-dhs/med/NcTissueConsortium.cfm
 Progeria Research Foundation	http://www.progeriaresearch.org/
