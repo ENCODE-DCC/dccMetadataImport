@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="3" size="14" family="Times" color="#000000"/>
+	<fontspec id="4" size="16" family="Times" color="#000000"/>
+<text top="208" left="392" width="126" height="20" font="3">Lane%1%Input%lysate%</text>
+<text top="227" left="392" width="4" height="20" font="3">%</text>
+<text top="246" left="392" width="201" height="20" font="3">Lane%2%Bound%material%from%IP%</text>
+<text top="265" left="392" width="4" height="20" font="3">%</text>
+<text top="284" left="392" width="241" height="20" font="3">Lane%3%Bound%material%from%IP%%%%%%%%%%%%</text>
+<text top="304" left="392" width="145" height="20" font="3">using%non9speciﬁc%IgG%</text>
+<text top="379" left="180" width="186" height="22" font="4">%%%%%%%1%%%%%%%%%%2%%%%%%%%%%%3%%%%%%%%%%%</text>
+<text top="408" left="117" width="481" height="22" font="4">Western%Blot%analysis%of%immunoprecipitated%proteins%from%K562%</text>
+<text top="429" left="117" width="462" height="22" font="4">nuclear%extracts%detected%using%anB%PolIIS2%anBbody%(ab5095).%</text>
+<text top="451" left="117" width="229" height="22" font="4">Expected%protein%band%240%kD.%</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="5" size="18" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+<text top="54" left="38" width="485" height="24" font="5">Immunoprecipita-on.assay.(IP).+..mass.spectrometry.assay.</text>
+<text top="106" left="161" width="180" height="20" font="3">polIIS2<b>!</b>(ab5095).(R).240.kD.</text>
+<text top="108" left="116" width="32" height="20" font="3">MW.</text>
+<text top="172" left="117" width="28" height="20" font="3">250.</text>
+<text top="199" left="117" width="28" height="20" font="3">150.</text>
+<text top="220" left="117" width="28" height="20" font="3">100.</text>
+<text top="239" left="125" width="20" height="20" font="3">75.</text>
+<text top="265" left="116" width="31" height="20" font="3">...50.</text>
+<text top="289" left="126" width="20" height="20" font="3">37.</text>
+<text top="314" left="126" width="20" height="20" font="3">25.</text>
+<text top="352" left="125" width="20" height="20" font="3">10.</text>
+<text top="383" left="134" width="34" height="20" font="3">Lane.</text>
+<text top="384" left="211" width="115" height="20" font="3">1...........2.............3.</text>
+<text top="286" left="421" width="126" height="20" font="3">Lane.1.Input.lysate.</text>
+<text top="305" left="421" width="4" height="20" font="3">.</text>
+<text top="324" left="421" width="201" height="20" font="3">Lane.2.Bound.material.from.IP.</text>
+<text top="343" left="421" width="4" height="20" font="3">.</text>
+<text top="362" left="421" width="241" height="20" font="3">Lane.3.Bound.material.from.IP............</text>
+<text top="382" left="421" width="145" height="20" font="3">using.nonJspeciﬁc.IgG.</text>
+<text top="175" left="364" width="50" height="20" font="3">Band.A.</text>
+<text top="201" left="365" width="49" height="20" font="3">Band.B.</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="10" family="Times" color="#000000"/>
+<text top="74" left="37" width="40" height="15" font="7"><b>Spectra!</b></text>
+<text top="74" left="126" width="85" height="15" font="7"><b>Name!of!Protein!</b></text>
+<text top="74" left="466" width="91" height="15" font="7"><b>Count!of!Pep2des!</b></text>
+<text top="59" left="588" width="91" height="15" font="7"><b>Ra2o!(polIIS2/IgG!</b></text>
+<text top="73" left="611" width="43" height="15" font="7"><b>Control)!</b></text>
+<text top="99" left="37" width="250" height="15" font="8">polIIS2_Band.A. DNAJdirected.RNA.polymerase.II.</text>
+<text top="99" left="509" width="15" height="15" font="8">98.</text>
+<text top="99" left="566" width="100" height="15" font="8">NOT.IN.CONTROL.IP.</text>
+<text top="125" left="37" width="275" height="15" font="8">polIIS2_Band.A. Isoform.1.of.Nucleolar.RNA.helicase.2.</text>
+<text top="125" left="509" width="15" height="15" font="8">10.</text>
+<text top="125" left="566" width="67" height="15" font="8">0.666666667.</text>
+<text top="150" left="37" width="242" height="15" font="8">polIIS2_Band.A. Stromal.interac-on.molecule.1.</text>
+<text top="150" left="509" width="15" height="15" font="8">10.</text>
+<text top="150" left="566" width="100" height="15" font="8">NOT.IN.CONTROL.IP.</text>
+<text top="176" left="37" width="246" height="15" font="8">polIIS2_Band.A. Heat.shock.protein.HSP.90Jbeta.</text>
+<text top="176" left="512" width="9" height="15" font="8">5.</text>
+<text top="176" left="566" width="67" height="15" font="8">0.454545455.</text>
+<text top="202" left="37" width="292" height="15" font="8">polIIS2_Band.A. Puta-ve.uncharacterized.protein.RECQL5.</text>
+<text top="202" left="512" width="9" height="15" font="8">4.</text>
+<text top="202" left="566" width="100" height="15" font="8">NOT.IN.CONTROL.IP.</text>
+<text top="227" left="37" width="191" height="15" font="8">polIIS2_Band.A. Tubulin.betaJ1.chain.</text>
+<text top="227" left="512" width="9" height="15" font="8">1.</text>
+<text top="227" left="566" width="100" height="15" font="8">NOT.IN.CONTROL.IP.</text>
+<text top="253" left="37" width="250" height="15" font="8">polIIS2_Band.B. DNAJdirected.RNA.polymerase.II.</text>
+<text top="253" left="509" width="15" height="15" font="8">23.</text>
+<text top="253" left="566" width="100" height="15" font="8">NOT.IN.CONTROL.IP.</text>
+<text top="278" left="37" width="249" height="15" font="8">polIIS2_Band.B. StressJ70.protein,.mitochondrial.</text>
+<text top="278" left="509" width="15" height="15" font="8">10.</text>
+<text top="278" left="566" width="67" height="15" font="8">0.357142857.</text>
+<text top="304" left="37" width="324" height="15" font="8">polIIS2_Band.B. Isoform.2.of.Heat.shock.cognate.71.kDa.protein.</text>
+<text top="304" left="512" width="9" height="15" font="8">5.</text>
+<text top="304" left="566" width="100" height="15" font="8">NOT.IN.CONTROL.IP.</text>
+<text top="330" left="37" width="250" height="15" font="8">polIIS2_Band.B. Nucleolar.protein.5A.(Fragment).</text>
+<text top="330" left="512" width="9" height="15" font="8">4.</text>
+<text top="330" left="566" width="18" height="15" font="8">0.5.</text>
+<text top="379" left="37" width="76" height="15" font="8">polIIS2_Band.B.</text>
+<text top="365" left="126" width="339" height="15" font="8">XJray.repair.complemen-ng.defec-ve.repair.in.Chinese.hamster.cells.</text>
+<text top="379" left="126" width="9" height="15" font="8">6.</text>
+<text top="379" left="512" width="9" height="15" font="8">4.</text>
+<text top="379" left="566" width="67" height="15" font="8">0.444444444.</text>
+<text top="405" left="37" width="392" height="15" font="8">polIIS2_Band.B. insulinJlike.growth.factor.2.mRNAJbinding.protein.1.isoform.2.</text>
+<text top="405" left="512" width="9" height="15" font="8">3.</text>
+<text top="405" left="566" width="100" height="15" font="8">NOT.IN.CONTROL.IP.</text>
+</page>
+</pdf2xml>

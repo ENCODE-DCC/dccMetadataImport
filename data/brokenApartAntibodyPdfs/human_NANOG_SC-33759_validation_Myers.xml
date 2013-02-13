@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="55" height="12" font="1">May 16, 2011</text>
+<text top="353" left="94" width="424" height="12" font="1">Rabbit polyclonal, epitope corresponding to amino acids 151-305 mapping at C-terminus of Nanog of </text>
+<text top="365" left="94" width="56" height="12" font="1">human origin</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="61" height="12" font="1">Nanog (H-155)</text>
+<text top="215" left="339" width="33" height="12" font="1">NANOG</text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="26" height="12" font="1">C0909</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-33759</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="425" left="94" width="199" height="12" font="1">Nanog homeobox transcription factor; ~35 kDa </text>
+<text top="437" left="94" width="79" height="12" font="1">Entrez gene: 79923</text>
+<text top="599" left="238" width="165" height="12" font="1">http://www.scbt.com/datasheet-33759-</text>
+<text top="611" left="238" width="116" height="12" font="1">nanog-h-155-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="86" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="98" left="125" width="428" height="12" font="1">Whole cell lysate was immunoprecipitated using primary antibody, and the IP fraction was loaded on a </text>
+<text top="110" left="125" width="422" height="12" font="1">12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. After separation, the samples </text>
+<text top="122" left="125" width="422" height="12" font="1">were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary </text>
+<text top="134" left="125" width="422" height="12" font="1">(same as that used for IP) and secondary HRP-conjugated antibodies was performed on an Invitrogen </text>
+<text top="146" left="125" width="414" height="12" font="1">BenchPro 4100 system. Visualization was achieved using SuperSignal West Femto solution (Thermo </text>
+<text top="158" left="125" width="47" height="12" font="1">Scientific).  </text>
+<text top="170" left="125" width="2" height="12" font="1"> </text>
+<text top="182" left="125" width="344" height="12" font="1">Results: Band of expected size visualized, representing strongest signal in the lane. </text>
+<text top="194" left="125" width="2" height="12" font="1"> </text>
+<text top="206" left="125" width="397" height="12" font="1">Figure legend: IP-western with sc-33759 in whole cell lysates of human ES cells. NANOG band is </text>
+<text top="218" left="125" width="142" height="12" font="1">indicated, as is heavy chain of IgG.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="105" left="130" width="144" height="12" font="1">IP followed by mass spectrometry: </text>
+<text top="117" left="130" width="405" height="12" font="1">Briefly, human ES whole cell lysates were immunoprecipitated using primary antibody, and the IP </text>
+<text top="129" left="130" width="418" height="12" font="1">fraction was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. Gel </text>
+<text top="141" left="130" width="423" height="12" font="1">was stained with Coomassie Blue in order to visualize marker bands. A gel fragment corresponding to </text>
+<text top="153" left="130" width="389" height="12" font="1">the band indicated above in the western blot image was excised and sent to the University of </text>
+<text top="165" left="130" width="403" height="12" font="1">Alabama at Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="177" left="130" width="406" height="12" font="1">sample was run on an LTQ XL Linear Ion Trap Mass Spectrometer by LC-ESI-MS/MS. Peptides were </text>
+<text top="189" left="130" width="420" height="12" font="1">identified using SEQUEST tandem mass spectra analysis, with probability based matching at p &lt; 0.05. </text>
+<text top="201" left="130" width="413" height="12" font="1">As per ENCODE data standards, all SEQUEST results are attached, including common contaminants. </text>
+<text top="213" left="130" width="232" height="12" font="1">Target protein is listed as hit 5, highlighted in bold font. </text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="5" family="Times" color="#000000"/>
+	<fontspec id="4" size="5" family="Times" color="#000000"/>
+<text top="72" left="77" width="7" height="9" font="3">1 </text>
+<text top="91" left="77" width="205" height="9" font="3">&gt;Trypsinogen n=1 Tax=Sus scrofa RepID=C5IWV5_PIG  </text>
+<text top="111" left="77" width="178" height="9" font="3">&gt;Trypsin n=1 Tax=Sus scrofa RepID=TRYP_PIG  </text>
+<text top="130" left="77" width="7" height="9" font="3">2 </text>
+<text top="149" left="77" width="289" height="9" font="3">&gt;Keratin, type I cytoskeletal 10 n=1 Tax=Homo sapiens RepID=K1C10_HUMAN  </text>
+<text top="168" left="77" width="290" height="9" font="3">&gt;keratin, type I cytoskeletal 10 n=1 Tax=Homo sapiens RepID=UPI00017BCE7F  </text>
+<text top="187" left="77" width="7" height="9" font="3">3 </text>
+<text top="207" left="77" width="282" height="9" font="3">&gt;Keratin, type II cytoskeletal 1 n=1 Tax=Homo sapiens RepID=K2C1_HUMAN  </text>
+<text top="226" left="77" width="7" height="9" font="3">4 </text>
+<text top="245" left="77" width="319" height="9" font="3">&gt;Keratin, type II cytoskeletal 2 epidermal n=1 Tax=Homo sapiens RepID=K22E_HUMAN  </text>
+<text top="264" left="77" width="7" height="9" font="4"><b>5 </b></text>
+<text top="283" left="77" width="327" height="9" font="4"><b>&gt;Nanog homeobox, isoform CRA_a n=1 Tax=Homo sapiens RepID=D3DUU4_HUMAN  </b></text>
+<text top="303" left="77" width="337" height="9" font="4"><b>&gt;Putative homeobox protein NANOGP8 n=1 Tax=Homo sapiens RepID=NANP8_HUMAN  </b></text>
+<text top="322" left="77" width="385" height="9" font="4"><b>&gt;PREDICTED: similar to Nanog homeobox isoform 2 n=1 Tax=Homo sapiens RepID=UPI0000EE6829  </b></text>
+<text top="341" left="77" width="7" height="9" font="3">6 </text>
+<text top="360" left="77" width="217" height="9" font="3">&gt;Serum albumin n=1 Tax=Bos taurus RepID=ALBU_BOVIN  </text>
+<text top="379" left="77" width="355" height="9" font="3">&gt;Serum albumin precursor (Allergen Bos d 6) (BSA). n=1 Tax=Bos taurus RepID=UPI000179EC85  </text>
+<text top="399" left="77" width="7" height="9" font="3">7 </text>
+<text top="418" left="77" width="280" height="9" font="3">&gt;Keratin, type I cytoskeletal 9 n=1 Tax=Homo sapiens RepID=K1C9_HUMAN  </text>
+<text top="437" left="77" width="7" height="9" font="3">8 </text>
+<text top="456" left="77" width="260" height="9" font="3">&gt;Dermcidin isoform 2 n=1 Tax=Homo sapiens RepID=A5JHP3_HUMAN  </text>
+<text top="475" left="77" width="210" height="9" font="3">&gt;DCD-1 n=3 Tax=Euarchontoglires RepID=DCD_HUMAN  </text>
+<text top="495" left="77" width="7" height="9" font="3">9 </text>
+<text top="514" left="77" width="247" height="9" font="3">&gt;cDNA FLJ78387 n=1 Tax=Homo sapiens RepID=A8K008_HUMAN  </text>
+<text top="533" left="77" width="281" height="9" font="3">&gt;Ig gamma-1 chain C region n=1 Tax=Homo sapiens RepID=IGHG1_HUMAN  </text>
+<text top="552" left="77" width="292" height="9" font="3">     &gt;Ig gamma-2 chain C region n=1 Tax=Homo sapiens RepID=IGHG2_HUMAN  </text>
+<text top="571" left="77" width="292" height="9" font="3">     &gt;Ig gamma-4 chain C region n=1 Tax=Homo sapiens RepID=IGHG4_HUMAN  </text>
+<text top="591" left="77" width="376" height="9" font="3">     &gt;Anti-RhD monoclonal T125 gamma1 heavy chain n=1 Tax=Homo sapiens RepID=Q5EFE5_HUMAN  </text>
+<text top="610" left="77" width="253" height="9" font="3">     &gt;IGH@ protein n=1 Tax=Homo sapiens RepID=Q6GMX6_HUMAN  </text>
+<text top="629" left="77" width="387" height="9" font="3">     &gt;Putative uncharacterized protein DKFZp686C15213 n=1 Tax=Homo sapiens RepID=Q6MZU6_HUMAN  </text>
+<text top="648" left="77" width="386" height="9" font="3">     &gt;Putative uncharacterized protein DKFZp686C11235 n=1 Tax=Homo sapiens RepID=Q6MZV7_HUMAN  </text>
+<text top="667" left="77" width="387" height="9" font="3">     &gt;Putative uncharacterized protein DKFZp686M24218 n=1 Tax=Homo sapiens RepID=Q6MZX7_HUMAN  </text>
+<text top="687" left="77" width="384" height="9" font="3">     &gt;Putative uncharacterized protein DKFZp686P15220 n=1 Tax=Homo sapiens RepID=Q6N089_HUMAN  </text>
+<text top="706" left="77" width="422" height="9" font="3">     &gt;Putative uncharacterized protein DKFZp686I04196 (Fragment) n=1 Tax=Homo sapiens RepID=Q6N093_HUMAN  </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+<text top="72" left="77" width="372" height="9" font="3">     &gt;IGG1 MCG INTACT ANTIBODY (HEAVY CHAIN) n=1 Tax=Homo sapiens RepID=UPI00001125A4  </text>
+<text top="91" left="77" width="359" height="9" font="3">     &gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69D  </text>
+<text top="111" left="77" width="359" height="9" font="3">     &gt;Immunoglobulin heavy chain C gene segment n=1 Tax=Homo sapiens RepID=UPI000173A69E  </text>
+<text top="130" left="77" width="313" height="9" font="3">     &gt;IG GAMMA-1 CHAIN C REGION n=1 Tax=Homo sapiens RepID=UPI000195C290  </text>
+<text top="149" left="77" width="429" height="9" font="3">     &gt;PREDICTED: similar to immunoglobulin lambda-like polypeptide 1 n=1 Tax=Homo sapiens RepID=UPI0001A5EB10 </text>
+<text top="168" left="77" width="11" height="9" font="3">10 </text>
+<text top="187" left="77" width="245" height="9" font="3">&gt;52 kDa Ro protein n=1 Tax=Homo sapiens RepID=RO52_HUMAN  </text>
+<text top="207" left="77" width="11" height="9" font="3">11 </text>
+<text top="226" left="77" width="236" height="9" font="3">&gt;IGL@ protein n=1 Tax=Homo sapiens RepID=Q6PIQ7_HUMAN  </text>
+<text top="245" left="77" width="11" height="9" font="3">12 </text>
+<text top="264" left="77" width="379" height="9" font="3">&gt;Leucine-rich repeat and death domain-containing protein n=1 Tax=Homo sapiens RepID=PIDD_HUMAN  </text>
+<text top="283" left="77" width="409" height="9" font="3">&gt;Isoform 2 of Leucine-rich repeat and death domain-containing protein n=1 Tax=Homo sapiens RepID=Q9HB75-2  </text>
+<text top="303" left="77" width="420" height="9" font="3">     &gt;Isoform 3 of Leucine-rich repeat and death domain-containing protein n=1 Tax=Homo sapiens RepID=Q9HB75-3  </text>
+<text top="322" left="77" width="418" height="9" font="3">     &gt;Isoform 4 of Leucine-rich repeat and death domain-containing protein n=1 Tax=Homo sapiens RepID=Q9HB75-4 </text>
+<text top="341" left="90" width="3" height="14" font="5"> </text>
+</page>
+</pdf2xml>

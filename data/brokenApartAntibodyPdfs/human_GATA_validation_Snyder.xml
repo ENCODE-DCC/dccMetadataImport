@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="21" family="Times" color="#000000"/>
+	<fontspec id="1" size="7" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+<text top="40" left="66" width="497" height="26" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="90" left="59" width="77" height="12" font="1">Date of Submission</text>
+<text top="349" left="50" width="39" height="12" font="1">Antibody </text>
+<text top="360" left="50" width="50" height="12" font="1">Description: </text>
+<text top="372" left="50" width="2" height="12" font="1"> </text>
+<text top="481" left="93" width="58" height="12" font="1">Species Target</text>
+<text top="516" left="93" width="86" height="12" font="1">Validation Method #1</text>
+<text top="144" left="292" width="24" height="12" font="1">Email:</text>
+<text top="144" left="59" width="26" height="12" font="1">Name:</text>
+<text top="222" left="59" width="65" height="12" font="1">Antibody Name:</text>
+<text top="222" left="301" width="28" height="12" font="1">Target:</text>
+<text top="179" left="197" width="15" height="12" font="1">Lab</text>
+<text top="255" left="189" width="42" height="12" font="1">Company/</text>
+<text top="266" left="189" width="30" height="12" font="1">Source:</text>
+<text top="481" left="301" width="51" height="12" font="1">Species Host</text>
+<text top="304" left="335" width="48" height="12" font="1">Lot Number</text>
+<text top="298" left="50" width="165" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="310" left="50" width="2" height="12" font="1"> </text>
+<text top="516" left="301" width="86" height="12" font="1">Validation Method #2</text>
+<text top="549" left="93" width="48" height="12" font="1">Purification </text>
+<text top="560" left="93" width="32" height="12" font="1">Method</text>
+<text top="549" left="301" width="47" height="12" font="1">Polyclonal/ </text>
+<text top="560" left="301" width="48" height="12" font="1">Monoclonal</text>
+<text top="617" left="42" width="55" height="12" font="1">Reference (PI/</text>
+<text top="628" left="42" width="47" height="12" font="1">Publication </text>
+<text top="640" left="42" width="50" height="12" font="1">Information)</text>
+<text top="663" left="40" width="282" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="675" left="40" width="197" height="10" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="685" left="40" width="149" height="10" font="2">please write-in the appropriate information</text>
+<text top="714" left="42" width="57" height="12" font="1">Histone Name</text>
+<text top="714" left="163" width="50" height="12" font="1">AA modified</text>
+<text top="714" left="327" width="46" height="12" font="1">AA Position</text>
+<text top="714" left="439" width="51" height="12" font="1">Modification</text>
+<text top="418" left="50" width="28" height="12" font="1">Target </text>
+<text top="429" left="50" width="50" height="12" font="1">Description: </text>
+<text top="441" left="50" width="2" height="12" font="1"> </text>
+<text top="591" left="171" width="49" height="12" font="1">Vendor URL:</text>
+<text top="590" left="240" width="153" height="10" font="1">http://www.scbt.com/datasheet-266-</text>
+<text top="595" left="240" width="101" height="10" font="1">gata-1-n1-antibody.html</text>
+<text top="91" left="145" width="48" height="10" font="1">09/14/2012</text>
+<text top="339" left="103" width="369" height="10" font="1">This is a rat monoclonal antibody raised against  bacterially expressed murine GATA-1.</text>
+<text top="482" left="156" width="31" height="10" font="1">Human</text>
+<text top="516" left="183" width="86" height="10" font="1">Immunoprecipitation</text>
+<text top="145" left="325" width="84" height="10" font="1">trupti@stanford.edu</text>
+<text top="145" left="92" width="50" height="10" font="1">Trupti Kawli</text>
+<text top="223" left="128" width="68" height="10" font="1">GATA1 (sc-266)</text>
+<text top="223" left="337" width="30" height="10" font="1">GATA1</text>
+<text top="179" left="233" width="30" height="10" font="1">Snyder</text>
+<text top="262" left="241" width="111" height="10" font="1">Santa Cruz Biotechnology</text>
+<text top="482" left="359" width="15" height="10" font="1">Rat</text>
+<text top="305" left="391" width="28" height="10" font="1">B2510</text>
+<text top="305" left="218" width="29" height="10" font="1">sc-266</text>
+<text top="516" left="391" width="72" height="10" font="1">Motif Enrichment</text>
+<text top="556" left="147" width="29" height="10" font="1">Afﬁnity</text>
+<text top="556" left="354" width="44" height="10" font="1">Polyclonal</text>
+<text top="408" left="103" width="425" height="10" font="1">Members of the GATA family share a conserved zinc ﬁnger DNA-binding domain and are capable of </text>
+<text top="414" left="103" width="419" height="10" font="1">binding the WGATAR consensus sequence. GATA-1 is erythroid-speciﬁc and is responsible for the </text>
+<text top="419" left="103" width="402" height="10" font="1">regulated transcription of erythroid genes. It is an essential component in the generation of the </text>
+<text top="424" left="103" width="74" height="10" font="1">erythroid lineage.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="156" left="63" width="54" height="12" font="1">Validation #1 </text>
+<text top="167" left="63" width="32" height="12" font="1">Analysis</text>
+<text top="650" left="61" width="138" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="54" left="132" width="413" height="10" font="1">Immunoprecipitation of K562 nulcear extract with sc-266 antibody efﬁciently enriches a protein of </text>
+<text top="59" left="132" width="154" height="10" font="1">molecular weight of GATA1 (46KD). </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="17" family="Times" color="#000000"/>
+<text top="68" left="306" width="0" height="23" font="3">W</text>
+<text top="85" left="306" width="0" height="33" font="3">es</text>
+<text top="102" left="306" width="0" height="23" font="3">te</text>
+<text top="118" left="306" width="0" height="30" font="3">rn</text>
+<text top="135" left="306" width="0" height="28" font="3">'B</text>
+<text top="150" left="306" width="0" height="28" font="3">lo</text>
+<text top="164" left="306" width="0" height="34" font="3">t'an</text>
+<text top="194" left="306" width="0" height="23" font="3">al</text>
+<text top="208" left="306" width="0" height="32" font="3">ys</text>
+<text top="224" left="306" width="0" height="40" font="3">is'o</text>
+<text top="250" left="306" width="0" height="38" font="3">f'im</text>
+<text top="280" left="306" width="0" height="23" font="3">m</text>
+<text top="296" left="306" width="0" height="34" font="3">un</text>
+<text top="316" left="306" width="0" height="34" font="3">op</text>
+<text top="336" left="306" width="0" height="30" font="3">re</text>
+<text top="352" left="306" width="0" height="36" font="3">cip</text>
+<text top="375" left="306" width="0" height="28" font="3">itate</text>
+<text top="411" left="306" width="0" height="38" font="3">d'p</text>
+<text top="435" left="306" width="0" height="30" font="3">ro</text>
+<text top="452" left="306" width="0" height="23" font="3">te</text>
+<text top="468" left="306" width="0" height="28" font="3">in</text>
+<text top="483" left="306" width="0" height="35" font="3">s'f</text>
+<text top="500" left="306" width="0" height="30" font="3">ro</text>
+<text top="517" left="306" width="0" height="23" font="3">m</text>
+<text top="532" left="306" width="0" height="28" font="3">'K</text>
+<text top="547" left="306" width="0" height="33" font="3">56</text>
+<text top="566" left="306" width="0" height="37" font="3">2'n</text>
+<text top="590" left="306" width="0" height="34" font="3">uc</text>
+<text top="609" left="306" width="0" height="28" font="3">le</text>
+<text top="622" left="306" width="0" height="23" font="3">ar</text>
+<text top="638" left="306" width="0" height="23" font="3">'</text>
+<text top="68" left="283" width="0" height="33" font="3">ex</text>
+<text top="86" left="283" width="0" height="23" font="3">tr</text>
+<text top="99" left="283" width="0" height="23" font="3">ac</text>
+<text top="116" left="283" width="0" height="23" font="3">ts</text>
+<text top="130" left="283" width="0" height="28" font="3">'d</text>
+<text top="145" left="283" width="0" height="33" font="3">ete</text>
+<text top="170" left="283" width="0" height="32" font="3">cte</text>
+<text top="194" left="283" width="0" height="38" font="3">d'u</text>
+<text top="219" left="283" width="0" height="35" font="3">sin</text>
+<text top="241" left="283" width="0" height="37" font="3">g'an</text>
+<text top="273" left="283" width="0" height="38" font="3">:'G</text>
+<text top="301" left="283" width="0" height="35" font="3">AT</text>
+<text top="321" left="283" width="0" height="35" font="3">A1</text>
+<text top="342" left="283" width="0" height="34" font="3">'(s</text>
+<text top="359" left="283" width="0" height="32" font="3">c2</text>
+<text top="377" left="283" width="0" height="33" font="3">66</text>
+<text top="397" left="283" width="0" height="34" font="3">)'an</text>
+<text top="426" left="283" width="0" height="34" font="3">:b</text>
+<text top="447" left="283" width="0" height="34" font="3">od</text>
+<text top="467" left="283" width="0" height="36" font="3">y'f</text>
+<text top="486" left="283" width="0" height="30" font="3">ro</text>
+<text top="503" left="283" width="0" height="23" font="3">m</text>
+<text top="518" left="283" width="0" height="37" font="3">'San</text>
+<text top="551" left="283" width="0" height="23" font="3">ta'</text>
+<text top="571" left="283" width="0" height="34" font="3">Cr</text>
+<text top="587" left="283" width="0" height="34" font="3">uz'</text>
+<text top="68" left="260" width="0" height="38" font="3">Bio</text>
+<text top="93" left="260" width="0" height="23" font="3">te</text>
+<text top="109" left="260" width="0" height="32" font="3">ch</text>
+<text top="127" left="260" width="0" height="34" font="3">no</text>
+<text top="147" left="260" width="0" height="28" font="3">lo</text>
+<text top="162" left="260" width="0" height="32" font="3">gy</text>
+<text top="180" left="260" width="0" height="33" font="3">.'E</text>
+<text top="198" left="260" width="0" height="32" font="3">xp</text>
+<text top="217" left="260" width="0" height="33" font="3">ec</text>
+<text top="234" left="260" width="0" height="23" font="3">te</text>
+<text top="250" left="260" width="0" height="38" font="3">d'p</text>
+<text top="275" left="260" width="0" height="30" font="3">ro</text>
+<text top="291" left="260" width="0" height="23" font="3">te</text>
+<text top="307" left="260" width="0" height="28" font="3">in</text>
+<text top="322" left="260" width="0" height="28" font="3">'b</text>
+<text top="336" left="260" width="0" height="23" font="3">an</text>
+<text top="356" left="260" width="0" height="38" font="3">d'4</text>
+<text top="380" left="260" width="0" height="33" font="3">7k</text>
+<text top="398" left="260" width="0" height="23" font="3">D</text>
+<text top="410" left="260" width="0" height="28" font="3">.'</text>
+<text top="68" left="238" width="0" height="23" font="3">'</text>
+<text top="68" left="214" width="0" height="23" font="3">In</text>
+<text top="83" left="214" width="0" height="34" font="3">pu</text>
+<text top="103" left="214" width="0" height="39" font="3">t:'In</text>
+<text top="134" left="214" width="0" height="34" font="3">pu</text>
+<text top="154" left="214" width="0" height="39" font="3">t'ly</text>
+<text top="178" left="214" width="0" height="31" font="3">sate</text>
+<text top="211" left="214" width="0" height="33" font="3">,'S</text>
+<text top="229" left="214" width="0" height="34" font="3">up</text>
+<text top="249" left="214" width="0" height="33" font="3">:'S</text>
+<text top="267" left="214" width="0" height="34" font="3">up</text>
+<text top="287" left="214" width="0" height="40" font="3">ern</text>
+<text top="313" left="214" width="0" height="23" font="3">atan</text>
+<text top="348" left="214" width="0" height="40" font="3">t'fr</text>
+<text top="372" left="214" width="0" height="34" font="3">om</text>
+<text top="397" left="214" width="0" height="28" font="3">'IP</text>
+<text top="416" left="214" width="0" height="33" font="3">,'IP</text>
+<text top="440" left="214" width="0" height="33" font="3">:'Im</text>
+<text top="470" left="214" width="0" height="23" font="3">m</text>
+<text top="485" left="214" width="0" height="34" font="3">un</text>
+<text top="505" left="214" width="0" height="34" font="3">op</text>
+<text top="525" left="214" width="0" height="30" font="3">re</text>
+<text top="542" left="214" width="0" height="36" font="3">cip</text>
+<text top="564" left="214" width="0" height="28" font="3">itate</text>
+<text top="600" left="214" width="0" height="34" font="3">d'</text>
+<text top="68" left="192" width="0" height="36" font="3">frac</text>
+<text top="98" left="192" width="0" height="34" font="3">:o</text>
+<text top="119" left="192" width="0" height="38" font="3">n'f</text>
+<text top="139" left="192" width="0" height="30" font="3">ro</text>
+<text top="156" left="192" width="0" height="23" font="3">m</text>
+<text top="171" left="192" width="0" height="28" font="3">'0</text>
+<text top="185" left="192" width="0" height="39" font="3">7Q7</text>
+<text top="210" left="192" width="0" height="33" font="3">29</text>
+<text top="230" left="192" width="0" height="33" font="3">,'Ig</text>
+<text top="253" left="192" width="0" height="23" font="3">G</text>
+<text top="265" left="192" width="0" height="33" font="3">:'C</text>
+<text top="285" left="192" width="0" height="34" font="3">on</text>
+<text top="305" left="192" width="0" height="23" font="3">tr</text>
+<text top="318" left="192" width="0" height="42" font="3">ol'Im</text>
+<text top="357" left="192" width="0" height="23" font="3">m</text>
+<text top="372" left="192" width="0" height="34" font="3">un</text>
+<text top="393" left="192" width="0" height="34" font="3">op</text>
+<text top="413" left="192" width="0" height="30" font="3">re</text>
+<text top="429" left="192" width="0" height="36" font="3">cip</text>
+<text top="452" left="192" width="0" height="28" font="3">ita:</text>
+<text top="482" left="192" width="0" height="34" font="3">on</text>
+<text top="503" left="192" width="0" height="23" font="3">'using'</text>
+<text top="552" left="192" width="0" height="23" font="3">Ig</text>
+<text top="566" left="192" width="0" height="23" font="3">G</text>
+<text top="578" left="192" width="0" height="23" font="3">.''</text>
+<text top="68" left="168" width="0" height="23" font="3">'</text>
+<text top="68" left="145" width="0" height="23" font="3">'</text>
+<text top="68" left="122" width="0" height="23" font="3">'</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="9" family="Times" color="#000000"/>
+<text top="21" left="549" width="0" height="37" font="3">Fig</text>
+<text top="43" left="549" width="0" height="33" font="3">.%1</text>
+<text top="62" left="549" width="0" height="28" font="3">%G</text>
+<text top="78" left="549" width="0" height="35" font="3">AT</text>
+<text top="99" left="549" width="0" height="35" font="3">A1</text>
+<text top="120" left="549" width="0" height="28" font="3">%m</text>
+<text top="139" left="549" width="0" height="34" font="3">o,</text>
+<text top="160" left="549" width="0" height="34" font="3">f%e</text>
+<text top="180" left="549" width="0" height="34" font="3">nr</text>
+<text top="197" left="549" width="0" height="36" font="3">ich</text>
+<text top="219" left="549" width="0" height="23" font="3">m</text>
+<text top="234" left="549" width="0" height="33" font="3">en</text>
+<text top="254" left="549" width="0" height="23" font="3">t%</text>
+<text top="21" left="449" width="0" height="37" font="3">Fig</text>
+<text top="43" left="449" width="0" height="33" font="3">.%2</text>
+<text top="62" left="449" width="0" height="28" font="3">%Mo</text>
+<text top="93" left="449" width="0" height="40" font="3">,f%</text>
+<text top="114" left="449" width="0" height="33" font="3">en</text>
+<text top="133" left="449" width="0" height="35" font="3">ric</text>
+<text top="152" left="449" width="0" height="34" font="3">hm</text>
+<text top="178" left="449" width="0" height="33" font="3">en</text>
+<text top="197" left="449" width="0" height="34" font="3">t%s</text>
+<text top="216" left="449" width="0" height="33" font="3">eq</text>
+<text top="235" left="449" width="0" height="34" font="3">ue</text>
+<text top="255" left="449" width="0" height="34" font="3">nc</text>
+<text top="273" left="449" width="0" height="37" font="3">e%an</text>
+<text top="306" left="449" width="0" height="38" font="3">d%p</text>
+<text top="331" left="449" width="0" height="34" font="3">os</text>
+<text top="348" left="449" width="0" height="28" font="3">i,</text>
+<text top="364" left="449" width="0" height="34" font="3">on</text>
+<text top="384" left="449" width="0" height="28" font="3">%w</text>
+<text top="402" left="449" width="0" height="37" font="3">eig</text>
+<text top="425" left="449" width="0" height="34" font="3">ht%</text>
+<text top="446" left="449" width="0" height="23" font="3">m</text>
+<text top="461" left="449" width="0" height="23" font="3">atr</text>
+<text top="483" left="449" width="0" height="40" font="3">ix%f</text>
+<text top="506" left="449" width="0" height="34" font="3">or</text>
+<text top="523" left="449" width="0" height="28" font="3">%th</text>
+<text top="544" left="449" width="0" height="37" font="3">e%h</text>
+<text top="568" left="449" width="0" height="37" font="3">igh</text>
+<text top="591" left="449" width="0" height="37" font="3">ly%</text>
+<text top="21" left="427" width="0" height="23" font="3">en</text>
+<text top="40" left="427" width="0" height="35" font="3">rich</text>
+<text top="70" left="427" width="0" height="23" font="3">ed</text>
+<text top="89" left="427" width="0" height="28" font="3">%GAT</text>
+<text top="126" left="427" width="0" height="23" font="3">A1%</text>
+<text top="151" left="427" width="0" height="23" font="3">mo</text>
+<text top="177" left="427" width="0" height="40" font="3">,f%</text>
+<text top="118" left="508" width="0" height="16" font="4"><b>Cel</b></text>
+<text top="134" left="508" width="0" height="19" font="4"><b>l$Li</b></text>
+<text top="149" left="508" width="0" height="22" font="4"><b>ne$</b></text>
+<text top="192" left="508" width="0" height="16" font="4"><b>Mo</b></text>
+<text top="210" left="508" width="0" height="27" font="4"><b>*f$</b></text>
+<text top="225" left="508" width="0" height="22" font="4"><b>en</b></text>
+<text top="238" left="508" width="0" height="23" font="4"><b>ric</b></text>
+<text top="251" left="508" width="0" height="22" font="4"><b>hm</b></text>
+<text top="268" left="508" width="0" height="22" font="4"><b>en</b></text>
+<text top="281" left="508" width="0" height="27" font="4"><b>t$(l</b></text>
+<text top="296" left="508" width="0" height="22" font="4"><b>og</b></text>
+<text top="309" left="508" width="0" height="19" font="4"><b>$2</b></text>
+<text top="318" left="508" width="0" height="20" font="4"><b>)$</b></text>
+<text top="358" left="508" width="0" height="16" font="4"><b>Fr</b></text>
+<text top="369" left="508" width="0" height="22" font="4"><b>ac</b></text>
+<text top="380" left="508" width="0" height="23" font="4"><b>*o</b></text>
+<text top="395" left="508" width="0" height="25" font="4"><b>n$o</b></text>
+<text top="411" left="508" width="0" height="23" font="4"><b>f$P</b></text>
+<text top="425" left="508" width="0" height="22" font="4"><b>ea</b></text>
+<text top="438" left="508" width="0" height="16" font="4"><b>ks</b></text>
+<text top="449" left="508" width="0" height="24" font="4"><b>$co</b></text>
+<text top="464" left="508" width="0" height="22" font="4"><b>nt</b></text>
+<text top="476" left="508" width="0" height="25" font="4"><b>ain</b></text>
+<text top="492" left="508" width="0" height="19" font="4"><b>in</b></text>
+<text top="502" left="508" width="0" height="25" font="4"><b>g$m</b></text>
+<text top="521" left="508" width="0" height="22" font="4"><b>o*</b></text>
+<text top="536" left="508" width="0" height="20" font="4"><b>f$</b></text>
+<text top="127" left="491" width="0" height="16" font="5">K562%</text>
+<text top="239" left="491" width="0" height="16" font="5">4.</text>
+<text top="249" left="491" width="0" height="16" font="5">6723%</text>
+<text top="415" left="491" width="0" height="16" font="5">0.</text>
+<text top="425" left="491" width="0" height="16" font="5">180272109%</text>
+<text top="200" left="314" width="0" height="14" font="6">&gt;G</text>
+<text top="214" left="314" width="0" height="21" font="6">AT</text>
+<text top="226" left="314" width="0" height="21" font="6">A_k</text>
+<text top="244" left="314" width="0" height="20" font="6">no</text>
+<text top="256" left="314" width="0" height="14" font="6">w</text>
+<text top="265" left="314" width="0" height="20" font="6">n1</text>
+<text top="277" left="314" width="0" height="23" font="6">4%G</text>
+<text top="293" left="314" width="0" height="21" font="6">AT</text>
+<text top="305" left="314" width="0" height="21" font="6">A_1</text>
+<text top="324" left="314" width="0" height="20" font="6">4#k</text>
+<text top="341" left="314" width="0" height="20" font="6">no</text>
+<text top="353" left="314" width="0" height="14" font="6">w</text>
+<text top="362" left="314" width="0" height="20" font="6">n%</text>
+<text top="200" left="300" width="0" height="20" font="6">Tal</text>
+<text top="214" left="300" width="0" height="23" font="6">1::</text>
+<text top="227" left="300" width="0" height="14" font="6">G</text>
+<text top="234" left="300" width="0" height="14" font="6">ata1</text>
+<text top="255" left="300" width="0" height="14" font="6">_j</text>
+<text top="264" left="300" width="0" height="14" font="6">as</text>
+<text top="274" left="300" width="0" height="20" font="6">par</text>
+<text top="290" left="300" width="0" height="14" font="6">_MA</text>
+<text top="312" left="300" width="0" height="20" font="6">01</text>
+<text top="324" left="300" width="0" height="20" font="6">40</text>
+<text top="336" left="300" width="0" height="17" font="6">.1</text>
+<text top="345" left="300" width="0" height="17" font="6">%+%</text>
+<text top="200" left="287" width="0" height="14" font="6">B%0.</text>
+<text top="218" left="287" width="0" height="14" font="6">135962%0.</text>
+<text top="266" left="287" width="0" height="14" font="6">451734%0.</text>
+<text top="313" left="287" width="0" height="14" font="6">210061%0.</text>
+<text top="360" left="287" width="0" height="14" font="6">202243%</text>
+<text top="200" left="273" width="0" height="14" font="6">K%</text>
+<text top="209" left="273" width="0" height="14" font="6">0.</text>
+<text top="218" left="273" width="0" height="14" font="6">088715%</text>
+<text top="256" left="273" width="0" height="14" font="6">0.</text>
+<text top="265" left="273" width="0" height="14" font="6">150918%</text>
+<text top="304" left="273" width="0" height="14" font="6">0.</text>
+<text top="312" left="273" width="0" height="14" font="6">176751%</text>
+<text top="351" left="273" width="0" height="14" font="6">0.</text>
+<text top="360" left="273" width="0" height="14" font="6">583616%</text>
+<text top="200" left="259" width="0" height="14" font="6">K%</text>
+<text top="209" left="259" width="0" height="14" font="6">0.</text>
+<text top="218" left="259" width="0" height="14" font="6">044497%</text>
+<text top="256" left="259" width="0" height="14" font="6">0.</text>
+<text top="265" left="259" width="0" height="14" font="6">061821%</text>
+<text top="304" left="259" width="0" height="14" font="6">0.</text>
+<text top="312" left="259" width="0" height="14" font="6">652514%</text>
+<text top="351" left="259" width="0" height="14" font="6">0.</text>
+<text top="360" left="259" width="0" height="14" font="6">241168%</text>
+<text top="200" left="244" width="0" height="14" font="6">B%0.</text>
+<text top="218" left="244" width="0" height="14" font="6">089983%0.</text>
+<text top="266" left="244" width="0" height="14" font="6">253311%0.</text>
+<text top="313" left="244" width="0" height="14" font="6">416978%0.</text>
+<text top="360" left="244" width="0" height="14" font="6">239728%</text>
+<text top="200" left="230" width="0" height="14" font="6">N%</text>
+<text top="211" left="230" width="0" height="14" font="6">0.</text>
+<text top="220" left="230" width="0" height="14" font="6">227165%</text>
+<text top="258" left="230" width="0" height="14" font="6">0.</text>
+<text top="267" left="230" width="0" height="14" font="6">215620%</text>
+<text top="305" left="230" width="0" height="14" font="6">0.</text>
+<text top="314" left="230" width="0" height="14" font="6">263158%</text>
+<text top="352" left="230" width="0" height="14" font="6">0.</text>
+<text top="361" left="230" width="0" height="14" font="6">294058%</text>
+<text top="200" left="216" width="0" height="14" font="6">N%</text>
+<text top="211" left="216" width="0" height="14" font="6">0.</text>
+<text top="220" left="216" width="0" height="14" font="6">238031%</text>
+<text top="258" left="216" width="0" height="14" font="6">0.</text>
+<text top="267" left="216" width="0" height="14" font="6">233277%</text>
+<text top="305" left="216" width="0" height="14" font="6">0.</text>
+<text top="314" left="216" width="0" height="14" font="6">306621%</text>
+<text top="352" left="216" width="0" height="14" font="6">0.</text>
+<text top="361" left="216" width="0" height="14" font="6">222071%</text>
+<text top="200" left="202" width="0" height="14" font="6">N%</text>
+<text top="211" left="202" width="0" height="14" font="6">0.</text>
+<text top="220" left="202" width="0" height="14" font="6">225390%</text>
+<text top="258" left="202" width="0" height="14" font="6">0.</text>
+<text top="267" left="202" width="0" height="14" font="6">252885%</text>
+<text top="305" left="202" width="0" height="14" font="6">0.</text>
+<text top="314" left="202" width="0" height="14" font="6">318398%</text>
+<text top="352" left="202" width="0" height="14" font="6">0.</text>
+<text top="361" left="202" width="0" height="14" font="6">203327%</text>
+<text top="200" left="189" width="0" height="14" font="6">N%</text>
+<text top="211" left="189" width="0" height="14" font="6">0.</text>
+<text top="220" left="189" width="0" height="14" font="6">241941%</text>
+<text top="258" left="189" width="0" height="14" font="6">0.</text>
+<text top="267" left="189" width="0" height="14" font="6">237190%</text>
+<text top="305" left="189" width="0" height="14" font="6">0.</text>
+<text top="314" left="189" width="0" height="14" font="6">302341%</text>
+<text top="352" left="189" width="0" height="14" font="6">0.</text>
+<text top="361" left="189" width="0" height="14" font="6">218527%</text>
+<text top="200" left="175" width="0" height="14" font="6">N%</text>
+<text top="211" left="175" width="0" height="14" font="6">0.</text>
+<text top="220" left="175" width="0" height="14" font="6">248898%</text>
+<text top="258" left="175" width="0" height="14" font="6">0.</text>
+<text top="267" left="175" width="0" height="14" font="6">224483%</text>
+<text top="305" left="175" width="0" height="14" font="6">0.</text>
+<text top="314" left="175" width="0" height="14" font="6">292302%</text>
+<text top="352" left="175" width="0" height="14" font="6">0.</text>
+<text top="361" left="175" width="0" height="14" font="6">234317%</text>
+<text top="200" left="160" width="0" height="14" font="6">D%0.338086%0.138153%0.319077%0.204684%</text>
+<text top="200" left="146" width="0" height="14" font="6">V%0</text>
+<text top="216" left="146" width="0" height="14" font="6">.1</text>
+<text top="225" left="146" width="0" height="20" font="6">78</text>
+<text top="236" left="146" width="0" height="20" font="6">94</text>
+<text top="248" left="146" width="0" height="20" font="6">7%0</text>
+<text top="263" left="146" width="0" height="14" font="6">.3</text>
+<text top="272" left="146" width="0" height="20" font="6">97</text>
+<text top="284" left="146" width="0" height="20" font="6">96</text>
+<text top="295" left="146" width="0" height="20" font="6">3%0</text>
+<text top="310" left="146" width="0" height="14" font="6">.3</text>
+<text top="319" left="146" width="0" height="20" font="6">05</text>
+<text top="331" left="146" width="0" height="20" font="6">94</text>
+<text top="343" left="146" width="0" height="20" font="6">2%0</text>
+<text top="357" left="146" width="0" height="14" font="6">.1</text>
+<text top="366" left="146" width="0" height="20" font="6">17</text>
+<text top="378" left="146" width="0" height="20" font="6">14</text>
+<text top="390" left="146" width="0" height="20" font="6">8%</text>
+<text top="200" left="132" width="0" height="14" font="6">W%</text>
+<text top="213" left="132" width="0" height="14" font="6">0.</text>
+<text top="222" left="132" width="0" height="14" font="6">664744%</text>
+<text top="261" left="132" width="0" height="14" font="6">0.</text>
+<text top="270" left="132" width="0" height="14" font="6">010519%</text>
+<text top="308" left="132" width="0" height="14" font="6">0.</text>
+<text top="317" left="132" width="0" height="14" font="6">012555%</text>
+<text top="355" left="132" width="0" height="14" font="6">0.</text>
+<text top="364" left="132" width="0" height="14" font="6">312182%</text>
+<text top="200" left="118" width="0" height="14" font="6">G%0.</text>
+<text top="219" left="118" width="0" height="14" font="6">001018%0.</text>
+<text top="267" left="118" width="0" height="14" font="6">002376%0.</text>
+<text top="314" left="118" width="0" height="14" font="6">996606%0.</text>
+<text top="361" left="118" width="0" height="14" font="6">000000%</text>
+<text top="200" left="104" width="0" height="14" font="6">A%</text>
+<text top="210" left="104" width="0" height="14" font="6">0.</text>
+<text top="219" left="104" width="0" height="14" font="6">993553%</text>
+<text top="257" left="104" width="0" height="14" font="6">0.</text>
+<text top="266" left="104" width="0" height="14" font="6">002375%</text>
+<text top="304" left="104" width="0" height="14" font="6">0.</text>
+<text top="313" left="104" width="0" height="14" font="6">000679%</text>
+<text top="351" left="104" width="0" height="14" font="6">0.</text>
+<text top="360" left="104" width="0" height="14" font="6">003393%</text>
+<text top="200" left="89" width="0" height="14" font="6">T%0</text>
+<text top="215" left="89" width="0" height="14" font="6">.0</text>
+<text top="224" left="89" width="0" height="20" font="6">05</text>
+<text top="235" left="89" width="0" height="20" font="6">43</text>
+<text top="247" left="89" width="0" height="20" font="6">3%0</text>
+<text top="262" left="89" width="0" height="14" font="6">.0</text>
+<text top="271" left="89" width="0" height="20" font="6">08</text>
+<text top="283" left="89" width="0" height="20" font="6">82</text>
+<text top="295" left="89" width="0" height="20" font="6">9%0</text>
+<text top="309" left="89" width="0" height="14" font="6">.0</text>
+<text top="318" left="89" width="0" height="20" font="6">10</text>
+<text top="330" left="89" width="0" height="20" font="6">18</text>
+<text top="342" left="89" width="0" height="20" font="6">7%0</text>
+<text top="356" left="89" width="0" height="14" font="6">.9</text>
+<text top="365" left="89" width="0" height="20" font="6">75</text>
+<text top="377" left="89" width="0" height="20" font="6">55</text>
+<text top="389" left="89" width="0" height="20" font="6">1%</text>
+<text top="200" left="76" width="0" height="14" font="6">A%</text>
+<text top="210" left="76" width="0" height="14" font="6">0.</text>
+<text top="219" left="76" width="0" height="14" font="6">941216%</text>
+<text top="257" left="76" width="0" height="14" font="6">0.</text>
+<text top="266" left="76" width="0" height="14" font="6">002039%</text>
+<text top="304" left="76" width="0" height="14" font="6">0.</text>
+<text top="313" left="76" width="0" height="14" font="6">007815%</text>
+<text top="351" left="76" width="0" height="14" font="6">0.</text>
+<text top="360" left="76" width="0" height="14" font="6">048930%</text>
+<text top="200" left="62" width="0" height="14" font="6">A%</text>
+<text top="210" left="62" width="0" height="14" font="6">0.</text>
+<text top="219" left="62" width="0" height="14" font="6">809378%</text>
+<text top="257" left="62" width="0" height="14" font="6">0.</text>
+<text top="266" left="62" width="0" height="14" font="6">017329%</text>
+<text top="304" left="62" width="0" height="14" font="6">0.</text>
+<text top="313" left="62" width="0" height="14" font="6">127761%</text>
+<text top="351" left="62" width="0" height="14" font="6">0.</text>
+<text top="360" left="62" width="0" height="14" font="6">045532%</text>
+<text top="200" left="48" width="0" height="14" font="6">V%0</text>
+<text top="216" left="48" width="0" height="14" font="6">.1</text>
+<text top="225" left="48" width="0" height="20" font="6">86</text>
+<text top="236" left="48" width="0" height="20" font="6">05</text>
+<text top="248" left="48" width="0" height="20" font="6">4%0</text>
+<text top="263" left="48" width="0" height="14" font="6">.1</text>
+<text top="272" left="48" width="0" height="20" font="6">87</text>
+<text top="284" left="48" width="0" height="20" font="6">07</text>
+<text top="295" left="48" width="0" height="20" font="6">5%0</text>
+<text top="310" left="48" width="0" height="14" font="6">.5</text>
+<text top="319" left="48" width="0" height="20" font="6">44</text>
+<text top="331" left="48" width="0" height="20" font="6">55</text>
+<text top="343" left="48" width="0" height="20" font="6">8%0</text>
+<text top="357" left="48" width="0" height="14" font="6">.0</text>
+<text top="366" left="48" width="0" height="20" font="6">82</text>
+<text top="378" left="48" width="0" height="20" font="6">31</text>
+<text top="390" left="48" width="0" height="20" font="6">3%</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+<text top="169" left="68" width="54" height="12" font="1">Validation #2 </text>
+<text top="180" left="68" width="32" height="12" font="1">Analysis</text>
+<text top="633" left="65" width="139" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="54" left="137" width="391" height="10" font="1">Calculations were done by Alan Boyle using a collection of known motifs. Table 1 shows the </text>
+<text top="59" left="137" width="397" height="10" font="1">fold-enrichments and fraction of peaks which contain the motif. The motif which produced the </text>
+<text top="65" left="137" width="385" height="10" font="1">largest value for each criterion is shown in Table 1. Note that while the maximally enriched </text>
+<text top="70" left="137" width="405" height="10" font="1">motifs may differ from the motif with the highest enrichment p-values and the most represented </text>
+<text top="75" left="137" width="394" height="10" font="1">motif, the motifs are highly similar (Figure 1) and thus all values are similar between motifs.  !</text>
+<text top="80" left="137" width="3" height="10" font="1">!</text>
+<text top="85" left="137" width="368" height="10" font="1">Motifs were identiﬁed using a matching stringency corresponding to 4-6 (6mer). Peaks </text>
+<text top="90" left="137" width="390" height="10" font="1">identiﬁed by IDR (1% cutoff) were used in the analysis and +/-50bp from peak centers were </text>
+<text top="96" left="137" width="404" height="10" font="1">considered. Enrichments are for a given motif vs. a background consisting of +/- 50bp from the </text>
+<text top="101" left="137" width="395" height="10" font="1">centers of all DnaseI hypersensitive peaks.  Repeat mask/simple repeats from UCSC and all </text>
+<text top="106" left="137" width="384" height="10" font="1">gencode v7 exons (including non-protein coding genes) were excluded from the analysis.  </text>
+<text top="111" left="137" width="392" height="10" font="1">Comparison to shufﬂe motifs were used to correct for compositional bias.  Enrichment is the </text>
+<text top="116" left="137" width="317" height="10" font="1">corrected # of motifs in ChIP peaks/corrected # of motifs in DNaseI peaks.!</text>
+<text top="122" left="137" width="3" height="10" font="1">!</text>
+<text top="127" left="137" width="401" height="10" font="1">The current ENCODE standard calls for &gt;4-fold enrichment and &gt;10% motif representation for </text>
+<text top="132" left="137" width="391" height="10" font="1">this criteria to be used for validation.  The K562 c-Fos dataset presented here exceed these </text>
+<text top="137" left="137" width="200" height="10" font="1">thresholds and sc-266 is considered validated.!</text>
+</page>
+</pdf2xml>

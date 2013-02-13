@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="186" height="12" font="1">http://www.scbt.com/datasheet-14700-bach</text>
+<text top="613" left="238" width="88" height="12" font="1">1-c-20-antibody.html</text>
+<text top="77" left="138" width="27" height="12" font="1">2/2/12</text>
+<text top="340" left="95" width="430" height="12" font="1">BACH1 (C-20) is an affinity purified goat polyclonal antibody raised against a peptide mapping near the </text>
+<text top="352" left="95" width="159" height="12" font="1">C-terminus of BACH1 of human origin.</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="56" height="12" font="2">Immunoblots</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="29" height="12" font="1">BACH1</text>
+<text top="214" left="339" width="102" height="12" font="1">Bach1 EntrezGeneID:571</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="124" height="12" font="1">Santa Cruz Biotechnology Inc.</text>
+<text top="484" left="361" width="22" height="12" font="1">Goat </text>
+<text top="300" left="395" width="25" height="12" font="1">E1503</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-14700</text>
+<text top="520" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="141" width="109" height="12" font="2">Other Purification Method</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="446" height="12" font="1"> This gene encodes a transcription factor that belongs to the cap'n'collar type of basic region leucine zipper </text>
+<text top="424" left="95" width="447" height="12" font="1">factor family (CNC-bZip). The encoded protein contains broad complex, tramtrack, bric-a-brac/poxvirus and </text>
+<text top="436" left="95" width="430" height="12" font="1">zinc finger (BTB/POZ) domains, which is atypical of CNC-bZip family members. These BTB/POZ domains </text>
+<text top="448" left="95" width="448" height="12" font="1">facilitate protein-protein interactions and formation of homo- and/or hetero-oligomers. When this encoded </text>
+<text top="460" left="95" width="440" height="12" font="1">protein forms a heterodimer with MafK, it functions as a repressor of Maf recognition element (MARE) and </text>
+<text top="472" left="95" width="427" height="12" font="1">transcription is repressed. Multiple alternatively spliced transcript variants have been identified for this </text>
+<text top="484" left="95" width="112" height="12" font="1">gene. (provided by RefSeq)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="406" height="12" font="1">Comment:  In an immunoblot probed with sc14700, we observe a major band consistent with the </text>
+<text top="55" left="125" width="421" height="12" font="1">expected size of Bach1 (82kD) cell line K562 (lane 2).  This band is absent from cell lines GM12878 and </text>
+<text top="67" left="125" width="434" height="12" font="1">HepG2, and is present in lower levels in HeLa S3 cells.  This band is specifically immunoprecipitated from </text>
+<text top="79" left="125" width="428" height="12" font="1">K562 cells (see second validation documentation).  Mass spectrometry analysis verified the presence of </text>
+<text top="91" left="125" width="410" height="12" font="1">Bach1 as the major component of this band.  Therefore, sc14700 meets this criterion for validation. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="8" family="Times" color="#000000"/>
+	<fontspec id="4" size="26" family="Times" color="#000000"/>
+	<fontspec id="5" size="16" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+<text top="401" left="72" width="658" height="12" font="3"><b>A.</b>  Western blot using sc14700 . Lanes contain nuclear lysates from GM12878 cells (Lane 1), K562 cells (Lane 2), HeLa S3 cells (Lane 3), and HepG2 cells (Lane 4).    </text>
+<text top="78" left="288" width="201" height="34" font="4">sc14700(BACH1)  </text>
+<text top="111" left="311" width="148" height="34" font="4">Immunoblot </text>
+<text top="144" left="378" width="4" height="22" font="5"> </text>
+<text top="349" left="334" width="76" height="12" font="1">  Lane   1    2    3   4</text>
+<text top="347" left="409" width="5" height="15" font="6"><b>  </b></text>
+<text top="231" left="329" width="17" height="12" font="1">150 </text>
+<text top="248" left="329" width="17" height="12" font="1">100 </text>
+<text top="261" left="332" width="12" height="12" font="1">75 </text>
+<text top="279" left="332" width="12" height="12" font="1">50 </text>
+<text top="213" left="329" width="17" height="12" font="1">250 </text>
+<text top="310" left="332" width="12" height="12" font="1">25 </text>
+<text top="197" left="319" width="39" height="12" font="1">MW (kD) </text>
+<text top="198" left="269" width="19" height="22" font="5">A. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="409" height="12" font="1">Immunoprecipitation of Bach1 from K562 cells using sc14700.  Lane 1: input nuclear lysate, Lane 2: </text>
+<text top="55" left="130" width="420" height="12" font="1">material immunoprecipitated with ab87525, Lane 3: material immunoprecipitated using control IgG.  </text>
+<text top="67" left="130" width="328" height="12" font="1">Band A was excised from the gel and subject to analysis by mass spectrometry. </text>
+<text top="79" left="130" width="2" height="12" font="1"> </text>
+<text top="91" left="130" width="408" height="12" font="1">IP followed by mass spectrometry: Briefly, K562 whole cell lysates were immunoprecipitated using </text>
+<text top="103" left="130" width="325" height="12" font="1">sc14700, and the IP fraction was loaded on a 10% polyacrylamide gel (NuPAGE</text>
+<text top="102" left="455" width="75" height="14" font="1">ｨ Bis-Tris Gel) and </text>
+<text top="115" left="130" width="385" height="12" font="1">separated with an invitrogen NuPAGE electrophoresis system. The gel was silver-stained, gel </text>
+<text top="127" left="130" width="408" height="12" font="1">fragments corresponding to the bands indicated were excised and destained using the SilverSNAP</text>
+<text top="126" left="538" width="7" height="14" font="1">ｨ </text>
+<text top="139" left="130" width="393" height="12" font="1">Stain for Mass Spectrometry (Pierce). Then proteins were trypsinized using the in-gel digestion </text>
+<text top="152" left="130" width="370" height="12" font="1">method. Digested proteins were analyzed on an LTQ-Orbitrap (Thermo Scientific) by the  </text>
+<text top="164" left="130" width="423" height="12" font="1">nanoLC-ESI-MS/MS technique. Peptides were identified by  the SEQUEST algorithm and filtered with a </text>
+<text top="176" left="130" width="397" height="12" font="1">high confidence threshold (Protein false discovery rate &lt; 1%, 2 peptides per protein minimum). </text>
+<text top="188" left="130" width="2" height="12" font="1"> </text>
+<text top="200" left="130" width="416" height="12" font="1">We report  19 proteins identified in band A, where the majority of signal detected by Western blot is </text>
+<text top="212" left="130" width="417" height="12" font="1">located.  Bach1 is the most abundant of these (23 peptides) and is not detected in the IgG specificity </text>
+<text top="224" left="130" width="378" height="12" font="1">control.  Only 3 other proteins are specifically immunoprecipitated and none are predicted </text>
+<text top="236" left="130" width="179" height="12" font="1">sequence-specific DNA-binding proteins.    </text>
+<text top="248" left="130" width="2" height="12" font="1"> </text>
+<text top="260" left="130" width="400" height="12" font="1">Based on these observations, the major band is likely due to the presence of immunoprecipated </text>
+<text top="272" left="130" width="329" height="12" font="1">Bach1 and sc14700 meets the ENCODE standard for validation by this criterion. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="7" size="14" family="Times" color="#000000"/>
+	<fontspec id="8" size="22" family="Times" color="#000000"/>
+	<fontspec id="9" size="10" family="Times" color="#000000"/>
+<text top="173" left="157" width="32" height="20" font="7">MW </text>
+<text top="207" left="153" width="28" height="20" font="7">250 </text>
+<text top="235" left="153" width="28" height="20" font="7">150 </text>
+<text top="256" left="153" width="28" height="20" font="7">100 </text>
+<text top="275" left="161" width="20" height="20" font="7">75 </text>
+<text top="301" left="152" width="31" height="20" font="7">   50 </text>
+<text top="325" left="162" width="20" height="20" font="7">37 </text>
+<text top="350" left="162" width="20" height="20" font="7">25 </text>
+<text top="388" left="161" width="20" height="20" font="7">10 </text>
+<text top="444" left="161" width="34" height="20" font="7">Lane </text>
+<text top="445" left="230" width="111" height="20" font="7"> 1           2           3 </text>
+<text top="260" left="390" width="50" height="20" font="7">Band A </text>
+<text top="39" left="290" width="207" height="34" font="4">sc14700 (Bach1)  </text>
+<text top="74" left="146" width="496" height="31" font="4">Immunoprecipitation/Mass spectrometry</text>
+<text top="77" left="635" width="7" height="27" font="8"> </text>
+<text top="107" left="43" width="7" height="27" font="8"> </text>
+<text top="386" left="467" width="187" height="15" font="9">Lane 1 Input lysate from cell line K562 </text>
+<text top="400" left="467" width="3" height="15" font="9"> </text>
+<text top="414" left="467" width="151" height="15" font="9">Lane 2 Bound material from IP </text>
+<text top="429" left="467" width="3" height="15" font="9"> </text>
+<text top="443" left="467" width="209" height="15" font="9">Lane 3 Bound material from IP            using </text>
+<text top="458" left="521" width="78" height="15" font="9">non‐speciﬁc IgG</text>
+<text top="454" left="599" width="4" height="20" font="7"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="10" size="9" family="Times" color="#000000"/>
+<text top="73" left="209" width="80" height="12" font="10">Name of Protein</text>
+<text top="73" left="446" width="228" height="12" font="10">Count of Peptides Ratio (BACH1/IgG Control)</text>
+<text top="86" left="155" width="187" height="12" font="10">Transcription regulator protein BACH1</text>
+<text top="86" left="483" width="12" height="12" font="10">23</text>
+<text top="86" left="553" width="107" height="12" font="10">NOT IN CONTROL IP</text>
+<text top="99" left="143" width="212" height="12" font="10">X-ray repair cross-complementing protein 5</text>
+<text top="99" left="483" width="12" height="12" font="10">14</text>
+<text top="99" left="575" width="64" height="12" font="10">0.823529412</text>
+<text top="112" left="72" width="353" height="12" font="10">Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15</text>
+<text top="112" left="483" width="12" height="12" font="10">14</text>
+<text top="112" left="575" width="64" height="12" font="10">0.736842105</text>
+<text top="125" left="169" width="158" height="12" font="10">Heat shock protein HSP 90-beta</text>
+<text top="125" left="483" width="12" height="12" font="10">12</text>
+<text top="125" left="604" width="6" height="12" font="10">4</text>
+<text top="138" left="111" width="276" height="12" font="10">Isoform 2 of Heterogeneous nuclear ribonucleoprotein M</text>
+<text top="138" left="483" width="12" height="12" font="10">12</text>
+<text top="138" left="575" width="64" height="12" font="10">0.387096774</text>
+<text top="151" left="59" width="379" height="12" font="10">cDNA FLJ54020, highly similar to Heterogeneous nuclear ribonucleoprotein U</text>
+<text top="151" left="484" width="11" height="12" font="10">11</text>
+<text top="151" left="575" width="64" height="12" font="10">0.785714286</text>
+<text top="164" left="136" width="225" height="12" font="10">Isoform 1 of Heat shock protein HSP 90-alpha</text>
+<text top="164" left="486" width="6" height="12" font="10">9</text>
+<text top="164" left="553" width="107" height="12" font="10">NOT IN CONTROL IP</text>
+<text top="176" left="128" width="241" height="12" font="10">Isoform 5 of Interleukin enhancer-binding factor 3</text>
+<text top="176" left="486" width="6" height="12" font="10">8</text>
+<text top="176" left="604" width="6" height="12" font="10">1</text>
+<text top="189" left="155" width="187" height="12" font="10">Isoform 1 of Nucleolar RNA helicase 2</text>
+<text top="189" left="486" width="6" height="12" font="10">7</text>
+<text top="189" left="578" width="58" height="12" font="10">0.24137931</text>
+<text top="202" left="171" width="156" height="12" font="10">Stress-70 protein, mitochondrial</text>
+<text top="202" left="486" width="6" height="12" font="10">6</text>
+<text top="202" left="596" width="21" height="12" font="10">0.75</text>
+<text top="215" left="156" width="185" height="12" font="10">ATP-dependent RNA helicase DDX18</text>
+<text top="215" left="486" width="6" height="12" font="10">6</text>
+<text top="215" left="575" width="64" height="12" font="10">0.315789474</text>
+<text top="228" left="168" width="162" height="12" font="10">BEN domain-containing protein 3</text>
+<text top="228" left="486" width="6" height="12" font="10">5</text>
+<text top="228" left="553" width="107" height="12" font="10">NOT IN CONTROL IP</text>
+<text top="241" left="111" width="275" height="12" font="10">Isoform 1 of Heterogeneous nuclear ribonucleoprotein R</text>
+<text top="241" left="486" width="6" height="12" font="10">5</text>
+<text top="241" left="575" width="64" height="12" font="10">0.416666667</text>
+<text top="254" left="111" width="275" height="12" font="10">Isoform 2 of Heterogeneous nuclear ribonucleoprotein R</text>
+<text top="254" left="486" width="6" height="12" font="10">5</text>
+<text top="254" left="575" width="64" height="12" font="10">0.416666667</text>
+<text top="267" left="212" width="72" height="12" font="10">HSPA5 protein</text>
+<text top="267" left="486" width="6" height="12" font="10">4</text>
+<text top="267" left="604" width="6" height="12" font="10">2</text>
+<text top="280" left="199" width="98" height="12" font="10">Nucleolar protein 11</text>
+<text top="280" left="486" width="6" height="12" font="10">3</text>
+<text top="280" left="593" width="28" height="12" font="10">0.375</text>
+<text top="293" left="192" width="114" height="12" font="10">Isoform A of Lamin-A/C</text>
+<text top="293" left="486" width="6" height="12" font="10">3</text>
+<text top="293" left="578" width="58" height="12" font="10">0.111111111</text>
+<text top="306" left="136" width="225" height="12" font="10">Probable ATP-dependent RNA helicase DDX5</text>
+<text top="306" left="486" width="6" height="12" font="10">2</text>
+<text top="306" left="553" width="107" height="12" font="10">NOT IN CONTROL IP</text>
+<text top="319" left="102" width="293" height="12" font="10">Isoform 3 of Probable ATP-dependent RNA helicase DDX17</text>
+<text top="319" left="486" width="6" height="12" font="10">2</text>
+<text top="319" left="604" width="6" height="12" font="10">1</text>
+</page>
+</pdf2xml>

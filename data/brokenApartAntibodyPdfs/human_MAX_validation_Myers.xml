@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="105" width="405" height="16" font="0"><b>Transcription factor: MYC associated factor X (GeneID 4149) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="284" height="13" font="1"><b>Transcription factor:</b> MAX (GeneID 4149; ~18 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="319" height="13" font="1"><b>Antibody:</b> MAX (C-17), Santa Cruz Biotechnology (sc-197) </text>
+<text top="215" left="77" width="414" height="13" font="2">Rabbit polyclonal, epitope mapping at the C-terminus of MAX of human origin </text>
+<text top="229" left="77" width="352" height="13" font="2">Web: http://www.scbt.com/datasheet-197-max-c-17-antibody.html </text>
+<text top="243" left="77" width="3" height="13" font="2"> </text>
+<text top="256" left="77" width="3" height="13" font="2"> </text>
+<text top="270" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="296" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="310" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="324" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="348" left="77" width="3" height="13" font="2"> </text>
+<text top="371" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="548" left="201" width="3" height="13" font="2"> </text>
+<text top="569" left="81" width="422" height="13" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  MAX  expression  in  HeLa  (A)  and </text>
+<text top="583" left="81" width="142" height="13" font="2">K562 (B) nuclear extracts. </text>
+<text top="606" left="81" width="3" height="13" font="2"> </text>
+<text top="630" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="654" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="678" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="702" left="81" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="96" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="120" left="77" width="467" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="134" left="77" width="467" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="148" left="77" width="467" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="161" left="77" width="467" height="13" font="2">with an Invitrogen iBlot system.  Blotting with primary (same as that used for IP) and </text>
+<text top="175" left="77" width="467" height="13" font="2">secondary HRP-conjugated antibodies was performed on an Invitrogen BenchPro 4100 </text>
+<text top="189" left="77" width="467" height="13" font="2">system.  Visualization  was  achieved  using  SuperSignal  West  Femto  solution  (Thermo </text>
+<text top="203" left="77" width="62" height="13" font="2">Scientific).  </text>
+<text top="227" left="77" width="10" height="13" font="2">   </text>
+<text top="620" left="77" width="3" height="13" font="2"> </text>
+<text top="620" left="385" width="3" height="13" font="2"> </text>
+<text top="641" left="122" width="354" height="13" font="1"><b>Figure  Legend:</b>  MAX  immunoblot:  IP-western  with  sc-197  MAX </text>
+<text top="655" left="122" width="354" height="13" font="2">antibody  in  whole  cell  lysates  (WCL)  of  K562  and  GM12878. </text>
+<text top="668" left="122" width="354" height="13" font="2">Heavy  chain  of  IgG  is  indicated,  and  MAX  band  is  indicated  at </text>
+<text top="682" left="122" width="52" height="13" font="2">~22 kDa. </text>
+<text top="706" left="77" width="3" height="13" font="2"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="7" family="Times" color="#000000"/>
+<text top="72" left="77" width="3" height="13" font="2"> </text>
+<text top="96" left="77" width="282" height="16" font="0"><b>Validation 2: Mass Spectrometry Analysis </b></text>
+<text top="122" left="77" width="467" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="136" left="77" width="467" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="150" left="77" width="467" height="13" font="2">spectrometry analysis. Briefly, K562 whole cell lysates were immunoprecipitated using </text>
+<text top="164" left="77" width="467" height="13" font="2">primary  antibody,  and  the  IP  fraction  was  loaded  on  a  12%  acrylamide  gel  and </text>
+<text top="177" left="77" width="467" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="191" left="77" width="467" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="205" left="77" width="467" height="13" font="2">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="219" left="77" width="467" height="13" font="2">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="233" left="77" width="467" height="13" font="2">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="246" left="77" width="467" height="13" font="2">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="260" left="77" width="467" height="13" font="2">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="274" left="77" width="467" height="13" font="2">Subsequent  analysis  was  performed  in  Scaffold  (Proteome  Software,  Inc.)  at  0.0% </text>
+<text top="288" left="77" width="467" height="13" font="2">protein  FDR  and  1.8%  peptide  FDR.  As  per  ENCODE  data  standards,  all  Scaffold </text>
+<text top="302" left="77" width="467" height="13" font="2">results are listed below, including common contaminants. Target protein is highlighted </text>
+<text top="315" left="77" width="65" height="13" font="2">in bold font. </text>
+<text top="339" left="77" width="3" height="13" font="2"> </text>
+<text top="363" left="77" width="439" height="11" font="3">Cytochrome c oxidase subunit 2 n=1 Tax=Homo sapiens RepID=A0S2P1_HUMAN  A0S2P1 (+63) </text>
+<text top="385" left="77" width="360" height="11" font="3">Tubulin beta-2C chain n=3 Tax=Eutheria RepID=TBB2C_HUMAN  P68371 (+1) </text>
+<text top="406" left="77" width="311" height="11" font="3">60S ribosomal protein L18 n=3 Tax=Catarrhini RepID=RL18_HUMAN </text>
+<text top="406" left="414" width="38" height="11" font="3">Q07020 </text>
+<text top="428" left="77" width="466" height="11" font="3">cDNA FLJ75549, highly similar to Homo sapiens ribosomal protein, large, P0 (RPLP0), transcript variant </text>
+<text top="439" left="77" width="325" height="11" font="3">1, mRNA n=1 Tax=Homo sapiens RepID=A8K4Z4_HUMAN A8K4Z4 (+1) </text>
+<text top="461" left="77" width="466" height="11" font="3">cDNA  FLJ54023,  highly  similar  to  Heat  shock  protein  HSP  90-beta  n=1  Tax=Homo  sapiens </text>
+<text top="472" left="77" width="185" height="11" font="3">RepID=B4DMA2_HUMAN  B4DMA2 (+1) </text>
+<text top="494" left="77" width="398" height="11" font="3">Putative uncharacterized protein RAN n=1 Tax=Homo sapiens RepID=B5MDF5_HUMAN </text>
+<text top="494" left="486" width="42" height="11" font="3">B5MDF5 </text>
+<text top="505" left="77" width="21" height="11" font="3">(+2) </text>
+<text top="526" left="77" width="452" height="11" font="3">Putative uncharacterized protein RPL24 n=1 Tax=Homo sapiens RepID=C9JNW5_HUMAN  C9JNW5 </text>
+<text top="538" left="77" width="21" height="11" font="3">(+2) </text>
+<text top="559" left="77" width="390" height="11" font="3">Chloride intracellular channel protein 1 n=2 Tax=Homo sapiens RepID=CLIC1_HUMAN </text>
+<text top="559" left="486" width="38" height="11" font="3">O00299 </text>
+<text top="571" left="77" width="21" height="11" font="3">(+2) </text>
+<text top="592" left="77" width="343" height="11" font="3">L-lactate dehydrogenase B chain n=4 Tax=Catarrhini RepID=LDHB_HUMAN </text>
+<text top="592" left="450" width="37" height="11" font="3">P07195 </text>
+<text top="614" left="77" width="276" height="11" font="3">Tubulin beta chain n=12 Tax=Amniota RepID=TBB5_HUMAN </text>
+<text top="614" left="378" width="37" height="11" font="3">P07437 </text>
+<text top="636" left="77" width="320" height="11" font="3">60S ribosomal protein L9 n=3 Tax=Homo sapiens RepID=RL9_HUMAN </text>
+<text top="636" left="414" width="37" height="11" font="3">P32969 </text>
+<text top="657" left="77" width="305" height="11" font="3">60S ribosomal protein L21 n=3 Tax=Eutheria RepID=RL21_HUMAN </text>
+<text top="657" left="414" width="37" height="11" font="3">P46778 </text>
+<text top="679" left="77" width="339" height="11" font="3">40S ribosomal protein S9 n=13 Tax=Eutheria RepID=RS9_HUMAN P46781 </text>
+<text top="700" left="77" width="354" height="11" font="3">Signal peptidase complex subunit 3 n=4 Tax=Eutheria RepID=SPCS3_HUMAN </text>
+<text top="700" left="450" width="37" height="11" font="3">P61009 </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="4" size="7" family="Times" color="#000000"/>
+<text top="72" left="77" width="249" height="11" font="4"><b>Protein max n=2 Tax=Eutheria RepID=MAX_HUMAN </b></text>
+<text top="72" left="342" width="58" height="11" font="4"><b>P61244 (+1) </b></text>
+<text top="94" left="77" width="325" height="11" font="3">Chromobox protein homolog 3 n=9 Tax=Eutheria RepID=CBX3_HUMAN </text>
+<text top="94" left="414" width="38" height="11" font="3">Q13185 </text>
+<text top="115" left="77" width="323" height="11" font="3">Ribosomal protein S8 n=2 Tax=Homo sapiens RepID=Q5JR95_HUMAN </text>
+<text top="115" left="414" width="60" height="11" font="3">Q5JR95 (+1) </text>
+</page>
+</pdf2xml>

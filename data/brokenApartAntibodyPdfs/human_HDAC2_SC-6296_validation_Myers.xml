@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="9" family="Times" color="#000000"/>
+	<fontspec id="2" size="9" family="Times" color="#000000"/>
+<text top="86" left="161" width="292" height="15" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="102" left="122" width="371" height="15" font="0"><b>Transcription factor: histone deacytelase 2 (GeneID 3066) </b></text>
+<text top="117" left="85" width="3" height="13" font="1"><b> </b></text>
+<text top="130" left="85" width="330" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="143" left="85" width="326" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="157" left="85" width="3" height="13" font="2"> </text>
+<text top="170" left="85" width="3" height="13" font="2"> </text>
+<text top="183" left="85" width="287" height="13" font="1"><b>Transcription factor:</b> HDAC2 (GeneID 3066; ~55 kDa) </text>
+<text top="196" left="85" width="3" height="13" font="1"><b> </b></text>
+<text top="210" left="85" width="326" height="13" font="1"><b>Antibody:</b> HDAC2 (C-19), Santa Cruz Biotechnology (sc-6296) </text>
+<text top="223" left="85" width="384" height="13" font="2">Goat polyclonal, epitope mapping at C-terminus of HDAC2 of human origin </text>
+<text top="236" left="85" width="353" height="13" font="2">Web: http://www.scbt.com/datasheet-6296-hdac2-c-19-antibody.html </text>
+<text top="249" left="85" width="3" height="13" font="2"> </text>
+<text top="263" left="85" width="3" height="13" font="2"> </text>
+<text top="276" left="85" width="227" height="15" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="301" left="85" width="448" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="314" left="85" width="448" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="327" left="85" width="71" height="13" font="2">Western blot. </text>
+<text top="350" left="85" width="3" height="13" font="2"> </text>
+<text top="373" left="85" width="180" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="555" left="288" width="3" height="13" font="2"> </text>
+<text top="576" left="90" width="405" height="13" font="1"><b>Figure Legend:</b> Western blot analysis of HDAC2 expression in K562 (A) and </text>
+<text top="589" left="90" width="226" height="13" font="2">phorbol-induced Jurkat (B) nuclear extracts. </text>
+<text top="612" left="90" width="3" height="13" font="2"> </text>
+<text top="635" left="90" width="3" height="13" font="1"><b> </b></text>
+<text top="657" left="90" width="3" height="13" font="1"><b> </b></text>
+<text top="680" left="90" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="86" left="90" width="3" height="13" font="1"><b> </b></text>
+<text top="109" left="90" width="194" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="132" left="85" width="125" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="155" left="85" width="448" height="13" font="2">Whole cell lysates or nuclear extracts were immunoprecipitated using primary antibody, </text>
+<text top="168" left="85" width="448" height="13" font="2">and the IP fraction was loaded on a 12% acrylamide gel and separated with a Bio-Rad </text>
+<text top="181" left="85" width="448" height="13" font="2">PROTEAN  II  xi  system.  After  separation,  the  samples  were  transferred  to  a </text>
+<text top="194" left="85" width="448" height="13" font="2">nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary (same </text>
+<text top="208" left="85" width="448" height="13" font="2">as that used for IP) and secondary HRP-conjugated antibodies was performed on an </text>
+<text top="221" left="85" width="448" height="13" font="2">Invitrogen BenchPro 4100 system. Visualization was achieved using SuperSignal West </text>
+<text top="234" left="85" width="185" height="13" font="2">Femto solution (Thermo Scientific).  </text>
+<text top="257" left="85" width="10" height="13" font="2">   </text>
+<text top="623" left="85" width="3" height="13" font="2"> </text>
+<text top="623" left="443" width="3" height="13" font="2"> </text>
+<text top="644" left="129" width="340" height="13" font="1"><b>Figure  Legend:</b>  HDAC2  immunoblot:  IP-western  with  sc-6296 </text>
+<text top="657" left="129" width="340" height="13" font="2">HDAC2  antibody  in  nuclear  extract  (NE)  or  whole  cell  lysates </text>
+<text top="670" left="129" width="340" height="13" font="2">(WCL)  of  K562,  GM12878,  and  HepG2.  Heavy  chain  of  IgG  is </text>
+<text top="683" left="129" width="269" height="13" font="2">indicated, and HDAC2 band is indicated at ~60 kDa. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="7" family="Times" color="#000000"/>
+	<fontspec id="4" size="7" family="Times" color="#000000"/>
+<text top="86" left="98" width="270" height="15" font="0"><b>Validation 2: Mass Spectrometry Analysis </b></text>
+<text top="111" left="85" width="448" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="124" left="85" width="448" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="138" left="85" width="448" height="13" font="2">spectrometry analysis. Briefly, K562 whole cell lysates were immunoprecipitated using </text>
+<text top="151" left="85" width="448" height="13" font="2">primary  antibody,  and  the  IP  fraction  was  loaded  on  a  12%  acrylamide  gel  and </text>
+<text top="164" left="85" width="448" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="177" left="85" width="448" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="191" left="85" width="448" height="13" font="2">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="204" left="85" width="448" height="13" font="2">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="217" left="85" width="448" height="13" font="2">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="230" left="85" width="448" height="13" font="2">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="243" left="85" width="448" height="13" font="2">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="257" left="85" width="448" height="13" font="2">Subsequent  analysis  was  performed  in  Scaffold  (Proteome  Software,  Inc.)  at  0.0% </text>
+<text top="270" left="85" width="448" height="13" font="2">protein  FDR  and  0.0%  peptide  FDR.  As  per  ENCODE  data  standards,  all  Scaffold </text>
+<text top="283" left="85" width="448" height="13" font="2">results are listed below, including common contaminants. Target protein is highlighted </text>
+<text top="296" left="85" width="63" height="13" font="2">in bold font. </text>
+<text top="319" left="85" width="3" height="13" font="2"> </text>
+<text top="342" left="85" width="331" height="11" font="3">T-complex protein 1 subunit alpha OS=Homo sapiens GN=TCP1 PE=1 SV=1 </text>
+<text top="342" left="444" width="69" height="11" font="3">TCPA_HUMAN </text>
+<text top="363" left="85" width="287" height="11" font="3">Vimentin OS=Homo sapiens GN=VIM PE=1 SV=4  VIME_HUMAN </text>
+<text top="383" left="85" width="392" height="11" font="3">T-complex protein 1 subunit beta OS=Homo sapiens GN=CCT2 PE=1 SV=4 TCPB_HUMAN </text>
+<text top="404" left="85" width="393" height="11" font="3">T-complex protein 1 subunit eta OS=Homo sapiens GN=CCT7 PE=1 SV=2  TCPH_HUMAN </text>
+<text top="425" left="85" width="445" height="11" font="3">60  kDa  heat  shock  protein,  mitochondrial  OS=Homo  sapiens  GN=HSPD1  PE=1  SV=2</text>
+<text top="436" left="85" width="81" height="11" font="3">  CH60_HUMAN </text>
+<text top="456" left="85" width="331" height="11" font="3">Pyruvate kinase isozymes M1/M2 OS=Homo sapiens GN=PKM2 PE=1 SV=4 </text>
+<text top="456" left="444" width="70" height="11" font="3">KPYM_HUMAN </text>
+<text top="477" left="85" width="328" height="11" font="3">T-complex protein 1 subunit delta OS=Homo sapiens GN=CCT4 PE=1 SV=4 </text>
+<text top="477" left="444" width="69" height="11" font="3">TCPD_HUMAN </text>
+<text top="497" left="85" width="338" height="11" font="3">T-complex protein 1 subunit epsilon OS=Homo sapiens GN=CCT5 PE=1 SV=1 </text>
+<text top="497" left="444" width="69" height="11" font="3">TCPE_HUMAN </text>
+<text top="518" left="85" width="428" height="11" font="3">Tyrosyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=YARS PE=1 SV=4  SYYC_HUMAN </text>
+<text top="539" left="85" width="445" height="11" font="3">Asparagine  synthetase  [glutamine-hydrolyzing]  OS=Homo  sapiens  GN=ASNS  PE=1  SV=4</text>
+<text top="550" left="85" width="82" height="11" font="3">  ASNS_HUMAN </text>
+<text top="570" left="85" width="445" height="11" font="3">Non-POU  domain-containing  octamer-binding  protein  OS=Homo  sapiens  GN=NONO  PE=1  SV=4</text>
+<text top="581" left="85" width="85" height="11" font="3">  NONO_HUMAN </text>
+<text top="602" left="85" width="299" height="11" font="4"><b>Histone deacetylase 2 OS=Homo sapiens GN=HDAC2 PE=1 SV=2 </b></text>
+<text top="602" left="409" width="77" height="11" font="4"><b>HDAC2_HUMAN </b></text>
+<text top="623" left="85" width="432" height="11" font="3">Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4  HS90B_HUMAN </text>
+<text top="643" left="85" width="389" height="11" font="3">Glucose-6-phosphate isomerase OS=Homo sapiens GN=GPI PE=1 SV=4  G6PI_HUMAN </text>
+<text top="664" left="85" width="332" height="11" font="3">T-complex protein 1 subunit zeta OS=Homo sapiens GN=CCT6A PE=1 SV=3 </text>
+<text top="664" left="444" width="68" height="11" font="3">TCPZ_HUMAN </text>
+<text top="684" left="85" width="293" height="11" font="3">Coatomer subunit delta OS=Homo sapiens GN=ARCN1 PE=1 SV=1 </text>
+<text top="684" left="409" width="71" height="11" font="3">COPD_HUMAN </text>
+</page>
+</pdf2xml>

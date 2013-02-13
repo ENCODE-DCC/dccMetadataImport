@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="113" width="389" height="16" font="0"><b>Transcription factor: B-cell CLL/lymphoma 3 (GeneID 602) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="282" height="13" font="1"><b>Transcription factor:</b> BCL3 (GeneID 602; ~47 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="323" height="13" font="1"><b>Antibody:</b> BCL3 (C-14), Santa Cruz Biotechnology (sc-185) </text>
+<text top="215" left="77" width="418" height="13" font="2">Rabbit polyclonal, epitope mapping at the C-terminus of BCL3 of human origin </text>
+<text top="229" left="77" width="355" height="13" font="2">Web: http://www.scbt.com/datasheet-185-bcl-3-c-14-antibody.html </text>
+<text top="243" left="77" width="3" height="13" font="2"> </text>
+<text top="256" left="77" width="3" height="13" font="2"> </text>
+<text top="270" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="296" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="310" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="324" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="348" left="77" width="3" height="13" font="2"> </text>
+<text top="371" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="525" left="200" width="3" height="13" font="2"> </text>
+<text top="546" left="81" width="422" height="13" font="1"><b>Figure Legend:</b> Western blot analysis of BCL3 expression in NAMALWA (A) </text>
+<text top="560" left="81" width="181" height="13" font="2">an WEHI-3 (B) whole cell lysates. </text>
+<text top="584" left="81" width="3" height="13" font="2"> </text>
+<text top="608" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="631" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="655" left="90" width="3" height="13" font="1"><b> </b></text>
+<text top="679" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="703" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="467" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="86" left="77" width="467" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="100" left="77" width="467" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="114" left="77" width="467" height="13" font="2">with an Invitrogen iBlot system.  Blotting with primary (same as that used for IP) and </text>
+<text top="128" left="77" width="467" height="13" font="2">secondary HRP-conjugated antibodies was performed on an Invitrogen BenchPro 4100 </text>
+<text top="141" left="77" width="467" height="13" font="2">system.  Visualization  was  achieved  using  SuperSignal  West  Femto  solution  (Thermo </text>
+<text top="155" left="77" width="62" height="13" font="2">Scientific).  </text>
+<text top="179" left="77" width="10" height="13" font="2">   </text>
+<text top="566" left="77" width="3" height="13" font="2"> </text>
+<text top="566" left="511" width="3" height="13" font="2"> </text>
+<text top="587" left="122" width="354" height="13" font="1"><b>Figure Legend:</b> BCL3 immunoblot: IP-western with sc-185 BCL3 </text>
+<text top="601" left="122" width="354" height="13" font="2">antibody  in  whole  cell  lysates  (WCL)  of  K562,  GM12878,  and </text>
+<text top="615" left="122" width="354" height="13" font="2">HepG2.  Heavy  chain  of  IgG  is  indicated,  and  BCL3  band  is </text>
+<text top="629" left="122" width="120" height="13" font="2">indicated at ~60 kDa.  </text>
+<text top="653" left="77" width="3" height="13" font="2"> </text>
+<text top="676" left="77" width="3" height="13" font="2"> </text>
+<text top="700" left="77" width="167" height="16" font="0"><b>Validation 2: In progress </b></text>
+</page>
+</pdf2xml>

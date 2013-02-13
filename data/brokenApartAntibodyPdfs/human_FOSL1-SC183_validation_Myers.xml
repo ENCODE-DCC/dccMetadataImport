@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="55" height="12" font="1">May 13, 2011</text>
+<text top="359" left="94" width="315" height="12" font="1">Rabbit polyclonal, epitope mapping at N-terminus of FRA-1 of human origin</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="52" height="12" font="1">FRA-1 (N-17)</text>
+<text top="215" left="339" width="27" height="12" font="1">FOSL1</text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="23" height="12" font="1">I0809</text>
+<text top="300" left="215" width="27" height="12" font="1">sc-183</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="425" left="94" width="119" height="12" font="1">FOS-like antigen 1;  ~29 kDa </text>
+<text top="437" left="94" width="75" height="12" font="1">Entrez Gene: 8061</text>
+<text top="599" left="238" width="177" height="12" font="1">http://www.scbt.com/datasheet-183-fra-1-</text>
+<text top="611" left="238" width="81" height="12" font="1">n-17-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="86" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="98" left="125" width="433" height="12" font="1">Whole cell lysate or nuclear extract was immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="110" left="125" width="391" height="12" font="1">was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. After </text>
+<text top="122" left="125" width="431" height="12" font="1">separation, the samples were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  </text>
+<text top="134" left="125" width="394" height="12" font="1">Blotting with primary (same as that used for IP) and secondary HRP-conjugated antibodies was </text>
+<text top="146" left="125" width="429" height="12" font="1">performed on an Invitrogen BenchPro 4100 system. Visualization was achieved using SuperSignal West </text>
+<text top="158" left="125" width="150" height="12" font="1">Femto solution (Thermo Scientific).  </text>
+<text top="170" left="125" width="2" height="12" font="1"> </text>
+<text top="182" left="125" width="344" height="12" font="1">Results: Band of expected size visualized, representing strongest signal in the lane. </text>
+<text top="194" left="125" width="2" height="12" font="1"> </text>
+<text top="206" left="125" width="415" height="12" font="1">Figure legend: IP-western with sc-183 in whole cell lysates (WCL) or nuclear extract (NE) of K562 and </text>
+<text top="218" left="125" width="313" height="12" font="1">HeLa; PM=protein marker. FOSL1 band is indicated, as is heavy chain of IgG.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="84" left="95" width="95" height="12" font="2">Identified Proteins </text>
+<text top="96" left="95" width="32" height="12" font="2">(447) </text>
+<text top="84" left="198" width="52" height="12" font="2">Accession </text>
+<text top="96" left="198" width="43" height="12" font="2">Number </text>
+<text top="84" left="288" width="51" height="12" font="2">Molecular </text>
+<text top="96" left="288" width="39" height="12" font="2">Weight </text>
+<text top="72" left="347" width="43" height="12" font="2">Bowling </text>
+<text top="84" left="347" width="37" height="12" font="2">FOSL1-</text>
+<text top="96" left="347" width="10" height="12" font="2">1 </text>
+<text top="119" left="95" width="47" height="12" font="2">Fructose-</text>
+<text top="131" left="95" width="70" height="12" font="2">bisphosphate </text>
+<text top="143" left="95" width="55" height="12" font="2">aldolase A </text>
+<text top="155" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="167" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="179" left="95" width="92" height="12" font="2">GN=ALDOA PE=1 </text>
+<text top="191" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="191" left="198" width="129" height="12" font="2">ALDOA_HUMAN  39 kDa </text>
+<text top="191" left="379" width="10" height="12" font="2">8 </text>
+<text top="214" left="95" width="86" height="12" font="2">Poly(rC)-binding </text>
+<text top="226" left="95" width="49" height="12" font="2">protein 1 </text>
+<text top="238" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="250" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="262" left="95" width="90" height="12" font="2">GN=PCBP1 PE=1 </text>
+<text top="274" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="274" left="198" width="129" height="12" font="2">PCBP1_HUMAN  37 kDa </text>
+<text top="274" left="379" width="10" height="12" font="2">8 </text>
+<text top="297" left="95" width="47" height="12" font="2">L-lactate </text>
+<text top="309" left="95" width="91" height="12" font="2">dehydrogenase B </text>
+<text top="321" left="95" width="86" height="12" font="2">chain OS=Homo </text>
+<text top="333" left="95" width="96" height="12" font="2">sapiens GN=LDHB </text>
+<text top="345" left="95" width="62" height="12" font="2">PE=1 SV=2 </text>
+<text top="345" left="198" width="75" height="12" font="2">LDHB_HUMAN </text>
+<text top="345" left="288" width="39" height="12" font="2">37 kDa </text>
+<text top="345" left="379" width="10" height="12" font="2">6 </text>
+<text top="367" left="95" width="55" height="12" font="2">60S acidic </text>
+<text top="379" left="95" width="92" height="12" font="2">ribosomal protein </text>
+<text top="392" left="95" width="72" height="12" font="2">P0 OS=Homo </text>
+<text top="404" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="416" left="95" width="88" height="12" font="2">GN=RPLP0 PE=1 </text>
+<text top="428" left="95" width="32" height="12" font="2">SV=1 </text>
+<text top="428" left="198" width="73" height="12" font="2">RLA0_HUMAN </text>
+<text top="428" left="288" width="39" height="12" font="2">34 kDa </text>
+<text top="428" left="379" width="10" height="12" font="2">5 </text>
+<text top="450" left="95" width="74" height="12" font="2">Alpha-enolase </text>
+<text top="462" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="474" left="95" width="96" height="12" font="2">sapiens GN=ENO1 </text>
+<text top="487" left="95" width="62" height="12" font="2">PE=1 SV=2 </text>
+<text top="487" left="198" width="76" height="12" font="2">ENOA_HUMAN </text>
+<text top="487" left="288" width="39" height="12" font="2">47 kDa </text>
+<text top="487" left="379" width="10" height="12" font="2">5 </text>
+<text top="509" left="95" width="93" height="12" font="2">Glyceraldehyde-3-</text>
+<text top="521" left="95" width="56" height="12" font="2">phosphate </text>
+<text top="533" left="95" width="80" height="12" font="2">dehydrogenase </text>
+<text top="545" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="557" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="570" left="95" width="93" height="12" font="2">GN=GAPDH PE=1 </text>
+<text top="582" left="95" width="32" height="12" font="2">SV=3 </text>
+<text top="582" left="198" width="68" height="12" font="2">G3P_HUMAN </text>
+<text top="582" left="288" width="39" height="12" font="2">36 kDa </text>
+<text top="582" left="379" width="10" height="12" font="2">4 </text>
+<text top="604" left="95" width="84" height="12" font="2">Aminoacyl tRNA </text>
+<text top="616" left="95" width="48" height="12" font="2">synthase </text>
+<text top="628" left="95" width="46" height="12" font="2">complex-</text>
+<text top="640" left="95" width="57" height="12" font="2">interacting </text>
+<text top="653" left="95" width="78" height="12" font="2">multifunctional </text>
+<text top="665" left="95" width="49" height="12" font="2">protein 2 </text>
+<text top="677" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="689" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="701" left="95" width="89" height="12" font="2">GN=AIMP2 PE=1 </text>
+<text top="691" left="198" width="129" height="12" font="2">AIMP2_HUMAN  35 kDa </text>
+<text top="691" left="379" width="10" height="12" font="2">3 </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="94" left="95" width="67" height="12" font="2">Core histone </text>
+<text top="106" left="95" width="70" height="12" font="2">macro-H2A.1 </text>
+<text top="119" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="131" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="143" left="95" width="90" height="12" font="2">GN=H2AFY PE=1 </text>
+<text top="155" left="95" width="32" height="12" font="2">SV=4 </text>
+<text top="155" left="198" width="74" height="12" font="2">H2AY_HUMAN </text>
+<text top="155" left="288" width="39" height="12" font="2">40 kDa </text>
+<text top="155" left="379" width="10" height="12" font="2">3 </text>
+<text top="177" left="95" width="89" height="12" font="2">Elongation factor </text>
+<text top="189" left="95" width="95" height="12" font="2">1-delta OS=Homo </text>
+<text top="201" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="214" left="95" width="90" height="12" font="2">GN=EEF1D PE=1 </text>
+<text top="226" left="95" width="32" height="12" font="2">SV=5 </text>
+<text top="226" left="198" width="74" height="12" font="2">EF1D_HUMAN </text>
+<text top="226" left="288" width="39" height="12" font="2">31 kDa </text>
+<text top="226" left="379" width="10" height="12" font="2">3 </text>
+<text top="248" left="95" width="59" height="12" font="2">Heat shock </text>
+<text top="260" left="95" width="80" height="12" font="2">protein HSP 90-</text>
+<text top="272" left="95" width="81" height="12" font="2">beta OS=Homo </text>
+<text top="284" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="297" left="95" width="80" height="12" font="2">GN=HSP90AB1 </text>
+<text top="309" left="95" width="62" height="12" font="2">PE=1 SV=4 </text>
+<text top="309" left="198" width="129" height="12" font="2">HS90B_HUMAN  83 kDa </text>
+<text top="309" left="379" width="10" height="12" font="2">3 </text>
+<text top="331" left="95" width="71" height="12" font="2">Mitochondrial </text>
+<text top="343" left="95" width="66" height="12" font="2">import inner </text>
+<text top="355" left="95" width="58" height="12" font="2">membrane </text>
+<text top="367" left="95" width="60" height="12" font="2">translocase </text>
+<text top="379" left="95" width="76" height="12" font="2">subunit TIM50 </text>
+<text top="392" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="404" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="416" left="95" width="67" height="12" font="2">GN=TIMM50 </text>
+<text top="428" left="95" width="62" height="12" font="2">PE=1 SV=2 </text>
+<text top="428" left="198" width="129" height="12" font="2">TIM50_HUMAN  40 kDa </text>
+<text top="428" left="379" width="10" height="12" font="2">3 </text>
+<text top="450" left="95" width="77" height="12" font="2">Sterol-4-alpha-</text>
+<text top="462" left="95" width="73" height="12" font="2">carboxylate 3-</text>
+<text top="474" left="95" width="84" height="12" font="2">dehydrogenase, </text>
+<text top="487" left="95" width="83" height="12" font="2">decarboxylating </text>
+<text top="499" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="511" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="523" left="95" width="92" height="12" font="2">GN=NSDHL PE=1 </text>
+<text top="535" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="535" left="198" width="129" height="12" font="2">NSDHL_HUMAN  42 kDa </text>
+<text top="535" left="379" width="10" height="12" font="2">3 </text>
+<text top="557" left="95" width="96" height="12" font="2">Tubulin beta chain </text>
+<text top="570" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="582" left="95" width="95" height="12" font="2">sapiens GN=TUBB </text>
+<text top="594" left="95" width="62" height="12" font="2">PE=1 SV=2 </text>
+<text top="594" left="198" width="74" height="12" font="2">TBB5_HUMAN </text>
+<text top="594" left="288" width="39" height="12" font="2">50 kDa </text>
+<text top="594" left="379" width="10" height="12" font="2">3 </text>
+<text top="616" left="95" width="56" height="12" font="2">Twinfilin-2 </text>
+<text top="628" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="640" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="653" left="95" width="85" height="12" font="2">GN=TWF2 PE=1 </text>
+<text top="665" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="665" left="198" width="76" height="12" font="2">TWF2_HUMAN </text>
+<text top="665" left="288" width="39" height="12" font="2">40 kDa </text>
+<text top="665" left="379" width="10" height="12" font="2">3 </text>
+<text top="687" left="95" width="86" height="12" font="2">26S proteasome </text>
+<text top="699" left="95" width="63" height="12" font="2">non-ATPase </text>
+<text top="689" left="198" width="74" height="12" font="2">PSD7_HUMAN </text>
+<text top="689" left="288" width="39" height="12" font="2">37 kDa </text>
+<text top="689" left="379" width="10" height="12" font="2">2 </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="95" width="96" height="12" font="2">regulatory subunit </text>
+<text top="84" left="95" width="66" height="12" font="2">7 OS=Homo </text>
+<text top="96" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="109" left="95" width="93" height="12" font="2">GN=PSMD7 PE=1 </text>
+<text top="121" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="143" left="95" width="50" height="12" font="2">Biliverdin </text>
+<text top="155" left="95" width="63" height="12" font="2">reductase A </text>
+<text top="167" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="179" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="191" left="95" width="90" height="12" font="2">GN=BLVRA PE=1 </text>
+<text top="204" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="204" left="198" width="72" height="12" font="2">BIEA_HUMAN </text>
+<text top="204" left="288" width="39" height="12" font="2">33 kDa </text>
+<text top="204" left="379" width="10" height="12" font="2">2 </text>
+<text top="226" left="95" width="82" height="12" font="2">Crk-like protein </text>
+<text top="238" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="250" left="95" width="95" height="12" font="2">sapiens GN=CRKL </text>
+<text top="262" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="262" left="198" width="74" height="12" font="2">CRKL_HUMAN </text>
+<text top="262" left="288" width="39" height="12" font="2">34 kDa </text>
+<text top="262" left="379" width="10" height="12" font="2">2 </text>
+<text top="284" left="95" width="72" height="12" font="2">Cytosolic acyl </text>
+<text top="297" left="95" width="64" height="12" font="2">coenzyme A </text>
+<text top="309" left="95" width="48" height="12" font="2">thioester </text>
+<text top="321" left="95" width="52" height="12" font="2">hydrolase </text>
+<text top="333" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="345" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="357" left="95" width="92" height="12" font="2">GN=ACOT7 PE=1 </text>
+<text top="369" left="95" width="32" height="12" font="2">SV=3 </text>
+<text top="369" left="198" width="76" height="12" font="2">BACH_HUMAN </text>
+<text top="369" left="288" width="39" height="12" font="2">42 kDa </text>
+<text top="369" left="379" width="10" height="12" font="2">2 </text>
+<text top="392" left="95" width="54" height="12" font="2">Dermcidin </text>
+<text top="404" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="416" left="95" width="91" height="12" font="2">sapiens GN=DCD </text>
+<text top="428" left="95" width="62" height="12" font="2">PE=1 SV=2 </text>
+<text top="428" left="198" width="70" height="12" font="2">DCD_HUMAN </text>
+<text top="428" left="288" width="39" height="12" font="2">11 kDa </text>
+<text top="428" left="379" width="10" height="12" font="2">2 </text>
+<text top="450" left="95" width="89" height="12" font="2">Elongation factor </text>
+<text top="462" left="95" width="52" height="12" font="2">1-alpha 1 </text>
+<text top="474" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="487" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="499" left="95" width="95" height="12" font="2">GN=EEF1A1 PE=1 </text>
+<text top="511" left="95" width="32" height="12" font="2">SV=1 </text>
+<text top="511" left="198" width="129" height="12" font="2">EF1A1_HUMAN  50 kDa </text>
+<text top="511" left="379" width="10" height="12" font="2">2 </text>
+<text top="533" left="95" width="56" height="12" font="2">Eukaryotic </text>
+<text top="545" left="95" width="57" height="12" font="2">translation </text>
+<text top="557" left="95" width="90" height="12" font="2">initiation factor 2 </text>
+<text top="570" left="95" width="50" height="12" font="2">subunit 1 </text>
+<text top="582" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="594" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="606" left="95" width="93" height="12" font="2">GN=EIF2S1 PE=1 </text>
+<text top="618" left="95" width="32" height="12" font="2">SV=3 </text>
+<text top="618" left="198" width="71" height="12" font="2">IF2A_HUMAN </text>
+<text top="618" left="288" width="39" height="12" font="2">36 kDa </text>
+<text top="618" left="379" width="10" height="12" font="2">2 </text>
+<text top="640" left="95" width="56" height="12" font="2">Eukaryotic </text>
+<text top="653" left="95" width="57" height="12" font="2">translation </text>
+<text top="665" left="95" width="90" height="12" font="2">initiation factor 3 </text>
+<text top="677" left="95" width="48" height="12" font="2">subunit I </text>
+<text top="689" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="701" left="95" width="95" height="12" font="2">sapiens GN=EIF3I </text>
+<text top="691" left="198" width="74" height="12" font="2">EIF3I_HUMAN </text>
+<text top="691" left="288" width="39" height="12" font="2">37 kDa </text>
+<text top="691" left="379" width="10" height="12" font="2">2 </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="94" left="95" width="79" height="12" font="2">Heterogeneous </text>
+<text top="106" left="95" width="40" height="12" font="2">nuclear </text>
+<text top="119" left="95" width="96" height="12" font="2">ribonucleoproteins </text>
+<text top="131" left="95" width="90" height="12" font="2">A2/B1 OS=Homo </text>
+<text top="143" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="155" left="95" width="89" height="12" font="2">GN=HNRNPA2B1 </text>
+<text top="167" left="95" width="62" height="12" font="2">PE=1 SV=2 </text>
+<text top="167" left="198" width="75" height="12" font="2">ROA2_HUMAN </text>
+<text top="167" left="288" width="39" height="12" font="2">37 kDa </text>
+<text top="167" left="379" width="10" height="12" font="2">2 </text>
+<text top="189" left="95" width="80" height="12" font="2">Nucleophosmin </text>
+<text top="201" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="214" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="226" left="95" width="86" height="12" font="2">GN=NPM1 PE=1 </text>
+<text top="238" left="95" width="32" height="12" font="2">SV=2 </text>
+<text top="238" left="198" width="69" height="12" font="2">NPM_HUMAN </text>
+<text top="238" left="288" width="39" height="12" font="2">33 kDa </text>
+<text top="238" left="379" width="10" height="12" font="2">2 </text>
+<text top="260" left="95" width="86" height="12" font="2">Poly(rC)-binding </text>
+<text top="272" left="95" width="49" height="12" font="2">protein 2 </text>
+<text top="284" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="297" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="309" left="95" width="90" height="12" font="2">GN=PCBP2 PE=1 </text>
+<text top="321" left="95" width="32" height="12" font="2">SV=1 </text>
+<text top="321" left="198" width="129" height="12" font="2">PCBP2_HUMAN  39 kDa </text>
+<text top="321" left="379" width="10" height="12" font="2">2 </text>
+<text top="343" left="95" width="91" height="12" font="2">Replication factor </text>
+<text top="355" left="95" width="61" height="12" font="2">C subunit 2 </text>
+<text top="367" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="379" left="95" width="94" height="12" font="2">sapiens GN=RFC2 </text>
+<text top="392" left="95" width="62" height="12" font="2">PE=1 SV=3 </text>
+<text top="392" left="198" width="73" height="12" font="2">RFC2_HUMAN </text>
+<text top="392" left="288" width="39" height="12" font="2">39 kDa </text>
+<text top="392" left="379" width="10" height="12" font="2">2 </text>
+<text top="414" left="95" width="88" height="12" font="2">SUMO-activating </text>
+<text top="426" left="95" width="93" height="12" font="2">enzyme subunit 1 </text>
+<text top="438" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="450" left="95" width="94" height="12" font="2">sapiens GN=SAE1 </text>
+<text top="462" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="462" left="198" width="74" height="12" font="2">SAE1_HUMAN </text>
+<text top="462" left="288" width="39" height="12" font="2">38 kDa </text>
+<text top="462" left="379" width="10" height="12" font="2">2 </text>
+<text top="485" left="95" width="78" height="12" font="2">Transcriptional </text>
+<text top="497" left="95" width="87" height="12" font="2">activator protein </text>
+<text top="509" left="95" width="47" height="12" font="2">Pur-beta </text>
+<text top="521" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="533" left="95" width="95" height="12" font="2">sapiens GN=PURB </text>
+<text top="545" left="95" width="62" height="12" font="2">PE=1 SV=3 </text>
+<text top="545" left="198" width="75" height="12" font="2">PURB_HUMAN </text>
+<text top="545" left="288" width="39" height="12" font="2">33 kDa </text>
+<text top="545" left="379" width="10" height="12" font="2">2 </text>
+<text top="567" left="95" width="89" height="12" font="2">Tubulin alpha-1B </text>
+<text top="580" left="95" width="86" height="12" font="2">chain OS=Homo </text>
+<text top="592" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="604" left="95" width="67" height="12" font="2">GN=TUBA1B </text>
+<text top="616" left="95" width="62" height="12" font="2">PE=1 SV=1 </text>
+<text top="616" left="198" width="129" height="12" font="2">TBA1B_HUMAN  50 kDa </text>
+<text top="616" left="379" width="10" height="12" font="2">2 </text>
+<text top="638" left="95" width="86" height="12" font="2">Vacuolar protein </text>
+<text top="650" left="95" width="95" height="12" font="2">sorting-associated </text>
+<text top="663" left="95" width="62" height="12" font="2">protein 26A </text>
+<text top="675" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="687" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="699" left="95" width="66" height="12" font="2">GN=VPS26A </text>
+<text top="689" left="198" width="129" height="12" font="2">VP26A_HUMAN  38 kDa </text>
+<text top="689" left="379" width="10" height="12" font="2">2 </text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="10" family="Times" color="#000000"/>
+<text top="72" left="95" width="62" height="12" font="2">PE=1 SV=2 </text>
+<text top="94" left="95" width="60" height="12" font="2">Fos-related </text>
+<text top="106" left="95" width="51" height="12" font="2">antigen 1 </text>
+<text top="119" left="95" width="56" height="12" font="2">OS=Homo </text>
+<text top="131" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="143" left="95" width="90" height="12" font="2">GN=FOSL1 PE=1 </text>
+<text top="155" left="95" width="32" height="12" font="2">SV=1 </text>
+<text top="155" left="198" width="129" height="12" font="2">FOSL1_HUMAN  29 kDa </text>
+<text top="155" left="379" width="10" height="12" font="2">1 </text>
+<text top="177" left="95" width="79" height="12" font="2">Heterogeneous </text>
+<text top="189" left="95" width="40" height="12" font="2">nuclear </text>
+<text top="201" left="95" width="96" height="12" font="2">ribonucleoproteins </text>
+<text top="214" left="95" width="90" height="12" font="2">C1/C2 OS=Homo </text>
+<text top="226" left="95" width="41" height="12" font="2">sapiens </text>
+<text top="238" left="95" width="69" height="12" font="2">GN=HNRNPC </text>
+<text top="250" left="95" width="62" height="12" font="2">PE=1 SV=4 </text>
+<text top="250" left="198" width="129" height="12" font="2">HNRPC_HUMAN  34 kDa </text>
+<text top="250" left="379" width="10" height="12" font="2">1 </text>
+<text top="272" left="90" width="3" height="14" font="3"> </text>
+</page>
+</pdf2xml>

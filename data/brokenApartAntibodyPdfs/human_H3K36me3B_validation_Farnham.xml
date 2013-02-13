@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="15" family="Times" color="#000000"/>
+	<fontspec id="1" size="12" family="Times" color="#000000"/>
+	<fontspec id="2" size="9" family="Times" color="#000000"/>
+<text top="76" left="122" width="372" height="16" font="0">H3K36me3 antibody validation performed by CST </text>
+<text top="97" left="219" width="178" height="16" font="0">CST  Cat#: 9763  Lot#1 </text>
+<text top="117" left="175" width="265" height="13" font="1">http://www.cellsignal.com/products/9763.html </text>
+<text top="132" left="72" width="3" height="11" font="2"> </text>
+<text top="146" left="72" width="3" height="11" font="2"> </text>
+<text top="160" left="72" width="3" height="11" font="2"> </text>
+<text top="271" left="182" width="3" height="11" font="2"> </text>
+<text top="282" left="72" width="3" height="11" font="2"> </text>
+<text top="296" left="72" width="443" height="11" font="2">Fig1. Western blot analysis of extracts from various cell lines using Tri-Methyl-Histone H3 </text>
+<text top="312" left="72" width="92" height="11" font="2">(Lys36) Antibody. </text>
+<text top="338" left="72" width="3" height="11" font="2"> </text>
+<text top="352" left="72" width="3" height="11" font="2"> </text>
+<text top="365" left="72" width="3" height="11" font="2"> </text>
+<text top="379" left="72" width="3" height="11" font="2"> </text>
+<text top="512" left="282" width="3" height="11" font="2"> </text>
+<text top="522" left="72" width="3" height="11" font="2"> </text>
+<text top="536" left="72" width="458" height="11" font="2">Fig2. Tri-Methyl-Histone H3 (Lys36) Antibody specificity was determined by peptide ELISA. </text>
+<text top="552" left="72" width="435" height="11" font="2">The graph depicts the binding of the antibody to pre-coated tri-methyl histone H3 (Lys36) </text>
+<text top="568" left="72" width="458" height="11" font="2">peptide in the presence of increasing concentrations of various competitor peptides. As shown, </text>
+<text top="584" left="72" width="427" height="11" font="2">only the tri-methyl histone H3 (Lys36) peptide competed away binding of the antibody.  </text>
+<text top="610" left="72" width="3" height="11" font="2"> </text>
+</page>
+</pdf2xml>

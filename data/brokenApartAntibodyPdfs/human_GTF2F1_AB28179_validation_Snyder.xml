@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="0" size="8" family="Times" color="#000000"/>
+	<fontspec id="1" size="11" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="10" family="Times" color="#000000"/>
+	<fontspec id="4" size="14" family="Times" color="#000000"/>
+<text top="160" left="75" width="239" height="11" font="0">Arrow indicates band consistent with expected size</text>
+<text top="172" left="75" width="259" height="11" font="0">(predicted size of 58kD but reported to run at ~74kD ) of</text>
+<text top="184" left="75" width="264" height="11" font="0">GTF2F1 in nuclear lysates from (left to right): GM12878,</text>
+<text top="196" left="75" width="178" height="11" font="0">K562, HeLaS3, and HepG2 cell lines.</text>
+<text top="54" left="84" width="434" height="16" font="1"><b>Antibody: GTF2F1/TFIIF      Source: Abcam ab28179 (ChIP-Grade)</b></text>
+<text top="70" left="84" width="532" height="16" font="1"><b>Epitope: </b>Rabbit polyclonal to TFIIF -Recombinant full length protein - RAP 74 subunit</text>
+<text top="146" left="390" width="297" height="11" font="0">Arrows indicate immunoprecipitated (IP) band of expected size</text>
+<text top="158" left="390" width="296" height="11" font="0">from HeLaS3 nuclear lysates.  Lane 1= HeLaS3 nuclear lysate,</text>
+<text top="170" left="390" width="289" height="11" font="0">Lane2 = HeLaS3 whole cell lysate, Lane 3= flow through and</text>
+<text top="182" left="390" width="301" height="11" font="0">Lane4= bound material from HeLaS3 IP with ab28179, Lane 5=</text>
+<text top="194" left="390" width="233" height="11" font="0">bound material from control IgG IP from HeLaS3.</text>
+<text top="117" left="55" width="193" height="16" font="1"><b>Validation 1: Immunoblotting</b></text>
+<text top="493" left="74" width="164" height="16" font="1"><b>Validation 2: In Progress</b></text>
+<text top="298" left="106" width="30" height="13" font="3"><b>75kD</b></text>
+<text top="286" left="100" width="37" height="13" font="3"><b>100kD</b></text>
+<text top="313" left="425" width="30" height="13" font="3"><b>75kD</b></text>
+<text top="298" left="418" width="37" height="13" font="3"><b>100kD</b></text>
+<text top="321" left="106" width="30" height="13" font="3"><b>50kD</b></text>
+<text top="337" left="425" width="30" height="13" font="3"><b>50kD</b></text>
+<text top="224" left="418" width="146" height="18" font="4"><b>Lane  1   2   3   4   5</b></text>
+</page>
+</pdf2xml>

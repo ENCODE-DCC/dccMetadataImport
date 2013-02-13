@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="0" size="22" family="Helvetica" color="#000000"/>
+	<fontspec id="1" size="10" family="Helvetica" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Helvetica" color="#000000"/>
+<text top="50" left="66" width="23" height="22" font="0">A.</text>
+<text top="34" left="343" width="23" height="22" font="0">B.</text>
+<text top="372" left="49" width="168" height="11" font="1">Validation of the E2F6 antibody.</text>
+<text top="386" left="49" width="11" height="11" font="1">A.</text>
+<text top="386" left="85" width="587" height="11" font="1">Antibody specificity was determined by Western blotting. HeLa(lane2), HepG2(lane3) and K562(lane4) nuclear </text>
+<text top="401" left="85" width="234" height="11" font="1">extracts were probed with E2F6 Rabbit pAb.</text>
+<text top="415" left="49" width="11" height="11" font="1">B.</text>
+<text top="415" left="85" width="544" height="11" font="1">A plasmid that expresses shRNAs against E2F6 was stably introduced into Ntera2 cells and then ChIP </text>
+<text top="430" left="85" width="567" height="11" font="1">experiments were performed in control and knockdown cells.  The E2F6 signals were greatly reduced at all </text>
+<text top="444" left="85" width="500" height="11" font="1">target genes but the enrichment of the same target genes by E2F1 or E2F4 was not reduced.  </text>
+<text top="458" left="49" width="12" height="11" font="1">C.</text>
+<text top="458" left="85" width="558" height="11" font="1">Summary:  The E2F6 antibody recognized the right size band, enriches for a large number of known E2F </text>
+<text top="473" left="85" width="385" height="11" font="1">target sites, and the enrichment is lost when the E2F6 mRNA is reduced.</text>
+<text top="315" left="55" width="444" height="15" font="2">E2F6 antibody: Santa cruz Biotechnology  sc-22823x  Polyclonal  Rabbit  </text>
+<text top="330" left="55" width="571" height="15" font="2">Cat# for the E2F6 siRNA is TR316522. tube ID TI363299 from OriGene, HuSH shRNA plasmid.</text>
+<text top="506" left="241" width="234" height="15" font="3">Farnham lab @ UC Davis:  E2F6</text>
+<text top="112" left="265" width="103" height="22" font="0">&lt;----E2F6</text>
+</page>
+</pdf2xml>

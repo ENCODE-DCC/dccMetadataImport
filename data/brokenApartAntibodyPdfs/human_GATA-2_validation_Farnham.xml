@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="12" family="Times" color="#231f20"/>
+	<fontspec id="1" size="10" family="Times" color="#231f20"/>
+<text top="47" left="64" width="164" height="19" font="0">GATA2 antibody validation</text>
+<text top="64" left="64" width="427" height="19" font="0">Rabbit polyclonal antibody provided by Dr. E. Bresnick, UW, Madison</text>
+<text top="315" left="64" width="301" height="16" font="1">Fig1 Western Blot analysis using K562 whole cell extract</text>
+<text top="476" left="232" width="38" height="16" font="1">GATA2</text>
+<text top="212" left="190" width="38" height="16" font="1">GATA2</text>
+<text top="226" left="190" width="50" height="16" font="1">(~50kDa)</text>
+<text top="611" left="232" width="39" height="16" font="1">Tubulin</text>
+<text top="645" left="64" width="350" height="16" font="1">Fig2. GATA2 antibody specificity was determined in SHSY5Y cells</text>
+<text top="660" left="64" width="344" height="16" font="1">by transfection with GATA2 siRNA. Control siRNA was used for a</text>
+<text top="674" left="64" width="341" height="16" font="1">mock transfection. Whole cell lysates were analysed by Western</text>
+<text top="688" left="64" width="316" height="16" font="1">blot using antibodies against GATA2 and tubulin. As shown,</text>
+<text top="703" left="64" width="338" height="16" font="1">GATA2 protein levels were reduced when treated with siGATA2,</text>
+<text top="717" left="64" width="400" height="16" font="1">but not in the mock sample. The loading control tubulin remained the same.</text>
+<text top="401" left="179" width="0" height="14" font="1">siGA</text>
+<text top="379" left="179" width="0" height="14" font="1">TA2</text>
+<text top="401" left="208" width="0" height="14" font="1">siC</text>
+<text top="386" left="208" width="0" height="14" font="1">on</text>
+<text top="373" left="208" width="0" height="14" font="1">tr</text>
+<text top="365" left="208" width="0" height="14" font="1">ol</text>
+</page>
+</pdf2xml>

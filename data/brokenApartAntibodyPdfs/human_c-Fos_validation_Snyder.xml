@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+<text top="309" left="147" width="341" height="22" font="3">Western'Blot'analysis'of'nuclear'extracts'from'</text>
+<text top="330" left="147" width="357" height="22" font="3">GM12878,'K562,'HelaS3,'HepG2,'IMR90,'Human'</text>
+<text top="352" left="147" width="340" height="22" font="3">Heart'and'A549'celsl'using'anI'cJFos'anIbody'</text>
+<text top="373" left="147" width="313" height="22" font="3">from'Santa'Cruz'Biotechnologies'(sc7202).'</text>
+<text top="395" left="147" width="220" height="22" font="3">Expected'protein'band'62'kD.'</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+<text top="65" left="104" width="44" height="15" font="4"><b>Cell$Line$</b></text>
+<text top="65" left="202" width="125" height="15" font="4"><b>Mo*f$enrichment$(log$2)$</b></text>
+<text top="65" left="405" width="173" height="15" font="4"><b>Frac*on$of$Peaks$containing$mo*f$</b></text>
+<text top="85" left="108" width="35" height="15" font="5">Helas3'</text>
+<text top="85" left="247" width="36" height="15" font="5">4.3865'</text>
+<text top="85" left="474" width="36" height="15" font="5">0.2469'</text>
+<text top="103" left="110" width="33" height="15" font="5">Huvec'</text>
+<text top="103" left="247" width="36" height="15" font="5">3.7387'</text>
+<text top="103" left="474" width="36" height="15" font="5">0.1801'</text>
+<text top="121" left="113" width="27" height="15" font="5">K562'</text>
+<text top="121" left="247" width="36" height="15" font="5">4.5543'</text>
+<text top="121" left="474" width="36" height="15" font="5">0.1503'</text>
+<text top="139" left="109" width="34" height="15" font="5">Mcf10'</text>
+<text top="139" left="247" width="36" height="15" font="5">4.1810'</text>
+<text top="139" left="474" width="36" height="15" font="5">0.1770'</text>
+<text top="25" left="25" width="217" height="22" font="3">Fig.'1'c;Fos'mo&gt;f'enrichment'</text>
+<text top="210" left="25" width="552" height="22" font="3">Fig.'2'Mo&gt;f'enrichment'sequence'and'posi&gt;on'weight'matrix'for'the'highly'</text>
+<text top="231" left="25" width="154" height="22" font="3">enriched'c;Fos'mo&gt;f'</text>
+<text top="327" left="195" width="271" height="15" font="5">AP;1_known3'AP;1_3#known'AP;1_transfac_M00926';'</text>
+<text top="341" left="195" width="203" height="15" font="5">V'0.403361'0.252101'0.243697'0.100840'</text>
+<text top="355" left="195" width="202" height="15" font="5">T'0.000000'0.000000'0.008403'0.991597'</text>
+<text top="370" left="195" width="204" height="15" font="5">G'0.016807'0.008403'0.941177'0.033613'</text>
+<text top="384" left="195" width="203" height="15" font="5">A'0.991597'0.000000'0.008403'0.000000'</text>
+<text top="399" left="195" width="202" height="15" font="5">C'0.084034'0.722689'0.142857'0.050420'</text>
+<text top="413" left="195" width="202" height="15" font="5">T'0.142857'0.109244'0.109244'0.638655'</text>
+<text top="427" left="195" width="203" height="15" font="5">H'0.184874'0.546218'0.042017'0.226891'</text>
+<text top="442" left="195" width="203" height="15" font="5">A'0.714285'0.159664'0.058824'0.067227'</text>
+</page>
+</pdf2xml>

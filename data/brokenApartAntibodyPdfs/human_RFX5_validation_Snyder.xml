@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="189" height="12" font="1">http://www.rockland-inc.com/store/Transcrip</text>
+<text top="613" left="238" width="185" height="12" font="1">tion-Factor-Antibodies-200-401-194-O4L_92</text>
+<text top="625" left="238" width="31" height="12" font="1">48.aspx</text>
+<text top="77" left="138" width="38" height="12" font="1">10/28/11</text>
+<text top="340" left="95" width="429" height="12" font="1">RFX5 peptide corresponding to a region at amino acids 320 to 494 of the human protein conjugated to </text>
+<text top="352" left="95" width="147" height="12" font="1">Keyhole Limpet Hemocyanin (KLH).</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="183" height="12" font="1">Anti-RFX5 (aa 320 to 494) (RABBIT) Antibody</text>
+<text top="214" left="339" width="111" height="12" font="1">RFX5 (EntrezGene ID 5993)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="117" height="12" font="1">Rockland Immunochemicals</text>
+<text top="484" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="26" height="12" font="1">14562</text>
+<text top="300" left="215" width="57" height="12" font="1">200-401-194  </text>
+<text top="520" left="395" width="73" height="12" font="2">Motif Enrichment</text>
+<text top="561" left="141" width="109" height="12" font="2">Other Purification Method</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="445" height="12" font="1">A lack of MHC-II expression results in a severe immunodeficiency syndrome called MHC-II deficiency, or the </text>
+<text top="424" left="95" width="444" height="12" font="1">bare lymphocyte syndrome (BLS; MIM 209920). At least 4 complementation groups have been identified in </text>
+<text top="436" left="95" width="445" height="12" font="1">B-cell lines established from patients with BLS. The molecular defects in complementation groups B, C, and </text>
+<text top="448" left="95" width="448" height="12" font="1">D all lead to a deficiency in RFX, a nuclear protein complex that binds to the X box of MHC-II promoters. The </text>
+<text top="460" left="95" width="448" height="12" font="1">lack of RFX binding activity in complementation group C results from mutations in the RFX5 gene encoding </text>
+<text top="472" left="95" width="400" height="12" font="1">the 75-kD subunit of RFX (Steimle et al., 1995). RFX5 is the fifth member of the growing family of </text>
+<text top="484" left="95" width="442" height="12" font="1">DNA-binding proteins sharing a novel and highly characteristic DNA-binding domain called the RFX motif. </text>
+<text top="496" left="95" width="433" height="12" font="1">Multiple alternatively spliced transcript variants have been found but the full-length natures of only two </text>
+<text top="508" left="95" width="186" height="12" font="1">have been determined. (provided by RefSeq)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="431" height="12" font="1">Comment:  Panel A demonstrates that a major band of ~65kD is observed in all cell lines tested.  A band </text>
+<text top="55" left="125" width="410" height="12" font="1">at ~35kD is also observed in HepG2 cells- we are unsure of the identity of this band but it may be a </text>
+<text top="67" left="125" width="431" height="12" font="1">degradation product.  Panel B demonstrates that this band is efficiently immunoprecipitated from HeLa </text>
+<text top="79" left="125" width="372" height="12" font="1">nuclear extracts. Based on these observations, this antibody meets this ENCODE criterion. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="16" family="Times" color="#000000"/>
+	<fontspec id="4" size="12" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+<text top="160" left="75" width="270" height="12" font="1">Arrow indicates band detected by Rockland an3body 200‐401‐194 </text>
+<text top="172" left="75" width="277" height="12" font="1">consistent with expected size (65kD) of RFX5 in nuclear lysates from </text>
+<text top="184" left="75" width="246" height="12" font="1">(leH to right): K562, GM12878, HeLaS3, and HepG2 cell lines.</text>
+<text top="177" left="321" width="4" height="22" font="3"> </text>
+<text top="54" left="199" width="290" height="17" font="4"><b>An#body: RFX5      Source: Rockland #200‐401‐194</b></text>
+<text top="50" left="490" width="4" height="22" font="3"> </text>
+<text top="137" left="390" width="311" height="12" font="1">Arrow indicates immunoprecipitated (IP) band of expected size from HeLaS3 </text>
+<text top="149" left="390" width="314" height="12" font="1">nuclear lysates.  Lane 1= HeLaS3 nuclear lysate, Lane 2= bound material from </text>
+<text top="161" left="390" width="320" height="12" font="1">HeLaS3 IP with 200‐401‐194 , Lane 3= bound material from control IgG IP from </text>
+<text top="173" left="390" width="281" height="12" font="1">HeLaS3. IPs were performed with the ExactaCruz reagent (Santa Cruz </text>
+<text top="185" left="390" width="322" height="12" font="1">Biotechnology), so the intensi3es of IgG bands (indicated by *), par3cularly the </text>
+<text top="197" left="390" width="151" height="12" font="1">heavy chain at 55kD, are diminished. </text>
+<text top="94" left="223" width="277" height="17" font="4"><b>Figure 1: ImmunobloAng/Immunoprecipita#on</b></text>
+<text top="91" left="500" width="4" height="22" font="3"> </text>
+<text top="289" left="97" width="28" height="15" font="5"><b>75kD </b></text>
+<text top="305" left="97" width="28" height="15" font="5"><b>50kD </b></text>
+<text top="272" left="440" width="28" height="15" font="5"><b>75kD </b></text>
+<text top="288" left="440" width="28" height="15" font="5"><b>50kD </b></text>
+<text top="300" left="440" width="28" height="15" font="5"><b>37kD </b></text>
+<text top="312" left="440" width="28" height="15" font="5"><b>25kD </b></text>
+<text top="359" left="495" width="64" height="15" font="5"><b> 1       2        3 </b></text>
+<text top="308" left="513" width="12" height="20" font="6">* </text>
+<text top="285" left="514" width="12" height="20" font="6">* </text>
+<text top="235" left="83" width="14" height="22" font="3">A </text>
+<text top="235" left="394" width="14" height="22" font="3">B </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="398" height="12" font="1">Calculations were done by Pouya Kheradpour using a collection of known motifs (9 motifs were </text>
+<text top="55" left="130" width="403" height="12" font="1">considered) available at http://www.broadinstitute.org/%7Epouyak/motif-disc/human/.   Table 1 </text>
+<text top="67" left="130" width="421" height="12" font="1">shows the fold-enrichments, enrichment p-values and fraction of peaks which contain the motif.  The </text>
+<text top="79" left="130" width="406" height="12" font="1">motif which produced the largest value for each criterion is shown in Table 1.  Note that while the </text>
+<text top="91" left="130" width="414" height="12" font="1">maximally enriched motif differs from the motif with the highest enrichment p-values and the most </text>
+<text top="103" left="130" width="401" height="12" font="1">represented motif, the motifs are highly similar (Figure 1) and thus all values are similar between </text>
+<text top="115" left="130" width="35" height="12" font="1">motifs.   </text>
+<text top="127" left="130" width="2" height="12" font="1"> </text>
+<text top="139" left="130" width="418" height="12" font="1">Motifs were identified using a matching stringency corresponding to 4-6 (6-mer). Peaks identified by </text>
+<text top="152" left="130" width="375" height="12" font="1">IDR (1% cutoff) were used in the analysis and +/-50bp from peak centers were considered. </text>
+<text top="164" left="130" width="400" height="12" font="1">Enrichments are for a given motif vs. a background consisting of +/- 50bp from the centers of all </text>
+<text top="176" left="130" width="398" height="12" font="1">DnaseI hypersensitive peaks.  Repeat mask/simple repeats from UCSC and all gencode v7 exons </text>
+<text top="188" left="130" width="421" height="12" font="1">(including non-protein coding genes) were excluded from the analysis.  Comparison to shuffle motifs </text>
+<text top="200" left="130" width="380" height="12" font="1">were used to correct for compositional bias.  Enrichment is the corrected # of motifs in ChIP </text>
+<text top="212" left="130" width="186" height="12" font="1">peaks/corrected # of motifs in DNaseI peaks. </text>
+<text top="224" left="130" width="2" height="12" font="1"> </text>
+<text top="236" left="130" width="408" height="12" font="1">The current ENCODE standard calls for &gt;4-fold enrichment and &gt;10% motif representation for this </text>
+<text top="248" left="130" width="421" height="12" font="1">criteria to be used for validation.  As shown in Table 1, the ENCODE datasets for RFX5 in GM12878, H1 </text>
+<text top="260" left="130" width="366" height="12" font="1">hES, and HepG2 cells exceed these thresholds and the antibody is considered validated. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="6" family="Times" color="#000000"/>
+	<fontspec id="9" size="6" family="Times" color="#000000"/>
+	<fontspec id="10" size="14" family="Times" color="#000000"/>
+<text top="192" left="133" width="483" height="15" font="5"><b>Figure 2.  </b>Mo#f consensus sequences and posi#on weight matrices for highly enriched RFX5 mo#f.  </text>
+<text top="189" left="617" width="4" height="20" font="6"> </text>
+<text top="56" left="282" width="43" height="12" font="1">Cell Line</text>
+<text top="50" left="349" width="90" height="12" font="1">Motif Enrichment </text>
+<text top="63" left="377" width="31" height="12" font="1">(log2)</text>
+<text top="50" left="473" width="160" height="12" font="1">Enrichment p-value                 </text>
+<text top="63" left="502" width="42" height="12" font="1">(-log10)</text>
+<text top="50" left="609" width="91" height="12" font="1">Fraction of peaks </text>
+<text top="63" left="611" width="82" height="12" font="1">containing motif</text>
+<text top="76" left="279" width="48" height="12" font="1">GM12878</text>
+<text top="76" left="372" width="42" height="12" font="1">2.64148</text>
+<text top="76" left="501" width="42" height="12" font="1">203.846</text>
+<text top="76" left="628" width="49" height="12" font="1">0.195876</text>
+<text top="89" left="281" width="45" height="12" font="1">H1-hESC</text>
+<text top="89" left="372" width="42" height="12" font="1">3.36223</text>
+<text top="89" left="501" width="42" height="12" font="1">237.855</text>
+<text top="89" left="628" width="49" height="12" font="1">0.378431</text>
+<text top="102" left="286" width="34" height="12" font="1">HepG2</text>
+<text top="102" left="372" width="42" height="12" font="1">2.96118</text>
+<text top="102" left="501" width="42" height="12" font="1">415.584</text>
+<text top="102" left="628" width="49" height="12" font="1">0.239672</text>
+<text top="64" left="67" width="165" height="15" font="5"><b>Table 1.  </b>RFX5 mo#f enrichment.  </text>
+<text top="60" left="232" width="4" height="20" font="6"> </text>
+<text top="368" left="204" width="32" height="10" font="8"><b>Posi2on/ </b></text>
+<text top="377" left="202" width="37" height="10" font="8"><b>Consensus </b></text>
+<text top="343" left="252" width="197" height="8" font="9">&gt;RFX5_known4 Rfx_5#known Rfx4_bulyk_sc09-</text>
+<text top="352" left="252" width="62" height="8" font="9">primary +   </text>
+<text top="362" left="252" width="5" height="8" font="9"></text>
+<text top="371" left="252" width="5" height="8" font="9"></text>
+<text top="381" left="252" width="5" height="8" font="9"></text>
+<text top="391" left="252" width="182" height="8" font="9">B 0.143522 0.316811 0.206641 0.333027</text>
+<text top="400" left="252" width="182" height="8" font="9">H 0.363838 0.275175 0.143142 0.217845</text>
+<text top="410" left="252" width="182" height="8" font="9">V 0.167173 0.561442 0.177495 0.093890</text>
+<text top="419" left="252" width="182" height="8" font="9">C 0.002395 0.959751 0.032345 0.005509</text>
+<text top="429" left="252" width="182" height="8" font="9">H 0.400559 0.250652 0.120082 0.228707</text>
+<text top="438" left="252" width="182" height="8" font="9">T 0.002331 0.011423 0.004255 0.981991</text>
+<text top="448" left="252" width="182" height="8" font="9">R 0.774005 0.006875 0.218576 0.000544</text>
+<text top="458" left="252" width="182" height="8" font="9">G 0.042920 0.001813 0.953809 0.001458</text>
+<text top="467" left="252" width="182" height="8" font="9">C 0.005434 0.952584 0.001106 0.040876</text>
+<text top="477" left="252" width="182" height="8" font="9">A 0.957141 0.000549 0.031944 0.010366</text>
+<text top="487" left="252" width="182" height="8" font="9">A 0.990768 0.002859 0.005499 0.000874</text>
+<text top="496" left="252" width="182" height="8" font="9">C 0.002052 0.990864 0.001010 0.006074</text>
+<text top="506" left="252" width="182" height="8" font="9">S 0.114722 0.349363 0.464141 0.071774</text>
+<text top="515" left="252" width="182" height="8" font="9">V 0.280483 0.181532 0.373684 0.164300</text>
+<text top="525" left="252" width="182" height="8" font="9">N 0.282246 0.183429 0.218756 0.315568</text>
+<text top="370" left="285" width="12" height="17" font="4"><b>A </b></text>
+<text top="370" left="326" width="11" height="17" font="4"><b>C </b></text>
+<text top="370" left="368" width="12" height="17" font="4"><b>G </b></text>
+<text top="370" left="411" width="10" height="17" font="4"><b>T </b></text>
+<text top="235" left="306" width="98" height="20" font="10"><b>RFX5_known4 </b></text>
+</page>
+</pdf2xml>

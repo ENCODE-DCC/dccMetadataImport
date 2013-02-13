@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>!&quot;#$%!&amp;%##&amp;'()*+,-.&amp;/01*-0)*,(&amp;%,2345()</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="408" left="95" width="417" height="12" font="1">Implicated in the genesis of hemopoietic malignancies. It may play an important role in hemopoietic</text>
+<text top="418" left="95" width="356" height="12" font="1">differentiation. Serves as a positive regulator of erythroid differentiation (By similarity)</text>
+<text top="597" left="238" width="189" height="12" font="1">http://www.scbt.com/datasheet-12984-tal1-c</text>
+<text top="607" left="238" width="76" height="12" font="1">-21-antibody.html</text>
+<text top="78" left="138" width="38" height="12" font="1">12/30/11</text>
+<text top="336" left="95" width="128" height="12" font="1">goat polyclonal IgG, 200 µg/ml</text>
+<text top="346" left="95" width="250" height="12" font="1">epitope mapping at the C-terminus of TAL1 of human origin</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="215" left="121" width="130" height="12" font="1">TAL1 (C-21) Antibody: sc-12984</text>
+<text top="215" left="339" width="109" height="12" font="1">TAL1 (EntrezGeneID 6886)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="22" height="12" font="1">Goat </text>
+<text top="300" left="395" width="24" height="12" font="1">J2209</text>
+<text top="300" left="215" width="37" height="12" font="1">sc-12984</text>
+<text top="521" left="395" width="54" height="12" font="2">IP-Mass Spec</text>
+<text top="561" left="141" width="30" height="12" font="2">Affinity</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="39" left="125" width="395" height="12" font="1">A single major band is observed in K562 nuclear lysates.  This  band is efficiently and specifically</text>
+<text top="49" left="125" width="420" height="12" font="1">immunoprecipitated. While this band migrates somewhat slower than expected (expected molecular</text>
+<text top="59" left="125" width="428" height="12" font="1">weight of ~34kD), we note that this behavior has been reported (see product characterization literature</text>
+<text top="69" left="125" width="428" height="12" font="1">for this antibody and others against TAL1 on manufacturer’s website) and that the  identity of this band</text>
+<text top="79" left="125" width="414" height="12" font="1">was confirmed by mass spectrometry (see validation #2).  Therefore, sc12984 meets this criterion for</text>
+<text top="89" left="125" width="44" height="12" font="1">validation.</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="22" family="Times" color="#000000"/>
+<text top="402" left="72" width="642" height="11" font="1">Immunoprecipitation of TAL1 from K562 cells using sc129894.  Lane 1: input nuclear lysate, Lane 2:  unbound material from immunoprecipitation </text>
+<text top="414" left="72" width="544" height="11" font="1">with sc12984, Lane 3: material immunoprecipitated with sc12984, Lane 4: material immunoprecipitated using control IgG.   </text>
+<text top="77" left="274" width="214" height="31" font="3">sc-12984 (TAL1) </text>
+<text top="110" left="175" width="412" height="31" font="3">Immunoblot/immunoprecipitation </text>
+<text top="144" left="371" width="7" height="27" font="4"> </text>
+<text top="310" left="406" width="8" height="11" font="1">3 </text>
+<text top="310" left="332" width="28" height="11" font="1">Lane: </text>
+<text top="183" left="333" width="42" height="11" font="1">MW (kD) </text>
+<text top="219" left="343" width="19" height="11" font="1">150 </text>
+<text top="237" left="343" width="19" height="11" font="1">100 </text>
+<text top="248" left="346" width="14" height="11" font="1">75 </text>
+<text top="264" left="346" width="14" height="11" font="1">50 </text>
+<text top="204" left="343" width="19" height="11" font="1">250 </text>
+<text top="279" left="346" width="14" height="11" font="1">38 </text>
+<text top="310" left="368" width="27" height="11" font="1">1  2 </text>
+<text top="310" left="425" width="8" height="11" font="1">4 </text>
+<text top="297" left="345" width="14" height="11" font="1">25 </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="696" left="268" width="68" height="12" font="1">Submit by Email</text>
+<text top="39" left="130" width="403" height="12" font="1">Immunoprecipitation of TAL1 from K562 cells using sc12984.  Lane 1: input nuclear lysate, Lane 2:</text>
+<text top="49" left="130" width="416" height="12" font="1">material immunoprecipitated with ab87525, Lane 3: material immunoprecipitated using control IgG.</text>
+<text top="59" left="130" width="360" height="12" font="1">Bands A and B were excised from the gel and subject to analysis by mass spectrometry.</text>
+<text top="79" left="130" width="401" height="12" font="1">IP followed by mass spectrometry: Briefly, protein was immunoprecipitated from K562 whole cell</text>
+<text top="89" left="130" width="412" height="12" font="1">lysates using sc12984, and the IP fraction was loaded on a 10% polyacrylamide gel (NuPAGE Bis-Tris</text>
+<text top="99" left="130" width="420" height="12" font="1">Gel) and separated with an Invitrogen NuPAGE electrophoresis system. The gel was silver-stained, gel</text>
+<text top="109" left="130" width="408" height="12" font="1">fragments corresponding to the bands indicated were excised and destained using the SilverSNAP</text>
+<text top="119" left="130" width="423" height="12" font="1">Stain for Mass Spectrometry (Pierce). Then proteins were trysinized using the in-gel digestion method.</text>
+<text top="129" left="130" width="412" height="12" font="1">Digested proteins were analyzed on an LTQ-Orbitrap (Thermo Scientific) by the  nanoLC-ESI-MS/MS</text>
+<text top="139" left="130" width="409" height="12" font="1">technique. Peptides were identified by  the SEQUEST algorithm and filtered with a high confidence</text>
+<text top="149" left="130" width="325" height="12" font="1">threshold (Protein false discovery rate &lt; 1%, 2 peptides per protein minimum).</text>
+<text top="169" left="130" width="415" height="12" font="1">Because the major band seen by Westen blot may be a doublet, we isolated two bands from the gel.</text>
+<text top="179" left="130" width="411" height="12" font="1">From the upper band (band A), we identified 29 proteins, 21 of which were absent from the control</text>
+<text top="189" left="130" width="402" height="12" font="1">immunoprecipitation.  Among these,TAL1 was represented by 6 peptides, ranking 9th on the list.</text>
+<text top="199" left="130" width="384" height="12" font="1">Other specifically immunopecipitated proteins in this band were not known to be chromatin</text>
+<text top="209" left="130" width="413" height="12" font="1">associated (note that while Interleukin enhancer-binding factor 2 (ILF2) was identified specifically in</text>
+<text top="219" left="130" width="410" height="12" font="1">this band, it was detected at significant levels in band B of the control immunoprecipitation).  From</text>
+<text top="229" left="130" width="417" height="12" font="1">the lower band (band B), TAL1 was the second most abundant of 48 proteins (19 peptides identified)</text>
+<text top="239" left="130" width="375" height="12" font="1">and was by far the most abundant protein absent from the control immunoprecipitation.   </text>
+<text top="259" left="130" width="370" height="12" font="1">Based on the identification of TAL1 in all detectable bands and the absence of specifically</text>
+<text top="269" left="130" width="391" height="12" font="1">immunoprecipitated chromosomal binding proteins, sc12984 meets the ENCODE standard for</text>
+<text top="279" left="130" width="111" height="12" font="1">validation by this criterion.</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="12" family="Times" color="#000000"/>
+	<fontspec id="8" size="10" family="Times" color="#000000"/>
+<text top="331" left="351" width="44" height="13" font="5"><b>Band A </b></text>
+<text top="355" left="352" width="42" height="13" font="5"><b>Band B</b></text>
+<text top="351" left="394" width="4" height="20" font="6"> </text>
+<text top="215" left="183" width="21" height="13" font="5"><b>MW</b></text>
+<text top="210" left="204" width="4" height="20" font="6"> </text>
+<text top="240" left="182" width="23" height="13" font="5"><b>250 </b></text>
+<text top="267" left="182" width="23" height="13" font="5"><b>150 </b></text>
+<text top="288" left="182" width="23" height="13" font="5"><b>100 </b></text>
+<text top="308" left="185" width="17" height="13" font="5"><b>75 </b></text>
+<text top="335" left="185" width="17" height="13" font="5"><b>50 </b></text>
+<text top="358" left="185" width="17" height="13" font="5"><b>37 </b></text>
+<text top="382" left="185" width="17" height="13" font="5"><b>25 </b></text>
+<text top="420" left="185" width="17" height="13" font="5"><b>10 </b></text>
+<text top="450" left="158" width="35" height="16" font="7">Lane </text>
+<text top="450" left="228" width="86" height="16" font="7">1          2      3</text>
+<text top="448" left="314" width="4" height="20" font="6"> </text>
+<text top="250" left="428" width="105" height="13" font="8">Lane 1 Input lysate </text>
+<text top="264" left="428" width="166" height="13" font="8">Lane 2 Bound material from IP </text>
+<text top="278" left="428" width="203" height="13" font="8">Lane 3 Bound material from IP            </text>
+<text top="293" left="468" width="119" height="13" font="8">using non-specific IgG</text>
+<text top="289" left="587" width="4" height="20" font="6"> </text>
+<text top="105" left="93" width="474" height="31" font="3">sc-12984 (TAL1) Immunoprecipitation/</text>
+<text top="138" left="212" width="236" height="31" font="3">Mass spectrometry</text>
+<text top="142" left="442" width="7" height="27" font="4"> </text>
+<text top="172" left="67" width="7" height="27" font="4"> </text>
+<text top="206" left="217" width="114" height="18" font="6">TAL1(sc-12984)</text>
+<text top="205" left="330" width="7" height="20" font="6">  </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="612" width="792">
+<text top="74" left="77" width="31" height="12" font="1">Spectra</text>
+<text top="75" left="281" width="73" height="11" font="1">Name of Protein</text>
+<text top="75" left="510" width="80" height="11" font="1">Count of Peptides</text>
+<text top="75" left="601" width="111" height="11" font="1">Ratio (TAL1/IgG Control)</text>
+<text top="89" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="90" left="298" width="39" height="11" font="1">Vimentin</text>
+<text top="90" left="544" width="11" height="11" font="1">25</text>
+<text top="90" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="104" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="105" left="222" width="190" height="11" font="1">ATP synthase subunit alpha, mitochondrial</text>
+<text top="105" left="544" width="11" height="11" font="1">12</text>
+<text top="105" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="119" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="120" left="246" width="142" height="11" font="1">Eukaryotic initiation factor 4A-III</text>
+<text top="120" left="544" width="11" height="11" font="1">12</text>
+<text top="120" left="649" width="14" height="11" font="1">2.4</text>
+<text top="134" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="134" left="235" width="164" height="11" font="1">Interleukin enhancer-binding factor 2</text>
+<text top="134" left="544" width="11" height="11" font="1">10</text>
+<text top="134" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="149" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="149" left="268" width="98" height="11" font="1">Tubulin beta-2C chain</text>
+<text top="149" left="544" width="11" height="11" font="1">10</text>
+<text top="149" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="164" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="164" left="196" width="242" height="11" font="1">cDNA FLJ53012, highly similar to Tubulin beta-7 chain</text>
+<text top="164" left="547" width="6" height="11" font="1">8</text>
+<text top="164" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="179" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="179" left="269" width="97" height="11" font="1">Tubulin beta-2A chain</text>
+<text top="179" left="547" width="6" height="11" font="1">8</text>
+<text top="179" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="193" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="194" left="220" width="194" height="11" font="1">Heterogeneous nuclear ribonucleoprotein K</text>
+<text top="194" left="547" width="6" height="11" font="1">7</text>
+<text top="194" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="208" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="209" left="207" width="219" height="11" font="1">Ribosome biogenesis regulatory protein homolog</text>
+<text top="209" left="547" width="6" height="11" font="1">7</text>
+<text top="209" left="627" width="59" height="11" font="1">2.333333333</text>
+<text top="223" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="224" left="218" width="199" height="11" font="1">U3 small nucleolar RNA-interacting protein 2</text>
+<text top="224" left="547" width="6" height="11" font="1">7</text>
+<text top="224" left="647" width="20" height="11" font="1">1.75</text>
+<text top="238" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="239" left="224" width="185" height="11" font="1">ATP synthase subunit beta, mitochondrial</text>
+<text top="239" left="547" width="6" height="11" font="1">6</text>
+<text top="239" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="253" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="253" left="144" width="346" height="11" font="1">cDNA FLJ54533, highly similar to Heterogeneous nuclear ribonucleoprotein H</text>
+<text top="253" left="547" width="6" height="11" font="1">6</text>
+<text top="253" left="654" width="6" height="11" font="1">1</text>
+<text top="268" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="268" left="219" width="196" height="11" font="1">Heterogeneous nuclear ribonucleoprotein G</text>
+<text top="268" left="547" width="6" height="11" font="1">6</text>
+<text top="268" left="647" width="20" height="11" font="1">0.75</text>
+<text top="283" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="283" left="170" width="294" height="11" font="1">Isoform PP39-TAL1 of T-cell acute lymphocytic leukemia protein 1</text>
+<text top="283" left="547" width="6" height="11" font="1">6</text>
+<text top="283" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="298" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="298" left="271" width="91" height="11" font="1">Tubulin beta-3 chain</text>
+<text top="298" left="547" width="6" height="11" font="1">6</text>
+<text top="298" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="312" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="313" left="233" width="168" height="11" font="1">ATP-dependent RNA helicase DDX39</text>
+<text top="313" left="547" width="6" height="11" font="1">4</text>
+<text top="313" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="327" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="328" left="193" width="247" height="11" font="1">cDNA FLJ58687, highly similar to Tubulin alpha-4 chain</text>
+<text top="328" left="547" width="6" height="11" font="1">4</text>
+<text top="328" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="342" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="343" left="229" width="175" height="11" font="1">Isoform 3 of Core histone macro-H2A.1</text>
+<text top="343" left="547" width="6" height="11" font="1">4</text>
+<text top="343" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="357" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="358" left="216" width="201" height="11" font="1">Nuclease-sensitive element-binding protein 1</text>
+<text top="358" left="547" width="6" height="11" font="1">4</text>
+<text top="358" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="372" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="372" left="282" width="71" height="11" font="1">SS-B/La protein</text>
+<text top="372" left="547" width="6" height="11" font="1">4</text>
+<text top="372" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="387" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="387" left="220" width="194" height="11" font="1">Heterogeneous nuclear ribonucleoprotein F</text>
+<text top="387" left="547" width="6" height="11" font="1">3</text>
+<text top="387" left="647" width="20" height="11" font="1">0.75</text>
+<text top="402" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="402" left="282" width="69" height="11" font="1">HRB2 variant B</text>
+<text top="402" left="547" width="6" height="11" font="1">3</text>
+<text top="402" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="417" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="417" left="233" width="168" height="11" font="1">Ribosome biogenesis protein WDR12</text>
+<text top="417" left="547" width="6" height="11" font="1">3</text>
+<text top="417" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="432" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="432" left="225" width="183" height="11" font="1">RNA binding motif protein, X-linked-like 1</text>
+<text top="432" left="547" width="6" height="11" font="1">3</text>
+<text top="432" left="649" width="14" height="11" font="1">0.6</text>
+<text top="446" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="447" left="231" width="172" height="11" font="1">DDB1- and CUL4-associated factor 13</text>
+<text top="447" left="547" width="6" height="11" font="1">2</text>
+<text top="447" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="461" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="462" left="261" width="112" height="11" font="1">Elongation factor 1-alpha</text>
+<text top="462" left="547" width="6" height="11" font="1">2</text>
+<text top="462" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="476" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="477" left="182" width="269" height="11" font="1">Isoform 1 of Heterogeneous nuclear ribonucleoprotein D-like</text>
+<text top="477" left="547" width="6" height="11" font="1">2</text>
+<text top="477" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="491" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="492" left="224" width="187" height="11" font="1">Isoform 2 of LIM domain-binding protein 1</text>
+<text top="492" left="547" width="6" height="11" font="1">2</text>
+<text top="492" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="506" left="66" width="53" height="12" font="1">TAL1_Band A</text>
+<text top="506" left="246" width="143" height="11" font="1">Pre-mRNA-processing factor 19</text>
+<text top="506" left="547" width="6" height="11" font="1">2</text>
+<text top="506" left="654" width="6" height="11" font="1">1</text>
+<text top="523" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="523" left="176" width="282" height="11" font="1">Isoform B1 of Heterogeneous nuclear ribonucleoproteins A2/B1</text>
+<text top="523" left="544" width="11" height="11" font="1">25</text>
+<text top="523" left="627" width="59" height="11" font="1">0.961538462</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="612" width="792">
+<text top="74" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="75" left="229" width="175" height="11" font="1">Isoform 3 of Core histone macro-H2A.1</text>
+<text top="75" left="544" width="11" height="11" font="1">19</text>
+<text top="75" left="627" width="59" height="11" font="1">0.904761905</text>
+<text top="89" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="90" left="181" width="271" height="11" font="1">Isoform A1-A of Heterogeneous nuclear ribonucleoprotein A1</text>
+<text top="90" left="544" width="11" height="11" font="1">19</text>
+<text top="90" left="647" width="20" height="11" font="1">0.95</text>
+<text top="104" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="105" left="170" width="294" height="11" font="1">Isoform PP39-TAL1 of T-cell acute lymphocytic leukemia protein 1</text>
+<text top="105" left="544" width="11" height="11" font="1">19</text>
+<text top="105" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="119" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="120" left="232" width="169" height="11" font="1">rRNA 2'-O-methyltransferase fibrillarin</text>
+<text top="120" left="544" width="11" height="11" font="1">16</text>
+<text top="120" left="627" width="59" height="11" font="1">1.454545455</text>
+<text top="134" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="134" left="235" width="164" height="11" font="1">Interleukin enhancer-binding factor 2</text>
+<text top="134" left="544" width="11" height="11" font="1">15</text>
+<text top="134" left="627" width="59" height="11" font="1">1.363636364</text>
+<text top="149" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="149" left="254" width="125" height="11" font="1">Isoform 2 of Nucleophosmin</text>
+<text top="149" left="544" width="11" height="11" font="1">13</text>
+<text top="149" left="627" width="59" height="11" font="1">1.181818182</text>
+<text top="164" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="164" left="219" width="196" height="11" font="1">Heterogeneous nuclear ribonucleoprotein G</text>
+<text top="164" left="544" width="10" height="11" font="1">11</text>
+<text top="164" left="627" width="59" height="11" font="1">0.846153846</text>
+<text top="179" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="179" left="182" width="269" height="11" font="1">Isoform 1 of Heterogeneous nuclear ribonucleoprotein D-like</text>
+<text top="179" left="544" width="10" height="11" font="1">11</text>
+<text top="179" left="644" width="25" height="11" font="1">1.375</text>
+<text top="193" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="194" left="189" width="257" height="11" font="1">Isoform 2 of Heterogeneous nuclear ribonucleoprotein H3</text>
+<text top="194" left="544" width="10" height="11" font="1">11</text>
+<text top="194" left="654" width="6" height="11" font="1">1</text>
+<text top="208" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="209" left="275" width="85" height="11" font="1">ELAV-like protein 1</text>
+<text top="209" left="544" width="11" height="11" font="1">10</text>
+<text top="209" left="647" width="20" height="11" font="1">1.25</text>
+<text top="223" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="224" left="190" width="253" height="11" font="1">MKI67 FHA domain-interacting nucleolar phosphoprotein</text>
+<text top="224" left="547" width="6" height="11" font="1">9</text>
+<text top="224" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="238" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="239" left="219" width="196" height="11" font="1">Putative uncharacterized protein HNRNPAB</text>
+<text top="239" left="547" width="6" height="11" font="1">9</text>
+<text top="239" left="644" width="25" height="11" font="1">1.125</text>
+<text top="253" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="253" left="209" width="217" height="11" font="1">Isoform 3 of Transformer-2 protein homolog beta</text>
+<text top="253" left="547" width="6" height="11" font="1">8</text>
+<text top="253" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="268" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="268" left="225" width="183" height="11" font="1">RNA binding motif protein, X-linked-like 1</text>
+<text top="268" left="547" width="6" height="11" font="1">7</text>
+<text top="268" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="283" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="283" left="226" width="182" height="11" font="1">Probable rRNA-processing protein EBP2</text>
+<text top="283" left="547" width="6" height="11" font="1">6</text>
+<text top="283" left="647" width="20" height="11" font="1">0.75</text>
+<text top="298" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="298" left="262" width="110" height="11" font="1">Brix domain containing 1</text>
+<text top="298" left="547" width="6" height="11" font="1">5</text>
+<text top="298" left="644" width="25" height="11" font="1">0.625</text>
+<text top="312" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="313" left="184" width="266" height="11" font="1">cDNA FLJ54752, highly similar to Poly(rC)-binding protein 2</text>
+<text top="313" left="547" width="6" height="11" font="1">5</text>
+<text top="313" left="627" width="59" height="11" font="1">0.714285714</text>
+<text top="327" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="328" left="267" width="100" height="11" font="1">Isoform 1 of Serpin B3</text>
+<text top="328" left="547" width="6" height="11" font="1">5</text>
+<text top="328" left="647" width="20" height="11" font="1">1.25</text>
+<text top="342" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="343" left="271" width="91" height="11" font="1">Junction plakoglobin</text>
+<text top="343" left="547" width="6" height="11" font="1">5</text>
+<text top="343" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="357" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="358" left="260" width="115" height="11" font="1">Poly(rC)-binding protein 1</text>
+<text top="358" left="547" width="6" height="11" font="1">5</text>
+<text top="358" left="647" width="20" height="11" font="1">1.25</text>
+<text top="372" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="372" left="262" width="109" height="11" font="1">Protein MAK16 homolog</text>
+<text top="372" left="547" width="6" height="11" font="1">5</text>
+<text top="372" left="647" width="20" height="11" font="1">1.25</text>
+<text top="387" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="387" left="217" width="201" height="11" font="1">Ribosome biogenesis protein BRX1 homolog</text>
+<text top="387" left="547" width="6" height="11" font="1">5</text>
+<text top="387" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="402" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="402" left="268" width="98" height="11" font="1">Tubulin beta-2C chain</text>
+<text top="402" left="547" width="6" height="11" font="1">5</text>
+<text top="402" left="627" width="59" height="11" font="1">1.666666667</text>
+<text top="417" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="417" left="217" width="199" height="11" font="1">Heterogeneous nuclear ribonucleoprotein A0</text>
+<text top="417" left="547" width="6" height="11" font="1">4</text>
+<text top="417" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="432" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="432" left="191" width="252" height="11" font="1">Isoform 4 of Heterogeneous nuclear ribonucleoprotein Q</text>
+<text top="432" left="547" width="6" height="11" font="1">4</text>
+<text top="432" left="654" width="6" height="11" font="1">1</text>
+<text top="446" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="447" left="275" width="85" height="11" font="1">RRP15-like protein</text>
+<text top="447" left="547" width="6" height="11" font="1">4</text>
+<text top="447" left="627" width="59" height="11" font="1">1.333333333</text>
+<text top="461" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="462" left="205" width="224" height="11" font="1">U5 small nuclear ribonucleoprotein 40 kDa protein</text>
+<text top="462" left="547" width="6" height="11" font="1">4</text>
+<text top="462" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="476" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="477" left="254" width="125" height="11" font="1">Complement C3 (Fragment)</text>
+<text top="477" left="547" width="6" height="11" font="1">3</text>
+<text top="477" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="491" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="492" left="262" width="110" height="11" font="1">Isoform 2 of Neuroguidin</text>
+<text top="492" left="547" width="6" height="11" font="1">3</text>
+<text top="492" left="654" width="6" height="11" font="1">1</text>
+<text top="506" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="506" left="198" width="239" height="11" font="1">Isoform Long of Transformer-2 protein homolog alpha</text>
+<text top="506" left="547" width="6" height="11" font="1">3</text>
+<text top="506" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="521" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="521" left="213" width="209" height="11" font="1">RNA 3'-terminal phosphate cyclase-like protein</text>
+<text top="521" left="547" width="6" height="11" font="1">3</text>
+<text top="521" left="647" width="20" height="11" font="1">0.75</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="612" width="792">
+<text top="74" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="75" left="170" width="293" height="11" font="1">Serine/threonine-protein phosphatase PP1-alpha catalytic subunit</text>
+<text top="75" left="547" width="6" height="11" font="1">3</text>
+<text top="75" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="89" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="90" left="292" width="50" height="11" font="1">Serpin B12</text>
+<text top="90" left="547" width="6" height="11" font="1">3</text>
+<text top="90" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="104" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="105" left="269" width="97" height="11" font="1">Tubulin beta-2A chain</text>
+<text top="105" left="547" width="6" height="11" font="1">3</text>
+<text top="105" left="654" width="6" height="11" font="1">3</text>
+<text top="119" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="120" left="260" width="114" height="11" font="1">Zinc-alpha-2-glycoprotein</text>
+<text top="120" left="547" width="6" height="11" font="1">3</text>
+<text top="120" left="647" width="20" height="11" font="1">0.75</text>
+<text top="134" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="134" left="299" width="37" height="11" font="1">Borealin</text>
+<text top="134" left="547" width="6" height="11" font="1">2</text>
+<text top="134" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="149" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="149" left="144" width="346" height="11" font="1">cDNA FLJ54533, highly similar to Heterogeneous nuclear ribonucleoprotein H</text>
+<text top="149" left="547" width="6" height="11" font="1">2</text>
+<text top="149" left="627" width="59" height="11" font="1">0.666666667</text>
+<text top="164" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="164" left="216" width="202" height="11" font="1">cDNA FLJ59138, highly similar to Annexin A2</text>
+<text top="164" left="547" width="6" height="11" font="1">2</text>
+<text top="164" left="627" width="59" height="11" font="1">0.666666667</text>
+<text top="179" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="179" left="286" width="62" height="11" font="1">Desmoglein-1</text>
+<text top="179" left="547" width="6" height="11" font="1">2</text>
+<text top="179" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="193" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="194" left="261" width="112" height="11" font="1">Elongation factor 1-alpha</text>
+<text top="194" left="547" width="6" height="11" font="1">2</text>
+<text top="194" left="654" width="6" height="11" font="1">1</text>
+<text top="208" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="209" left="220" width="194" height="11" font="1">Heterogeneous nuclear ribonucleoprotein F</text>
+<text top="209" left="547" width="6" height="11" font="1">2</text>
+<text top="209" left="654" width="6" height="11" font="1">1</text>
+<text top="223" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="224" left="288" width="58" height="11" font="1">Histone H1.5</text>
+<text top="224" left="547" width="6" height="11" font="1">2</text>
+<text top="224" left="654" width="6" height="11" font="1">1</text>
+<text top="238" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="239" left="234" width="166" height="11" font="1">Isoform 1 of UAP56-interacting factor</text>
+<text top="239" left="547" width="6" height="11" font="1">2</text>
+<text top="239" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="253" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="253" left="224" width="187" height="11" font="1">Isoform 2 of LIM domain-binding protein 1</text>
+<text top="253" left="547" width="6" height="11" font="1">2</text>
+<text top="253" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="268" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="268" left="254" width="125" height="11" font="1">Isoform DPI of Desmoplakin</text>
+<text top="268" left="547" width="6" height="11" font="1">2</text>
+<text top="268" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="283" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="283" left="271" width="91" height="11" font="1">Tubulin beta-3 chain</text>
+<text top="283" left="547" width="6" height="11" font="1">2</text>
+<text top="283" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+<text top="298" left="66" width="53" height="12" font="1">TAL1_Band B</text>
+<text top="298" left="298" width="39" height="11" font="1">Vimentin</text>
+<text top="298" left="547" width="6" height="11" font="1">2</text>
+<text top="298" left="607" width="98" height="11" font="1">NOT IN CONTROL IP</text>
+</page>
+</pdf2xml>

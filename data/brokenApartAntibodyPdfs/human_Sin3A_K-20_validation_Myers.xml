@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="103" width="411" height="16" font="0"><b>Transcription factor: SIN3 homolog A, transcription regulator </b></text>
+<text top="105" left="255" width="105" height="16" font="0"><b>(GeneID 25942) </b></text>
+<text top="121" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="134" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="148" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="162" left="77" width="3" height="13" font="2"> </text>
+<text top="176" left="77" width="3" height="13" font="2"> </text>
+<text top="190" left="77" width="306" height="13" font="1"><b>Transcription factor:</b> SIN3A (GeneID 25942; ~145 kDa) </text>
+<text top="203" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="217" left="77" width="334" height="13" font="1"><b>Antibody:</b> mSin3A (K-20), Santa Cruz Biotechnology (sc-994) </text>
+<text top="231" left="77" width="430" height="13" font="2">Rabbit polyclonal, epitope mapping at the N-terminus of mSin3A of mouse origin </text>
+<text top="245" left="77" width="368" height="13" font="2">Web: http://www.scbt.com/datasheet-994-msin3a-k-20-antibody.html </text>
+<text top="259" left="77" width="3" height="13" font="2"> </text>
+<text top="272" left="77" width="3" height="13" font="2"> </text>
+<text top="286" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="312" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="326" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="340" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="364" left="77" width="3" height="13" font="2"> </text>
+<text top="388" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="532" left="270" width="3" height="13" font="2"> </text>
+<text top="553" left="81" width="422" height="13" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  mSin3A  expression  in  HeLa  (A), </text>
+<text top="567" left="81" width="230" height="13" font="2">Jurkat (B) and K562 (C) whole cell lysates. </text>
+<text top="591" left="81" width="3" height="13" font="2"> </text>
+<text top="615" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="639" left="81" width="3" height="13" font="1"><b> </b></text>
+<text top="662" left="90" width="3" height="13" font="1"><b> </b></text>
+<text top="686" left="90" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="96" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="120" left="77" width="466" height="13" font="2">Whole cell lysates or nuclear extracts were immunoprecipitated using primary antibody, </text>
+<text top="134" left="77" width="461" height="13" font="2">and the IP fraction was loaded on a 12% acrylamide gel and separated with a Bio-Rad </text>
+<text top="148" left="77" width="402" height="13" font="2">PROTEAN II xi system. After separation, the samples were transferred to a </text>
+<text top="161" left="77" width="454" height="13" font="2">nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary (same </text>
+<text top="175" left="77" width="452" height="13" font="2">as that used for IP) and secondary HRP-conjugated antibodies was performed on an </text>
+<text top="189" left="77" width="465" height="13" font="2">Invitrogen BenchPro 4100 system. Visualization was achieved using SuperSignal West </text>
+<text top="203" left="77" width="193" height="13" font="2">Femto solution (Thermo Scientific).  </text>
+<text top="583" left="508" width="3" height="13" font="2"> </text>
+<text top="604" left="122" width="354" height="13" font="1"><b>Figure  Legend:</b>  SIN3A  immunoblot:  IP-western  with  sc-994 </text>
+<text top="618" left="122" width="354" height="13" font="2">mSIN3A  antibody  in  nuclear  extract  (NE)  and  whole  cell  lysate </text>
+<text top="632" left="122" width="354" height="13" font="2">(WCL) of K562, and whole cell lysates of GM12878 and HepG2. </text>
+<text top="645" left="122" width="354" height="13" font="2">Heavy chain of IgG is indicated, and SIN3A band is indicated at </text>
+<text top="659" left="122" width="62" height="13" font="2">~150 kDa.  </text>
+<text top="683" left="77" width="3" height="13" font="2"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="7" family="Times" color="#000000"/>
+	<fontspec id="4" size="7" family="Times" color="#000000"/>
+<text top="72" left="77" width="3" height="13" font="2"> </text>
+<text top="96" left="77" width="282" height="16" font="0"><b>Validation 2: Mass Spectrometry Analysis </b></text>
+<text top="122" left="77" width="467" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="136" left="77" width="467" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="150" left="77" width="467" height="13" font="2">spectrometry analysis. Briefly, K562 whole cell lysates were immunoprecipitated using </text>
+<text top="164" left="77" width="467" height="13" font="2">primary  antibody,  and  the  IP  fraction  was  loaded  on  a  12%  acrylamide  gel  and </text>
+<text top="177" left="77" width="467" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="191" left="77" width="467" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="205" left="77" width="467" height="13" font="2">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="219" left="77" width="467" height="13" font="2">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="233" left="77" width="467" height="13" font="2">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="246" left="77" width="467" height="13" font="2">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="260" left="77" width="467" height="13" font="2">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="274" left="77" width="467" height="13" font="2">Subsequent  analysis  was  performed  in  Scaffold  (Proteome  Software,  Inc.)  at  0.0% </text>
+<text top="288" left="77" width="467" height="13" font="2">protein  FDR  and  0.0%  peptide  FDR.  As  per  ENCODE  data  standards,  all  Scaffold </text>
+<text top="302" left="77" width="467" height="13" font="2">results are listed below, including common contaminants. Target protein is highlighted </text>
+<text top="315" left="77" width="65" height="13" font="2">in bold font. </text>
+<text top="339" left="77" width="3" height="13" font="2"> </text>
+<text top="363" left="77" width="445" height="11" font="3">Bifunctional aminoacyl-tRNA synthetase OS=Homo sapiens GN=EPRS PE=1 SV=5 SYEP_HUMAN </text>
+<text top="385" left="77" width="463" height="11" font="3">Leucine-rich PPR motif-containing protein, mitochondrial OS=Homo sapiens GN=LRPPRC PE=1 SV=3</text>
+<text top="396" left="77" width="92" height="11" font="3">  LPPRC_HUMAN </text>
+<text top="418" left="77" width="409" height="11" font="3">ATP-dependent RNA helicase A OS=Homo sapiens GN=DHX9 PE=1 SV=4 DHX9_HUMAN </text>
+<text top="439" left="77" width="320" height="11" font="3">Splicing factor 3B subunit 1 OS=Homo sapiens GN=SF3B1 PE=1 SV=3 </text>
+<text top="439" left="414" width="76" height="11" font="3">SF3B1_HUMAN </text>
+<text top="461" left="77" width="281" height="11" font="3">Fatty acid synthase OS=Homo sapiens GN=FASN PE=1 SV=3 </text>
+<text top="461" left="378" width="64" height="11" font="3">FAS_HUMAN </text>
+<text top="482" left="77" width="442" height="11" font="3">Isoleucyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=IARS PE=1 SV=2  SYIC_HUMAN </text>
+<text top="504" left="77" width="374" height="11" font="3">Valyl-tRNA synthetase OS=Homo sapiens GN=VARS PE=1 SV=4  SYVC_HUMAN </text>
+<text top="525" left="77" width="372" height="11" font="3">Clathrin heavy chain 1 OS=Homo sapiens GN=CLTC PE=1 SV=5  CLH1_HUMAN </text>
+<text top="547" left="77" width="463" height="11" font="3">DNA-dependent  protein  kinase  catalytic  subunit  OS=Homo  sapiens  GN=PRKDC  PE=1  SV=3</text>
+<text top="558" left="77" width="94" height="11" font="3">  PRKDC_HUMAN </text>
+<text top="580" left="77" width="360" height="11" font="3">Leucyl-tRNA synthetase, cytoplasmic OS=Homo sapiens GN=LARS PE=1 SV=2 </text>
+<text top="580" left="450" width="71" height="11" font="3">SYLC_HUMAN </text>
+<text top="601" left="77" width="417" height="11" font="3">Hypoxia up-regulated protein 1 OS=Homo sapiens GN=HYOU1 PE=1 SV=1 HYOU1_HUMAN </text>
+<text top="622" left="77" width="241" height="11" font="3">Exportin-5 OS=Homo sapiens GN=XPO5 PE=1 SV=1 </text>
+<text top="622" left="342" width="72" height="11" font="3">XPO5_HUMAN </text>
+<text top="644" left="77" width="464" height="11" font="4"><b>Paired  amphipathic  helix  protein  Sin3a  OS=Homo  sapiens  GN=SIN3A  PE=1  SV=2</b></text>
+<text top="655" left="77" width="89" height="11" font="4"><b>  SIN3A_HUMAN </b></text>
+<text top="677" left="77" width="375" height="11" font="3">Coatomer subunit alpha OS=Homo sapiens GN=COPA PE=1 SV=2 COPA_HUMAN </text>
+<text top="699" left="77" width="322" height="11" font="3">Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6 </text>
+<text top="699" left="414" width="70" height="11" font="3">K2C1_HUMAN </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="411" height="11" font="3">Protein diaphanous homolog 1 OS=Homo sapiens GN=DIAPH1 PE=1 SV=2 DIAP1_HUMAN </text>
+<text top="94" left="77" width="464" height="11" font="3">Eukaryotic  translation  initiation  factor  3  subunit  A  OS=Homo  sapiens  GN=EIF3A  PE=1  SV=1</text>
+<text top="105" left="77" width="86" height="11" font="3">  EIF3A_HUMAN </text>
+<text top="127" left="77" width="319" height="11" font="3">Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3 </text>
+<text top="127" left="414" width="70" height="11" font="3">K1C9_HUMAN </text>
+<text top="148" left="77" width="319" height="11" font="3">Myb-binding protein 1A OS=Homo sapiens GN=MYBBP1A PE=1 SV=2 </text>
+<text top="148" left="414" width="79" height="11" font="3">MBB1A_HUMAN </text>
+<text top="170" left="77" width="237" height="11" font="3">Myosin-9 OS=Homo sapiens GN=MYH9 PE=1 SV=4 </text>
+<text top="170" left="342" width="73" height="11" font="3">MYH9_HUMAN </text>
+<text top="191" left="77" width="463" height="11" font="3">Ras  GTPase-activating-like  protein  IQGAP1  OS=Homo  sapiens  GN=IQGAP1  PE=1  SV=1</text>
+<text top="203" left="77" width="89" height="11" font="3">  IQGA1_HUMAN </text>
+<text top="224" left="77" width="466" height="11" font="3">Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16 OS=Homo sapiens GN=DHX38 PE=1 </text>
+<text top="236" left="77" width="28" height="11" font="3">SV=2 </text>
+<text top="236" left="126" width="77" height="11" font="3">PRP16_HUMAN </text>
+</page>
+</pdf2xml>

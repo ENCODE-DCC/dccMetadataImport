@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="23" left="55" width="517" height="33" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="77" left="138" width="53" height="12" font="1">Sep 12, 2011</text>
+<text top="359" left="94" width="341" height="12" font="1">Goat polyclonal IgG. Epitope mapping at the N-terminus of Pax-5 of human origin.</text>
+<text top="485" left="150" width="31" height="12" font="1">Human</text>
+<text top="521" left="178" width="53" height="12" font="2">Western Blot</text>
+<text top="134" left="326" width="102" height="12" font="1">fpauli@hudsonalpha.org</text>
+<text top="134" left="83" width="61" height="12" font="1">Florencia Pauli</text>
+<text top="215" left="121" width="42" height="12" font="1">PAX5-N19</text>
+<text top="215" left="339" width="22" height="12" font="1">PAX5</text>
+<text top="170" left="230" width="25" height="12" font="1">Myers</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="485" left="361" width="22" height="12" font="1">Goat </text>
+<text top="300" left="395" width="23" height="12" font="1">I0707</text>
+<text top="300" left="215" width="32" height="12" font="1">sc-1795</text>
+<text top="521" left="395" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="413" left="94" width="450" height="12" font="1">PAX proteins are important regulators in early development, and alterations in the expression of their genes </text>
+<text top="425" left="94" width="231" height="12" font="1">are thought to contribute to neoplastic transformation. </text>
+<text top="437" left="94" width="2" height="12" font="1"> </text>
+<text top="449" left="94" width="119" height="12" font="1">Entrez Gene ID 5097.  46 kDa</text>
+<text top="599" left="238" width="187" height="12" font="1">http://www.scbt.com/datasheet-1975-pax-5-</text>
+<text top="611" left="238" width="81" height="12" font="1">n-19-antibody.html</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="80" left="125" width="95" height="12" font="1">Western blot protocol: </text>
+<text top="92" left="125" width="428" height="12" font="1">Whole cell lysate was immunoprecipitated using primary antibody, and the IP fraction was loaded on a </text>
+<text top="104" left="125" width="422" height="12" font="1">12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi system. After separation, the samples </text>
+<text top="116" left="125" width="422" height="12" font="1">were transferred to a nitrocellulose membrane with an Invitrogen iBlot system.  Blotting with primary </text>
+<text top="128" left="125" width="422" height="12" font="1">(same as that used for IP) and secondary HRP-conjugated antibodies was performed on an Invitrogen </text>
+<text top="140" left="125" width="414" height="12" font="1">BenchPro 4100 system. Visualization was achieved using SuperSignal West Femto solution (Thermo </text>
+<text top="152" left="125" width="47" height="12" font="1">Scientific).  </text>
+<text top="164" left="125" width="2" height="12" font="1"> </text>
+<text top="176" left="125" width="346" height="12" font="1">Results: Band of expected size visualized, representing strongest signal in the lane.  </text>
+<text top="188" left="125" width="2" height="12" font="1"> </text>
+<text top="200" left="125" width="411" height="12" font="1">Figure legend: IP-western with sc-1975 in whole cell lysate (WCL) of GM12878; PM=protein marker. </text>
+<text top="212" left="125" width="100" height="12" font="1">PAX5 band is indicated. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="63" left="130" width="397" height="12" font="1">Validation 2: Immunoprecipitation with multiple antibodies against different parts of the target </text>
+<text top="75" left="130" width="33" height="12" font="1">protein </text>
+<text top="87" left="130" width="389" height="12" font="1">ENCODE data standards allow for secondary validation of antibodies by performing ChIP with </text>
+<text top="99" left="130" width="414" height="12" font="1">multiple antibodies against different parts of the target protein.  A statistically significant overlap of </text>
+<text top="111" left="130" width="128" height="12" font="1">targets constitutes validation.  </text>
+<text top="123" left="130" width="2" height="12" font="1"> </text>
+<text top="135" left="130" width="417" height="12" font="1">PAX5 (N-19) sc-1975 is a goat polyclonal antibody with epitope mapping at the N-terminus of PAX-5 </text>
+<text top="147" left="130" width="415" height="12" font="1">of human origin. A second antibody used in ChIP-seq experiments on PAX5 in our lab is PAX5 (C-20) </text>
+<text top="159" left="130" width="400" height="12" font="1">sc-1974, a goat polyclonal antibody with epitope mapping at the C-terminus of PAX-5 of human </text>
+<text top="171" left="130" width="415" height="12" font="1">origin. Irreproducible Discovery Rate (IDR) analysis results for two ChIP-seq experiments using these </text>
+<text top="183" left="130" width="203" height="12" font="1">two antibodies, each in GM12878, are as follows: </text>
+<text top="195" left="130" width="2" height="12" font="1"> </text>
+<text top="207" left="130" width="159" height="12" font="1">At IDR 0.01: 4145 peaks are significant </text>
+<text top="219" left="130" width="159" height="12" font="1">At IDR 0.05: 6815 peaks are significant </text>
+<text top="231" left="130" width="154" height="12" font="1">At IDR 0.1: 8756 peaks are significant </text>
+<text top="243" left="130" width="2" height="12" font="1"> </text>
+<text top="255" left="130" width="320" height="12" font="1">These results indicate significant overlap between the two ChIP-seq libraries. </text>
+<text top="695" left="268" width="68" height="12" font="1">Submit by Email</text>
+</page>
+</pdf2xml>

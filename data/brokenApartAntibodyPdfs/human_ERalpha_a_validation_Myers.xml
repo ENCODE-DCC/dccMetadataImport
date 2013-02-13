@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="103" width="410" height="16" font="0"><b>Transcription factor: Estrogen Receptor Alpha (GeneID 2099) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="290" height="13" font="1"><b>Transcription factor:</b> ESR1 (GeneID 2099; ~66 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="326" height="14" font="1"><b>Antibody:</b> ERα (HC-20), Santa Cruz Biotechnology (sc-543) </text>
+<text top="216" left="77" width="412" height="14" font="2">Rabbit polyclonal, epitope mapping at the C-terminus of ERα of human origin </text>
+<text top="231" left="77" width="376" height="13" font="2">Web: http://www.scbt.com/datasheet-543-eralpha-hc-20-antibody.html </text>
+<text top="245" left="77" width="3" height="13" font="2"> </text>
+<text top="258" left="77" width="3" height="13" font="2"> </text>
+<text top="272" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="298" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="312" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="326" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="350" left="77" width="3" height="13" font="2"> </text>
+<text top="373" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="612" left="309" width="3" height="13" font="2"> </text>
+<text top="633" left="81" width="422" height="14" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  human  recombinant  ERα (A), ERα </text>
+<text top="648" left="81" width="422" height="13" font="2">expression in MCF7 nuclear extract (B) and T-47D whole cell lysate (C). Note </text>
+<text top="662" left="81" width="207" height="14" font="2">amino terminal truncated form of ERα. </text>
+<text top="687" left="81" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="96" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="120" left="77" width="467" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="134" left="77" width="467" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="148" left="77" width="467" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="161" left="77" width="467" height="13" font="2">with an Invitrogen iBlot system.  Blotting with primary (same as that used for IP) and </text>
+<text top="175" left="77" width="467" height="13" font="2">secondary HRP-conjugated antibodies was performed on an Invitrogen BenchPro 4100 </text>
+<text top="189" left="77" width="467" height="13" font="2">system.  Visualization  was  achieved  using  SuperSignal  West  Femto  solution  (Thermo </text>
+<text top="203" left="77" width="62" height="13" font="2">Scientific).  </text>
+<text top="227" left="77" width="10" height="13" font="2">   </text>
+<text top="593" left="77" width="3" height="13" font="2"> </text>
+<text top="593" left="512" width="3" height="13" font="2"> </text>
+<text top="615" left="122" width="354" height="14" font="1"><b>Figure  Legend:</b>  ERα  immunoblot:  IP-western  with  sc-543  ERα </text>
+<text top="629" left="122" width="354" height="14" font="2">antibody  in  whole  cell  lysates  of  ECC-1  and  K562;  ERα  is  not </text>
+<text top="644" left="122" width="354" height="13" font="2">expressed  in  K562,  and  this  lane  is  included  as  a  negative </text>
+<text top="658" left="122" width="354" height="14" font="2">control.  Heavy  chain  of  IgG  is  indicated,  and  ERα  band  is </text>
+<text top="673" left="122" width="116" height="13" font="2">indicated at ~66 kDa. </text>
+<text top="697" left="77" width="3" height="13" font="2"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="7" family="Times" color="#000000"/>
+	<fontspec id="4" size="7" family="Times" color="#000000"/>
+<text top="72" left="77" width="3" height="13" font="2"> </text>
+<text top="96" left="77" width="282" height="16" font="0"><b>Validation 2: Mass Spectrometry Analysis </b></text>
+<text top="122" left="77" width="467" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="136" left="77" width="467" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="150" left="77" width="467" height="13" font="2">spectrometry  analysis.  Briefly,  ECC-1  whole  cell  lysates  were  immunoprecipitated </text>
+<text top="164" left="77" width="467" height="13" font="2">using primary antibody, and the IP fraction was loaded on a 12% acrylamide gel and </text>
+<text top="177" left="77" width="467" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="191" left="77" width="467" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="205" left="77" width="467" height="13" font="2">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="219" left="77" width="467" height="13" font="2">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="233" left="77" width="467" height="13" font="2">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="246" left="77" width="467" height="13" font="2">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="260" left="77" width="467" height="13" font="2">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="274" left="77" width="467" height="13" font="2">Subsequent  analysis  was  performed  in  Scaffold  (Proteome  Software,  Inc.)  at  0.0% </text>
+<text top="288" left="77" width="467" height="13" font="2">protein  FDR  and  0.0%  peptide  FDR.  As  per  ENCODE  data  standards,  all  Scaffold </text>
+<text top="302" left="77" width="467" height="13" font="2">results are listed below, including common contaminants. Target protein is highlighted </text>
+<text top="315" left="77" width="65" height="13" font="2">in bold font. </text>
+<text top="339" left="77" width="3" height="13" font="2"> </text>
+<text top="363" left="77" width="464" height="11" font="3">Probable  ATP-dependent  RNA  helicase  DDX5  OS=Homo  sapiens  GN=DDX5  PE=1  SV=1</text>
+<text top="375" left="77" width="85" height="11" font="3">  DDX5_HUMAN </text>
+<text top="396" left="77" width="237" height="11" font="3">Myosin-9 OS=Homo sapiens GN=MYH9 PE=1 SV=4 </text>
+<text top="396" left="342" width="73" height="11" font="3">MYH9_HUMAN </text>
+<text top="418" left="77" width="357" height="11" font="3">Heat shock cognate 71 kDa protein OS=Homo sapiens GN=HSPA8 PE=1 SV=1 </text>
+<text top="418" left="450" width="78" height="11" font="3">HSP7C_HUMAN </text>
+<text top="439" left="77" width="466" height="11" font="3">Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 OS=Homo sapiens GN=RPN1 </text>
+<text top="451" left="77" width="55" height="11" font="3">PE=1 SV=1 </text>
+<text top="451" left="162" width="72" height="11" font="3">RPN1_HUMAN </text>
+<text top="472" left="77" width="322" height="11" font="3">Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6 </text>
+<text top="472" left="414" width="70" height="11" font="3">K2C1_HUMAN </text>
+<text top="494" left="77" width="354" height="11" font="3">T-complex protein 1 subunit gamma OS=Homo sapiens GN=CCT3 PE=1 SV=4 </text>
+<text top="494" left="450" width="73" height="11" font="3">TCPG_HUMAN </text>
+<text top="515" left="77" width="463" height="11" font="3">ATPase  family  AAA  domain-containing  protein  3A  OS=Homo  sapiens  GN=ATAD3A  PE=1  SV=2</text>
+<text top="526" left="77" width="91" height="11" font="3">  ATD3A_HUMAN </text>
+<text top="548" left="77" width="285" height="11" font="4"><b>Estrogen receptor OS=Homo sapiens GN=ESR1 PE=1 SV=2 </b></text>
+<text top="548" left="378" width="72" height="11" font="4"><b>ESR1_HUMAN </b></text>
+<text top="570" left="77" width="450" height="11" font="3">Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4  HS90B_HUMAN </text>
+<text top="591" left="77" width="443" height="11" font="3">Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens GN=KRT2 PE=1 SV=2  K22E_HUMAN </text>
+<text top="613" left="77" width="306" height="11" font="3">RNA-binding protein 39 OS=Homo sapiens GN=RBM39 PE=1 SV=2 </text>
+<text top="613" left="414" width="78" height="11" font="3">RBM39_HUMAN </text>
+<text top="634" left="77" width="41" height="11" font="3">Guanine </text>
+<text top="634" left="128" width="84" height="11" font="3">nucleotide-binding </text>
+<text top="634" left="224" width="52" height="11" font="3">protein-like </text>
+<text top="634" left="286" width="8" height="11" font="3">3 </text>
+<text top="634" left="306" width="50" height="11" font="3">OS=Homo </text>
+<text top="634" left="367" width="37" height="11" font="3">sapiens </text>
+<text top="634" left="416" width="50" height="11" font="3">GN=GNL3 </text>
+<text top="634" left="476" width="28" height="11" font="3">PE=1 </text>
+<text top="634" left="515" width="25" height="11" font="3">SV=2</text>
+<text top="646" left="77" width="85" height="11" font="3">  GNL3_HUMAN </text>
+<text top="667" left="77" width="413" height="11" font="3">Keratin, type I cytoskeletal 10 OS=Homo sapiens GN=KRT10 PE=1 SV=6  K1C10_HUMAN </text>
+<text top="688" left="77" width="319" height="11" font="3">Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3 </text>
+<text top="688" left="414" width="70" height="11" font="3">K1C9_HUMAN </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="463" height="11" font="3">Ribosomal  L1  domain-containing  protein  1  OS=Homo  sapiens  GN=RSL1D1  PE=1  SV=3</text>
+<text top="84" left="77" width="90" height="11" font="3">  RL1D1_HUMAN </text>
+<text top="105" left="77" width="377" height="11" font="3">Zinc finger protein 512 OS=Homo sapiens GN=ZNF512 PE=1 SV=2 ZN512_HUMAN </text>
+<text top="127" left="77" width="463" height="11" font="3">Heterogeneous  nuclear  ribonucleoprotein  M  OS=Homo  sapiens  GN=HNRNPM  PE=1  SV=3</text>
+<text top="138" left="77" width="95" height="11" font="3">  HNRPM_HUMAN </text>
+<text top="160" left="77" width="379" height="11" font="3">Nucleolar protein 58 OS=Homo sapiens GN=NOP58 PE=1 SV=1  NOP58_HUMAN </text>
+<text top="181" left="77" width="452" height="11" font="3">ATP-dependent RNA helicase DDX3X OS=Homo sapiens GN=DDX3X PE=1 SV=3  DDX3X_HUMAN </text>
+<text top="203" left="77" width="463" height="11" font="3">Heterogeneous  nuclear  ribonucleoprotein  K  OS=Homo  sapiens  GN=HNRNPK  PE=1  SV=1</text>
+<text top="214" left="77" width="94" height="11" font="3">  HNRPK_HUMAN </text>
+<text top="236" left="77" width="243" height="11" font="3">Lamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1 </text>
+<text top="236" left="342" width="73" height="11" font="3">LMNA_HUMAN </text>
+<text top="257" left="77" width="464" height="11" font="3">26S  proteasome  non-ATPase  regulatory  subunit  3  OS=Homo  sapiens  GN=PSMD3  PE=1  SV=2</text>
+<text top="269" left="77" width="93" height="11" font="3">  PSMD3_HUMAN </text>
+</page>
+</pdf2xml>

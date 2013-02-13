@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="5" family="Times" color="#000000"/>
+	<fontspec id="1" size="4" family="Times" color="#000000"/>
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+<text top="203" left="105" width="18" height="8" font="0"><b>35kD</b></text>
+<text top="191" left="104" width="18" height="8" font="0"><b>55kD</b></text>
+<text top="113" left="111" width="164" height="7" font="1">Arrows indicate band consistent with expected size (47kD)</text>
+<text top="120" left="111" width="151" height="7" font="1">of IRF3 in- Left Panel: whole cell lysates from HepG2</text>
+<text top="127" left="111" width="150" height="7" font="1">cells and Right Panel: whole cell lysates from (left to</text>
+<text top="135" left="111" width="139" height="7" font="1">right) GM12878 (lane 1) and K562 (lane 2) cells.</text>
+<text top="54" left="117" width="251" height="9" font="2"><b>Antibody: IRF3      Source: Santa Cruz Biotechnology ab9082X</b></text>
+<text top="64" left="117" width="364" height="9" font="2"><b>Epitope: Rabbit polyclonal; epitope corresponding to amino acids 1-425 of IRF-3 of human</b></text>
+<text top="74" left="117" width="24" height="9" font="2"><b>origin</b></text>
+<text top="113" left="315" width="168" height="7" font="1">Arrow indicates immunoprecipitated band of expected size</text>
+<text top="120" left="315" width="152" height="7" font="1">for IRF3 from K562 nuclear lysates.  Lane 1= HeLaS3</text>
+<text top="127" left="315" width="153" height="7" font="1">nuclear lysate, Lane 2= K562 nuclear lysate, Lane 3=</text>
+<text top="134" left="315" width="165" height="7" font="1">supernatant from K562 immunoprecipitation (IP), Lane 4=</text>
+<text top="142" left="315" width="170" height="7" font="1">bound material from K562 IP, Lane 5= bound material from</text>
+<text top="149" left="315" width="73" height="7" font="1">control IgG IP from K562.</text>
+<text top="92" left="100" width="117" height="9" font="2"><b>Validation 1: Immunoblotting</b></text>
+<text top="320" left="111" width="99" height="9" font="2"><b>Validation 2: In Progress</b></text>
+<text top="219" left="255" width="18" height="8" font="0"><b>35kD</b></text>
+<text top="210" left="256" width="18" height="8" font="0"><b>55kD</b></text>
+</page>
+</pdf2xml>

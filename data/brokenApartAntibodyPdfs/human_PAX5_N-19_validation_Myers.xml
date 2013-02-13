@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="145" width="325" height="16" font="0"><b>Transcription factor: Paired box 5 (GeneID 5079) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="289" height="13" font="1"><b>Transcription factor:</b> PAX5 (GeneID 5079; ~42 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="334" height="13" font="1"><b>Antibody:</b> PAX-5 (N-19), Santa Cruz Biotechnology (sc-1975) </text>
+<text top="215" left="77" width="414" height="13" font="2">Goat polyclonal, epitope mapping at the N-terminus of PAX-5 of human origin </text>
+<text top="229" left="77" width="366" height="13" font="2">Web: http://www.scbt.com/datasheet-1975-pax-5-n-19-antibody.html </text>
+<text top="243" left="77" width="3" height="13" font="2"> </text>
+<text top="256" left="77" width="3" height="13" font="2"> </text>
+<text top="270" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="296" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="310" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="324" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="348" left="77" width="3" height="13" font="2"> </text>
+<text top="371" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="567" left="225" width="3" height="13" font="2"> </text>
+<text top="588" left="81" width="422" height="13" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  PAX-5  expression  in  NAMALWA </text>
+<text top="602" left="81" width="94" height="13" font="2">whole cell lysate. </text>
+<text top="626" left="81" width="3" height="13" font="2"> </text>
+<text top="650" left="81" width="3" height="13" font="2"> </text>
+<text top="673" left="81" width="3" height="13" font="2"> </text>
+<text top="697" left="81" width="3" height="13" font="2"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="96" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="120" left="77" width="465" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="134" left="77" width="444" height="13" font="2">was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi </text>
+<text top="148" left="77" width="452" height="13" font="2">system. After separation, the samples were transferred to a nitrocellulose membrane </text>
+<text top="161" left="77" width="447" height="13" font="2">using a Bio-Rad Trans-Blot Electrophoretic Transfer system.  Standard western blot </text>
+<text top="175" left="77" width="466" height="13" font="2">protocol was used to probe the membrane with the primary antibody (same antibody as </text>
+<text top="189" left="77" width="430" height="13" font="2">used for IP), and an HRP-conjugated secondary antibody and SuperSignal West </text>
+<text top="203" left="77" width="422" height="13" font="2">Femto solution (Thermo Scientific) were used to detect the immunoprecipitated </text>
+<text top="217" left="77" width="49" height="13" font="2">proteins. </text>
+<text top="626" left="77" width="3" height="13" font="2"> </text>
+<text top="626" left="226" width="3" height="13" font="2"> </text>
+<text top="647" left="122" width="354" height="13" font="1"><b>Figure  Legend:</b>  PAX5  immunoblot:  IP-western  with  sc-1975 </text>
+<text top="661" left="122" width="354" height="13" font="2">PAX-5 antibody in whole cell lysate of GM12878. Heavy and light </text>
+<text top="674" left="122" width="354" height="13" font="2">chains  of  IgG  are  indicated,  and  PAX5  band  is  indicated  at  ~47 </text>
+<text top="688" left="122" width="31" height="13" font="2">kDa.  </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="77" width="400" height="16" font="0"><b>Validation 2: Immunoprecipitation with multiple antibodies </b></text>
+<text top="89" left="77" width="283" height="16" font="0"><b>against different parts of the target protein</b></text>
+<text top="90" left="360" width="3" height="13" font="2"> </text>
+<text top="115" left="77" width="467" height="13" font="2">ENCODE  data  standards  allow  for  secondary  validation  of  antibodies  by  performing </text>
+<text top="128" left="77" width="467" height="13" font="2">ChIP with multiple antibodies against different parts of the target protein.  A statistically </text>
+<text top="142" left="77" width="274" height="13" font="2">significant overlap of targets constitutes validation.  </text>
+<text top="156" left="77" width="3" height="13" font="2"> </text>
+<text top="170" left="77" width="463" height="13" font="2">PAX5  (N-19)  sc-1975  is  a  goat  polyclonal  antibody  with  epitope  mapping  at  the  N-</text>
+<text top="184" left="77" width="467" height="13" font="2">terminus of PAX-5 of human origin. A second antibody used in ChIP-seq experiments </text>
+<text top="197" left="77" width="467" height="13" font="2">on  PAX5  in  our  lab  is  PAX5  (C-20)  sc-1974,  a  goat  polyclonal  antibody  with  epitope </text>
+<text top="211" left="77" width="467" height="13" font="2">mapping  at  the  C-terminus  of  PAX-5  of  human  origin.  Irreproducible  Discovery  Rate </text>
+<text top="225" left="77" width="467" height="13" font="2">(IDR) analysis results for two ChIP-seq experiments using these two antibodies, each </text>
+<text top="239" left="77" width="152" height="13" font="2">in GM12878, are as follows: </text>
+<text top="253" left="77" width="3" height="13" font="2"> </text>
+<text top="276" left="77" width="211" height="13" font="2">At IDR 0.01: 4145 peaks are significant </text>
+<text top="290" left="77" width="211" height="13" font="2">At IDR 0.05: 6815 peaks are significant </text>
+<text top="304" left="77" width="205" height="13" font="2">At IDR 0.1: 8756 peaks are significant </text>
+<text top="318" left="77" width="3" height="13" font="2"> </text>
+<text top="654" left="508" width="3" height="13" font="2"> </text>
+<text top="665" left="77" width="3" height="13" font="2"> </text>
+<text top="679" left="77" width="3" height="13" font="2"> </text>
+<text top="693" left="77" width="412" height="13" font="2">These results indicate significant overlap between the two ChIP-seq libraries. </text>
+<text top="706" left="77" width="3" height="13" font="2"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="11" family="Times" color="#000000"/>
+<text top="72" left="77" width="4" height="16" font="3"> </text>
+<text top="99" left="77" width="79" height="16" font="0"><b>References </b></text>
+<text top="125" left="77" width="467" height="13" font="2">Li  Q,  Brown  JB,  Huang  H,  Bickel  PJ.  Measuring  Reproducibility  of  High-throughput </text>
+<text top="138" left="77" width="319" height="13" font="2">experiments (Submitted to the Annals of Applied Statistics)  </text>
+<text top="162" left="77" width="4" height="16" font="0"><b> </b></text>
+</page>
+</pdf2xml>

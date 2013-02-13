@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="9" family="Times" color="#000000"/>
+	<fontspec id="2" size="9" family="Times" color="#000000"/>
+<text top="86" left="161" width="292" height="15" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="102" left="120" width="375" height="15" font="0"><b>Transcription factor: USF1 upstream transcription factor 1 </b></text>
+<text top="117" left="261" width="93" height="15" font="0"><b>(GeneID 7391) </b></text>
+<text top="132" left="85" width="3" height="13" font="1"><b> </b></text>
+<text top="146" left="85" width="330" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="159" left="85" width="326" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="172" left="85" width="3" height="13" font="2"> </text>
+<text top="185" left="85" width="3" height="13" font="2"> </text>
+<text top="199" left="85" width="277" height="13" font="1"><b>Transcription factor:</b> USF1 (GeneID 7391; ~33 kDa) </text>
+<text top="212" left="85" width="3" height="13" font="1"><b> </b></text>
+<text top="225" left="85" width="314" height="13" font="1"><b>Antibody:</b> USF-1 (C-20), Santa Cruz Biotechnology (sc-229) </text>
+<text top="238" left="85" width="406" height="13" font="2">Rabbit polyclonal, epitope mapping at the C-terminus of USF-1 of human origin </text>
+<text top="252" left="85" width="341" height="13" font="2">Web: http://www.scbt.com/datasheet-229-usf-1-c-20-antibody.html </text>
+<text top="265" left="85" width="3" height="13" font="2"> </text>
+<text top="278" left="85" width="3" height="13" font="2"> </text>
+<text top="291" left="85" width="227" height="15" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="316" left="85" width="448" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="330" left="85" width="448" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="343" left="85" width="71" height="13" font="2">Western blot. </text>
+<text top="366" left="85" width="3" height="13" font="2"> </text>
+<text top="388" left="85" width="180" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="611" left="287" width="3" height="13" font="2"> </text>
+<text top="631" left="90" width="405" height="13" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  USF-1  expression  in  NIH/3T3 </text>
+<text top="645" left="90" width="82" height="13" font="2">nuclear extract. </text>
+<text top="668" left="90" width="3" height="13" font="2"> </text>
+<text top="690" left="90" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="86" left="90" width="3" height="13" font="1"><b> </b></text>
+<text top="109" left="98" width="3" height="13" font="1"><b> </b></text>
+<text top="132" left="90" width="194" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="155" left="85" width="125" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="177" left="85" width="448" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="191" left="85" width="448" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="204" left="85" width="448" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="217" left="85" width="448" height="13" font="2">using  a  Bio-Rad  Trans-Blot  Electrophoretic  Transfer  system.    Standard  western  blot </text>
+<text top="230" left="85" width="448" height="13" font="2">protocol was used to probe the membrane with the primary antibody (same antibody as </text>
+<text top="244" left="85" width="448" height="13" font="2">used  for  IP),  and  an  HRP-conjugated  secondary  antibody  and  SuperSignal  West </text>
+<text top="257" left="85" width="448" height="13" font="2">Femto  solution  (Thermo  Scientific)  were  used  to  detect  the  immunoprecipitated </text>
+<text top="270" left="85" width="51" height="13" font="2">proteins.  </text>
+<text top="543" left="85" width="3" height="13" font="2"> </text>
+<text top="543" left="513" width="3" height="13" font="2"> </text>
+<text top="564" left="129" width="340" height="13" font="1"><b>Figure Legend:</b> USF1 immunoblot: IP-western with sc-229 USF1 </text>
+<text top="577" left="129" width="340" height="13" font="2">antibody in whole cell lysates of, left to right: K562, HepG2, HeLa, </text>
+<text top="590" left="129" width="340" height="13" font="2">and GM12878. Heavy chain and light chain of IgG are indicated, </text>
+<text top="603" left="129" width="210" height="13" font="2">and USF1 band is indicated at ~43 kDa.  </text>
+<text top="626" left="85" width="3" height="13" font="2"> </text>
+<text top="649" left="85" width="3" height="13" font="2"> </text>
+<text top="672" left="85" width="3" height="13" font="2"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="7" family="Times" color="#000000"/>
+<text top="86" left="85" width="270" height="15" font="0"><b>Validation 2: Mass Spectrometry Analysis </b></text>
+<text top="111" left="85" width="448" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="124" left="85" width="448" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="138" left="85" width="448" height="13" font="2">spectrometry  analysis.  Briefly,  GM12878  whole  cell  lysates  were  immunoprecipitated </text>
+<text top="151" left="85" width="448" height="13" font="2">using primary antibody, and the IP fraction was loaded on a 12% acrylamide gel and </text>
+<text top="164" left="85" width="448" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="177" left="85" width="448" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="191" left="85" width="448" height="13" font="2">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="204" left="85" width="448" height="13" font="2">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="217" left="85" width="448" height="13" font="2">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="230" left="85" width="448" height="13" font="2">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="243" left="85" width="448" height="13" font="2">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="257" left="85" width="448" height="13" font="2">Subsequent  analysis  was  performed  in  Scaffold  (Proteome  Software,  Inc.)  at  0.0% </text>
+<text top="270" left="85" width="448" height="13" font="2">protein  FDR  and  0.0%  peptide  FDR.  As  per  ENCODE  data  standards,  all  Scaffold </text>
+<text top="283" left="85" width="448" height="13" font="2">results are listed below, including common contaminants. Target protein is highlighted </text>
+<text top="296" left="85" width="63" height="13" font="2">in bold font. </text>
+<text top="319" left="85" width="3" height="13" font="2"> </text>
+<text top="342" left="85" width="302" height="11" font="3">Phosphoglycerate kinase 1 OS=Homo sapiens GN=PGK1 PE=1 SV=3 </text>
+<text top="342" left="409" width="69" height="11" font="3">PGK1_HUMAN </text>
+<text top="363" left="85" width="272" height="11" font="3">Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1 </text>
+<text top="363" left="375" width="89" height="11" font="3">ACTB_HUMAN (+1) </text>
+<text top="383" left="85" width="331" height="11" font="3">Pyruvate kinase isozymes M1/M2 OS=Homo sapiens GN=PKM2 PE=1 SV=4 </text>
+<text top="383" left="444" width="70" height="11" font="3">KPYM_HUMAN </text>
+<text top="404" left="85" width="444" height="11" font="3">Acetyl-CoA  acetyltransferase,  mitochondrial  OS=Homo  sapiens  GN=ACAT1  PE=1  SV=1</text>
+<text top="415" left="85" width="77" height="11" font="3">  THIL_HUMAN </text>
+<text top="436" left="85" width="311" height="11" font="3">Upstream stimulatory factor 2 OS=Homo sapiens GN=USF2 PE=1 SV=1 </text>
+<text top="436" left="409" width="68" height="11" font="3">USF2_HUMAN </text>
+<text top="456" left="85" width="339" height="11" font="3">Fructose-bisphosphate aldolase A OS=Homo sapiens GN=ALDOA PE=1 SV=2 </text>
+<text top="456" left="444" width="76" height="11" font="3">ALDOA_HUMAN </text>
+<text top="477" left="85" width="357" height="11" font="3">Actin-related protein 2 OS=Homo sapiens GN=ACTR2 PE=1 SV=1  ARP2_HUMAN </text>
+<text top="497" left="85" width="312" height="11" font="3">Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1 </text>
+<text top="497" left="409" width="72" height="11" font="3">EF1A1_HUMAN </text>
+<text top="518" left="85" width="325" height="11" font="3">Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2  ENOA_HUMAN </text>
+<text top="539" left="85" width="445" height="11" font="3">Developmentally-regulated  GTP-binding  protein  1  OS=Homo  sapiens  GN=DRG1  PE=1  SV=1</text>
+<text top="550" left="85" width="83" height="11" font="3">  DRG1_HUMAN </text>
+<text top="570" left="85" width="445" height="11" font="3">Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial OS=Homo sapiens GN=IDH3B PE=1 SV=2</text>
+<text top="581" left="85" width="84" height="11" font="3">  IDH3B_HUMAN </text>
+<text top="602" left="85" width="447" height="11" font="3">Medium-chain  specific  acyl-CoA  dehydrogenase,  mitochondrial  OS=Homo  sapiens  GN=ACADM  PE=1 </text>
+<text top="613" left="85" width="26" height="11" font="3">SV=1 </text>
+<text top="613" left="133" width="78" height="11" font="3">ACADM_HUMAN </text>
+<text top="634" left="85" width="340" height="11" font="3">Fructose-bisphosphate aldolase C OS=Homo sapiens GN=ALDOC PE=1 SV=2 </text>
+<text top="634" left="444" width="76" height="11" font="3">ALDOC_HUMAN </text>
+<text top="654" left="85" width="445" height="11" font="3">ATP  synthase  subunit  beta,  mitochondrial  OS=Homo  sapiens  GN=ATP5B  PE=1  SV=3</text>
+<text top="665" left="85" width="81" height="11" font="3">  ATPB_HUMAN </text>
+<text top="686" left="85" width="432" height="11" font="3">26S protease regulatory subunit 10B OS=Homo sapiens GN=PSMC6 PE=1 SV=1  PRS10_HUMAN </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="4" size="7" family="Times" color="#000000"/>
+<text top="86" left="85" width="296" height="11" font="3">40S ribosomal protein SA OS=Homo sapiens GN=RPSA PE=1 SV=4 </text>
+<text top="86" left="409" width="69" height="11" font="3">RSSA_HUMAN </text>
+<text top="107" left="85" width="445" height="11" font="3">HLA  class  I  histocompatibility  antigen,  Cw-4  alpha  chain  OS=Homo  sapiens  GN=HLA-C  PE=1  SV=1</text>
+<text top="118" left="85" width="99" height="11" font="3">  1C04_HUMAN (+2) </text>
+<text top="138" left="85" width="445" height="11" font="3">Heterogeneous  nuclear  ribonucleoprotein  D0  OS=Homo  sapiens  GN=HNRNPD  PE=1  SV=1</text>
+<text top="149" left="85" width="90" height="11" font="3">  HNRPD_HUMAN </text>
+<text top="170" left="85" width="432" height="11" font="3">Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4  HS90B_HUMAN </text>
+<text top="191" left="85" width="447" height="11" font="3">Isocitrate  dehydrogenase  [NAD]  subunit  alpha,  mitochondrial  OS=Homo  sapiens  GN=IDH3A  PE=1 </text>
+<text top="202" left="85" width="26" height="11" font="3">SV=1 </text>
+<text top="202" left="133" width="71" height="11" font="3">IDH3A_HUMAN </text>
+<text top="222" left="85" width="295" height="11" font="3">Stomatin-like protein 2 OS=Homo sapiens GN=STOML2 PE=1 SV=1 </text>
+<text top="222" left="409" width="74" height="11" font="3">STML2_HUMAN </text>
+<text top="243" left="85" width="266" height="11" font="3">Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 SV=2 </text>
+<text top="243" left="375" width="67" height="11" font="3">TBB5_HUMAN </text>
+<text top="263" left="85" width="392" height="11" font="4"><b>Upstream stimulatory factor 1 OS=Homo sapiens GN=USF1 PE=1 SV=1 USF1_HUMAN </b></text>
+</page>
+</pdf2xml>

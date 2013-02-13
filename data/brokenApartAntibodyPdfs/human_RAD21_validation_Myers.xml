@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="94" width="427" height="16" font="0"><b>Transcription factor: RAD21 homolog (S. pombe) (GeneID 5885) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="297" height="13" font="1"><b>Transcription factor:</b> RAD21 (GeneID 5885; ~72 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="190" height="13" font="1"><b>Antibody:</b> RAD21, Abcam (ab992) </text>
+<text top="215" left="77" width="170" height="13" font="1"><b>Lot numbers:</b> 891751, 940739 </text>
+<text top="229" left="77" width="467" height="13" font="2">Rabbit  polyclonal,  raised  against  synthetic  peptide  (human)  conjugated  to  KLH, </text>
+<text top="243" left="77" width="335" height="13" font="2">representing portion of human RAD21 encoded within exon 14 </text>
+<text top="256" left="77" width="376" height="13" font="2">Web: http://www.abcam.com/Rad21-antibody-ChIP-Grade-ab992.html </text>
+<text top="270" left="77" width="3" height="13" font="2"> </text>
+<text top="284" left="77" width="3" height="13" font="2"> </text>
+<text top="298" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="324" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="338" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="351" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="375" left="77" width="3" height="13" font="2"> </text>
+<text top="399" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="646" left="247" width="3" height="13" font="2"> </text>
+<text top="667" left="81" width="422" height="13" font="1"><b>Figure  Legend:</b>  Western  blot  analysis  of  RAD21  expression  in  HeLa  whole </text>
+<text top="681" left="81" width="64" height="13" font="2">cell extract. </text>
+<text top="704" left="90" width="3" height="13" font="1"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="96" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="120" left="77" width="467" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="134" left="77" width="467" height="13" font="2">was  loaded  on  a  12%  acrylamide  gel  and  separated  with  a  Bio-Rad  PROTEAN  II  xi </text>
+<text top="148" left="77" width="467" height="13" font="2">system.  After  separation,  the  samples  were  transferred  to  a  nitrocellulose  membrane </text>
+<text top="161" left="77" width="467" height="13" font="2">with an Invitrogen iBlot system.  Blotting with primary (same as that used for IP) and </text>
+<text top="175" left="77" width="467" height="13" font="2">secondary HRP-conjugated antibodies was performed on an Invitrogen BenchPro 4100 </text>
+<text top="189" left="77" width="467" height="13" font="2">system.  Visualization  was  achieved  using  SuperSignal  West  Femto  solution  (Thermo </text>
+<text top="203" left="77" width="62" height="13" font="2">Scientific).  </text>
+<text top="227" left="77" width="10" height="13" font="2">   </text>
+<text top="546" left="77" width="3" height="13" font="2"> </text>
+<text top="546" left="338" width="3" height="13" font="2"> </text>
+<text top="567" left="122" width="354" height="13" font="1"><b>Figure  Legend:</b>  RAD21  immunoblot:  IP-western  with  ab992 </text>
+<text top="581" left="122" width="354" height="13" font="2">RAD21 antibody in whole cell lysates (WCL) of K562 and HeLa. </text>
+<text top="595" left="122" width="354" height="13" font="2">Heavy chain of IgG is indicated, and RAD21 band is indicated at </text>
+<text top="609" left="122" width="58" height="13" font="2">~120 kDa. </text>
+<text top="632" left="77" width="3" height="13" font="2"> </text>
+<text top="656" left="77" width="3" height="13" font="2"> </text>
+<text top="680" left="77" width="167" height="16" font="0"><b>Validation 2: In progress </b></text>
+</page>
+</pdf2xml>

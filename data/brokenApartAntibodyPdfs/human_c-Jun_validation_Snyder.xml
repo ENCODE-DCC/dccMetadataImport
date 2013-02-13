@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="22" family="Times" color="#000000"/>
+	<fontspec id="1" size="8" family="Times" color="#000000"/>
+	<fontspec id="2" size="7" family="Times" color="#000000"/>
+<text top="26" left="55" width="517" height="27" font="0"><b>ENCODE DCC Antibody Validation Document</b></text>
+<text top="77" left="48" width="81" height="12" font="1">Date of Submission</text>
+<text top="347" left="39" width="41" height="12" font="1">Antibody </text>
+<text top="359" left="39" width="52" height="12" font="1">Description: </text>
+<text top="371" left="39" width="2" height="12" font="1"> </text>
+<text top="485" left="84" width="61" height="12" font="1">Species Target</text>
+<text top="521" left="84" width="90" height="12" font="1">Validation Method #1</text>
+<text top="134" left="291" width="25" height="12" font="1">Email:</text>
+<text top="134" left="48" width="27" height="12" font="1">Name:</text>
+<text top="215" left="48" width="68" height="12" font="1">Antibody Name:</text>
+<text top="215" left="300" width="29" height="12" font="1">Target:</text>
+<text top="170" left="192" width="15" height="12" font="1">Lab</text>
+<text top="249" left="183" width="44" height="12" font="1">Company/</text>
+<text top="261" left="183" width="31" height="12" font="1">Source:</text>
+<text top="485" left="300" width="53" height="12" font="1">Species Host</text>
+<text top="300" left="336" width="50" height="12" font="1">Lot Number</text>
+<text top="294" left="39" width="172" height="12" font="1">Catalog Number, database ID, laboratory </text>
+<text top="306" left="39" width="2" height="12" font="1"> </text>
+<text top="521" left="300" width="90" height="12" font="1">Validation Method #2</text>
+<text top="555" left="84" width="50" height="12" font="1">Purification </text>
+<text top="567" left="84" width="33" height="12" font="1">Method</text>
+<text top="555" left="300" width="48" height="12" font="1">Polyclonal/ </text>
+<text top="567" left="300" width="50" height="12" font="1">Monoclonal</text>
+<text top="626" left="30" width="58" height="12" font="1">Reference (PI/</text>
+<text top="638" left="30" width="49" height="12" font="1">Publication </text>
+<text top="650" left="30" width="52" height="12" font="1">Information)</text>
+<text top="674" left="28" width="294" height="12" font="1">Please complete the following for antibodies to histone modifications: </text>
+<text top="687" left="28" width="205" height="11" font="2">if your specifications are not listed in the drop-down box,  </text>
+<text top="697" left="28" width="155" height="11" font="2">please write-in the appropriate information</text>
+<text top="728" left="30" width="59" height="12" font="1">Histone Name</text>
+<text top="728" left="156" width="52" height="12" font="1">AA modified</text>
+<text top="728" left="327" width="48" height="12" font="1">AA Position</text>
+<text top="728" left="444" width="53" height="12" font="1">Modification</text>
+<text top="419" left="39" width="29" height="12" font="1">Target </text>
+<text top="431" left="39" width="52" height="12" font="1">Description: </text>
+<text top="443" left="39" width="2" height="12" font="1"> </text>
+<text top="599" left="165" width="51" height="12" font="1">Vendor URL:</text>
+<text top="601" left="238" width="184" height="12" font="1">http://www.scbt.com/datasheet-1694-c-jun-</text>
+<text top="613" left="238" width="81" height="12" font="1">h-79-antibody.html</text>
+<text top="77" left="138" width="27" height="12" font="1">1/4/12</text>
+<text top="340" left="95" width="136" height="12" font="1">rabbit polyclonal IgG, 200 µg/ml </text>
+<text top="352" left="95" width="419" height="12" font="1">epitope corresponding to amino acids 1-79 mapping at the N-terminus of c-Jun p39 of human origin </text>
+<text top="364" left="95" width="345" height="12" font="1">recommended for detection of c-Jun p39 of mouse, rat, human and Xenopus origin</text>
+<text top="484" left="150" width="31" height="12" font="1">Human</text>
+<text top="520" left="178" width="89" height="12" font="2">Immunoprecipitation</text>
+<text top="134" left="326" width="92" height="12" font="1">sglandt@stanford.edu</text>
+<text top="134" left="83" width="61" height="12" font="1">Stephen Landt</text>
+<text top="214" left="121" width="127" height="12" font="1">c-Jun (H-79) Antibody: sc-1694</text>
+<text top="214" left="339" width="105" height="12" font="1">Jun (EntrezGene ID 3725)</text>
+<text top="170" left="230" width="29" height="12" font="1">Snyder</text>
+<text top="255" left="239" width="107" height="12" font="1">Santa Cruz Biotechnology</text>
+<text top="484" left="361" width="27" height="12" font="1">Rabbit</text>
+<text top="300" left="395" width="26" height="12" font="1">C2206</text>
+<text top="300" left="215" width="32" height="12" font="1">sc-1694</text>
+<text top="520" left="395" width="73" height="12" font="2">Motif Enrichment</text>
+<text top="561" left="141" width="109" height="12" font="2">Other Purification Method</text>
+<text top="561" left="356" width="43" height="12" font="2">Polyclonal</text>
+<text top="412" left="95" width="441" height="12" font="1">This gene is the putative transforming gene of avian sarcoma virus 17. It encodes a protein which is highly </text>
+<text top="424" left="95" width="448" height="12" font="1">similar to the viral protein, and which interacts directly with specific target DNA sequences to regulate gene </text>
+<text top="436" left="95" width="428" height="12" font="1">expression. This gene is intronless and is mapped to 1p32-p31, a chromosomal region involved in both </text>
+<text top="448" left="95" width="223" height="12" font="1">translocations and deletions in human malignancies.  </text>
+<text top="460" left="95" width="443" height="12" font="1">Function: Transcription factor that recognizes and binds to the enhancer heptamer motif 5'-TGA[CG]TCA-3'</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="146" left="52" width="57" height="12" font="1">Validation #1 </text>
+<text top="158" left="52" width="34" height="12" font="1">Analysis</text>
+<text top="661" left="50" width="143" height="12" font="1">Insert Validation Image (click here)</text>
+<text top="43" left="125" width="423" height="12" font="1">Comment: A major band with a mobility consistent with the size expected for c-Jun (~36kD; indicated </text>
+<text top="55" left="125" width="397" height="12" font="1">by arrows) is specifically immunoprecipitated from nuclear lysates from K562 and HeLa S3 cells. </text>
+<text top="67" left="125" width="221" height="12" font="1">Therefore, sc-1694 meets this criterion for validation. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="22" family="Times" color="#000000"/>
+	<fontspec id="5" size="10" family="Times" color="#000000"/>
+	<fontspec id="6" size="10" family="Times" color="#000000"/>
+<text top="89" left="297" width="202" height="31" font="3">sc-1694 (c-Jun) </text>
+<text top="122" left="268" width="252" height="31" font="3">Immunoprecipitation</text>
+<text top="126" left="520" width="7" height="27" font="4"> </text>
+<text top="380" left="95" width="590" height="13" font="5"><b>A.</b> Immunoprecipitation of c-Jun from K562 cells using sc-1694.  Lane 1: input nuclear lysate, Lane 2:  material </text>
+<text top="394" left="95" width="650" height="13" font="6">immunoprecipitated with sc-1694, Lane 3: material immunoprecipitated using control IgG. <b>B. </b>Immunoprecipitation of c-Jun </text>
+<text top="408" left="95" width="580" height="13" font="6">from HeLa S3 cells using sc-1694.  Lanes 1-2; material immunoprecipitated with sc-1694, lanes 3-4: material </text>
+<text top="423" left="95" width="652" height="13" font="6">immunoprecipitated using control IgG.  1ug of antibody was used for immunoprecipitations in lanes 1 and 3, 2ug in lanes 2 </text>
+<text top="437" left="95" width="40" height="13" font="6">and 4.  </text>
+<text top="183" left="448" width="29" height="27" font="4">B. </text>
+<text top="312" left="566" width="8" height="11" font="1">3 </text>
+<text top="312" left="488" width="28" height="11" font="1">Lane: </text>
+<text top="182" left="482" width="42" height="11" font="1">MW (kD) </text>
+<text top="312" left="533" width="25" height="11" font="1">1  2 </text>
+<text top="312" left="583" width="8" height="11" font="1">4 </text>
+<text top="183" left="168" width="29" height="27" font="4">A. </text>
+<text top="321" left="200" width="103" height="11" font="1">Lane   1        2        3    </text>
+<text top="319" left="302" width="3" height="13" font="5"><b>  </b></text>
+<text top="234" left="208" width="19" height="11" font="1">100 </text>
+<text top="248" left="214" width="14" height="11" font="1">75 </text>
+<text top="267" left="214" width="14" height="11" font="1">50 </text>
+<text top="283" left="214" width="14" height="11" font="1">38 </text>
+<text top="217" left="208" width="19" height="11" font="1">150 </text>
+<text top="297" left="214" width="14" height="11" font="1">25 </text>
+<text top="181" left="204" width="42" height="11" font="1">MW (kD) </text>
+<text top="197" left="208" width="19" height="11" font="1">250 </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+<text top="159" left="57" width="57" height="12" font="1">Validation #2 </text>
+<text top="171" left="57" width="34" height="12" font="1">Analysis</text>
+<text top="643" left="54" width="145" height="12" font="1">Insert Validation Image (Click here)</text>
+<text top="698" left="268" width="68" height="10" font="1">Submit by Email</text>
+<text top="43" left="130" width="386" height="12" font="1">Calculations were done by Pouya Kheradpour using a collection of known motifs available at </text>
+<text top="55" left="130" width="422" height="12" font="1">http://www.broadinstitute.org/%7Epouyak/motif-disc/human/.   Table 1 shows the fold-enrichments, </text>
+<text top="67" left="130" width="411" height="12" font="1">enrichment p-values and fraction of peaks which contain the motif.  The motif which produced the </text>
+<text top="79" left="130" width="408" height="12" font="1">largest value for each criterion is shown in Table 1.  Note that while the maximally enriched motifs </text>
+<text top="91" left="130" width="418" height="12" font="1">may differ from the motif with the highest enrichment p-values and the most represented motif, the </text>
+<text top="103" left="130" width="341" height="12" font="1">motifs are highly similar (Figure 1) and thus all values are similar between motifs.   </text>
+<text top="115" left="130" width="2" height="12" font="1"> </text>
+<text top="127" left="130" width="418" height="12" font="1">Motifs were identified using a matching stringency corresponding to 4-6 (6-mer). Peaks identified by </text>
+<text top="139" left="130" width="375" height="12" font="1">IDR (1% cutoff) were used in the analysis and +/-50bp from peak centers were considered. </text>
+<text top="152" left="130" width="400" height="12" font="1">Enrichments are for a given motif vs. a background consisting of +/- 50bp from the centers of all </text>
+<text top="164" left="130" width="398" height="12" font="1">DnaseI hypersensitive peaks.  Repeat mask/simple repeats from UCSC and all gencode v7 exons </text>
+<text top="176" left="130" width="421" height="12" font="1">(including non-protein coding genes) were excluded from the analysis.  Comparison to shuffle motifs </text>
+<text top="188" left="130" width="380" height="12" font="1">were used to correct for compositional bias.  Enrichment is the corrected # of motifs in ChIP </text>
+<text top="200" left="130" width="186" height="12" font="1">peaks/corrected # of motifs in DNaseI peaks. </text>
+<text top="212" left="130" width="2" height="12" font="1"> </text>
+<text top="224" left="130" width="408" height="12" font="1">The current ENCODE standard calls for &gt;4-fold enrichment and &gt;10% motif representation for this </text>
+<text top="236" left="130" width="412" height="12" font="1">criteria to be used for validation.  The 7 c-Jun datasets presented here exceed these thresholds and </text>
+<text top="248" left="130" width="134" height="12" font="1">sc-1694 is considered validated. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="612" width="792">
+	<fontspec id="7" size="14" family="Times" color="#000000"/>
+	<fontspec id="8" size="8" family="Times" color="#000000"/>
+	<fontspec id="9" size="12" family="Times" color="#000000"/>
+	<fontspec id="10" size="14" family="Times" color="#000000"/>
+	<fontspec id="11" size="11" family="Times" color="#000000"/>
+<text top="248" left="94" width="6" height="14" font="6">- </text>
+<text top="248" left="121" width="533" height="13" font="5"><b>Figure 2.  </b>Motif consensus sequences and position weight matrices for highly enriched c-Jun motif.  </text>
+<text top="244" left="654" width="4" height="18" font="7"> </text>
+<text top="51" left="282" width="6" height="14" font="6">- </text>
+<text top="51" left="309" width="112" height="13" font="5"><b>Table 1.  </b>c-Jun motif </text>
+<text top="63" left="309" width="69" height="13" font="6">enrichment.  </text>
+<text top="60" left="379" width="4" height="18" font="7"> </text>
+<text top="393" left="50" width="45" height="11" font="8"><b>Position/ </b></text>
+<text top="405" left="45" width="54" height="11" font="8"><b>Consensus </b></text>
+<text top="395" left="135" width="13" height="16" font="9"><b>A </b></text>
+<text top="395" left="182" width="14" height="16" font="9"><b>C </b></text>
+<text top="395" left="228" width="15" height="16" font="9"><b>G </b></text>
+<text top="395" left="275" width="12" height="16" font="9"><b>T </b></text>
+<text top="290" left="162" width="104" height="18" font="10"><b>AP1_known1 </b></text>
+<text top="89" left="137" width="43" height="12" font="1">Cell Line</text>
+<text top="89" left="234" width="120" height="12" font="1">Motif Enrichment (log2)</text>
+<text top="83" left="398" width="160" height="12" font="1">Enrichment p-value                 </text>
+<text top="96" left="426" width="42" height="12" font="1">(-log10)</text>
+<text top="83" left="531" width="146" height="12" font="1">Fraction of peaks containing </text>
+<text top="96" left="589" width="26" height="12" font="1">motif</text>
+<text top="109" left="136" width="45" height="12" font="1">H1-hESC</text>
+<text top="109" left="234" width="122" height="12" font="1">2.1343  (AP-1_known2)</text>
+<text top="109" left="383" width="128" height="12" font="1">61.5585  (AP-1_known3)</text>
+<text top="109" left="538" width="128" height="12" font="1">0.36747  (AP-1_known2)</text>
+<text top="122" left="138" width="42" height="12" font="1">HeLa S3</text>
+<text top="122" left="231" width="128" height="12" font="1">2.49159  (AP-1_known2)</text>
+<text top="122" left="383" width="128" height="12" font="1">1447.53  (AP-1_known1)</text>
+<text top="122" left="535" width="135" height="12" font="1">0.589381  (AP-1_known2)</text>
+<text top="135" left="141" width="35" height="12" font="1">HUVEC</text>
+<text top="135" left="231" width="128" height="12" font="1">2.47206  (AP-1_known2)</text>
+<text top="135" left="383" width="128" height="12" font="1">1726.43  (AP-1_known1)</text>
+<text top="135" left="535" width="135" height="12" font="1">0.546169  (AP-1_known2)</text>
+<text top="148" left="146" width="26" height="12" font="1">K562</text>
+<text top="148" left="231" width="128" height="12" font="1">2.63146  (AP-1_known2)</text>
+<text top="148" left="383" width="128" height="12" font="1">684.812  (AP-1_known1)</text>
+<text top="148" left="535" width="135" height="12" font="1">0.586961  (AP-1_known2)</text>
+<text top="161" left="112" width="93" height="13" font="1">K562 (IFN!- 6hrs)</text>
+<text top="161" left="231" width="128" height="12" font="1">2.50294  (AP-1_known2)</text>
+<text top="161" left="383" width="128" height="12" font="1">388.382  (AP-1_known1)</text>
+<text top="161" left="535" width="135" height="12" font="1">0.565164  (AP-1_known2)</text>
+<text top="174" left="107" width="104" height="13" font="1">K562 (IFN&quot;- 30 min)</text>
+<text top="174" left="234" width="122" height="12" font="1">2.3547  (AP-1_known2)</text>
+<text top="174" left="383" width="128" height="12" font="1">532.138  (AP-1_known1)</text>
+<text top="174" left="535" width="135" height="12" font="1">0.541051  (AP-1_known2)</text>
+<text top="187" left="113" width="91" height="13" font="1">K562 (IFN&quot;- 6hrs)</text>
+<text top="187" left="231" width="128" height="12" font="1">2.37234  (AP-1_known2)</text>
+<text top="187" left="383" width="128" height="12" font="1">406.571  (AP-1_known1)</text>
+<text top="187" left="535" width="135" height="12" font="1">0.585404  (AP-1_known2)</text>
+<text top="383" left="110" width="200" height="9" font="2">&gt;AP-1_known1  AP-1_transfac_M00173 +</text>
+<text top="393" left="110" width="5" height="9" font="2"></text>
+<text top="404" left="110" width="5" height="9" font="2"></text>
+<text top="415" left="110" width="205" height="9" font="2">R 0.428571 0.071429 0.500000 0.000000</text>
+<text top="426" left="110" width="205" height="9" font="2">V 0.214286 0.357143 0.428571 0.000000</text>
+<text top="436" left="110" width="205" height="9" font="2">T 0.000000 0.000000 0.000000 1.000000</text>
+<text top="447" left="110" width="205" height="9" font="2">G 0.000000 0.000000 1.000000 0.000000</text>
+<text top="458" left="110" width="205" height="9" font="2">A 1.000000 0.000000 0.000000 0.000000</text>
+<text top="469" left="110" width="205" height="9" font="2">C 0.000000 0.928571 0.000000 0.071429</text>
+<text top="480" left="110" width="205" height="9" font="2">T 0.142857 0.071429 0.142857 0.642857</text>
+<text top="491" left="110" width="205" height="9" font="2">M 0.285714 0.428571 0.142857 0.142857</text>
+<text top="501" left="110" width="205" height="9" font="2">M 0.571428 0.285714 0.071429 0.071429</text>
+<text top="512" left="110" width="205" height="9" font="2">K 0.142857 0.142857 0.500000 0.214286</text>
+<text top="523" left="110" width="200" height="9" font="2">W 0.428571 0.071429 0.071429 0.428571</text>
+<text top="520" left="310" width="8" height="13" font="11"></text>
+<text top="398" left="578" width="13" height="16" font="9"><b>A </b></text>
+<text top="398" left="625" width="14" height="16" font="9"><b>C </b></text>
+<text top="398" left="671" width="15" height="16" font="9"><b>G </b></text>
+<text top="398" left="718" width="12" height="16" font="9"><b>T </b></text>
+<text top="397" left="356" width="13" height="16" font="9"><b>A </b></text>
+<text top="397" left="402" width="14" height="16" font="9"><b>C </b></text>
+<text top="397" left="448" width="15" height="16" font="9"><b>G </b></text>
+<text top="397" left="496" width="12" height="16" font="9"><b>T </b></text>
+<text top="384" left="330" width="194" height="9" font="2">&gt;AP-1_known2  AP1_jaspar_MA0099.2 +</text>
+<text top="394" left="330" width="5" height="9" font="2"></text>
+<text top="405" left="330" width="5" height="9" font="2"></text>
+<text top="416" left="330" width="205" height="9" font="2">T 0.000000 0.055556 0.000000 0.944444</text>
+<text top="427" left="330" width="205" height="9" font="2">K 0.000000 0.000000 0.833333 0.166667</text>
+<text top="437" left="330" width="205" height="9" font="2">A 0.888889 0.111111 0.000000 0.000000</text>
+<text top="448" left="330" width="205" height="9" font="2">M 0.277778 0.666666 0.055556 0.000000</text>
+<text top="459" left="330" width="205" height="9" font="2">W 0.166667 0.000000 0.055556 0.777777</text>
+<text top="470" left="330" width="205" height="9" font="2">S 0.000000 0.833333 0.166667 0.000000</text>
+<text top="481" left="330" width="205" height="9" font="2">A 0.888888 0.000000 0.055556 0.055556</text>
+<text top="384" left="556" width="200" height="9" font="2">&gt;AP-1_known3  AP-1_transfac_M00926 -</text>
+<text top="394" left="556" width="5" height="9" font="2"></text>
+<text top="405" left="556" width="5" height="9" font="2"></text>
+<text top="416" left="556" width="205" height="9" font="2">V 0.403361 0.252101 0.243697 0.100840</text>
+<text top="427" left="556" width="205" height="9" font="2">T 0.000000 0.000000 0.008403 0.991597</text>
+<text top="437" left="556" width="205" height="9" font="2">G 0.016807 0.008403 0.941177 0.033613</text>
+<text top="448" left="556" width="205" height="9" font="2">A 0.991597 0.000000 0.008403 0.000000</text>
+<text top="459" left="556" width="205" height="9" font="2">C 0.084034 0.722689 0.142857 0.050420</text>
+<text top="470" left="556" width="205" height="9" font="2">T 0.142857 0.109244 0.109244 0.638655</text>
+<text top="481" left="556" width="205" height="9" font="2">H 0.184874 0.546218 0.042017 0.226891</text>
+<text top="492" left="556" width="205" height="9" font="2">A 0.714285 0.159664 0.058824 0.067227</text>
+<text top="290" left="378" width="104" height="18" font="10"><b>AP1_known2 </b></text>
+<text top="290" left="591" width="104" height="18" font="10"><b>AP1_known3 </b></text>
+</page>
+</pdf2xml>

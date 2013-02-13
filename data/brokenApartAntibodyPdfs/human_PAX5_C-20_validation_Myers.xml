@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="11" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+<text top="72" left="155" width="305" height="16" font="0"><b>ENCODE Antibody Validation Documentation </b></text>
+<text top="89" left="145" width="325" height="16" font="0"><b>Transcription factor: Paired box 5 (GeneID 5079) </b></text>
+<text top="105" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="118" left="77" width="344" height="13" font="1"><b>From:  Myers Lab, HudsonAlpha Institute for Biotechnology </b></text>
+<text top="132" left="77" width="340" height="13" font="1"><b>Contact Person:</b> Dr. Florencia Pauli (fpauli@hudsonalpha.org) </text>
+<text top="146" left="77" width="3" height="13" font="2"> </text>
+<text top="160" left="77" width="3" height="13" font="2"> </text>
+<text top="174" left="77" width="289" height="13" font="1"><b>Transcription factor:</b> PAX5 (GeneID 5079; ~42 kDa) </text>
+<text top="187" left="77" width="3" height="13" font="1"><b> </b></text>
+<text top="201" left="77" width="334" height="13" font="1"><b>Antibody:</b> PAX-5 (C-20), Santa Cruz Biotechnology (sc-1974) </text>
+<text top="215" left="77" width="414" height="13" font="2">Goat polyclonal, epitope mapping at the C-terminus of PAX-5 of human origin </text>
+<text top="229" left="77" width="366" height="13" font="2">Web: http://www.scbt.com/datasheet-1974-pax-5-c-20-antibody.html </text>
+<text top="243" left="77" width="3" height="13" font="2"> </text>
+<text top="256" left="77" width="3" height="13" font="2"> </text>
+<text top="270" left="77" width="236" height="16" font="0"><b>Validation 1: Immunoblot Analysis  </b></text>
+<text top="296" left="77" width="467" height="13" font="2">For an antibody to meet ENCODE validation standards, a single band of the predicted </text>
+<text top="310" left="77" width="467" height="13" font="2">size,  or  a  band  of  no  less  than  half  the  total  signal,  must  be  detected  in  a  lane  on  a </text>
+<text top="324" left="77" width="74" height="13" font="2">Western blot. </text>
+<text top="348" left="77" width="3" height="13" font="2"> </text>
+<text top="371" left="77" width="187" height="13" font="1"><b>a.  Vendor immunoblot analysis  </b></text>
+<text top="604" left="324" width="3" height="13" font="2"> </text>
+<text top="625" left="81" width="422" height="13" font="1"><b>Figure Legend:</b> Western blot analysis of PAX-5 expression in WEHI-231 (A) </text>
+<text top="639" left="81" width="179" height="13" font="2">and U-937 (B) whole cell lysates. </text>
+<text top="663" left="81" width="3" height="13" font="2"> </text>
+<text top="687" left="81" width="3" height="13" font="2"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+<text top="72" left="81" width="3" height="13" font="2"> </text>
+<text top="96" left="81" width="203" height="13" font="1"><b>b.  Myers Lab immunoblot analysis</b> </text>
+<text top="120" left="77" width="131" height="13" font="1"><b>Western blot protocol  </b></text>
+<text top="144" left="77" width="465" height="13" font="2">Whole cell lysates were immunoprecipitated using primary antibody, and the IP fraction </text>
+<text top="158" left="77" width="444" height="13" font="2">was loaded on a 12% acrylamide gel and separated with a Bio-Rad PROTEAN II xi </text>
+<text top="171" left="77" width="452" height="13" font="2">system. After separation, the samples were transferred to a nitrocellulose membrane </text>
+<text top="185" left="77" width="447" height="13" font="2">using a Bio-Rad Trans-Blot Electrophoretic Transfer system.  Standard western blot </text>
+<text top="199" left="77" width="466" height="13" font="2">protocol was used to probe the membrane with the primary antibody (same antibody as </text>
+<text top="213" left="77" width="430" height="13" font="2">used for IP), and an HRP-conjugated secondary antibody and SuperSignal West </text>
+<text top="227" left="77" width="422" height="13" font="2">Femto solution (Thermo Scientific) were used to detect the immunoprecipitated </text>
+<text top="240" left="77" width="49" height="13" font="2">proteins. </text>
+<text top="614" left="77" width="3" height="13" font="2"> </text>
+<text top="614" left="212" width="3" height="13" font="2"> </text>
+<text top="635" left="122" width="354" height="13" font="1"><b>Figure  Legend:</b>  PAX5  immunoblot:  IP-western  with  sc-1974 </text>
+<text top="649" left="122" width="354" height="13" font="2">PAX-5 antibody in whole cell lysate of GM12878. Heavy and light </text>
+<text top="663" left="122" width="354" height="13" font="2">chains  of  IgG  are  indicated,  and  PAX5  band  is  indicated  at  ~47 </text>
+<text top="677" left="122" width="31" height="13" font="2">kDa.  </text>
+<text top="700" left="77" width="3" height="13" font="2"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="3" size="7" family="Times" color="#000000"/>
+<text top="72" left="77" width="282" height="16" font="0"><b>Validation 2: Mass Spectrometry Analysis </b></text>
+<text top="98" left="77" width="467" height="13" font="2">ENCODE data standards recognizes various methodologies for secondary validation of </text>
+<text top="112" left="77" width="467" height="13" font="2">antibodies.  Among  these  methodologies  is  immunoprecipitation  followed  by  mass </text>
+<text top="126" left="77" width="467" height="13" font="2">spectrometry  analysis.  Briefly,  GM12878  whole  cell  lysates  were  immunoprecipitated </text>
+<text top="140" left="77" width="467" height="13" font="2">using primary antibody, and the IP fraction was loaded on a 12% acrylamide gel and </text>
+<text top="154" left="77" width="467" height="13" font="2">separated with a Bio-Rad PROTEAN II xi system. Gel was stained with Coomasie Blue </text>
+<text top="167" left="77" width="467" height="13" font="2">in order to visualize marker bands. A gel fragment corresponding to the band indicated </text>
+<text top="181" left="77" width="467" height="13" font="2">above in the western blot image was excised and sent to the University of Alabama at </text>
+<text top="195" left="77" width="467" height="13" font="2">Birmingham Cancer Center Mass Spectrometry/Proteomics Shared Facility. There the </text>
+<text top="209" left="77" width="467" height="13" font="2">sample  was  run  on  an  LTQ  XL  Linear  Ion  Trap  Mass  Spectrometer  with  alternating </text>
+<text top="223" left="77" width="467" height="13" font="2">collision-induced  dissociation  and  electron-transfer  dissociation.  Peptides  were </text>
+<text top="236" left="77" width="467" height="13" font="2">identified using MASCOT (Matrix Science), with probability based matching at p &lt; 0.05. </text>
+<text top="250" left="77" width="467" height="13" font="2">Subsequent  analysis  was  performed  in  Scaffold  (Proteome  Software,  Inc.)  at  0.0% </text>
+<text top="264" left="77" width="467" height="13" font="2">protein  FDR  and  0.0%  peptide  FDR.  As  per  ENCODE  data  standards,  all  Scaffold </text>
+<text top="278" left="77" width="467" height="13" font="2">results are listed below, including common contaminants. Target protein is highlighted </text>
+<text top="292" left="77" width="65" height="13" font="2">in bold font. </text>
+<text top="315" left="77" width="3" height="13" font="2"> </text>
+<text top="339" left="77" width="283" height="11" font="3">Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1 </text>
+<text top="339" left="378" width="93" height="11" font="3">ACTB_HUMAN (+1) </text>
+<text top="361" left="77" width="325" height="11" font="3">Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1 </text>
+<text top="361" left="414" width="76" height="11" font="3">EF1A1_HUMAN </text>
+<text top="382" left="77" width="337" height="11" font="3">Serum albumin OS=Homo sapiens GN=ALB PE=1 SV=2  ALBU_HUMAN </text>
+<text top="404" left="77" width="315" height="11" font="3">Phosphoglycerate kinase 1 OS=Homo sapiens GN=PGK1 PE=1 SV=3 </text>
+<text top="404" left="414" width="72" height="11" font="3">PGK1_HUMAN </text>
+<text top="425" left="77" width="290" height="11" font="3">Fibrinogen alpha chain OS=Homo sapiens GN=FGA PE=1 SV=2 </text>
+<text top="425" left="378" width="67" height="11" font="3">FIBA_HUMAN </text>
+<text top="447" left="77" width="285" height="11" font="3">Fibrinogen beta chain OS=Homo sapiens GN=FGB PE=1 SV=2 </text>
+<text top="447" left="378" width="67" height="11" font="3">FIBB_HUMAN </text>
+<text top="468" left="77" width="370" height="11" font="3">Fibrinogen gamma chain OS=Homo sapiens GN=FGG PE=1 SV=3  FIBG_HUMAN </text>
+<text top="490" left="77" width="236" height="11" font="3">Haptoglobin OS=Homo sapiens GN=HP PE=1 SV=1 </text>
+<text top="490" left="342" width="65" height="11" font="3">HPT_HUMAN </text>
+<text top="511" left="77" width="443" height="11" font="3">3-ketoacyl-CoA thiolase, mitochondrial OS=Homo sapiens GN=ACAA2 PE=1 SV=2  THIM_HUMAN </text>
+<text top="533" left="77" width="372" height="11" font="3">Alpha-1-antitrypsin OS=Homo sapiens GN=SERPINA1 PE=1 SV=3 A1AT_HUMAN </text>
+<text top="554" left="77" width="281" height="11" font="3">Apolipoprotein A-I OS=Homo sapiens GN=APOA1 PE=1 SV=1 </text>
+<text top="554" left="378" width="78" height="11" font="3">APOA1_HUMAN </text>
+<text top="576" left="77" width="373" height="11" font="3">Actin-related protein 2 OS=Homo sapiens GN=ACTR2 PE=1 SV=1  ARP2_HUMAN </text>
+<text top="597" left="77" width="253" height="11" font="3">Complement C3 OS=Homo sapiens GN=C3 PE=1 SV=2 </text>
+<text top="597" left="342" width="66" height="11" font="3">CO3_HUMAN </text>
+<text top="619" left="77" width="339" height="11" font="3">Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2  ENOA_HUMAN </text>
+<text top="640" left="77" width="464" height="11" font="3">Isocitrate  dehydrogenase  [NADP],  mitochondrial  OS=Homo  sapiens  GN=IDH2  PE=1  SV=2</text>
+<text top="652" left="77" width="82" height="11" font="3">  IDHP_HUMAN </text>
+<text top="673" left="77" width="310" height="11" font="3">Ig alpha-1 chain C region OS=Homo sapiens GN=IGHA1 PE=1 SV=2 </text>
+<text top="673" left="414" width="96" height="11" font="3">IGHA1_HUMAN (+1) </text>
+<text top="695" left="77" width="371" height="11" font="3">Ig kappa chain C region OS=Homo sapiens GN=IGKC PE=1 SV=1  IGKC_HUMAN </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="4" size="7" family="Times" color="#000000"/>
+<text top="72" left="77" width="345" height="11" font="3">Pyruvate kinase isozymes M1/M2 OS=Homo sapiens GN=PKM2 PE=1 SV=4 </text>
+<text top="72" left="450" width="73" height="11" font="3">KPYM_HUMAN </text>
+<text top="94" left="77" width="316" height="11" font="4"><b>Paired box protein Pax-5 OS=Homo sapiens GN=PAX5 PE=1 SV=1 </b></text>
+<text top="94" left="414" width="72" height="11" font="4"><b>PAX5_HUMAN </b></text>
+<text top="115" left="77" width="463" height="11" font="3">Cytochrome  b-c1  complex  subunit  2,  mitochondrial  OS=Homo  sapiens  GN=UQCRC2  PE=1  SV=3</text>
+<text top="127" left="77" width="86" height="11" font="3">  QCR2_HUMAN </text>
+<text top="148" left="77" width="247" height="11" font="3">Serotransferrin OS=Homo sapiens GN=TF PE=1 SV=2 </text>
+<text top="148" left="342" width="71" height="11" font="3">TRFE_HUMAN </text>
+</page>
+</pdf2xml>

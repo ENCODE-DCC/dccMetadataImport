@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="540" width="720">
+	<fontspec id="0" size="12" family="Times" color="#000000"/>
+	<fontspec id="1" size="16" family="Times" color="#000000"/>
+	<fontspec id="2" size="25" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="10" family="Times" color="#000000"/>
+<text top="153" left="601" width="44" height="14" font="0">ZNF274</text>
+<text top="162" left="367" width="18" height="18" font="1">75</text>
+<text top="108" left="361" width="27" height="18" font="1">100</text>
+<text top="66" left="361" width="27" height="18" font="1">150</text>
+<text top="87" left="598" width="47" height="14" font="0">NUP107</text>
+<text top="3" left="37" width="17" height="28" font="2"><b>A</b></text>
+<text top="3" left="325" width="16" height="28" font="2"><b>B</b></text>
+<text top="110" left="125" width="18" height="18" font="1">75</text>
+<text top="98" left="116" width="27" height="18" font="1">100</text>
+<text top="86" left="116" width="27" height="18" font="1">150</text>
+<text top="74" left="116" width="27" height="18" font="1">250</text>
+<text top="135" left="125" width="18" height="18" font="1">50</text>
+<text top="104" left="255" width="56" height="18" font="1">ZNF274</text>
+<text top="153" left="126" width="18" height="18" font="1">37</text>
+<text top="207" left="37" width="15" height="28" font="2"><b>C</b></text>
+<text top="207" left="325" width="18" height="28" font="2"><b>D</b></text>
+<text top="313" left="561" width="49" height="16" font="3">ZNF333</text>
+<text top="271" left="561" width="47" height="16" font="3">GAPDH</text>
+<text top="346" left="561" width="49" height="16" font="3">ZNF180</text>
+<text top="385" left="561" width="49" height="16" font="3">ZNF554</text>
+<text top="222" left="121" width="21" height="14" font="0">260</text>
+<text top="240" left="121" width="21" height="14" font="0">160</text>
+<text top="252" left="121" width="21" height="14" font="0">110</text>
+<text top="270" left="128" width="14" height="14" font="0">80</text>
+<text top="205" left="157" width="87" height="18" font="1">IN   IgG IP  </text>
+<text top="294" left="127" width="14" height="14" font="0">60</text>
+<text top="318" left="127" width="14" height="14" font="0">50</text>
+<text top="354" left="127" width="14" height="14" font="0">40</text>
+<text top="390" left="127" width="14" height="14" font="0">30</text>
+<text top="204" left="97" width="49" height="12" font="4">MW (kDa)</text>
+<text top="426" left="19" width="451" height="12" font="4">ZNF274 antibody: Novus Biologicals mouse polyclonal anti-ZNF274 antibody H00010782-A01</text>
+<text top="440" left="19" width="10" height="12" font="4">A.</text>
+<text top="440" left="46" width="317" height="12" font="4">Western blot using 30 ug Nuclear Extract from ENCODE cell-lines.</text>
+<text top="455" left="19" width="10" height="12" font="4">B.</text>
+<text top="455" left="46" width="635" height="12" font="4">Depletion of ZNF274 by siRNA transfection. Three different siRNAs targeting ZNF274 and two control siRNAs were transfected into </text>
+<text top="469" left="46" width="532" height="12" font="4">HelaS3 cells at a final concentration of 40nM. Western blots against ZNF274 and NUP107 as a loading control.</text>
+<text top="484" left="19" width="9" height="12" font="4">C.</text>
+<text top="484" left="46" width="628" height="12" font="4">Immunoprecipitation of ZNF274 from K562 nuclear extracts. The ZNF274 antibody immunoprecipitated a major 90kDa band that </text>
+<text top="498" left="46" width="192" height="12" font="4">was not precipitated by the control IgG.</text>
+<text top="512" left="19" width="10" height="12" font="4">D.</text>
+<text top="512" left="46" width="639" height="12" font="4">ChIP analysis of ZNF274 in siZNF274 transfected and siCONTROL transfected Hela cells. The ZNF274 ChIP signals are reduced in Hela</text>
+<text top="527" left="46" width="451" height="12" font="4">cell transfected with siZNF274 siRNAs compared to cells transfected with siCONTROL siRNAs.</text>
+</page>
+</pdf2xml>

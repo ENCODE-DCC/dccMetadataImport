@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="360" width="504">
+	<fontspec id="0" size="15" family="Times" color="#231f20"/>
+	<fontspec id="1" size="11" family="Times" color="#4a4147"/>
+<text top="232" left="63" width="378" height="21" font="0"><b>For the best experience, open this PDF portfolio in</b></text>
+<text top="255" left="111" width="282" height="21" font="0"><b>Acrobat 9 or Adobe Reader 9, or later.</b></text>
+<text top="296" left="182" width="134" height="16" font="1"><a href="http://www.adobe.com/go/reader"><b>Get Adobe Reader Now!</b></a></text>
+</page>
+</pdf2xml>

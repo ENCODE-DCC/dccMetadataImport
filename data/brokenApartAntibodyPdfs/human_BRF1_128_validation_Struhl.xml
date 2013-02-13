@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#0000ff"/>
+<text top="72" left="90" width="294" height="13" font="0">ENCODE DCC ANTIBODY VALIDATION DOCUMENT </text>
+<text top="86" left="90" width="3" height="13" font="0"> </text>
+<text top="100" left="90" width="141" height="13" font="0">Date of Submission: 6/22/11 </text>
+<text top="114" left="90" width="3" height="13" font="0"> </text>
+<text top="128" left="90" width="126" height="13" font="0">Name: Zarmik Moqtaderi </text>
+<text top="141" left="90" width="3" height="13" font="0"> </text>
+<text top="155" left="90" width="35" height="13" font="0">Email: </text>
+<text top="155" left="125" width="126" height="13" font="1">Zarmik@hms.harvard.edu</text>
+<text top="155" left="252" width="3" height="13" font="0"> </text>
+<text top="169" left="90" width="3" height="13" font="0"> </text>
+<text top="183" left="90" width="57" height="13" font="0">Lab: Struhl </text>
+<text top="197" left="90" width="3" height="13" font="0"> </text>
+<text top="210" left="90" width="115" height="13" font="0">Antibody Name: BRF1 </text>
+<text top="224" left="90" width="3" height="13" font="0"> </text>
+<text top="238" left="90" width="69" height="13" font="0">Target: BRF1 </text>
+<text top="252" left="90" width="3" height="13" font="0"> </text>
+<text top="266" left="90" width="424" height="13" font="0">Company/Source: Donated by Dr. RJ White, The Beatson Institute for Cancer Research </text>
+<text top="279" left="90" width="106" height="13" font="0">antibody number 128 </text>
+<text top="293" left="90" width="3" height="13" font="0"> </text>
+<text top="307" left="90" width="315" height="13" font="0">Catalog number or laboratory database ID: antibody number 128 </text>
+<text top="321" left="90" width="3" height="13" font="0"> </text>
+<text top="335" left="90" width="89" height="13" font="0">Lot Number: N/A </text>
+<text top="348" left="90" width="3" height="13" font="0"> </text>
+<text top="362" left="90" width="392" height="13" font="0">Antibody Description: Rabbit polyclonal - Anti-BRF antibody 128 was raised by </text>
+<text top="376" left="90" width="425" height="13" font="0">immunising rabbits with synthetic peptide KISSKINYSVLRGLS (human BRF residues </text>
+<text top="390" left="90" width="245" height="13" font="0">533-547) coupled to keyhole limpet haemocyanin. </text>
+<text top="404" left="90" width="3" height="13" font="0"> </text>
+<text top="417" left="90" width="408" height="13" font="0">Target Description: 'B-related factor 1', subunit of RNA polymerase III transcription </text>
+<text top="431" left="90" width="100" height="13" font="0">initiation factor IIIB </text>
+<text top="445" left="90" width="3" height="13" font="0"> </text>
+<text top="459" left="90" width="116" height="13" font="0">Target Species: Human </text>
+<text top="473" left="90" width="3" height="13" font="0"> </text>
+<text top="486" left="90" width="107" height="13" font="0">Host Species:  Rabbit </text>
+<text top="500" left="90" width="3" height="13" font="0"> </text>
+<text top="514" left="90" width="179" height="13" font="0">Validation Method 1:  IP-Mass Spec </text>
+<text top="528" left="90" width="3" height="13" font="0"> </text>
+<text top="542" left="90" width="405" height="13" font="0">Validation Method 2:  Co-occupancy with another subunit of the same transcription </text>
+<text top="555" left="90" width="31" height="13" font="0">factor </text>
+<text top="569" left="90" width="3" height="13" font="0"> </text>
+<text top="583" left="90" width="104" height="13" font="0">Purification Method: </text>
+<text top="597" left="90" width="3" height="13" font="0"> </text>
+<text top="611" left="90" width="177" height="13" font="0">Polyclonal/Monoclonal:  Polyclonal </text>
+<text top="624" left="90" width="3" height="13" font="0"> </text>
+<text top="638" left="90" width="428" height="13" font="0">Reference: Cairns, C.A. &amp; White, R.J. p53 is a general repressor of RNA polymerase III </text>
+<text top="652" left="90" width="228" height="13" font="0">transcription. EMBO J. 17, 3112–3123 (1998). </text>
+<text top="666" left="90" width="3" height="13" font="0"> </text>
+<text top="680" left="90" width="3" height="13" font="0"> </text>
+<text top="693" left="90" width="3" height="13" font="0"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="792" width="612">
+	<fontspec id="2" size="6" family="Times" color="#000000"/>
+<text top="72" left="90" width="394" height="13" font="0">Validation 1:  IP-Mass Spec performed by Linfeng Wu shows the presence of the </text>
+<text top="86" left="90" width="86" height="13" font="0">expected protein: </text>
+<text top="100" left="90" width="3" height="13" font="0"> </text>
+<text top="477" left="90" width="3" height="13" font="0"> </text>
+<text top="491" left="90" width="420" height="13" font="0">Validation 2:  Brf1 shows extremely high co-occupancy with Bdp1 by ChIP-seq.  Both </text>
+<text top="505" left="90" width="358" height="13" font="0">are subunits of TFIIIB. (From Moqtaderi et al., NSMB 2010 17: 635-640) </text>
+<text top="519" left="90" width="3" height="13" font="0"> </text>
+<text top="709" left="433" width="3" height="13" font="0"> </text>
+<text top="114" left="92" width="99" height="11" font="2">!&quot;#$%&amp;'()'*+#+,-&amp;'#-./0%*</text>
+<text top="114" left="135" width="70" height="11" font="2">1//%**+(2'2&quot;#$%&amp;*</text>
+<text top="114" left="196" width="118" height="11" font="2">3&amp;(.%+2'#(,%/&quot;,-&amp;'4%+50.'61789</text>
+<text top="114" left="261" width="102" height="11" font="2">3&amp;(.%+2':&amp;(&quot;;+25'1#$+5&quot;+.&lt;</text>
+<text top="114" left="304" width="80" height="11" font="2">=&quot;-2.+.-.+&gt;%'?-&amp;+-2/%</text>
+<text top="114" left="347" width="100" height="11" font="2">@-A(2(#&lt; B&amp;)CD&amp;%;,+/-.%C</text>
+<text top="114" left="458" width="56" height="11" font="2">B&amp;)CD&amp;%;,+/-.%E</text>
+<text top="125" left="128" width="53" height="11" font="2">C F3FGGEEGHEI</text>
+<text top="125" left="221" width="36" height="11" font="2">JJKGGCLEG</text>
+<text top="125" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="125" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="125" left="446" width="9" height="11" font="2">PJ</text>
+<text top="125" left="511" width="9" height="11" font="2">HJ</text>
+<text top="137" left="128" width="53" height="11" font="2">C F3FGGQCPIHP</text>
+<text top="137" left="221" width="36" height="11" font="2">EPKCRRLPG</text>
+<text top="137" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="137" left="446" width="9" height="11" font="2">CI</text>
+<text top="137" left="511" width="9" height="11" font="2">EQ</text>
+<text top="148" left="128" width="53" height="11" font="2">C F3FGGGGSRJQ</text>
+<text top="148" left="221" width="36" height="11" font="2">QSKPSPLHG</text>
+<text top="148" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="148" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="148" left="446" width="9" height="11" font="2">ER</text>
+<text top="148" left="511" width="9" height="11" font="2">EJ</text>
+<text top="159" left="128" width="53" height="11" font="2">C F3FGGGECHGP</text>
+<text top="159" left="221" width="36" height="11" font="2">JQKRPRLPG</text>
+<text top="159" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="159" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="159" left="446" width="9" height="11" font="2">EP</text>
+<text top="159" left="511" width="9" height="11" font="2">EC</text>
+<text top="171" left="128" width="53" height="11" font="2">C F3FGGGCSHQS</text>
+<text top="171" left="221" width="36" height="11" font="2">JEKCCHLGG</text>
+<text top="171" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="171" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="171" left="446" width="9" height="11" font="2">EJ</text>
+<text top="171" left="511" width="9" height="11" font="2">EE</text>
+<text top="182" left="128" width="53" height="11" font="2">C F3FGGGEHERH</text>
+<text top="182" left="210" width="48" height="11" font="2">HKRGQKQCPLQG</text>
+<text top="182" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="182" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="182" left="450" width="5" height="11" font="2">P</text>
+<text top="182" left="515" width="5" height="11" font="2">G</text>
+<text top="193" left="128" width="53" height="11" font="2">C F3FGGGCCGJE</text>
+<text top="193" left="217" width="41" height="11" font="2">CJPKSEPLIG</text>
+<text top="193" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="193" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="193" left="446" width="9" height="11" font="2">CP</text>
+<text top="193" left="511" width="9" height="11" font="2">CG</text>
+<text top="204" left="128" width="53" height="11" font="2">C F3FGGGHEEQR</text>
+<text top="204" left="217" width="41" height="11" font="2">CSEKIQPLRG</text>
+<text top="204" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="204" left="446" width="9" height="11" font="2">CG</text>
+<text top="204" left="511" width="9" height="11" font="2">CC</text>
+<text top="216" left="128" width="53" height="11" font="2">C F3FGGESJHHI</text>
+<text top="216" left="217" width="41" height="11" font="2">PJSKGIILQG</text>
+<text top="216" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="216" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="216" left="450" width="5" height="11" font="2">J</text>
+<text top="216" left="515" width="5" height="11" font="2">E</text>
+<text top="227" left="128" width="53" height="11" font="2">C F3FGGHREPEG</text>
+<text top="227" left="221" width="36" height="11" font="2">CCKRIRLCG</text>
+<text top="227" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="227" left="450" width="5" height="11" font="2">H</text>
+<text top="227" left="515" width="5" height="11" font="2">Q</text>
+<text top="238" left="128" width="53" height="11" font="2">C F3FGGGGHHJE</text>
+<text top="238" left="221" width="36" height="11" font="2">IEKPGQLJG</text>
+<text top="238" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="238" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="238" left="450" width="5" height="11" font="2">I</text>
+<text top="238" left="515" width="5" height="11" font="2">J</text>
+<text top="250" left="128" width="53" height="11" font="2">C F3FGGECRHPE</text>
+<text top="250" left="217" width="41" height="11" font="2">CGCKQPHLQG</text>
+<text top="250" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="250" left="450" width="5" height="11" font="2">Q</text>
+<text top="250" left="515" width="5" height="11" font="2">Q</text>
+<text top="261" left="128" width="53" height="11" font="2">C F3FGGGCJRQS</text>
+<text top="261" left="221" width="36" height="11" font="2">IHKREHLPG</text>
+<text top="261" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="261" left="450" width="5" height="11" font="2">Q</text>
+<text top="261" left="515" width="5" height="11" font="2">H</text>
+<text top="272" left="128" width="53" height="11" font="2">C F3FGGECISEG</text>
+<text top="272" left="221" width="36" height="11" font="2">RQKGSPLIG</text>
+<text top="272" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="272" left="450" width="5" height="11" font="2">J</text>
+<text top="272" left="515" width="5" height="11" font="2">E</text>
+<text top="284" left="128" width="53" height="11" font="2">C F3FGGIRHSRI</text>
+<text top="284" left="217" width="41" height="11" font="2">CRIKCHCLCG</text>
+<text top="284" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="284" left="450" width="5" height="11" font="2">P</text>
+<text top="284" left="515" width="5" height="11" font="2">H</text>
+<text top="295" left="128" width="53" height="11" font="2">C F3FGGGGQRQS</text>
+<text top="295" left="221" width="36" height="11" font="2">QSKPRILCG</text>
+<text top="295" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="295" left="450" width="5" height="11" font="2">H</text>
+<text top="295" left="515" width="5" height="11" font="2">H</text>
+<text top="306" left="128" width="53" height="11" font="2">C F3FGGCREIQI</text>
+<text top="306" left="217" width="41" height="11" font="2">CGEKRRQLCG</text>
+<text top="306" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="306" left="450" width="5" height="11" font="2">C</text>
+<text top="306" left="515" width="5" height="11" font="2">H</text>
+<text top="318" left="128" width="53" height="11" font="2">C F3FGGGECPHS</text>
+<text top="318" left="221" width="36" height="11" font="2">PCKICSLRG</text>
+<text top="318" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="318" left="450" width="5" height="11" font="2">C</text>
+<text top="318" left="515" width="5" height="11" font="2">P</text>
+<text top="329" left="128" width="53" height="11" font="2">C F3FGGPCPJIJ</text>
+<text top="329" left="221" width="36" height="11" font="2">RHKEPSLHG</text>
+<text top="329" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="329" left="450" width="5" height="11" font="2">H</text>
+<text top="329" left="515" width="5" height="11" font="2">E</text>
+<text top="341" left="128" width="53" height="11" font="2">C F3FGGGCPPEP</text>
+<text top="341" left="221" width="36" height="11" font="2">QGKPQELJG</text>
+<text top="341" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="341" left="450" width="5" height="11" font="2">E</text>
+<text top="341" left="515" width="5" height="11" font="2">E</text>
+<text top="352" left="128" width="62" height="11" font="2">C TTF3FGGHRERJS</text>
+<text top="352" left="221" width="36" height="11" font="2">HSKJPJLCG</text>
+<text top="352" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="352" left="450" width="5" height="11" font="2">E</text>
+<text top="352" left="515" width="5" height="11" font="2">G</text>
+<text top="363" left="128" width="101" height="11" font="2">E F3FGGECSECIKF3FGGIRRSHR</text>
+<text top="363" left="221" width="36" height="11" font="2">HJKJEGLJG</text>
+<text top="363" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="363" left="450" width="5" height="11" font="2">C</text>
+<text top="363" left="515" width="5" height="11" font="2">E</text>
+<text top="375" left="128" width="53" height="11" font="2">C F3FGGGGHRJQ</text>
+<text top="375" left="221" width="36" height="11" font="2">IGKRRCLRG</text>
+<text top="375" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="375" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="375" left="450" width="5" height="11" font="2">E</text>
+<text top="375" left="515" width="5" height="11" font="2">C</text>
+<text top="386" left="128" width="53" height="11" font="2">C F3FGGQCPGGE</text>
+<text top="386" left="217" width="41" height="11" font="2">QGJKIEELRG</text>
+<text top="386" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="386" left="450" width="5" height="11" font="2">G</text>
+<text top="386" left="515" width="5" height="11" font="2">C</text>
+<text top="397" left="128" width="53" height="11" font="2">C F3FGGHGPSEQ</text>
+<text top="397" left="221" width="36" height="11" font="2">IGKGHJLGG</text>
+<text top="397" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="397" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="397" left="450" width="5" height="11" font="2">C</text>
+<text top="397" left="515" width="5" height="11" font="2">E</text>
+<text top="408" left="128" width="62" height="11" font="2">C TTF3FGGRISCCR</text>
+<text top="408" left="221" width="36" height="11" font="2">EIKQQPLQG</text>
+<text top="408" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="408" left="450" width="5" height="11" font="2">G</text>
+<text top="408" left="515" width="5" height="11" font="2">C</text>
+<text top="420" left="128" width="62" height="11" font="2">C TTF3FGGHESHPS</text>
+<text top="420" left="221" width="36" height="11" font="2">QCKGQSLEG</text>
+<text top="420" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="420" left="450" width="5" height="11" font="2">G</text>
+<text top="420" left="515" width="5" height="11" font="2">E</text>
+<text top="431" left="128" width="62" height="11" font="2">C TTF3FGGHREPCE</text>
+<text top="431" left="221" width="36" height="11" font="2">PEKSHPLRG</text>
+<text top="431" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="431" left="450" width="5" height="11" font="2">G</text>
+<text top="431" left="515" width="5" height="11" font="2">C</text>
+<text top="442" left="128" width="53" height="11" font="2">C F3FGGCPEQHR</text>
+<text top="442" left="217" width="41" height="11" font="2">HGEKSJHLIG</text>
+<text top="442" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="442" left="450" width="5" height="11" font="2">C</text>
+<text top="442" left="515" width="5" height="11" font="2">G</text>
+<text top="454" left="128" width="62" height="11" font="2">C TTF3FGGIRHRIS</text>
+<text top="454" left="217" width="41" height="11" font="2">ESJKRPHLHG</text>
+<text top="454" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="454" left="450" width="5" height="11" font="2">G</text>
+<text top="454" left="515" width="5" height="11" font="2">C</text>
+<text top="465" left="128" width="53" height="11" font="2">C F3FGGGCGHPC</text>
+<text top="465" left="221" width="36" height="11" font="2">EQKECHLHG</text>
+<text top="465" left="271" width="19" height="11" font="2">@M8N</text>
+<text top="465" left="347" width="34" height="11" font="2">&quot;2O2(42</text>
+<text top="465" left="450" width="5" height="11" font="2">G</text>
+<text top="465" left="515" width="5" height="11" font="2">C</text>
+</page>
+</pdf2xml>
