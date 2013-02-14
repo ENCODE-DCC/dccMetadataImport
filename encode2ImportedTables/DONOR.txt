@@ -1,0 +1,79 @@
+BC_Adipose_UHN00001 	adipose tissue, donor UHN0001, age 35, African American, DNA extract
+BC_Adrenal_Gland_H12803N 	adrenal gland, donor H12803N, age 88, caucasian, DNA extract
+BC_Bladder_01-11002 	urinary bladder, donor 01-11002, age 83, caucasian, DNA extract
+BC_Brain_H11058N 	brain, donor H11058N, age 66, Asian, DNA extract
+BC_Breast_02-03015 	breast, donor 02-03015, age 21, caucasian, DNA extract
+BC_Colon_01-11002 	colon, donor 01-11002, age 83, caucasian, DNA and RNA extract
+BC_Colon_H12817N 	colon, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Esophagus_01-11002 	esophagus, donor 01-11002, age 83, caucasian, DNA and RNA extract
+BC_Esophagus_H12817N 	esophagus, donor H12817N, age 71, caucasian, DNA extract
+BC_Jejunum_H12817N 	jejunum, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Kidney_01-11002 	kidney, donor 01-11002, age 83, caucasian, DNA and RNA extract
+BC_Kidney_H12817N 	kidney, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Left_Ventricle_N41 	left ventricle, donor N41, age 26, Asian, DNA extract
+BC_Leukocyte_UHN00204 	peripheral blood mononuclear cell, donor UHN00204, age 54, caucasian, DNA extract
+BC_Liver_01-11002 	liver, donor 01-11002, age 83, caucasian, DNA and RNA extract
+BC_Lung_01-11002 	lung, donor 01-11002, age 83, caucasian, DNA and RNA extract
+BC_Lung_H12817N 	lung, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Pancreas_H12817N 	pancreas, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Penis_H12817N 	penis, donor H12817N, age 71, caucasian, DNA extract
+BC_Pericardium_H12529N 	pericardium, donor H12529N, age 70, caucasian, DNA extract
+BC_Placenta_UHN00189 	placenta, donor UHN00189, age 29
+BC_Prostate_Gland_H12817N 	prostate gland, donor H12817N, age 71, caucasian, DNA extract
+BC_Rectum_N29 	rectum, donor N29, age 29, Asian, DNA extract
+BC_Skeletal_Muscle_01-11002 	skeletal muscle, donor 01-11002, age 83, caucasian, DNA and RNA extract
+BC_Skeletal_Muscle_H12817N 	skeletal muscle, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Skin_01-11002 	skin, donor 01-11002, age 83, caucasian, DNA extract
+BC_Small_Intestine_01-11002 	small intestine, donor 01-11002, age 83, caucasian, DNA and RNA extract
+BC_Spleen_H12817N 	spleen, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Stomach_01-11002 	stomach, donor 01-11002, age 83, caucasian, DNA extract
+BC_Stomach_H12817N 	stomach, donor H12817N, age 71, caucasian, DNA and RNA extract
+BC_Testis_N30 	testis, donor N30, age 41, Asian, DNA extract
+BC_Uterus_BN0765 	uterus, donor BN0765, age 44, Asian, DNA extract
+Breast_OC 	Primary frozen breast tissue from NCTC donor IDs 11-0068A (Rep B1) and 11-0067A (Rep B2), both African American
+CD20+ 	B cells from donors RO01778 and RO01794, newly promoted to tier 2: not in 2011 analysis
+CD34+_Mobilized 	hematopoietic progenitor cells- mobilized, from donor RO01679.
+CD4+_Naive_Wb11970640 	CD4+ naive sorted cells, donor is Caucasian, male 26 year old, primary pheresis of single normal subject
+CD4+_Naive_Wb78495824 	CD4+ naive sorted cells, donor is Causasian, female 35 year old, primary pheresis of single normal subject
+Cerebellum_OC 	Primary frozen cerebellum tissue from NICHD donor IDs 1104 (Rep B1), 602 (Rep B2), 1442 (Rep B3), all Caucasian
+Cerebrum_frontal_OC 	Primary frozen frontal cerebrum tissue from NICHD donor IDs 1104 (Rep B1), 602 (Rep B2), 1442 (Rep B3), all Caucasian
+Colon_BC 	colon, parent cell type to donors BC_01-11002 and BC_H12817N
+Colon_OC 	Primary frozen colon tissue from NCTC donor IDs 10-0005A (Rep B1) and 10-0170A (Rep B2), African American and caucasian
+Esophagus_BC 	esophagus, parental cell type to donors 01-11002 and H12817N
+Frontal_cortex_OC 	Primary ventromedial prefrontal cortex, from KPBBB donor IDs 673 (Rep B1) and 913 (Rep B2)
+GM08714 	lymphoblastoid cell line, Instability of heterochromatin of chromosomes 1, 9, and 16 with variable combined immunodeficiency; dysmorphic facial features, developmental delay, malabsorption, and recurrent infections; see GM08747 Fibroblast; donor subject is a compound heterozygote: one allele has a G&gt;A transition at nucleotide 1807 (1807G&gt;A) of the DNMT3B gene resulting in an Ala to Thr substitution at codon 603 [Ala603Thr (A603T)], the mutation occurring in a region between motifs I and IV within the catalytic domain of DNMT3B; the second allele has a G&gt;A transition within intron 22 located 11 nucleotides 5-prime of the normal splice acceptor site [IVS22AS,G&gt;A,-11] resulting in the generation of a novel splice acceptor site and a 9-bp insertion in the processed RNA. This results in the insertion of 3 amino acids (serine, threonine, and proline) at codon 744 (744ins3). The insertion was within the conserved region of the catalytic domain, which is likely to be disrupted by the insertion of a proline residue. This mutation was de novo.
+HMEpC 	Mammary Epithelial Cells (placeholder, waiting on second lot/donor from PromoCell)
+HMVEC-dNeo 	neonatal microvascular endothelial cells (single donor), dermal-derived
+Heart_OC 	Primary frozen heart tissue from NICHD donor IDs 1104 (Rep B1 DNase), 602 (Rep B2 DNase), 1442 (Rep B3 DNase), 1863 (Rep B1 FAIRE), 4548 (Rep B2 FAIRE)
+Kidney_BC 	kidney, parental cell type to donors 01-11002 and H12817N
+Kidney_OC 	Primary frozen kidney tissue from NICHD donor IDs 1104 (Rep B1 DNase), 602 (Rep B2 DNase), 1442 (Rep B3 DNase), 1863 (Rep B3 FAIRE) and NCTC donor ID 10-0022A (Rep B1 FAIRE)
+LHCN-M2 	skeletal myoblasts derived from satellite cells from the pectoralis major muscle of a 41 year old caucasian heart transplant donor, immortalized with lox-hygro-hTERT ("LH"), and Cdk4-neo ("CN"), Zhu et al. (2007) in Aging Cell, vol. 6, pp 515-523, newly promoted to tier 2: not in 2011 analysis.
+LHSR 	prostate epithelial cells (PrEC), multiple human donors, all of whom are HIV-1, Hepatitis B and Hepatitis C negative, treatment: to create LHSR, cells were infected with amphotropic retroviruses encoding the SV40 large T antigen (L), the telomerase catalytic subunit hTERT (H), the SV40 small T antigen (S) and an oncogenic allele of H-ras (R).
+Liver_OC 	Primary frozen liver tissue from NICHD donor IDs 1104 (Rep B1), 602 (Rep B2), 1442 (Rep B3)
+Lung_BC 	lung, parental cell type to donors 01-11002 and H12817N
+Lung_OC 	Primary frozen lung tissue from NICHD donor IDs 1104 (Rep B1 DNase), 602 (Rep B2 DNase), 1442 (Rep B3 DNase) and CF Center donor IDs DD006I (Rep B1 FAIRE) and DD007I (Rep B2 FAIRE)
+Monocytes-CD14+ 	Monocytes-CD14+ are CD14-positive cells from human leukapheresis production, from donor RO 01746 (draw 1 ID is RO 01746, draw 2 ID is RO 01826), newly promoted to tier 2: not in 2011 analysis
+Monocytes-CD14+_RO01746 	Monocytes-CD14+ are CD14-positive cells from human leukapheresis production, from donor RO 01746 (draw 1 ID is RO 01746, draw 2 ID is RO 01826), Monocytes-CD14+_RO01746 and Monocytes-CD14+_RO01826 are being used as replicates, newly promoted to tier 2: not in 2011 analysis
+PanIslets 	pancreatic islets from 2 donors, the sources of these primary cells are cadavers from National Disease Research Interchange (NDRI) and another sample isolated as in Bucher, P. et al., Assessment of a novel two-component enzyme preparation for human islet isolation and transplantation. Transplantation 79, 917 (2005)
+Pancreas_OC 	Primary frozen pancreas tissue from NCTC donor IDs 09-0144A (Rep B1) and 10-0021A (Rep B2)
+Pons_OC 	Primary frozen pons mid-brain tissue from NICHD donor IDs 1104 (Rep B1), 602 (Rep B2), 1442 (Rep B3)
+Prostate_OC 	Primary frozen prostate tissue from NICHD donor IDs 1669 (Rep B1) and 1540 (Rep B2)
+Psoas_muscle_OC 	Primary frozen psoas muscle tissue from NICHD donor IDs 1104 (Rep B1 DNase), 602 (Rep B2 DNase), 1442 (Rep B3 DNase), 1540 (Rep B1), 1863 (Rep B2 FAIRE)
+Skeletal_Muscle_BC 	skeletal muscle, parental cell type to donors 01-11002 and H12817N
+Small_intestine_OC 	Primary frozen small intestine tissue from NCTC donor IDs 10-0063A (Rep B1) and 09-0143A (Rep B2)
+Spleen_OC 	Primary frozen spleen tissue from NICHD donor IDs 1863 (Rep B1) and 4548 (Rep B2)
+Stomach_BC 	stomach, parental cell type to donors 01-11002 and H12817N
+TBEC 	trachea and bronchial epithelial cells from frush lung tissue provided by National Disease Research Interchange, passage 2 primary, non-immortalized cells, donor was 21 years old
+Th1_Wb54553204 	Th1 cells in vivo isolation, donor is Caucasian, male 33 year old, primary pheresis of single normal subject
+Th2_Wb33676984 	Th2 cells in vivo isolation, donor is Asian, female 26 year old, primary pheresis of single normal subject
+Th2_Wb54553204 	Th2 cells in vivo isolation, donor is Caucasian, male 33 year old, primary pheresis of single normal subject
+Treg_Wb83319432 	T regulatory cells in vivo isolation, donor is Caucasian, male 28 year old, primary pheresis of single normal subject
+bone_marrow_MSC 	These cells are primary fibroblastoid cells obtained from human bone marrow of normal donors as described in Roecklein and Torok-Storb, 1995 Blood 85:997-1005.
+hMNC-CB 	Mononuclear Cells (umbilical cord blood-single donor) from two individuals, hMNC-CB_9111701.6 and hMNC-CB_8072802.6
+hMNC-CB_8072802.6 	Mononuclear Cells, umbilical cord blood-single donor
+hMNC-CB_9111701.6 	Mononuclear Cells, umbilical cord blood-single donor
+hMNC-PB 	Mononuclear Cells (peripheral blood-single donor) from two individuals, hMNC-PB_0022330.9 and hMNC-PB_0082430.9
+hMNC-PB_0022330.9 	Mononuclear Cells, peripheral blood-single donor
+hMNC-PB_0082430.9 	Mononuclear Cells, peripheral blood-single donor
+iPS_hFib2_iPS4 	induced pluripotent stem cell line 4 derived from skin fibroblast of a 30 year old donor, same donor as iPS_hFib2_iPS5
+iPS_hFib2_iPS5 	induced pluripotent stem cell line 5 derived from skin fibroblast of a 30 year old donor, same donor as iPS_hFib2_iPS4
