@@ -1,4 +1,4 @@
-9biosample_no	biosample_term_id	biosample_term_name	alias	alias_source	biosample_label	biosample_type	organism_no	treatment_no	source_no	product_id	lot_id	subcellular_location		submitted_by	is_obsolete	is_current	date_created	created_by
+biosample_no	biosample_term_id	biosample_term_name	alias	alias_source	biosample_label	biosample_type	organism_no	treatment_no	source_no	product_id	lot_id	subcellular_location		submitted_by	is_obsolete	is_current	date_created	created_by
 971c81e2-2dc6-4091-8b27-2f50330182ed	AMAD:96	10T1/2	NA	NA	10T1/2	cell line	mouse	missing	American Type Culture Collection (ATCC)	CCL-226	missing	missing	ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 2398b0ee-ac7c-4778-b3e6-46caeca08071	AMAD:7035	3134	NA	NA	3134	cell line	mouse	missing	Dr. John Stamatoyannopoulos at University of Washington	3134	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
 ca4ff7d0-a666-437a-9f3a-c89c3f7689cc	AMAD:7043	416B	NA	NA	416B	cell line	mouse	missing	Dr. John Stamatoyannopoulos at University of Washington	416B	missing	missing		ENCODE 2	No	Yes	Wed Feb  6 14:19:23 PST 2013	Jeff Long
