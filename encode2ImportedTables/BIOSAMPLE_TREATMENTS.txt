@@ -1,0 +1,390 @@
+228	human	Duke	AffyExonArray	HeLa-S3	treatment=IFNa4h	wgEncodeEH000228	2011-05-02 12:43:26
+229	human	Duke	AffyExonArray	HeLa-S3	treatment=IFNg4h	wgEncodeEH000229	2011-05-02 12:43:26
+232	human	Duke	AffyExonArray	LHSR	treatment=androgen	\N	2011-04-14 07:28:53
+234	human	Duke	AffyExonArray	LNCaP	treatment=androgen	wgEncodeEH000234	2011-05-02 12:43:26
+236	human	Duke	AffyExonArray	MCF-7	treatment=estrogen	wgEncodeEH000236	2011-05-02 12:43:26
+237	human	Duke	AffyExonArray	MCF-7	treatment=vehicle	wgEncodeEH000237	2011-05-02 12:43:26
+313	human	HudsonAlpha	RnaSeq	A549	rnaExtract=longPolyA treatment=DEX_100nM	wgEncodeEH000313	2011-06-20 12:00:41
+314	human	HudsonAlpha	RnaSeq	A549	rnaExtract=longPolyA treatment=EtOH_0.02pct	wgEncodeEH000314	2011-06-20 12:00:41
+524	human	Yale	RnaSeq	K562	rnaExtract=polyA treatment=IFNa30	wgEncodeEH000524	2011-05-03 14:15:52
+525	human	Yale	RnaSeq	K562	rnaExtract=polyA treatment=IFNa6h	wgEncodeEH000525	2011-05-03 14:14:59
+526	human	Yale	RnaSeq	K562	rnaExtract=polyA treatment=IFNg30	wgEncodeEH000526	2011-05-03 14:15:14
+527	human	Yale	RnaSeq	K562	rnaExtract=polyA treatment=IFNg6h	wgEncodeEH000527	2011-05-03 14:15:27
+577	human	Duke	DnaseSeq	HeLa-S3	treatment=IFNa4h	wgEncodeEH000577	2011-04-20 09:46:42
+582	human	Duke	DnaseSeq	LHSR	treatment=androgen	wgEncodeEH000582	2011-04-20 09:46:42
+587	human	UNC	FaireSeq	HeLa-S3	treatment=IFNa4h	wgEncodeEH000587	2011-04-20 09:46:42
+588	human	UNC	FaireSeq	HeLa-S3	treatment=IFNg4h	wgEncodeEH000588	2011-04-20 09:46:42
+591	human	UNC	FaireSeq	LHSR	treatment=androgen	wgEncodeEH000591	2011-04-20 09:46:42
+601	human	Duke	DnaseSeq	AoSMC	treatment=serum_free_media	wgEncodeEH000601	2011-04-20 09:46:41
+611	human	Yale	ChipSeq	HeLa-S3	antibody=Input control=std treatment=IFNg30	wgEncodeEH000611	2011-06-17 13:02:38
+614	human	Yale	ChipSeq	HeLa-S3	antibody=STAT1 control=std treatment=IFNg30	wgEncodeEH000614	2011-06-17 13:02:38
+640	human	Yale	ChipSeq	HepG2	antibody=Input control=std treatment=pravastatin	wgEncodeEH000640	2011-06-17 13:02:39
+641	human	Yale	ChipSeq	HepG2	antibody=Pol2 control=std treatment=pravastatin	wgEncodeEH000641	2011-06-17 13:02:39
+642	human	Yale	ChipSeq	HepG2	antibody=SREBP1 control=std treatment=pravastatin	wgEncodeEH000642	2011-06-17 13:02:39
+643	human	Yale	ChipSeq	HepG2	antibody=SREBP2 control=std treatment=pravastatin	wgEncodeEH000643	2011-06-17 13:02:39
+655	human	Yale	ChipSeq	K562	antibody=Input control=std treatment=IFNa30	wgEncodeEH000655	2011-06-17 13:02:39
+656	human	Yale	ChipSeq	K562	antibody=Input control=std treatment=IFNa6h	wgEncodeEH000656	2011-06-17 13:02:39
+657	human	Yale	ChipSeq	K562	antibody=Input control=std treatment=IFNg30	wgEncodeEH000657	2011-06-17 13:02:39
+658	human	Yale	ChipSeq	K562	antibody=Input control=std treatment=IFNg6h	wgEncodeEH000658	2011-06-17 13:02:39
+659	human	Yale	ChipSeq	K562	antibody=c-Myc control=std treatment=IFNa30	wgEncodeEH000659	2011-06-17 13:02:39
+660	human	Yale	ChipSeq	K562	antibody=Pol2 control=std treatment=IFNa30	wgEncodeEH000660	2011-06-17 13:02:39
+661	human	Yale	ChipSeq	K562	antibody=Pol2 control=std treatment=IFNa6h	wgEncodeEH000661	2011-06-17 13:02:39
+662	human	Yale	ChipSeq	K562	antibody=Pol2 control=std treatment=IFNg6h	wgEncodeEH000662	2011-06-17 13:02:39
+663	human	Yale	ChipSeq	K562	antibody=STAT1 control=std treatment=IFNa30	wgEncodeEH000663	2011-06-17 13:02:39
+664	human	Yale	ChipSeq	K562	antibody=STAT1 control=std treatment=IFNa6h	wgEncodeEH000664	2011-06-17 13:02:39
+665	human	Yale	ChipSeq	K562	antibody=STAT2 control=std treatment=IFNa30	wgEncodeEH000665	2011-06-17 13:02:39
+666	human	Yale	ChipSeq	K562	antibody=STAT2 control=std treatment=IFNa6h	wgEncodeEH000666	2011-06-17 13:02:39
+667	human	Yale	ChipSeq	K562	antibody=c-Jun control=std treatment=IFNa6h	wgEncodeEH000667	2011-06-17 13:02:39
+668	human	Yale	ChipSeq	K562	antibody=c-Jun control=std treatment=IFNg6h	wgEncodeEH000668	2011-06-17 13:02:39
+669	human	Yale	ChipSeq	K562	antibody=c-Myc control=std treatment=IFNa6h	wgEncodeEH000669	2011-06-17 13:02:39
+670	human	Yale	ChipSeq	K562	antibody=c-Myc control=std treatment=IFNg6h	wgEncodeEH000670	2011-06-17 13:02:39
+673	human	Yale	ChipSeq	K562	antibody=c-Jun control=std treatment=IFNg30	wgEncodeEH000673	2011-06-17 13:02:39
+690	human	Stanford	ChipSeq	GM12878	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000690	2011-07-18 11:12:44
+704	human	Stanford	ChipSeq	K562	antibody=Pol2 control=std treatment=IFNg30	wgEncodeEH000704	2011-06-21 11:30:39
+712	human	Stanford	ChipSeq	GM12892	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000712	2011-07-28 15:32:39
+715	human	Stanford	ChipSeq	GM18505	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000715	2011-07-28 15:32:39
+716	human	Stanford	ChipSeq	GM18526	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000716	2011-07-28 15:32:39
+717	human	Stanford	ChipSeq	GM19099	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000717	2011-07-28 15:32:39
+718	human	Stanford	ChipSeq	GM19193	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000718	2011-07-28 15:32:39
+734	human	Stanford	ChipSeq	GM10847	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000734	2011-07-28 15:32:38
+735	human	Stanford	ChipSeq	GM12891	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000735	2011-07-28 15:32:38
+736	human	Stanford	ChipSeq	GM15510	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000736	2011-07-28 15:32:39
+738	human	Stanford	ChipSeq	GM18951	antibody=NFKB control=IgG-rab treatment=TNFa	wgEncodeEH000738	2011-07-28 15:32:39
+750	human	Stanford	ChipSeq	HepG2	antibody=CEBPB control=std treatment=forskolin	wgEncodeEH000750	2011-06-21 11:30:39
+751	human	Stanford	ChipSeq	HepG2	antibody=ERRA control=std treatment=forskolin	wgEncodeEH000751	2011-06-21 11:30:39
+752	human	Stanford	ChipSeq	HepG2	antibody=GRp20 control=std treatment=forskolin	wgEncodeEH000752	2011-06-21 11:30:39
+753	human	Stanford	ChipSeq	HepG2	antibody=HNF4A control=std treatment=forskolin	wgEncodeEH000753	2011-06-21 11:30:39
+754	human	Stanford	ChipSeq	HepG2	antibody=HSF1 control=std treatment=forskolin	wgEncodeEH000754	2011-06-21 11:30:39
+755	human	Stanford	ChipSeq	HepG2	antibody=Input control=std treatment=forskolin	wgEncodeEH000755	2011-06-21 11:30:39
+756	human	Stanford	ChipSeq	HepG2	antibody=Input control=std treatment=insulin	wgEncodeEH000756	2011-06-21 11:30:39
+757	human	Stanford	ChipSeq	HepG2	antibody=PGC1A control=std treatment=forskolin	wgEncodeEH000757	2011-06-21 11:30:39
+758	human	Stanford	ChipSeq	HepG2	antibody=Pol2 control=std treatment=forskolin	wgEncodeEH000758	2011-06-21 11:30:39
+759	human	Stanford	ChipSeq	HepG2	antibody=SREBP1 control=std treatment=insulin	wgEncodeEH000759	2011-06-21 11:30:39
+760	human	Stanford	ChipSeq	K562	antibody=STAT1 control=std treatment=IFNg30	wgEncodeEH000760	2011-06-21 11:30:39
+761	human	Stanford	ChipSeq	K562	antibody=STAT1 control=std treatment=IFNg6h	wgEncodeEH000761	2011-06-21 11:30:39
+769	human	USC	ChipSeq	K562	antibody=SETDB1 control=UCDavis treatment=MNaseD	wgEncodeEH000769	2011-07-06 15:21:12
+770	human	Stanford	ChipSeq	GM10847	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000770	2011-07-28 15:31:22
+772	human	Stanford	ChipSeq	GM12891	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000772	2011-07-28 15:32:38
+773	human	Stanford	ChipSeq	GM12892	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000773	2011-07-28 15:32:39
+774	human	Stanford	ChipSeq	GM15510	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000774	2011-07-28 15:32:39
+775	human	Stanford	ChipSeq	GM18505	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000775	2011-07-28 15:32:39
+776	human	Stanford	ChipSeq	GM18526	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000776	2011-07-28 15:32:39
+777	human	Stanford	ChipSeq	GM18951	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000777	2011-07-28 15:32:39
+778	human	Stanford	ChipSeq	GM19099	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000778	2011-07-28 15:32:39
+779	human	Stanford	ChipSeq	GM19193	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH000779	2011-07-28 15:32:39
+830	human	UW	AffyExonArray	WI-38	treatment=4OHTAM_20nM_72hr	wgEncodeEH000830	2011-05-02 12:43:27
+1058	human	Duke	AffyExonArray	AoSMC	treatment=serum_free_media	wgEncodeEH001058	2011-05-02 12:43:26
+1060	human	Duke	AffyExonArray	AoSMC	treatment=TGFb	wgEncodeEH001060	2011-05-02 12:43:26
+1077	human	Duke	AffyExonArray	Urothelia	treatment=UT189	wgEncodeEH001077	2011-05-02 12:43:26
+1096	human	Duke	DnaseSeq	LNCaP	treatment=androgen	wgEncodeEH001096	2011-04-20 10:27:29
+1114	human	Duke	DnaseSeq	Urothelia	treatment=UT189	wgEncodeEH001114	2011-04-20 10:27:29
+1120	human	UNC	FaireSeq	K562	treatment=NaBut	wgEncodeEH001120	2011-04-20 10:29:58
+1121	human	UNC	FaireSeq	K562	treatment=OHUrea	wgEncodeEH001121	2011-04-20 10:29:58
+1123	human	UNC	FaireSeq	Urothelia	treatment=UT189	wgEncodeEH001123	2011-04-20 10:29:58
+1125	human	UNC	FaireSeq	MCF-7	treatment=Hypoxia_LacAcid	wgEncodeEH001125	2011-04-20 10:29:58
+1131	human	UT-A	ChipSeq	MCF-7	antibody=CTCF treatment=estrogen	wgEncodeEH001131	2011-04-20 10:23:23
+1132	human	UT-A	ChipSeq	MCF-7	antibody=CTCF treatment=vehicle	wgEncodeEH001132	2011-04-20 10:23:23
+1133	human	UT-A	ChipSeq	MCF-7	antibody=c-Myc treatment=vehicle	wgEncodeEH001133	2011-04-20 10:23:23
+1134	human	UT-A	ChipSeq	MCF-7	antibody=c-Myc treatment=estrogen	wgEncodeEH001134	2011-04-20 10:23:23
+1198	human	UW	DnaseSeq	WI-38	treatment=4OHTAM_20nM_72hr	wgEncodeEH001198	2011-05-13 10:50:16
+1237	human	HudsonAlpha	RnaSeq	A549	rnaExtract=longPolyA treatment=DEX_100pM	wgEncodeEH001237	2011-06-20 12:00:41
+1238	human	HudsonAlpha	RnaSeq	ECC-1	rnaExtract=longPolyA treatment=BPA_100nM_4hr	wgEncodeEH001238	2011-06-20 12:00:41
+1239	human	HudsonAlpha	RnaSeq	ECC-1	rnaExtract=longPolyA treatment=DMSO_4hr	wgEncodeEH001239	2011-06-20 12:00:41
+1240	human	HudsonAlpha	RnaSeq	ECC-1	rnaExtract=longPolyA treatment=Estradiol_10nM_4hr	wgEncodeEH001240	2011-06-20 12:00:41
+1241	human	HudsonAlpha	RnaSeq	ECC-1	rnaExtract=longPolyA treatment=Genistein_100nM_4hr	wgEncodeEH001241	2011-06-20 12:00:41
+1242	human	HudsonAlpha	RnaSeq	T-47D	rnaExtract=longPolyA treatment=BPA_100nM_4hr	wgEncodeEH001242	2011-06-20 12:00:41
+1243	human	HudsonAlpha	RnaSeq	T-47D	rnaExtract=longPolyA treatment=DMSO_4hr	wgEncodeEH001243	2011-06-20 12:00:41
+1244	human	HudsonAlpha	RnaSeq	T-47D	rnaExtract=longPolyA treatment=Estradiol_10nM_4hr	wgEncodeEH001244	2011-06-20 12:00:41
+1245	human	HudsonAlpha	RnaSeq	T-47D	rnaExtract=longPolyA treatment=Genistein_100nM_4hr	wgEncodeEH001245	2011-06-20 12:00:41
+1246	human	HudsonAlpha	RnaSeq	A549	rnaExtract=longPolyA treatment=DEX_1nM	wgEncodeEH001246	2011-06-20 12:00:41
+1247	human	HudsonAlpha	RnaSeq	A549	rnaExtract=longPolyA treatment=DEX_500pM	wgEncodeEH001247	2011-06-20 12:00:41
+1248	human	HudsonAlpha	RnaSeq	A549	rnaExtract=longPolyA treatment=DEX_5nM	wgEncodeEH001248	2011-06-20 12:00:41
+1270	human	HudsonAlpha	Genotype	MCF10A-Er-Src	treatment=4OHTAM_1uM_36hr	wgEncodeEH001270	2011-08-12 16:33:10
+1367	human	HudsonAlpha	MethylRrbs	LNCaP	treatment=androgen	wgEncodeEH001367	2011-05-16 14:27:39
+1379	human	HudsonAlpha	MethylRrbs	MCF10A-Er-Src	treatment=4OHTAM_1uM_36hr	wgEncodeEH001379	2011-09-06 10:27:51
+1412	human	HudsonAlpha	MethylRrbs	T-47D	treatment=DMSO_0.02pct_24hr	wgEncodeEH001412	2011-05-16 14:27:40
+1413	human	HudsonAlpha	MethylRrbs	T-47D	treatment=Estradiol_10nM_24hr	wgEncodeEH001413	2011-05-16 14:27:40
+1490	human	HudsonAlpha	ChipSeq	A549	antibody=GR protocol=PCR1x treatment=DEX_500pM	wgEncodeEH001490	2011-05-17 14:28:41
+1491	human	HudsonAlpha	ChipSeq	A549	antibody=GR protocol=PCR1x treatment=DEX_50nM	wgEncodeEH001491	2011-05-17 14:28:41
+1492	human	HudsonAlpha	ChipSeq	A549	antibody=GR protocol=PCR1x treatment=DEX_5nM	wgEncodeEH001492	2011-05-17 14:28:41
+1493	human	HudsonAlpha	ChipSeq	A549	antibody=Pol2 protocol=PCR2x treatment=EtOH_0.02pct	wgEncodeEH001493	2011-05-17 14:28:41
+1494	human	HudsonAlpha	ChipSeq	A549	antibody=Pol2 protocol=PCR2x treatment=DEX_100nM	wgEncodeEH001494	2011-05-17 14:28:41
+1507	human	HudsonAlpha	ChipSeq	A549	antibody=CTCF_(SC-5916) protocol=PCR1x treatment=DEX_100nM	wgEncodeEH001507	2011-05-17 14:28:41
+1508	human	HudsonAlpha	ChipSeq	A549	antibody=CTCF_(SC-5916) protocol=PCR1x treatment=EtOH_0.02pct	wgEncodeEH001508	2011-05-17 14:28:41
+1509	human	HudsonAlpha	ChipSeq	A549	antibody=USF-1 protocol=PCR1x treatment=DEX_100nM	wgEncodeEH001509	2011-05-17 14:28:41
+1526	human	HudsonAlpha	ChipSeq	A549	antibody=GR protocol=PCR1x treatment=EtOH_0.02pct	wgEncodeEH001526	2011-05-17 14:28:41
+1536	human	HudsonAlpha	ChipSeq	ECC-1	antibody=ERalpha_a protocol=v041610.2 treatment=Estradiol_10nM	wgEncodeEH001536	2011-05-17 14:28:41
+1537	human	HudsonAlpha	ChipSeq	ECC-1	antibody=ERalpha_a protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001537	2011-05-17 14:28:41
+1539	human	HudsonAlpha	ChipSeq	A549	antibody=USF-1 protocol=PCR1x treatment=EtOH_0.02pct	wgEncodeEH001539	2011-05-17 14:28:41
+1540	human	HudsonAlpha	ChipSeq	ECC-1	antibody=GR protocol=v041610.2 treatment=DEX_100nM	wgEncodeEH001540	2011-05-17 14:28:41
+1555	human	HudsonAlpha	ChipSeq	A549	antibody=GR protocol=PCR2x treatment=DEX_100nM	wgEncodeEH001555	2011-05-17 14:28:41
+1556	human	HudsonAlpha	ChipSeq	T-47D	antibody=ERalpha_a protocol=v041610.2 treatment=Genistein_100nM	wgEncodeEH001556	2011-05-17 14:28:43
+1557	human	HudsonAlpha	ChipSeq	A549	antibody=GR protocol=PCR2x treatment=EtOH_0.02pct	wgEncodeEH001557	2011-05-17 14:28:41
+1572	human	HudsonAlpha	ChipSeq	ECC-1	antibody=Pol2 protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001572	2011-05-17 14:28:41
+1575	human	HudsonAlpha	ChipSeq	ECC-1	antibody=ERalpha_a protocol=v041610.2 treatment=Genistein_100nM	wgEncodeEH001575	2011-05-17 14:28:41
+1577	human	HudsonAlpha	ChipSeq	T-47D	antibody=ERalpha_a protocol=v041610.2 treatment=Estradiol_10nM	wgEncodeEH001577	2011-05-17 14:28:43
+1586	human	HudsonAlpha	ChipSeq	ECC-1	antibody=FOXA1_(SC-6553) protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001586	2011-05-17 14:28:41
+1587	human	HudsonAlpha	ChipSeq	ECC-1	antibody=RevXlinkChromatin protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001587	2011-07-06 15:50:39
+1588	human	HudsonAlpha	ChipSeq	T-47D	antibody=FOXA1_(SC-6553) protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001588	2011-05-17 14:28:43
+1589	human	HudsonAlpha	ChipSeq	A549	antibody=RevXlinkChromatin protocol=PCR2x treatment=EtOH_0.02pct	wgEncodeEH001589	2011-07-06 15:50:39
+1590	human	HudsonAlpha	ChipSeq	A549	antibody=RevXlinkChromatin protocol=PCR2x treatment=DEX_100nM	wgEncodeEH001590	2011-07-06 15:50:40
+1591	human	HudsonAlpha	ChipSeq	ECC-1	antibody=GR protocol=v041610.2 treatment=EtOH_0.02pct	wgEncodeEH001591	2011-05-17 14:28:41
+1601	human	HudsonAlpha	ChipSeq	T-47D	antibody=ERalpha_a protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001601	2011-05-17 14:28:43
+1602	human	HudsonAlpha	ChipSeq	T-47D	antibody=p300 protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001602	2011-05-17 14:28:43
+1631	human	HudsonAlpha	ChipSeq	T-47D	antibody=RevXlinkChromatin protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001631	2011-07-06 15:50:40
+1639	human	HudsonAlpha	ChipSeq	T-47D	antibody=GATA3_(SC-268) protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001639	2011-05-17 14:28:43
+1643	human	HudsonAlpha	ChipSeq	A549	antibody=RevXlinkChromatin protocol=PCR1x treatment=DEX_100nM	wgEncodeEH001643	2011-07-06 15:50:40
+1644	human	HudsonAlpha	ChipSeq	A549	antibody=RevXlinkChromatin protocol=PCR1x treatment=EtOH_0.02pct	wgEncodeEH001644	2011-07-06 15:50:40
+1656	human	HudsonAlpha	ChipSeq	T-47D	antibody=CTCF_(SC-5916) protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH001656	2011-05-17 14:28:43
+1670	human	Caltech	RnaSeq	LHCN-M2	insertLength=200 readType=2x75 treatment=DIFF_7d	wgEncodeEH001670	2011-05-12 13:43:25
+1745	human	Duke	DnaseSeq	MCF-7	treatment=Hypoxia_LacAcid	wgEncodeEH001745	2011-06-21 12:29:25
+1768	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=Pol2 control=std treatment=4OHTAM_1uM_36hr	wgEncodeEH001768	2011-07-28 15:26:33
+1769	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=STAT3 control=std treatment=4OHTAM_1uM_36hr	wgEncodeEH001769	2011-07-28 15:26:33
+1771	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=Pol2 control=std treatment=EtOH_0.01pct	wgEncodeEH001771	2011-07-28 15:26:32
+1772	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=STAT3 control=std treatment=EtOH_0.01pct	wgEncodeEH001772	2011-07-28 15:26:33
+1865	human	Stanford	ChipSeq	K562	antibody=IRF1 control=std treatment=IFNa30	wgEncodeEH001865	2011-06-24 15:39:52
+1866	human	Stanford	ChipSeq	K562	antibody=IRF1 control=std treatment=IFNg6h	wgEncodeEH001866	2011-06-24 15:39:52
+1867	human	Stanford	ChipSeq	K562	antibody=c-Myc control=std treatment=IFNg30	wgEncodeEH001867	2011-06-24 15:39:52
+1868	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=STAT3 control=std treatment=EtOH_0.01pct_12hr	wgEncodeEH001868	2011-06-29 11:35:04
+1869	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=Input control=std treatment=EtOH_0.01pct_12hr	wgEncodeEH001869	2011-06-29 11:35:04
+1870	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=Input control=std treatment=EtOH_0.01pct_4hr	wgEncodeEH001870	2011-06-29 11:35:04
+1871	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=STAT3 control=std treatment=EtOH_0.01pct_4hr	wgEncodeEH001871	2011-06-29 11:35:04
+1921	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=Input treatment=diffProtD_24hr	wgEncodeEM001921	2012-08-06 09:29:27
+1926	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=CTCF treatment=diffProtD_24hr	wgEncodeEM001926	2012-08-06 09:20:43
+1927	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=GATA1_(SC-265) treatment=diffProtD_24hr	wgEncodeEM001927	2012-08-06 09:25:55
+1962	mouse	Yale-m	ChipSeq	MEL	antibody=CTCF_(SC-15914) control=IgG-Yale treatment=DMSO_2.0pct	wgEncodeEM001962	2011-07-05 15:09:37
+1963	mouse	Yale-m	ChipSeq	MEL	antibody=Input control=IgG-Yale treatment=DMSO_2.0pct	wgEncodeEM001963	2011-07-05 11:16:21
+1965	mouse	Stanford-m	ChipSeq	MEL	antibody=Rad21 control=IgG-rab treatment=DMSO_2.0pct	wgEncodeEM001965	2011-07-05 15:09:37
+1983	mouse	Yale-m	ChipSeq	MEL	antibody=Input control=std treatment=DMSO_2.0pct	wgEncodeEM001983	2011-07-05 15:09:37
+1998	mouse	Stanford-m	RnaSeq	MEL	treatment=DMSO_2.0pct	wgEncodeEM001998	2012-06-05 11:19:04
+2005	mouse	Yale-m	ChipSeq	MEL	antibody=H3K4me3 control=IgG-Yale treatment=DMSO_2.0pct	wgEncodeEM002005	2011-07-05 11:16:21
+2034	human	Stanford	ChipSeq	GM12878	antibody=Input control=IgG-rab treatment=TNFa	wgEncodeEH002034	2011-07-28 16:51:38
+2047	human	UW	ChipSeq	WI-38	antibody=H3K4me3 treatment=4OHTAM_20nM_72hr	wgEncodeEH002047	2011-08-16 11:53:13
+2048	human	UW	ChipSeq	WI-38	antibody=Input treatment=4OHTAM_20nM_72hr	wgEncodeEH002048	2011-08-16 11:52:47
+2062	human	HudsonAlpha	MethylRrbs	A549	treatment=DMSO_0.02pct_7d	wgEncodeEH002062	2011-09-06 10:27:51
+2109	mouse	Caltech-m	ChipSeq	C2C12	antibody=E2F4 control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002109	2011-10-25 09:09:22
+2110	mouse	Caltech-m	ChipSeq	C2C12	antibody=Input control=Control_32bp treatment=EqS_2.0pct_24hr	wgEncodeEM002110	2011-10-25 09:09:22
+2112	mouse	Caltech-m	ChipSeq	C2C12	antibody=Input control=Control_32bp treatment=EqS_2.0pct_60hr	wgEncodeEM002112	2011-10-25 09:09:22
+2114	mouse	Caltech-m	ChipSeq	C2C12	antibody=Max control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002114	2011-10-25 09:09:22
+2116	mouse	Caltech-m	ChipSeq	C2C12	antibody=NRSF control=Control_32bp treatment=EqS_2.0pct_60hr	wgEncodeEM002116	2011-10-25 09:09:22
+2117	mouse	Caltech-m	ChipSeq	C2C12	antibody=Pol2 control=Control_32bp treatment=EqS_2.0pct_60hr	wgEncodeEM002117	2011-10-25 09:09:22
+2118	mouse	Caltech-m	ChipSeq	C2C12	antibody=Pol2(phosphoS2) control=Control_32bp treatment=EqS_2.0pct_60hr	wgEncodeEM002118	2011-10-25 09:09:22
+2119	mouse	Caltech-m	ChipSeq	C2C12	antibody=SRF control=Control_32bp treatment=EqS_2.0pct_24hr	wgEncodeEM002119	2011-10-25 09:09:22
+2120	mouse	Caltech-m	ChipSeq	C2C12	antibody=TCF12 control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002120	2011-10-25 09:09:22
+2121	mouse	Caltech-m	ChipSeq	C2C12	antibody=TCF3_(SC-349) control=Control_32bp treatment=EqS_2.0pct_5d	wgEncodeEM002121	2011-10-25 09:09:22
+2122	mouse	Caltech-m	ChipSeq	C2C12	antibody=CEBPB control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002122	2011-10-25 09:09:22
+2125	mouse	Caltech-m	ChipSeq	C2C12	antibody=Input control=Control_36bp treatment=EqS_2.0pct_60hr	wgEncodeEM002125	2011-10-25 09:09:22
+2126	mouse	Caltech-m	ChipSeq	C2C12	antibody=Input control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002126	2011-10-25 09:09:22
+2127	mouse	Caltech-m	ChipSeq	C2C12	antibody=MyoD_(sc-32758) control=Control_32bp treatment=EqS_2.0pct_24hr	wgEncodeEM002127	2011-10-25 09:09:22
+2129	mouse	Caltech-m	ChipSeq	C2C12	antibody=MyoD_(sc-32758) control=Control_32bp treatment=EqS_2.0pct_60hr	wgEncodeEM002129	2011-10-25 09:09:22
+2130	mouse	Caltech-m	ChipSeq	C2C12	antibody=MyoD_(sc-32758) control=Control_50bp treatment=EqS_2.0pct_7d	wgEncodeEM002130	2011-10-25 09:09:22
+2132	mouse	Caltech-m	ChipSeq	C2C12	antibody=Myogenin_(sc-12732) control=Control_32bp treatment=EqS_2.0pct_60hr	wgEncodeEM002132	2011-10-25 09:09:22
+2133	mouse	Caltech-m	ChipSeq	C2C12	antibody=Myogenin_(sc-12732) control=Control_50bp treatment=EqS_2.0pct_7d	wgEncodeEM002133	2011-10-25 09:09:22
+2134	mouse	Caltech-m	ChipSeq	C2C12	antibody=USF-1 control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002134	2011-10-25 09:09:22
+2136	mouse	Caltech-m	ChipSeq	C2C12	antibody=Myogenin_(sc-12732) control=Control_32bp treatment=EqS_2.0pct_24hr	wgEncodeEM002136	2011-10-25 09:09:22
+2139	mouse	Caltech-m	ChipSeq	C2C12	antibody=H3K36me3 control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002139	2011-10-25 09:10:33
+2141	mouse	Caltech-m	ChipSeq	C2C12	antibody=H3K4me3 control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002141	2011-10-25 09:10:33
+2143	mouse	Caltech-m	ChipSeq	C2C12	antibody=H3K27me3 control=Control_32bp treatment=EqS_2.0pct_60hr	wgEncodeEM002143	2011-10-25 09:10:33
+2144	mouse	Caltech-m	ChipSeq	C2C12	antibody=H3K4me2_(ab32356) control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002144	2011-10-25 09:10:33
+2145	mouse	Caltech-m	ChipSeq	C2C12	antibody=H3K79me2_(ab3594) control=Control_50bp treatment=EqS_2.0pct_60hr	wgEncodeEM002145	2011-10-25 09:10:33
+2148	mouse	Caltech-m	ChipSeq	C2C12	antibody=H3ac_(06-599) control=Control_32bp treatment=EqS_2.0pct_24hr	wgEncodeEM002148	2011-10-25 09:10:33
+2174	human	HudsonAlpha	MethylArray	A549	labVersion=Methyl450K treatment=EtOH_0.02pct	wgEncodeEH002174	2011-11-22 08:28:57
+2184	human	HudsonAlpha	MethylArray	T-47D	labVersion=Methyl450K treatment=DMSO_0.02pct_24hr	wgEncodeEH002184	2011-11-22 08:28:57
+2235	human	HudsonAlpha	MethylArray	MCF10A-Er-Src	labVersion=Methyl450K treatment=4OHTAM_1uM_36hr	wgEncodeEH002235	2011-11-22 08:22:33
+2259	human	Duke	Combined	HeLa-S3	composite=wgEncodeOpenChromSynth treatment=IFNa4h	wgEncodeEH002259	2011-12-13 16:35:03
+2262	human	Duke	Combined	Urothelia	composite=wgEncodeOpenChromSynth treatment=UT189	wgEncodeEH002262	2011-12-13 16:35:03
+2273	human	HudsonAlpha	ChipSeq	A549	antibody=RevXlinkChromatin protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002273	2012-01-26 14:13:21
+2274	human	HudsonAlpha	ChipSeq	A549	antibody=SP1 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002274	2012-01-18 12:54:40
+2275	human	HudsonAlpha	ChipSeq	A549	antibody=TAF1 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002275	2012-01-18 12:54:40
+2282	human	HudsonAlpha	ChipSeq	A549	antibody=YY1_(SC-281) protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002282	2012-01-18 12:54:40
+2283	human	HudsonAlpha	ChipSeq	A549	antibody=RevXlinkChromatin protocol=v041610.1 treatment=EtOH_0.02pct	wgEncodeEH002283	2012-01-26 14:13:21
+2284	human	HudsonAlpha	ChipSeq	A549	antibody=RevXlinkChromatin protocol=v042211.1 treatment=DEX_100nM	wgEncodeEH002284	2012-01-26 14:13:21
+2288	human	HudsonAlpha	ChipSeq	A549	antibody=ATF3 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002288	2012-01-18 12:54:39
+2289	human	HudsonAlpha	ChipSeq	A549	antibody=ELF1_(SC-631) protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002289	2012-01-18 12:54:40
+2290	human	HudsonAlpha	ChipSeq	A549	antibody=ETS1 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002290	2012-01-18 12:54:40
+2291	human	HudsonAlpha	ChipSeq	A549	antibody=USF-1 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002291	2012-01-18 12:54:40
+2292	human	HudsonAlpha	ChipSeq	A549	antibody=p300 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002292	2012-01-18 12:54:40
+2293	human	HudsonAlpha	ChipSeq	A549	antibody=FOXA1_(SC-101058) protocol=v041610.2 treatment=DEX_100nM	wgEncodeEH002293	2012-01-18 12:54:40
+2294	human	HudsonAlpha	ChipSeq	A549	antibody=GABP protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002294	2012-01-18 12:54:40
+2295	human	HudsonAlpha	ChipSeq	A549	antibody=ZBTB33 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002295	2012-01-18 12:54:40
+2299	human	HudsonAlpha	ChipSeq	T-47D	antibody=ERalpha_a protocol=v041610.2 treatment=BPA_100nM	wgEncodeEH002299	2012-01-18 12:54:43
+2300	human	HudsonAlpha	ChipSeq	ECC-1	antibody=CTCF_(SC-5916) protocol=v041610.2 treatment=DMSO_0.02pct	wgEncodeEH002300	2012-01-18 12:54:40
+2303	human	HudsonAlpha	ChipSeq	A549	antibody=BCL3 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002303	2012-01-18 12:54:39
+2310	human	HudsonAlpha	ChipSeq	A549	antibody=FOSL2 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002310	2012-01-18 12:54:40
+2311	human	HudsonAlpha	ChipSeq	A549	antibody=NRSF protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002311	2012-01-18 12:54:40
+2312	human	HudsonAlpha	ChipSeq	A549	antibody=TCF12 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002312	2012-01-18 12:54:40
+2313	human	HudsonAlpha	ChipSeq	ECC-1	antibody=ERalpha_a protocol=v041610.2 treatment=BPA_100nM	wgEncodeEH002313	2012-01-18 12:54:40
+2322	human	HudsonAlpha	ChipSeq	A549	antibody=CREB1_(SC-240) protocol=PCR1x treatment=EtOH_0.02pct	wgEncodeEH002322	2012-01-18 12:54:40
+2323	human	HudsonAlpha	ChipSeq	A549	antibody=CREB1_(SC-240) protocol=v041610.2 treatment=DEX_100nM	wgEncodeEH002323	2012-01-18 12:54:39
+2324	human	HudsonAlpha	ChipSeq	A549	antibody=CREB1_(SC-240) protocol=v041610.2 treatment=EtOH_0.02pct	wgEncodeEH002324	2012-01-18 12:54:40
+2325	human	HudsonAlpha	ChipSeq	A549	antibody=FOXA1_(SC-101058) protocol=v041610.2 treatment=EtOH_0.02pct	wgEncodeEH002325	2012-01-18 12:54:40
+2326	human	HudsonAlpha	ChipSeq	A549	antibody=FOXA2_(SC-6554) protocol=v041610.2 treatment=EtOH_0.02pct	wgEncodeEH002326	2012-01-18 12:54:40
+2327	human	HudsonAlpha	ChipSeq	A549	antibody=JunD protocol=v041610.2 treatment=EtOH_0.02pct	wgEncodeEH002327	2012-01-18 12:54:40
+2334	human	Caltech	ChipSeq	LHCN-M2	antibody=Input protocol=PCR1x treatment=DIFF_7d	\N	2012-10-05 13:16:50
+2336	human	Caltech	ChipSeq	LHCN-M2	antibody=MyoD_(sc-32758) protocol=PCR1x treatment=DIFF_7d	\N	2012-10-05 13:16:40
+2337	human	Caltech	ChipSeq	LHCN-M2	antibody=NRSF protocol=PCR1x treatment=DIFF_7d	\N	2012-10-05 13:16:35
+2338	human	Caltech	ChipSeq	LHCN-M2	antibody=Myogenin_(sc-12732) protocol=PCR1x treatment=DIFF_7d	\N	2012-10-05 13:16:31
+2339	human	Caltech	ChipSeq	LHCN-M2	antibody=Pol2-4H8 protocol=PCR1x treatment=DIFF_7d	\N	2012-10-05 13:16:23
+2341	human	HudsonAlpha	ChipSeq	A549	antibody=SIX5 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002341	2012-01-18 12:54:40
+2342	human	HudsonAlpha	ChipSeq	A549	antibody=Sin3Ak-20 protocol=v042211.1 treatment=EtOH_0.02pct	wgEncodeEH002342	2012-01-18 12:54:40
+2348	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=TAL1_(SC-12984) treatment=diffProtD_24hr	wgEncodeEM002348	2012-08-06 09:35:42
+2355	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=Pol2-4H8 treatment=diffProtD_24hr	wgEncodeEM002355	2012-08-06 09:32:22
+2357	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=GATA2_(SC-9008) treatment=diffProtD_24hr	wgEncodeEM002357	2012-08-06 09:29:02
+2530	human	UW	ChipSeq	H7-hESC	antibody=H3K4me3 treatment=diffProtA_14d	wgEncodeEH002530	2012-02-15 15:33:08
+2531	human	UW	ChipSeq	H7-hESC	antibody=H3K4me3 treatment=diffProtA_5d	wgEncodeEH002531	2012-02-15 15:33:08
+2532	human	UW	ChipSeq	H7-hESC	antibody=Input treatment=diffProtA_14d	wgEncodeEH002532	2012-02-15 15:33:08
+2533	human	UW	ChipSeq	H7-hESC	antibody=H3K27me3 treatment=diffProtA_14d	wgEncodeEH002533	2012-02-15 15:33:08
+2534	human	UW	ChipSeq	H7-hESC	antibody=H3K27me3 treatment=diffProtA_2d	wgEncodeEH002534	2012-02-15 15:33:08
+2535	human	UW	ChipSeq	H7-hESC	antibody=H3K27me3 treatment=diffProtA_5d	wgEncodeEH002535	2012-02-15 15:33:08
+2536	human	UW	ChipSeq	H7-hESC	antibody=H3K27me3 treatment=diffProtA_9d	wgEncodeEH002536	2012-02-15 15:33:08
+2537	human	UW	ChipSeq	H7-hESC	antibody=H3K36me3 treatment=diffProtA_14d	wgEncodeEH002537	2012-02-15 15:33:08
+2538	human	UW	ChipSeq	H7-hESC	antibody=H3K36me3 treatment=diffProtA_2d	wgEncodeEH002538	2012-02-15 15:33:08
+2539	human	UW	ChipSeq	H7-hESC	antibody=H3K36me3 treatment=diffProtA_5d	wgEncodeEH002539	2012-02-15 15:33:08
+2540	human	UW	ChipSeq	H7-hESC	antibody=H3K36me3 treatment=diffProtA_9d	wgEncodeEH002540	2012-02-15 15:33:08
+2541	human	UW	ChipSeq	H7-hESC	antibody=H3K4me3 treatment=diffProtA_2d	wgEncodeEH002541	2012-02-15 15:33:08
+2542	human	UW	ChipSeq	H7-hESC	antibody=H3K4me3 treatment=diffProtA_9d	wgEncodeEH002542	2012-02-15 15:33:08
+2543	human	UW	ChipSeq	H7-hESC	antibody=Input treatment=diffProtA_2d	wgEncodeEH002543	2012-02-15 15:33:08
+2544	human	UW	ChipSeq	H7-hESC	antibody=Input treatment=diffProtA_5d	wgEncodeEH002544	2012-02-15 15:33:08
+2545	human	UW	ChipSeq	H7-hESC	antibody=Input treatment=diffProtA_9d	wgEncodeEH002545	2012-02-15 15:33:08
+2551	human	Duke	DnaseSeq	Ishikawa	treatment=Estradiol_10nM_30m	wgEncodeEH002551	2012-02-22 13:53:09
+2552	human	Duke	DnaseSeq	Ishikawa	treatment=4OHTAM_100nM_30m	wgEncodeEH002552	2012-02-22 13:53:09
+2555	human	Duke	DnaseSeq	ECC-1	treatment=DMSO_0.02pct	wgEncodeEH002555	2012-02-22 13:53:09
+2559	human	Duke	DnaseSeq	K562	treatment=NaBut	wgEncodeEH002559	2012-02-22 13:53:09
+2564	human	Duke	DnaseSeq	ECC-1	treatment=Estradiol_10nM_30m	wgEncodeEH002564	2012-02-22 13:53:09
+2566	human	Duke	DnaseSeq	T-47D	treatment=Estradiol_10nM_30m	wgEncodeEH002566	2012-02-22 13:53:09
+2576	human	UW	DnaseSeq	H7-hESC	treatment=diffProtA_14d	wgEncodeEH002576	2012-02-27 16:30:43
+2577	human	UW	DnaseSeq	H7-hESC	treatment=diffProtA_2d	wgEncodeEH002577	2012-02-27 16:30:43
+2578	human	UW	DnaseSeq	H7-hESC	treatment=diffProtA_5d	wgEncodeEH002578	2012-02-27 16:30:43
+2695	human	Duke	AffyExonArray	K562	treatment=NaBut	wgEncodeEH002695	2012-04-04 10:37:06
+2696	human	Duke	AffyExonArray	MCF-7	treatment=CTCF_shRNA_knockdown	wgEncodeEH002696	2012-04-04 10:37:06
+2697	human	Duke	AffyExonArray	MCF-7	treatment=Hypoxia_LacAcid	wgEncodeEH002697	2012-04-04 10:37:06
+2698	human	Duke	AffyExonArray	MCF-7	treatment=Randomized_shRNA_control	wgEncodeEH002698	2012-04-04 10:37:06
+2727	human	UW	ChipSeq	K562	antibody=H3K4me3 treatment=ZNF_knockout_2C10_C5	wgEncodeEH002727	2012-04-06 16:09:00
+2728	human	UW	ChipSeq	K562	antibody=H3K4me3 treatment=ZNF_knockout_4C50_C4	wgEncodeEH002728	2012-04-06 16:09:00
+2729	human	UW	ChipSeq	K562	antibody=H3K4me3 treatment=ZNF_knockout_A4.1-C6	wgEncodeEH002729	2012-04-06 16:09:00
+2730	human	UW	ChipSeq	K562	antibody=H3K4me3 treatment=ZNF_knockout_F4.1-B2	wgEncodeEH002730	2012-04-06 16:09:00
+2731	human	UW	ChipSeq	K562	antibody=H3K4me3 treatment=ZNF_knockout_P5	wgEncodeEH002731	2012-04-06 16:09:00
+2733	mouse	Caltech-m	RnaSeq	C2C12	readType=2x75 treatment=EqS_2.0pct_60hr	wgEncodeEM002733	2012-04-06 11:14:24
+2734	mouse	Caltech-m	RnaSeq	10T1/2	readType=2x75 treatment=EqS_2.0pct_60hr	wgEncodeEM002734	2012-04-06 11:14:24
+2776	mouse	Stanford-m	ChipSeq	MEL	antibody=CTCF_(SC-15914) control=IgG-Yale treatment=DMSO_2.0pct	wgEncodeEM002776	2012-04-30 17:17:41
+2777	mouse	Stanford-m	ChipSeq	MEL	antibody=Input control=IgG-Yale treatment=DMSO_2.0pct	wgEncodeEM002777	2012-04-30 17:17:41
+2779	mouse	Stanford-m	ChipSeq	MEL	antibody=Pol2 control=IgG-rab treatment=DMSO_2.0pct	wgEncodeEM002779	2012-05-02 15:49:25
+2781	mouse	Stanford-m	ChipSeq	MEL	antibody=CTCF_(SC-15914) control=std treatment=DMSO_2.0pct	wgEncodeEM002781	2012-05-02 15:49:25
+2782	mouse	Stanford-m	ChipSeq	MEL	antibody=Input control=IgG-rat treatment=DMSO_2.0pct	wgEncodeEM002782	2012-05-02 15:49:25
+2790	mouse	Stanford-m	ChipSeq	MEL	antibody=GATA-1 control=std treatment=DMSO_2.0pct	wgEncodeEM002790	2012-05-02 15:49:25
+2791	mouse	Stanford-m	ChipSeq	MEL	antibody=Input control=std treatment=DMSO_2.0pct	wgEncodeEM002791	2012-05-02 15:49:25
+2792	mouse	Stanford-m	ChipSeq	MEL	antibody=MafK_(ab50322) control=std treatment=DMSO_2.0pct	wgEncodeEM002792	2012-05-02 15:49:25
+2798	human	Stanford	ChipSeq	K562	antibody=IRF1 control=std treatment=IFNa6h	wgEncodeEH002798	2012-05-01 16:03:34
+2799	human	Stanford	ChipSeq	K562	antibody=IRF1 control=std treatment=IFNg30	wgEncodeEH002799	2012-05-01 16:03:34
+2805	human	Stanford	ChipSeq	K562	antibody=c-Jun control=std treatment=IFNa30	wgEncodeEH002805	2012-05-01 16:03:34
+2815	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=c-Fos control=Harvard_Control treatment=EtOH_0.01pct	wgEncodeEH002815	2012-05-01 16:03:31
+2816	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=c-Myc control=Harvard_Control treatment=EtOH_0.01pct	wgEncodeEH002816	2012-05-01 16:03:31
+2835	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=E2F4 control=Harvard_Control treatment=4OHTAM_1uM_36hr	wgEncodeEH002835	2012-05-01 16:03:30
+2836	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=STAT3 control=Harvard_Control treatment=4OHTAM_1uM_12hr	wgEncodeEH002836	2012-05-01 16:03:30
+2837	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=c-Fos control=Harvard_Control treatment=4OHTAM_1uM_12hr	wgEncodeEH002837	2012-05-01 16:03:30
+2838	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=c-Fos control=Harvard_Control treatment=4OHTAM_1uM_4hr	wgEncodeEH002838	2012-05-01 16:03:31
+2839	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=c-Fos control=Harvard_Control treatment=4OHTAM_1uM_36hr	wgEncodeEH002839	2012-05-01 16:03:31
+2840	human	Harvard	ChipSeq	MCF10A-Er-Src	antibody=c-Myc control=Harvard_Control treatment=4OHTAM_1uM_4hr	wgEncodeEH002840	2012-05-01 16:03:31
+2921	mouse	UW-m	DnaseDgf	ZhBTc4	age=E0 treatment=diffProtB_24hr	wgEncodeEM002921	2012-06-06 15:22:25
+2963	mouse	FSU-m	RepliChip	ES-46C	treatment=diffProtF_6d	wgEncodeEM002963	2012-07-02 10:00:49
+2965	mouse	FSU-m	RepliChip	ES-D3	treatment=diffProtE_3d	wgEncodeEM002965	2012-07-02 10:00:49
+2966	mouse	FSU-m	RepliChip	ES-D3	treatment=diffProtE_6d	wgEncodeEM002966	2012-07-02 10:00:49
+2967	mouse	FSU-m	RepliChip	ES-D3	treatment=diffProtE_9d	wgEncodeEM002967	2012-07-02 10:00:49
+2969	mouse	FSU-m	RepliChip	ES-TT2	treatment=diffProtF_9d	wgEncodeEM002969	2012-07-02 10:00:49
+2976	mouse	FSU-m	RepliChip	ES-D3	treatment=diffProtG_3d	wgEncodeEM002976	2012-07-02 10:00:49
+2977	mouse	FSU-m	RepliChip	ES-EM5Sox17huCD25	treatment=diffProtH_Sox17-	wgEncodeEM002977	2012-07-02 10:00:49
+2978	mouse	FSU-m	RepliChip	ES-EM5Sox17huCD25	treatment=diffProtH_Sox17+	wgEncodeEM002978	2012-07-02 10:00:49
+2980	human	UW	AffyExonArray	K562	treatment=ZNF_knockout_4C50_C4	wgEncodeEH002980	2012-07-10 13:58:21
+2981	human	UW	AffyExonArray	K562	treatment=ZNF_knockout_A4.1-C6	wgEncodeEH002981	2012-07-10 13:58:21
+2982	human	UW	AffyExonArray	K562	treatment=ZNF_knockout_F4.1-B2	wgEncodeEH002982	2012-07-10 13:58:21
+2983	human	UW	AffyExonArray	K562	treatment=ZNF_knockout_P5	wgEncodeEH002983	2012-07-10 13:58:21
+3006	human	UW	DnaseSeq	LHCN-M2	treatment=DIFF_4d	wgEncodeEH003006	2012-07-17 11:16:31
+3008	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_2C10_C5	wgEncodeEH003008	2012-07-17 11:16:31
+3009	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_4C50_C4	wgEncodeEH003009	2012-07-17 11:16:31
+3010	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_4G7_D3	wgEncodeEH003010	2012-07-17 11:16:31
+3011	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_A4.1-C6	wgEncodeEH003011	2012-07-17 11:16:31
+3012	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_B3.4-A8	wgEncodeEH003012	2012-07-17 11:16:31
+3013	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_E10.3-C6	wgEncodeEH003013	2012-07-17 11:16:31
+3014	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_F4.1-B2	wgEncodeEH003014	2012-07-17 11:16:31
+3015	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_G5.4-A11	wgEncodeEH003015	2012-07-17 11:16:31
+3016	human	UW	DnaseSeq	K562	treatment=ZNF_knockout_P5	wgEncodeEH003016	2012-07-17 11:16:31
+3017	human	UW	DnaseSeq	MCF-7	treatment=Estradiol_100nM_1hr	wgEncodeEH003017	2012-07-17 11:16:31
+3018	human	UW	DnaseSeq	MCF-7	treatment=Estradiol_ctrl_0hr	wgEncodeEH003018	2012-07-17 11:16:31
+3019	human	UW	DnaseSeq	H7-hESC	treatment=diffProtA_9d	wgEncodeEH003019	2012-07-17 11:16:30
+3032	human	HudsonAlpha	MethylRrbs	MCF-7	treatment=CTCF_shRNA_knockdown	wgEncodeEH003032	2012-07-18 09:24:17
+3033	human	HudsonAlpha	MethylRrbs	MCF-7	treatment=Randomized_shRNA_control	wgEncodeEH003033	2012-07-18 09:24:17
+3047	mouse	PSU-m	DnaseSeq	G1E-ER4	treatment=diffProtD_24hr	wgEncodeEM003047	2012-07-30 14:40:46
+3048	human	UW	AffyExonArray	H7-hESC	treatment=diffProtA_14d	wgEncodeEH003048	2012-07-30 14:57:57
+3049	human	UW	AffyExonArray	H7-hESC	treatment=diffProtA_2d	wgEncodeEH003049	2012-07-30 14:57:58
+3050	human	UW	AffyExonArray	H7-hESC	treatment=diffProtA_5d	wgEncodeEH003050	2012-07-30 14:57:58
+3051	human	UW	AffyExonArray	H7-hESC	treatment=diffProtA_9d	wgEncodeEH003051	2012-07-30 14:57:58
+3065	human	Broad	ChipSeq	A549	antibody=H3K4me3 treatment=EtOH_0.02pct	wgEncodeEH003065	2012-07-31 01:56:45
+3075	human	Broad	ChipSeq	A549	antibody=Control treatment=DEX_100nM	wgEncodeEH003075	2012-07-31 01:56:44
+3076	human	Broad	ChipSeq	A549	antibody=Control treatment=EtOH_0.02pct	wgEncodeEH003076	2012-07-31 01:56:44
+3077	human	Broad	ChipSeq	A549	antibody=H3K4me3 treatment=DEX_100nM	wgEncodeEH003077	2012-07-31 01:56:44
+3078	human	Broad	ChipSeq	A549	antibody=H3K79me2 treatment=DEX_100nM	wgEncodeEH003078	2012-07-31 01:56:45
+3079	human	Broad	ChipSeq	A549	antibody=H3K9ac treatment=EtOH_0.02pct	wgEncodeEH003079	2012-07-31 01:56:45
+3098	human	Broad	ChipSeq	A549	antibody=H3K4me2 treatment=DEX_100nM	wgEncodeEH003098	2012-07-31 01:56:44
+3099	human	Broad	ChipSeq	A549	antibody=H3K79me2 treatment=EtOH_0.02pct	wgEncodeEH003099	2012-07-31 01:56:45
+3114	human	Broad	ChipSeq	A549	antibody=CTCF treatment=DEX_100nM	wgEncodeEH003114	2012-07-31 01:56:44
+3115	human	Broad	ChipSeq	A549	antibody=CTCF treatment=EtOH_0.02pct	wgEncodeEH003115	2012-07-31 01:56:44
+3116	human	Broad	ChipSeq	A549	antibody=H2A.Z treatment=DEX_100nM	wgEncodeEH003116	2012-07-31 01:56:44
+3117	human	Broad	ChipSeq	A549	antibody=H2A.Z treatment=EtOH_0.02pct	wgEncodeEH003117	2012-07-31 01:56:44
+3118	human	Broad	ChipSeq	A549	antibody=H3K27ac treatment=EtOH_0.02pct	wgEncodeEH003118	2012-07-31 01:56:44
+3119	human	Broad	ChipSeq	A549	antibody=H3K27me3 treatment=DEX_100nM	wgEncodeEH003119	2012-07-31 01:56:44
+3120	human	Broad	ChipSeq	A549	antibody=H3K27me3 treatment=EtOH_0.02pct	wgEncodeEH003120	2012-07-31 01:56:44
+3121	human	Broad	ChipSeq	A549	antibody=H3K36me3 treatment=EtOH_0.02pct	wgEncodeEH003121	2012-07-31 01:56:44
+3122	human	Broad	ChipSeq	A549	antibody=H3K4me1 treatment=EtOH_0.02pct	wgEncodeEH003122	2012-07-31 01:56:44
+3123	human	Broad	ChipSeq	A549	antibody=H3K9me3 treatment=EtOH_0.02pct	wgEncodeEH003123	2012-07-31 01:56:45
+3124	human	Broad	ChipSeq	A549	antibody=H4K20me1 treatment=EtOH_0.02pct	wgEncodeEH003124	2012-07-31 01:56:45
+3141	human	Broad	ChipSeq	A549	antibody=H3K27ac treatment=DEX_100nM	wgEncodeEH003141	2012-07-31 01:56:44
+3142	human	Broad	ChipSeq	A549	antibody=H3K36me3 treatment=DEX_100nM	wgEncodeEH003142	2012-07-31 01:56:44
+3143	human	Broad	ChipSeq	A549	antibody=H3K4me1 treatment=DEX_100nM	wgEncodeEH003143	2012-07-31 01:56:44
+3144	human	Broad	ChipSeq	A549	antibody=H3K4me2 treatment=EtOH_0.02pct	wgEncodeEH003144	2012-07-31 01:56:44
+3152	human	UW	DnaseDgf	K562	treatment=ZNF_knockout_A4.1-C6	wgEncodeEH003152	2012-07-31 15:19:39
+3153	human	UW	DnaseDgf	K562	treatment=ZNF_knockout_P5	wgEncodeEH003153	2012-07-31 15:19:40
+3154	human	UW	DnaseDgf	LHCN-M2	treatment=DIFF_4d	wgEncodeEH003154	2012-07-31 15:19:40
+3179	mouse	PSU-m	RnaSeq	G1E-ER4	labExpId=single treatment=diffProtD_24hr	wgEncodeEM003179	2012-08-06 08:28:00
+3185	mouse	PSU-m	RnaSeq	G1E-ER4	labExpId=paired-end treatment=diffProtD_14hr	wgEncodeEM003185	2012-08-06 08:28:00
+3186	mouse	PSU-m	RnaSeq	G1E-ER4	labExpId=paired-end treatment=diffProtD_7hr	wgEncodeEM003186	2012-08-06 08:28:00
+3188	mouse	PSU-m	RnaSeq	G1E-ER4	labExpId=paired-end treatment=diffProtD_3hr	wgEncodeEM003188	2012-08-06 08:28:00
+3189	mouse	PSU-m	RnaSeq	G1E-ER4	labExpId=paired-end treatment=diffProtD_24hr	wgEncodeEM003189	2012-08-06 08:28:00
+3191	mouse	PSU-m	RnaSeq	MEL	labExpId=single treatment=DMSO_2.0pct	wgEncodeEM003191	2012-08-06 08:28:00
+3192	mouse	PSU-m	RnaSeq	G1E-ER4	labExpId=paired-end treatment=diffProtD_30hr	wgEncodeEM003192	2012-08-06 08:28:00
+3197	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=GATA1_(SC-265) labExpId=Timecourse treatment=diffProtD_14hr	wgEncodeEM003197	2012-08-06 09:51:38
+3198	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=GATA1_(SC-265) labExpId=Timecourse treatment=diffProtD_24hr	wgEncodeEM003198	2012-08-06 09:51:38
+3199	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=GATA1_(SC-265) labExpId=Timecourse treatment=diffProtD_30hr	wgEncodeEM003199	2012-08-06 09:51:38
+3200	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=GATA1_(SC-265) labExpId=Timecourse treatment=diffProtD_3hr	wgEncodeEM003200	2012-08-06 09:51:38
+3201	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=GATA1_(SC-265) labExpId=Timecourse treatment=diffProtD_7hr	wgEncodeEM003201	2012-08-06 09:51:38
+3203	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=Input labExpId=Timecourse treatment=diffProtD_14hr	wgEncodeEM003203	2012-08-06 09:51:38
+3204	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=Input labExpId=Timecourse treatment=diffProtD_24hr	wgEncodeEM003204	2012-08-06 09:51:38
+3205	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=Input labExpId=Timecourse treatment=diffProtD_30hr	wgEncodeEM003205	2012-08-06 09:51:38
+3206	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=Input labExpId=Timecourse treatment=diffProtD_3hr	wgEncodeEM003206	2012-08-06 09:51:38
+3207	mouse	PSU-m	ChipSeq	G1E-ER4	antibody=Input labExpId=Timecourse treatment=diffProtD_7hr	wgEncodeEM003207	2012-08-06 09:51:38
+3326	mouse	Stanford-m	ChipSeq	MEL	antibody=H3K4me3 control=std treatment=DMSO_2.0pct	wgEncodeEM003326	2012-08-24 16:23:53
+3329	mouse	Stanford-m	ChipSeq	MEL	antibody=H3K4me1 control=std treatment=DMSO_2.0pct	wgEncodeEM003329	2012-08-24 16:23:53
+3331	mouse	Stanford-m	ChipSeq	MEL	antibody=H3K27me3B control=std treatment=DMSO_2.0pct	wgEncodeEM003331	2012-08-24 16:23:53
+3332	mouse	Stanford-m	ChipSeq	MEL	antibody=H3K36me3B control=std treatment=DMSO_2.0pct	wgEncodeEM003332	2012-08-24 16:23:54
+3333	mouse	Stanford-m	ChipSeq	MEL	antibody=H3K9me3 control=std treatment=DMSO_2.0pct	wgEncodeEM003333	2012-08-24 16:23:54
+3406	mouse	UW-m	DnaseSeq	ZhBTc4	age=E0 strain=129/Ola treatment=diffProtB_24hr	wgEncodeEM003406	2012-08-20 10:33:12
+3407	mouse	UW-m	DnaseSeq	ZhBTc4	age=E0 strain=129/Ola treatment=diffProtB_6hr	wgEncodeEM003407	2012-08-20 10:33:12
+3408	mouse	UW-m	DnaseSeq	mG/ER	age=adult-8wks strain=C57BL/6 treatment=diffProtC_24hr	wgEncodeEM003408	2012-08-20 10:33:12
+3409	mouse	UW-m	DnaseSeq	mG/ER	age=adult-8wks strain=C57BL/6 treatment=diffProtC_48hr	wgEncodeEM003409	2012-08-20 10:33:12
+3434	human	UT-A	ChipSeq	MCF-7	antibody=CTCF treatment=serum_stimulated_media	wgEncodeEH003434	2012-08-21 12:35:25
+3435	human	UT-A	ChipSeq	MCF-7	antibody=Pol2 treatment=serum_stimulated_media	wgEncodeEH003435	2012-08-21 12:35:25
+3436	human	UT-A	ChipSeq	MCF-7	antibody=c-Myc treatment=serum_stimulated_media	wgEncodeEH003436	2012-08-21 12:35:25
+3437	human	UT-A	ChipSeq	MCF-7	antibody=CTCF treatment=serum_starved_media	wgEncodeEH003437	2012-08-21 12:35:25
+3438	human	UT-A	ChipSeq	MCF-7	antibody=Pol2 treatment=serum_starved_media	wgEncodeEH003438	2012-08-21 12:35:25
+3439	human	UT-A	ChipSeq	MCF-7	antibody=c-Myc treatment=serum_starved_media	wgEncodeEH003439	2012-08-21 12:35:25
+3460	human	UT-A	ChipSeq	LNCaP	antibody=CTCF treatment=androgen	wgEncodeEH003460	2012-08-21 12:35:25
+3467	human	Duke	DnaseSeq	MCF-7	treatment=CTCF_shRNA_knockdown	wgEncodeEH003467	2012-08-22 11:13:45
+3468	human	Duke	DnaseSeq	MCF-7	treatment=Randomized_shRNA_control	wgEncodeEH003468	2012-08-22 11:13:45
+3469	human	Duke	DnaseSeq	K562	treatment=G1_phase	wgEncodeEH003469	2012-08-22 11:13:45
+3470	human	Duke	DnaseSeq	MCF-7	treatment=Hypoxia_LacAcid_ctrl	wgEncodeEH003470	2012-08-22 11:13:45
+3472	human	Duke	DnaseSeq	K562	treatment=G2-M_phase	wgEncodeEH003472	2012-08-22 11:13:45
+3473	human	Duke	DnaseSeq	Fibrobl_GM03348	treatment=lenti-MyoD	wgEncodeEH003473	2012-08-22 11:13:45
+3477	human	Duke	DnaseSeq	Fibrobl_GM03348	treatment=lenti-control	wgEncodeEH003477	2012-08-22 11:13:45
+3489	human	Duke	DnaseSeq	K562	treatment=SAHA_ctrl	wgEncodeEH003489	2012-08-22 11:13:45
+3490	human	Duke	DnaseSeq	K562	treatment=SAHA_1uM_72hr	wgEncodeEH003490	2012-08-22 11:13:45
+3496	human	UNC	FaireSeq	MCF-7	treatment=vehicle	wgEncodeEH003496	2012-09-12 10:10:46
+3499	human	UNC	FaireSeq	MCF-7	treatment=Estradiol_10nM_30m	wgEncodeEH003499	2012-09-12 10:10:46
