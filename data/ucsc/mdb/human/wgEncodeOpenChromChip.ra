@@ -3,7 +3,7 @@ objType composite
 composite wgEncodeOpenChromChip
 expVars lab,dataType,cell,treatment,antibody
 geoSeriesAccession GSE33213
-treatment None
+supplementalFiles README.txt,wgEncodeOpenChromDukeUniqueness20Hg19.wig.gz,wgEncodeOpenChromDukeUniqueness35Hg19.wig.gz,wgEncodeOpenChromEnhancerValidationAssay.pdf,wgEncodeOpenChromInsulatorValidationAssays.pdf
 
 metaObject wgEncodeOpenChromChipA549CtcfAlnRep1
 objType file

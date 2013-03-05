@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeCshlLongRnaSeq
 expVars lab,dataType,cell,age
 geoSeriesAccession GSE36025
+supplementalFiles Contigs_Info.txt,ExonsDeNovo_Info.txt,ExonsEnsV65IAcuff_Info.txt,GeneDeNovo_Info.txt,GeneEnsV65IAcuff_Info.txt,Junctions_Info.txt,TranscriptDeNovo_Info.txt,TranscriptEnsV65IAcuff_Info.txt,wgEncodeCshlLongSpikeins.fasta,wgEncodeCshlLongSpikeinsConcentrations.tsv
 
 metaObject wgEncodeCshlLongRnaSeqAdrenalAdult8wksAlnRep1
 objType table

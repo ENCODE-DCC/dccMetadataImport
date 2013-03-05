@@ -3,7 +3,7 @@ objType composite
 composite wgEncodeOpenChromSynth
 expVars lab,dataType,cell,treatment,composite
 geoSeriesAccession GSE40833
-treatment None
+supplementalFiles README.txt,wgEncodeOpenChromDukeUniqueness20Hg19.wig.gz,wgEncodeOpenChromDukeUniqueness35Hg19.wig.gz,wgEncodeOpenChromEnhancerValidationAssay.pdf,wgEncodeOpenChromInsulatorValidationAssays.pdf
 
 metaObject wgEncodeOpenChromSynthGlioblaPk
 objType table

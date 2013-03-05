@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeRikenCage
 expVars lab,dataType,cell,localization,rnaExtract
 geoSeriesAccession GSE34448
+supplementalFiles Clusters_Info.txt,TssGeneV7_Info.txt,TssHmm_Info.pdf,rnaExtracts.txt
 
 metaObject wgEncodeRikenCageA549CellPapAlnRep1
 objType table

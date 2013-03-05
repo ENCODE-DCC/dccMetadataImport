@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeOpenChromDnase
 expVars lab,dataType,cell,treatment
 geoSeriesAccession GSE32970
+supplementalFiles README.txt,wgEncodeOpenChromDukeUniqueness20Hg19.wig.gz,wgEncodeOpenChromDukeUniqueness35Hg19.wig.gz,wgEncodeOpenChromEnhancerValidationAssay.pdf,wgEncodeOpenChromInsulatorValidationAssays.pdf
 
 metaObject wgEncodeOpenChromDnase8988tAlnRep1
 objType file

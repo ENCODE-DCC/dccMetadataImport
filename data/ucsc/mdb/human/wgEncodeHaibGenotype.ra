@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeHaibGenotype
 expVars lab,dataType,cell,treatment
 geoSeriesAccession GSE40698
+supplementalFiles B_allele_freq_SNP_DCC_20March2012.txt,GType_DCC_march2012.txt,wgEncodeHaibGenotypeBalleleSnp.txt,wgEncodeHaibGenotypeGtypeSnp.txt
 
 metaObject wgEncodeHaibGenotypeA549RegionsRep1
 objType table

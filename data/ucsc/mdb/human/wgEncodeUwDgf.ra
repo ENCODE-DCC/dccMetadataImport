@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeUwDgf
 expVars lab,dataType,cell,treatment
 geoSeriesAccession GSE26328
+supplementalFiles D4.2.jpg, FP005R.jpg, FP006R.jpg, FP007R.jpg, FP008F.jpg, FP009F.jpg, FP009R.jpg, FP010F.jpg, FP010R.jpg, FP012F.jpg, FP013R.jpg, FP014F.jpg, FP015F.jpg, FP016F.jpg, FP016R.jpg, FP017F.jpg, FP017R.jpg, FP018F.jpg, FP018R.jpg, FP019F.jpg, FP019R.jpg, FP020F.jpg, FP020R.jpg, FP021F.jpg, FP022R.jpg, FP023F.jpg, FP023R.jpg, FP024F.jpg, FP025F.jpg, FP025R.jpg, FP026F.jpg, FP026R.jpg, FP027F.jpg, FP027R.jpg, FP028F.jpg, FP028R.jpg, FP029F.jpg, FP029R.jpg, FP031F.jpg, FP031R.jpg, FP032F.jpg, FP032R.jpg, FP035F.jpg, FP035R.jpg, FP038F.jpg, FP038R.jpg, FP039F.jpg, FP039R.jpg, FP041F.jpg, FP041R.jpg, FP042F.jpg, FP042R.jpg, FP043F.jpg, FP043R.jpg, FP044F.jpg, FP045F.jpg, FP045R.jpg, FP047F.jpg, FP047R.jpg, FP048F.jpg, FP048R.jpg, FP050R.jpg, FP052F.jpg, FP052R.jpg, FP053F.jpg, FP054F.jpg, FP054R.jpg, FP056F.jpg, FP056R.jpg, FP057R.jpg, FP058F.jpg, FP058R.jpg, FP059F.jpg, FP060F.jpg, FP060R.jpg, FP061F.jpg, FP062F.jpg, FP062R.jpg, FP063R.jpg, FP064F.jpg, FP064R.jpg, FP067F.jpg, FP067R.jpg, FP068F.jpg, FP069F.jpg, FP070F.jpg, FP070R.jpg, FP071F.jpg, FP071R.jpg, FP072R.jpg, FP073F.jpg, FP073R.jpg, FP074F.jpg, FP074R.jpg, FP075F.jpg, FP075R.jpg, FP076F.jpg, FP077F.jpg, FP077R.jpg, HS2.jpg, UW_DGF_MultiCellProbeSet_LM-PCR_hg19.csv
 
 metaObject wgEncodeUwDgfA549Aln
 objType file

@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeUw5C
 expVars lab,dataType,cell,region
 geoSeriesAccession GSE39505
+supplementalFiles README.txt,wgEncodeUw5cGeneTargetedPrimers.txt.tgz,wgEncodeUw5cMycPrimers.txt.tgz
 
 metaObject wgEncodeUw5CBjUw5cgeneMatrixRep1
 objType file

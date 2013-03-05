@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeUmassDekker5C
 expVars lab,dataType,cell
 geoSeriesAccession GSE39510
+supplementalFiles README.txt,wgEncodeUmassDekker5CEnmPrimer.doc.tgz,wgEncodeUmassDekker5CEnrPrimer.doc.tgz
 
 metaObject wgEncodeUmassDekker5CEnmPrimer
 objType file

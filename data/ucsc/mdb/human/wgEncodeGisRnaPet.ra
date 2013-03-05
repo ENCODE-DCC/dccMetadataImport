@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeGisRnaPet
 expVars lab,dataType,cell,localization,rnaExtract
 geoSeriesAccession GSE33600
+supplementalFiles README_Clusters.txt
 
 metaObject wgEncodeGisRnaPetA549CellPapAlnRep3
 objType table

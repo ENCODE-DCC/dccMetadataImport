@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeCshlShortRnaSeq
 expVars lab,dataType,cell,localization,protocol,rnaExtract
 geoSeriesAccession GSE24565
+supplementalFiles README_Contigs.txt,README_ExonsGencV10.txt,README_ExonsGencV7.txt
 
 metaObject wgEncodeCshlShortRnaSeqA549CellCiptapContigs
 objType table

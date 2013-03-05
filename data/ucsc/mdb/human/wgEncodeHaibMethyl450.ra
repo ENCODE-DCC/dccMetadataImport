@@ -3,6 +3,7 @@ objType composite
 composite wgEncodeHaibMethyl450
 expVars lab,dataType,cell,labVersion,treatment
 geoSeriesAccession GSE40699
+supplementalFiles wgEncodeHaibMethyl450CpgIslandDetails.txt,wgEncodeHaibMethyl450IlluminaProtocol.pdf
 
 metaObject wgEncodeHaibMethyl450A549Etoh02SitesRep1
 objType table
