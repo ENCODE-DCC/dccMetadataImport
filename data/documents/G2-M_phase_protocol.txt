@@ -1,0 +1,1 @@
+Cells were synchronized and subjected to FACS sorting based on DNA content with the peak of double DNA content taken as G2 and M cells. The intermediate DNA content cells between G2-M and G1 phases were excluded. 

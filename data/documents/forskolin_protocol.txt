@@ -1,0 +1,1 @@
+low-glucose DMEM with 0.5% BSA supplemented with 1uM forskolin and 1mM pyruvate for 6h. 
